@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/idee/bitcoin/mining/","title":"⛏️ Mining: il cuore che tiene in vita Bitcoin","tags":["Bitcoin","Mining","ProofOfWork","Sicurezza","Energia","Decentralizzazione","gardenEntry"]}
+{"dg-home":true,"dg-publish":true,"title":"⛏️ Mining: il cuore che tiene in vita Bitcoin","tags":["Bitcoin","Mining","ProofOfWork","Sicurezza","Energia","Decentralizzazione","gardenEntry"],"date":"2025-07-09","permalink":"/idee/bitcoin/mining/","dgPassFrontmatter":true}
 ---
 
 

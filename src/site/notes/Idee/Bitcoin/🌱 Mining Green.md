@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/idee/bitcoin/mining-green/","title":"🌱 Mining Green: Bitcoin come alleato dell’energia rinnovabile","tags":["Bitcoin","Mining","Energia","Ambiente","Sostenibilità","ProofOfWork"]}
+{"dg-home":false,"dg-publish":true,"title":"🌱 Mining Green: Bitcoin come alleato dell’energia rinnovabile","tags":["Bitcoin","Mining","Energia","Ambiente","Sostenibilità","ProofOfWork"],"date":"2025-07-09","permalink":"/idee/bitcoin/mining-green/","dgPassFrontmatter":true}
 ---
 
 
