@@ -45,9 +45,9 @@ Ti consente di firmare in modo sicuro e flessibile, anche con più persone o dis
 
 💡 **Strumenti che usano PSBT**
 
-- [[Bitcoin/Coldcard\|Coldcard]]  
+- [[Bitcoin/❄️ Coldcard\|❄️ Coldcard]]  
 - [[Bitcoin/SeedSigner\|SeedSigner]]  
-- [[Bitcoin/🐦 Sparrow Wallet\|🐦 Sparrow Wallet]]
+- [[Bitcoin/Wallet/🐦 Sparrow Wallet\|🐦 Sparrow Wallet]]
 - Electrum  
 - BlueWallet (avanzato)
 
@@ -61,4 +61,4 @@ Se vuoi fare self-custody **seriamente**, imparare a usare PSBT è fondamentale.
 
 ---
 
-🔗 _Approfondisci con [[Bitcoin/Self-custody\|Self-custody]], [[Bitcoin/Multisig\|Multisig]], [[Bitcoin/Cold Storage\|Cold Storage]], [[Bitcoin/🐦 Sparrow Wallet\|🐦 Sparrow Wallet]], [[Bitcoin/Coldcard\|Coldcard]]_
+🔗 _Approfondisci con [[Bitcoin/Self-custody\|Self-custody]], [[Bitcoin/Multisig\|Multisig]], [[Bitcoin/Cold Storage\|Cold Storage]], [[Bitcoin/Wallet/🐦 Sparrow Wallet\|🐦 Sparrow Wallet]], [[Bitcoin/❄️ Coldcard\|❄️ Coldcard]]_

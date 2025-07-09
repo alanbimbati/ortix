@@ -48,8 +48,8 @@ Non solo **controlli tu il denaro**, ma puoi distribuire la responsabilità e la
 
 🧰 **Strumenti per multisig**
 
-- [[Bitcoin/🐦 Sparrow Wallet\|🐦 Sparrow Wallet]] per gestire wallet multisig  
-- [[Bitcoin/Coldcard\|Coldcard]] e [[Bitcoin/SeedSigner\|SeedSigner]] per firmare offline  
+- [[Bitcoin/Wallet/🐦 Sparrow Wallet\|🐦 Sparrow Wallet]] per gestire wallet multisig  
+- [[Bitcoin/❄️ Coldcard\|❄️ Coldcard]] e [[Bitcoin/SeedSigner\|SeedSigner]] per firmare offline  
 - Soluzioni multisig hardware/software con supporto PSBT
 
 ---
@@ -62,4 +62,4 @@ Se vuoi davvero mettere al sicuro i tuoi sats, **la multisig è il futuro della 
 
 ---
 
-🔗 _Approfondisci con [[Bitcoin/Self-custody\|Self-custody]], [[Bitcoin/Cold Storage\|Cold Storage]], [[Bitcoin/PSBT\|PSBT]], [[Bitcoin/🐦 Sparrow Wallet\|🐦 Sparrow Wallet]]_ 
+🔗 _Approfondisci con [[Bitcoin/Self-custody\|Self-custody]], [[Bitcoin/Cold Storage\|Cold Storage]], [[Bitcoin/PSBT\|PSBT]], [[Bitcoin/Wallet/🐦 Sparrow Wallet\|🐦 Sparrow Wallet]]_ 

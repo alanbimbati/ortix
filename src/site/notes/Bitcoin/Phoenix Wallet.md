@@ -63,4 +63,4 @@ In un mondo dove tutto è tracciato, **Phoenix ti mette in tasca la libertà**.
 
 🔗 _Scaricalo su [phoenix.acinq.co](https://phoenix.acinq.co)_
 
-📎 _Vedi anche: [[Bitcoin/Self-custody\|Self-custody]], [[Bitcoin/Lightning Network\|Lightning Network]], [[Bitcoin/Coldcard\|Coldcard]]_
+📎 _Vedi anche: [[Bitcoin/Self-custody\|Self-custody]], [[Bitcoin/⚡ Lightning Network\|⚡ Lightning Network]], [[Bitcoin/❄️ Coldcard\|❄️ Coldcard]]_

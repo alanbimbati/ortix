@@ -89,4 +89,4 @@ Una visione del mondo in cui **nessuno può comandarti la vita.**
 
 ---
 
-🔗 _Approfondisci con [[Bitcoin/Self-custody\|Self-custody]], [[Bitcoin/Proof of Work\|Proof of Work]], [[Bitcoin/Lightning Network\|Lightning Network]], [[Bitcoin/🏛️ Stato e Moneta\|🏛️ Stato e Moneta]], [[Bitcoin/Mining/🌱 Mining Green\|🌱 Mining Green]]_
+🔗 _Approfondisci con [[Bitcoin/Self-custody\|Self-custody]], [[Bitcoin/⚙️  Proof of Work\|⚙️  Proof of Work]], [[Bitcoin/⚡ Lightning Network\|⚡ Lightning Network]], [[Bitcoin/🏛️ Stato e Moneta\|🏛️ Stato e Moneta]], [[Bitcoin/Mining/🌱 Mining Green\|🌱 Mining Green]]_

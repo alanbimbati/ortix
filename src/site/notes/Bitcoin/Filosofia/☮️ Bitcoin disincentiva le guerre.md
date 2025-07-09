@@ -71,4 +71,4 @@ Se il denaro è lo specchio del potere…
 
 ---
 
-🔗 _Approfondisci con [[Bitcoin/📉 Inflazione\|📉 Inflazione]], [[Bitcoin/🏛️ Stato e Moneta\|🏛️ Stato e Moneta]], [[Bitcoin/Self-custody\|Self-custody]], [[Bitcoin/🥇Bitcoin è oro digitale\|🥇Bitcoin è oro digitale]], [[Bitcoin/KYC e sorveglianza finanziaria\|KYC e sorveglianza finanziaria]]_
+🔗 _Approfondisci con [[Bitcoin/📉 Inflazione\|📉 Inflazione]], [[Bitcoin/🏛️ Stato e Moneta\|🏛️ Stato e Moneta]], [[Bitcoin/Self-custody\|Self-custody]], [[Bitcoin/🥇Bitcoin è oro digitale\|🥇Bitcoin è oro digitale]], [[Bitcoin/🕵️‍♂️  KYC e sorveglianza finanziaria\|🕵️‍♂️  KYC e sorveglianza finanziaria]]_

@@ -15,7 +15,7 @@ Anzi, **può diventare il miglior alleato della transizione energetica.**
 
 ⚡ **Il consumo è un *feature*, non un bug**
 
-Bitcoin consuma energia perché usa la [[Bitcoin/Proof of Work\|Proof of Work]]:  
+Bitcoin consuma energia perché usa la [[Bitcoin/⚙️  Proof of Work\|⚙️  Proof of Work]]:  
 - Serve lavoro reale per proteggere la rete  
 - L’energia è il **collateral** del consenso  
 - Non si può falsificare un blocco se non spendi energia
@@ -76,4 +76,4 @@ Lo fa **per convenienza economica**, non per ideologia.
 
 ---
 
-🔗 _Approfondisci con [[Bitcoin/Proof of Work\|Proof of Work]], [[Bitcoin/Mining/⛏️ Mining\|⛏️ Mining]], [[Avalon Nano 3S\|Avalon Nano 3S]], [[Bitcoin/Filosofia/☮️ Bitcoin disincentiva le guerre\|☮️ Bitcoin disincentiva le guerre]], [[Bitcoin/🕸️ Decentralizzazione\|🕸️ Decentralizzazione]]_ 
+🔗 _Approfondisci con [[Bitcoin/⚙️  Proof of Work\|⚙️  Proof of Work]], [[Bitcoin/Mining/⛏️ Mining\|⛏️ Mining]], [[Avalon Nano 3S\|Avalon Nano 3S]], [[Bitcoin/Filosofia/☮️ Bitcoin disincentiva le guerre\|☮️ Bitcoin disincentiva le guerre]], [[Bitcoin/🕸️ Decentralizzazione\|🕸️ Decentralizzazione]]_ 

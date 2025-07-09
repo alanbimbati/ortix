@@ -50,7 +50,7 @@ museum sand fabric token window label raccoon ball wealth picnic rubber drive
 | Metodo        | Sicurezza | Note                           |
 |---------------|-----------|--------------------------------|
 | Carta         | ⚠️ Media | Facile da bruciare o bagnare   |
-| [[Bitcoin/Steelwallet\|Steelwallet]] | ✅ Alta  | Resiste a fuoco e acqua        |
+| [[Bitcoin/Wallet/Steelwallet\|Steelwallet]] | ✅ Alta  | Resiste a fuoco e acqua        |
 | Memoria (parziale) | ⚠️ Rischioso | Meglio come backup secondario |
 | Shamir / Multisig | ✅ Alta  | Per utenti avanzati           |
 
@@ -78,5 +78,5 @@ Chi la protegge, protegge la propria libertà.
 
 ---
 
-🔗 _Approfondisci con [[Bitcoin/Cold Storage\|Cold Storage]], [[Bitcoin/Multisig\|Multisig]], [[BIP85\|BIP85]], [[25ª parola\|25ª parola]], [[Bitcoin/Self-custody\|Self-custody]], [[Bitcoin/Wallet/🧭 Wallet Index\|🧭 Wallet Index]], [[Bitcoin/Steelwallet\|Steelwallet]]_
+🔗 _Approfondisci con [[Bitcoin/Cold Storage\|Cold Storage]], [[Bitcoin/Multisig\|Multisig]], [[BIP85\|BIP85]], [[25ª parola\|25ª parola]], [[Bitcoin/Self-custody\|Self-custody]], [[Bitcoin/Wallet/🧭 Wallet Index\|🧭 Wallet Index]], [[Bitcoin/Wallet/Steelwallet\|Steelwallet]]_
 

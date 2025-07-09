@@ -24,7 +24,7 @@ Il mining è il processo con cui:
 
 🧠 **Ma non è solo calcolo… è sicurezza.**
 
-Il mining si basa sulla [[Bitcoin/Proof of Work\|Proof of Work]]:  
+Il mining si basa sulla [[Bitcoin/⚙️  Proof of Work\|⚙️  Proof of Work]]:  
 - Serve **lavoro reale, energia, tempo**  
 - Impossibile falsificare un blocco senza rifare tutto da capo  
 - Ogni blocco è incatenato a quello precedente (blockchain)
@@ -83,4 +83,4 @@ Senza transazioni… niente libertà monetaria.
 
 ---
 
-🔗 _Approfondisci con [[Bitcoin/Proof of Work\|Proof of Work]], [[Avalon Nano 3S\|Avalon Nano 3S]], [[Bitcoin/Lightning Network\|Lightning Network]], [[Bitcoin/Cold Storage\|Cold Storage]], [[Sicurezza\|Sicurezza]]_
+🔗 _Approfondisci con [[Bitcoin/⚙️  Proof of Work\|⚙️  Proof of Work]], [[Avalon Nano 3S\|Avalon Nano 3S]], [[Bitcoin/⚡ Lightning Network\|⚡ Lightning Network]], [[Bitcoin/Cold Storage\|Cold Storage]], [[Sicurezza\|Sicurezza]]_

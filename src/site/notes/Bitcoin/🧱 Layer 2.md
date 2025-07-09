@@ -38,7 +38,7 @@ ma si basano **sulla fiducia matematica di Bitcoin**.
 
 📡 È come aprire un tab al bar: paghi solo all’inizio e alla fine.
 
-👉 Vedi: [[Bitcoin/Lightning Network\|Lightning Network]]
+👉 Vedi: [[Bitcoin/⚡ Lightning Network\|⚡ Lightning Network]]
 
 ---
 
@@ -80,4 +80,4 @@ Costruiamo sopra un fondamento solido.
 
 ---
 
-🔗 _Approfondisci con [[Bitcoin/Lightning Network\|Lightning Network]], [[Bitcoin/Lightning Network/⚡ Scalabilità di Lightning Network\|⚡ Scalabilità di Lightning Network]], [[Bitcoin/🔺 Il Trilemma\|🔺 Il Trilemma]], [[Bitcoin/Proof of Work\|Proof of Work]], [[Bitcoin/🕸️ Decentralizzazione\|🕸️ Decentralizzazione]], [[Bitcoin/Self-custody\|Self-custody]]_
+🔗 _Approfondisci con [[Bitcoin/⚡ Lightning Network\|⚡ Lightning Network]], [[Bitcoin/Lightning Network/⚡ Scalabilità di Lightning Network\|⚡ Scalabilità di Lightning Network]], [[Bitcoin/Filosofia/🔺 Il Trilemma\|🔺 Il Trilemma]], [[Bitcoin/⚙️  Proof of Work\|⚙️  Proof of Work]], [[Bitcoin/🕸️ Decentralizzazione\|🕸️ Decentralizzazione]], [[Bitcoin/Self-custody\|Self-custody]]_

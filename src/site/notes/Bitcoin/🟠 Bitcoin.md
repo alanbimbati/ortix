@@ -39,11 +39,11 @@ E funziona **senza fiducia. Solo verifica.**
 
 ⚙️ **Come funziona?**
 
-1. [[Bitcoin/Proof of Work\|Proof of Work]] → protegge la rete  
+1. [[Bitcoin/⚙️  Proof of Work\|⚙️  Proof of Work]] → protegge la rete  
 2. [[Full Node\|Full Node]] → verifica le regole  
 3. [[Bitcoin/Wallet/🧭 Wallet Index\|🧭 Wallet Index]] → interagisci con la rete  
 4. [[Bitcoin/🧠 Seed Phrase\|🧠 Seed Phrase]] → possiedi le tue chiavi  
-5. [[Bitcoin/Lightning Network\|Lightning Network]] → paghi in tempo reale
+5. [[Bitcoin/⚡ Lightning Network\|⚡ Lightning Network]] → paghi in tempo reale
 
 🎯 Ogni pezzo funziona **senza permessi**.  
 Chiunque può partecipare. Ovunque.
@@ -80,7 +80,7 @@ Perché viviamo in un mondo dove:
 
 - Studia → [[Bitcoin/🗽Bitcoin è per tutti\|🗽Bitcoin è per tutti]], [[Bitcoin/🕸️ Decentralizzazione\|🕸️ Decentralizzazione]], [[Bitcoin/📉 Inflazione\|📉 Inflazione]]  
 - Custodisci → [[Bitcoin/Self-custody\|Self-custody]], [[Bitcoin/Cold Storage\|Cold Storage]], [[Bitcoin/Multisig\|Multisig]]  
-- Spendi → [[Bitcoin/Lightning Network\|Lightning Network]], [[Bitcoin/Wallet/🧭 Wallet Index\|🧭 Wallet Index]], [[Zap\|Zap]]  
+- Spendi → [[Bitcoin/⚡ Lightning Network\|⚡ Lightning Network]], [[Bitcoin/Wallet/🧭 Wallet Index\|🧭 Wallet Index]], [[Zap\|Zap]]  
 - Condividi → [[Bitcoin/📡 Nostr\|📡 Nostr]], [[Filosofia del denaro\|Filosofia del denaro]]
 
 ---
@@ -94,4 +94,4 @@ Puoi solo decidere quando unirti.**
 
 ---
 
-🔗 _Approfondisci con [[Bitcoin/Proof of Work\|Proof of Work]], [[Bitcoin/Self-custody\|Self-custody]], [[Bitcoin/Wallet/🧭 Wallet Index\|🧭 Wallet Index]], [[Bitcoin/Lightning Network\|Lightning Network]], [[Bitcoin/📉 Inflazione\|📉 Inflazione]], [[Bitcoin/🏛️ Stato e Moneta\|🏛️ Stato e Moneta]], [[Bitcoin/🔺 Il Trilemma\|🔺 Il Trilemma]]_
+🔗 _Approfondisci con [[Bitcoin/⚙️  Proof of Work\|⚙️  Proof of Work]], [[Bitcoin/Self-custody\|Self-custody]], [[Bitcoin/Wallet/🧭 Wallet Index\|🧭 Wallet Index]], [[Bitcoin/⚡ Lightning Network\|⚡ Lightning Network]], [[Bitcoin/📉 Inflazione\|📉 Inflazione]], [[Bitcoin/🏛️ Stato e Moneta\|🏛️ Stato e Moneta]], [[Bitcoin/Filosofia/🔺 Il Trilemma\|🔺 Il Trilemma]]_

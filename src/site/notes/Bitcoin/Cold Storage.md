@@ -20,7 +20,7 @@ Né Wi-Fi, né Bluetooth, né cloud.
 Solo **aria gelida, carta, metallo e silenzio digitale.**
 
 Può assumere varie forme:
-- [[Bitcoin/Coldcard\|Coldcard]] o altri **wallet hardware airgapped**
+- [[Bitcoin/❄️ Coldcard\|❄️ Coldcard]] o altri **wallet hardware airgapped**
 - [[Bitcoin/SeedSigner\|SeedSigner]] e **firmware temporanei**
 - Una **seed scritta su carta o metallo**, offline
 - Una **wallet multisig** distribuita geograficamente
@@ -42,7 +42,7 @@ Può assumere varie forme:
 
 - Non fotografare mai la tua seed  
 - Non digitarla su tastiere collegate a internet  
-- Usa **backup fisici** su acciaio (es. [[Bitcoin/Steelwallet\|Steelwallet]], Cryptosteel)  
+- Usa **backup fisici** su acciaio (es. [[Bitcoin/Wallet/Steelwallet\|Steelwallet]], Cryptosteel)  
 - Considera una **wallet multisig** per evitare il single point of failure
 
 📋 E ricordati: **la sicurezza non è un’app, è un processo**.
@@ -69,4 +69,4 @@ Nessuno può prenderli. Nessuno può vederli.
 
 ---
 
-🔗 _Approfondisci con [[Bitcoin/Self-custody\|Self-custody]], [[Bitcoin/SeedSigner\|SeedSigner]], [[Bitcoin/Coldcard\|Coldcard]], [[Bitcoin/Multisig\|Multisig]], [[Bitcoin/Steelwallet\|Steelwallet]]_
+🔗 _Approfondisci con [[Bitcoin/Self-custody\|Self-custody]], [[Bitcoin/SeedSigner\|SeedSigner]], [[Bitcoin/❄️ Coldcard\|❄️ Coldcard]], [[Bitcoin/Multisig\|Multisig]], [[Bitcoin/Wallet/Steelwallet\|Steelwallet]]_

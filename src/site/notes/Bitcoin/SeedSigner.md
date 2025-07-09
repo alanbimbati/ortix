@@ -46,7 +46,7 @@ La tua mente + un foglio = una cold wallet invisibile.
 
 🛠️ **Ideale per:**
 
-- Firmare con wallet multisig (es. con [[Bitcoin/🐦 Sparrow Wallet\|🐦 Sparrow Wallet]])
+- Firmare con wallet multisig (es. con [[Bitcoin/Wallet/🐦 Sparrow Wallet\|🐦 Sparrow Wallet]])
 - Cold storage a lungo termine
 - Sicurezza fisica in paesi ad alto rischio
 - Persone che vogliono **minimizzare la superficie d’attacco**
@@ -74,4 +74,4 @@ Solo **Bitcoin custodito come si faceva una volta: con testa, carta e fuoco inte
 
 🔗 _Sito ufficiale: [seedsigner.com](https://seedsigner.com)_
 
-📎 _Vedi anche: [[Bitcoin/Coldcard\|Coldcard]], [[Bitcoin/🐦 Sparrow Wallet\|🐦 Sparrow Wallet]], [[Bitcoin/Self-custody\|Self-custody]], [[Bitcoin/Multisig\|Multisig]]_
+📎 _Vedi anche: [[Bitcoin/❄️ Coldcard\|❄️ Coldcard]], [[Bitcoin/Wallet/🐦 Sparrow Wallet\|🐦 Sparrow Wallet]], [[Bitcoin/Self-custody\|Self-custody]], [[Bitcoin/Multisig\|Multisig]]_

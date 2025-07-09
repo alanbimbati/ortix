@@ -30,7 +30,7 @@ E ogni messaggio è **firmato crittograficamente**.
 
 - Pubblicare messaggi (post)  
 - Seguire altre identità  
-- Ricevere zap ⚡ via [[Bitcoin/Lightning Network\|Lightning Network]]  
+- Ricevere zap ⚡ via [[Bitcoin/⚡ Lightning Network\|⚡ Lightning Network]]  
 - Creare feed, blog, eventi, chat  
 - Usare app diverse con la **stessa identità**
 
@@ -56,7 +56,7 @@ Non può essere cancellato, né sequestrato.
 
 - 🔑 Identità private  
 - 🧠 Messaggi pubblici firmati  
-- ⚡ Zap integrati via [[Bitcoin/Lightning Network\|Lightning Network]]  
+- ⚡ Zap integrati via [[Bitcoin/⚡ Lightning Network\|⚡ Lightning Network]]  
 - 📲 App leggere, resistenti, interoperabili
 
 🌍 È l’infrastruttura per un **internet veramente libero**.  
@@ -91,4 +91,4 @@ non ha più bisogno del permesso di nessuno.
 
 ---
 
-🔗 _Approfondisci con [[Bitcoin/🕸️ Decentralizzazione\|🕸️ Decentralizzazione]], [[Bitcoin/Self-custody\|Self-custody]], [[Bitcoin/Lightning Network\|Lightning Network]], [[Zap\|Zap]], [[Bitcoin/Wallet/🧭 Wallet Index\|🧭 Wallet Index]], [[Censura e sovranità\|Censura e sovranità]]_
+🔗 _Approfondisci con [[Bitcoin/🕸️ Decentralizzazione\|🕸️ Decentralizzazione]], [[Bitcoin/Self-custody\|Self-custody]], [[Bitcoin/⚡ Lightning Network\|⚡ Lightning Network]], [[Zap\|Zap]], [[Bitcoin/Wallet/🧭 Wallet Index\|🧭 Wallet Index]], [[Censura e sovranità\|Censura e sovranità]]_

@@ -53,10 +53,10 @@ Ma è come guidare: **preferisci essere al volante o nel bagagliaio?**
 
 💡 Soluzioni self-custody consigliate:
 - [[Bitcoin/Phoenix Wallet\|Phoenix Wallet]]
-- [[Bitcoin/BlueWallet\|BlueWallet]]
-- [[Bitcoin/🐦 Sparrow Wallet\|🐦 Sparrow Wallet]]
+- [[Bitcoin/Wallet/🔵 BlueWallet\|🔵 BlueWallet]]
+- [[Bitcoin/Wallet/🐦 Sparrow Wallet\|🐦 Sparrow Wallet]]
 - [[Bitcoin/SeedSigner\|SeedSigner]]
-- [[Bitcoin/Coldcard\|Coldcard]]
+- [[Bitcoin/❄️ Coldcard\|❄️ Coldcard]]
 
 ---
 

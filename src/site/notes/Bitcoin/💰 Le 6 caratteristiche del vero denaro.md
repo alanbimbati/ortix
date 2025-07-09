@@ -72,7 +72,7 @@ Il denaro deve essere **difficile da creare**.
 - ✅ Oro è raro ma manipolabile  
 - 🧡 Bitcoin è **limitato a 21 milioni**, per sempre
 
-🔥 Questa è la base di [[Bitcoin/Proof of Work\|Proof of Work]]:  
+🔥 Questa è la base di [[Bitcoin/⚙️  Proof of Work\|⚙️  Proof of Work]]:  
 **rendere la creazione di denaro costosa e controllabile.**
 
 ---
@@ -100,4 +100,4 @@ ma da caratteristiche **oggettive**.
 
 ---
 
-🔗 _Approfondisci con [[Bitcoin/🟠 Bitcoin\|🟠 Bitcoin]], [[Bitcoin/📉 Inflazione\|📉 Inflazione]], [[Bitcoin/🏛️ Stato e Moneta\|🏛️ Stato e Moneta]], [[Bitcoin/Proof of Work\|Proof of Work]], [[Bitcoin/🕸️ Decentralizzazione\|🕸️ Decentralizzazione]]_
+🔗 _Approfondisci con [[Bitcoin/🟠 Bitcoin\|🟠 Bitcoin]], [[Bitcoin/📉 Inflazione\|📉 Inflazione]], [[Bitcoin/🏛️ Stato e Moneta\|🏛️ Stato e Moneta]], [[Bitcoin/⚙️  Proof of Work\|⚙️  Proof of Work]], [[Bitcoin/🕸️ Decentralizzazione\|🕸️ Decentralizzazione]]_

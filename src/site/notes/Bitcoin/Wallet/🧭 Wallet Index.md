@@ -13,13 +13,13 @@
 
 | Wallet                | Custodial | Rete        | Complessità    | Sicurezza    | Grafica UI         | Funzionalità principali                                    | Link |
 | --------------------- | --------- | ----------- | -------------- | ------------ | ------------------ | ---------------------------------------------------------- | ---- |
-| [[Bitcoin/Wallet of Satoshi\|Wallet of Satoshi]] | ✅ Sì      | ⚡ Lightning | 🔰 Molto bassa | ❌ Bassa      | 🎨 Molto semplice  | Pagamenti istantanei custodial                             | 🟠   |
+| [[Bitcoin/Wallet/Wallet of Satoshi\|Wallet of Satoshi]] | ✅ Sì      | ⚡ Lightning | 🔰 Molto bassa | ❌ Bassa      | 🎨 Molto semplice  | Pagamenti istantanei custodial                             | 🟠   |
 | [[Bitcoin/Phoenix Wallet\|Phoenix Wallet]]    | ❌ No      | ⚡ Lightning | 🟡 Media       | ✅ Alta       | 🎨 Pulita          | Canali automatici, non-custodial                           | 🔥   |
-| [[Bitcoin/BlueWallet\|BlueWallet]]        | ✅/❌       | ⚡ / ₿       | 🟡 Media       | ⚠️ Mista     | 🎨 Moderna         | LN custodial, on-chain non-custodial, multisig, watch-only | 🔵   |
-| [[Bitcoin/🐦 Sparrow Wallet\|🐦 Sparrow Wallet]]           | ❌ No      | ₿ On-chain  | 🔴 Alta        | ✅✅ Altissima | 🖥️ Tecnica        | CoinJoin, PSBT, multisig, hardware wallet                  | 🐦   |
+| [[Bitcoin/Wallet/🔵 BlueWallet\|🔵 BlueWallet]]        | ✅/❌       | ⚡ / ₿       | 🟡 Media       | ⚠️ Mista     | 🎨 Moderna         | LN custodial, on-chain non-custodial, multisig, watch-only | 🔵   |
+| [[Bitcoin/Wallet/🐦 Sparrow Wallet\|🐦 Sparrow Wallet]]           | ❌ No      | ₿ On-chain  | 🔴 Alta        | ✅✅ Altissima | 🖥️ Tecnica        | CoinJoin, PSBT, multisig, hardware wallet                  | 🐦   |
 | [[Bitcoin/SeedSigner\|SeedSigner]]        | ❌ No      | ₿ Cold      | 🔴 Molto alta  | ✅✅ Estrema   | 📷 Nessuna         | Firma airgapped, QR, seed temporanea                       | 🟧   |
-| [[Bitcoin/Coldcard\|Coldcard]]          | ❌ No      | ₿ Cold      | 🔴 Alta        | ✅✅ Estrema   | 🖲️ Display fisico | Firma offline via PSBT, secure element                     | ❄️   |
-| [[Bitcoin/Electrum\|Electrum]]          | ❌ No      | ₿ On-chain  | 🔴 Alta        | ✅ Alta       | 🧮 Essenziale      | PSBT, multisig, fee custom, scripting                      | ⚡    |
+| [[Bitcoin/❄️ Coldcard\|❄️ Coldcard]]          | ❌ No      | ₿ Cold      | 🔴 Alta        | ✅✅ Estrema   | 🖲️ Display fisico | Firma offline via PSBT, secure element                     | ❄️   |
+| [[Bitcoin/Wallet/⚡ Electrum\|⚡ Electrum]]          | ❌ No      | ₿ On-chain  | 🔴 Alta        | ✅ Alta       | 🧮 Essenziale      | PSBT, multisig, fee custom, scripting                      | ⚡    |
 
 ---
 
@@ -27,13 +27,13 @@
 
 👉 Per ogni wallet trovi un post dedicato con dettagli, pro, contro, esempi e link:
 
-- 🟠 [[Bitcoin/Wallet of Satoshi\|Wallet of Satoshi]] – Lightning custodial, semplicissimo  
+- 🟠 [[Bitcoin/Wallet/Wallet of Satoshi\|Wallet of Satoshi]] – Lightning custodial, semplicissimo  
 - 🔥 [[Bitcoin/Phoenix Wallet\|Phoenix Wallet]] – Lightning non-custodial con canali automatici  
-- 🔵 [[Bitcoin/BlueWallet\|BlueWallet]] – Ibrido, versatile, multi-wallet  
-- 🐦 [[Bitcoin/🐦 Sparrow Wallet\|🐦 Sparrow Wallet]]– On-chain avanzato, CoinJoin, PSBT  
+- 🔵 [[Bitcoin/Wallet/🔵 BlueWallet\|🔵 BlueWallet]] – Ibrido, versatile, multi-wallet  
+- 🐦 [[Bitcoin/Wallet/🐦 Sparrow Wallet\|🐦 Sparrow Wallet]]– On-chain avanzato, CoinJoin, PSBT  
 - 🟧 [[Bitcoin/SeedSigner\|SeedSigner]] – Airgapped, senza memoria, sicurezza estrema  
-- ❄️ [[Bitcoin/Coldcard\|Coldcard]] – Hardware wallet solo BTC, firma offline  
-- ⚡ [[Bitcoin/Electrum\|Electrum]] – On-chain desktop, multisig e fee custom  
+- ❄️ [[Bitcoin/❄️ Coldcard\|❄️ Coldcard]] – Hardware wallet solo BTC, firma offline  
+- ⚡ [[Bitcoin/Wallet/⚡ Electrum\|⚡ Electrum]] – On-chain desktop, multisig e fee custom  
 
 ---
 
@@ -41,14 +41,14 @@
 
 🛣️ **Inizia da semplice a complesso:**
 
-1. 🔰 *Prova* con [[Bitcoin/Wallet of Satoshi\|Wallet of Satoshi]]  
+1. 🔰 *Prova* con [[Bitcoin/Wallet/Wallet of Satoshi\|Wallet of Satoshi]]  
 2. 🧭 Passa a [[Bitcoin/Phoenix Wallet\|Phoenix Wallet]] per vera self-custody  
-3. 🐦 Impara con [[Bitcoin/🐦 Sparrow Wallet\|🐦 Sparrow Wallet]]
-4. ❄️ Custodisci con [[Bitcoin/Coldcard\|Coldcard]] o [[Bitcoin/SeedSigner\|SeedSigner]]  
-5. ⚡ Automatizza e personalizza con [[Bitcoin/Electrum\|Electrum]]
+3. 🐦 Impara con [[Bitcoin/Wallet/🐦 Sparrow Wallet\|🐦 Sparrow Wallet]]
+4. ❄️ Custodisci con [[Bitcoin/❄️ Coldcard\|❄️ Coldcard]] o [[Bitcoin/SeedSigner\|SeedSigner]]  
+5. ⚡ Automatizza e personalizza con [[Bitcoin/Wallet/⚡ Electrum\|⚡ Electrum]]
 
 🧱 E costruisci la tua sicurezza, un wallet alla volta.
 
 ---
 
-🔗 _Approfondisci anche: [[Bitcoin/Self-custody\|Self-custody]], [[Bitcoin/Cold Storage\|Cold Storage]], [[Bitcoin/PSBT\|PSBT]], [[Bitcoin/CoinJoin\|CoinJoin]], [[Bitcoin/Lightning Network\|Lightning Network]]_
+🔗 _Approfondisci anche: [[Bitcoin/Self-custody\|Self-custody]], [[Bitcoin/Cold Storage\|Cold Storage]], [[Bitcoin/PSBT\|PSBT]], [[Bitcoin/🌀 CoinJoin\|🌀 CoinJoin]], [[Bitcoin/⚡ Lightning Network\|⚡ Lightning Network]]_

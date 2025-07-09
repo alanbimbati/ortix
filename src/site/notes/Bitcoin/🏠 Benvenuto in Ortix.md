@@ -17,12 +17,12 @@ Ogni pagina è una tessera che ti aiuta a capire, esplorare e difendere la tua l
 📜 [[Bitcoin/💰 Le 6 caratteristiche del vero denaro\|💰 Le 6 caratteristiche del vero denaro]]  
 💣 [[Bitcoin/📉 Inflazione\|📉 Inflazione]]  
 📉 [[Bitcoin/🏛️ Stato e Moneta\|🏛️ Stato e Moneta]]  
-⚙️ [[Bitcoin/Proof of Work\|Proof of Work]]  
+⚙️ [[Bitcoin/⚙️  Proof of Work\|⚙️  Proof of Work]]  
 ⛏️ [[Bitcoin/Mining/⛏️ Mining\|⛏️ Mining]] / [[Bitcoin/Mining/🌱 Mining Green\|🌱 Mining Green]]  
 ✌️ [[Bitcoin/Filosofia/☮️ Bitcoin disincentiva le guerre\|☮️ Bitcoin disincentiva le guerre]]  
-🧪 [[Bitcoin/🔺 Il Trilemma\|🔺 Il Trilemma]] / [[Bitcoin/Lightning Network/⚡ Scalabilità di Lightning Network\|⚡ Scalabilità di Lightning Network]]  
+🧪 [[Bitcoin/Filosofia/🔺 Il Trilemma\|🔺 Il Trilemma]] / [[Bitcoin/Lightning Network/⚡ Scalabilità di Lightning Network\|⚡ Scalabilità di Lightning Network]]  
 🌍 [[Bitcoin/🕸️ Decentralizzazione\|🕸️ Decentralizzazione]]  
-📚 [[Bitcoin/Legge di Gresham\|Legge di Gresham]]
+📚 [[Bitcoin/⚖️ Legge di Gresham\|⚖️ Legge di Gresham]]
 
 ---
 
@@ -33,22 +33,22 @@ Ogni pagina è una tessera che ti aiuta a capire, esplorare e difendere la tua l
 🌳 [[Bitcoin/Wallet/🌳 Wallet gerarchico\|🌳 Wallet gerarchico]]  
 🪙 [[Bitcoin/Wallet/🧭 Wallet Index\|🧭 Wallet Index]]  
 🧊 [[Bitcoin/Cold Storage\|Cold Storage]]  
-🧱 [[Bitcoin/Steelwallet\|Steelwallet]]  
+🧱 [[Bitcoin/Wallet/Steelwallet\|Steelwallet]]  
 🔑 [[Bitcoin/Multisig\|Multisig]]  
 📤 [[Bitcoin/PSBT\|Psbt]]  
-🔄 [[Bitcoin/CoinJoin\|Coinjoin]]
+🔄 [[Bitcoin/🌀 CoinJoin\|🌀 CoinJoin]]
 
 ---
 
 ## ⚡ **Lightning Network & Layer 2**
 
-📡 [[Bitcoin/Lightning Network\|Lightning Network]]  
+📡 [[Bitcoin/⚡ Lightning Network\|⚡ Lightning Network]]  
 🧩 [[Bitcoin/🧱 Layer 2\|🧱 Layer 2]]  
 ⚖️ [[Bitcoin/Lightning Network/⚡ Scalabilità di Lightning Network\|⚡ Scalabilità di Lightning Network]]  
 🚀 Wallet Lightning:
 - [[Bitcoin/Phoenix Wallet\|Phoenix Wallet]]
 - [[Breez\|Breez]]
-- [[Bitcoin/Wallet of Satoshi\|Wallet of Satoshi]]
+- [[Bitcoin/Wallet/Wallet of Satoshi\|Wallet of Satoshi]]
 - [[Zeus\|Zeus]]
 
 ---
@@ -56,8 +56,8 @@ Ogni pagina è una tessera che ti aiuta a capire, esplorare e difendere la tua l
 ## 🕵️ **Privacy & Libertà**
 
 [[Bitcoin/🕵️‍♂️ Privacy\|🕵️‍♂️ Privacy]]  
-❌ [[Bitcoin/KYC e sorveglianza finanziaria\|KYC e sorveglianza finanziaria]]  
-🎭 [[Bitcoin/CoinJoin\|Coinjoin]]  
+❌ [[Bitcoin/🕵️‍♂️  KYC e sorveglianza finanziaria\|🕵️‍♂️  KYC e sorveglianza finanziaria]]  
+🎭 [[Bitcoin/🌀 CoinJoin\|🌀 CoinJoin]]  
  [[Bitcoin/📡 Nostr\|📡 Nostr]]  
  [[Bitcoin/🧬 Open Source\|🧬 Open Source]]  
 [[Ortix/🧭 Sovranità Digitale\|🧭 Sovranità Digitale]]

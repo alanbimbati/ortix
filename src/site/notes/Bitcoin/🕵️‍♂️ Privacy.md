@@ -42,9 +42,9 @@ Se tutti usano strumenti tracciabili, anche tu vieni compromesso.
 
 🛡️ **Come difenderla nella vita digitale**
 
-- Usa [[Bitcoin/🟠 Bitcoin\|🟠 Bitcoin]] con [[Bitcoin/CoinJoin\|CoinJoin]] o wallet attenti alla privacy  
+- Usa [[Bitcoin/🟠 Bitcoin\|🟠 Bitcoin]] con [[Bitcoin/🌀 CoinJoin\|🌀 CoinJoin]] o wallet attenti alla privacy  
 - Sincronizza i tuoi dati con [[Ortix/🔄 Syncthing\|🔄 Syncthing]]  
-- Evita KYC dove puoi (vedi: [[Bitcoin/KYC e sorveglianza finanziaria\|KYC e sorveglianza finanziaria]])  
+- Evita KYC dove puoi (vedi: [[Bitcoin/🕵️‍♂️  KYC e sorveglianza finanziaria\|🕵️‍♂️  KYC e sorveglianza finanziaria]])  
 - Usa [[Bitcoin/Wallet/🧭 Wallet Index\|🧭 Wallet Index]] non custodial  
 - Tieni la tua [[Bitcoin/🧠 Seed Phrase\|🧠 Seed Phrase]] offline  
 - Chatta con app libere (es. Session, SimpleX, Nostr)
@@ -85,4 +85,4 @@ Ogni click, ogni abitudine, ogni app è una scelta.
 
 ---
 
-🔗 _Approfondisci con [[Bitcoin/Self-custody\|Self-custody]], [[Bitcoin/CoinJoin\|CoinJoin]], [[Bitcoin/KYC e sorveglianza finanziaria\|KYC e sorveglianza finanziaria]], [[Ortix/🔄 Syncthing\|🔄 Syncthing]], [[Bitcoin/Wallet/🧭 Wallet Index\|🧭 Wallet Index]], [[Bitcoin/🟠 Bitcoin\|🟠 Bitcoin]], [[Bitcoin/🕸️ Decentralizzazione\|🕸️ Decentralizzazione]]_
+🔗 _Approfondisci con [[Bitcoin/Self-custody\|Self-custody]], [[Bitcoin/🌀 CoinJoin\|🌀 CoinJoin]], [[Bitcoin/🕵️‍♂️  KYC e sorveglianza finanziaria\|🕵️‍♂️  KYC e sorveglianza finanziaria]], [[Ortix/🔄 Syncthing\|🔄 Syncthing]], [[Bitcoin/Wallet/🧭 Wallet Index\|🧭 Wallet Index]], [[Bitcoin/🟠 Bitcoin\|🟠 Bitcoin]], [[Bitcoin/🕸️ Decentralizzazione\|🕸️ Decentralizzazione]]_

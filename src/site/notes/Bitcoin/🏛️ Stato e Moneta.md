@@ -66,4 +66,4 @@ E noi oggi… possiamo averla.
 
 ---
 
-🔗 _Approfondisci con [[Bitcoin/📉 Inflazione\|📉 Inflazione]], [[Bitcoin/KYC e sorveglianza finanziaria\|KYC e sorveglianza finanziaria]], [[Bitcoin/Filosofia/☮️ Bitcoin disincentiva le guerre\|☮️ Bitcoin disincentiva le guerre]], [[Bitcoin/Self-custody\|Self-custody]], [[Bitcoin/Proof of Work\|Proof of Work]]_
+🔗 _Approfondisci con [[Bitcoin/📉 Inflazione\|📉 Inflazione]], [[Bitcoin/🕵️‍♂️  KYC e sorveglianza finanziaria\|🕵️‍♂️  KYC e sorveglianza finanziaria]], [[Bitcoin/Filosofia/☮️ Bitcoin disincentiva le guerre\|☮️ Bitcoin disincentiva le guerre]], [[Bitcoin/Self-custody\|Self-custody]], [[Bitcoin/⚙️  Proof of Work\|⚙️  Proof of Work]]_
