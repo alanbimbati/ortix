@@ -1,5 +1,5 @@
 ---
-{"dg-home":false,"dg-publish":true,"title":"🧠 Seed Phrase: 12 parole per tutta la tua libertà","tags":["Bitcoin","Wallet","SeedPhrase","SelfCustody","Sicurezza","ColdStorage"],"date":"2025-07-09","permalink":"/bitcoin/seed-phrase/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/bitcoin/seed-phrase/","title":"🧠 Seed Phrase: 12 parole per tutta la tua libertà","tags":["Bitcoin","Wallet","SeedPhrase","SelfCustody","Sicurezza","ColdStorage"]}
 ---
 
 

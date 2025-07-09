@@ -1,5 +1,5 @@
 ---
-{"dg-home":false,"dg-publish":true,"title":"🔄 Obsidian + Syncthing: note private, libere e sincronizzate","tags":["Obsidian","Syncthing","Decentralizzazione","Note","Android","Privacy","SelfCustody"],"date":"2025-07-09","permalink":"/bitcoin/obsidian-syncthing/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/bitcoin/obsidian-syncthing/","title":"🔄 Obsidian + Syncthing: note private, libere e sincronizzate","tags":["Obsidian","Syncthing","Decentralizzazione","Note","Android","Privacy","SelfCustody"]}
 ---
 
 

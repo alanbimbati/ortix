@@ -1,5 +1,5 @@
 ---
-{"dg-home":false,"dg-publish":true,"title":"🌀 CoinJoin: la privacy è un diritto, non un sospetto","tags":["Bitcoin","Privacy","CoinJoin","SelfCustody","SparrowWallet"],"date":"2025-07-09","permalink":"/bitcoin/coin-join/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/bitcoin/coin-join/","title":"🌀 CoinJoin: la privacy è un diritto, non un sospetto","tags":["Bitcoin","Privacy","CoinJoin","SelfCustody","SparrowWallet"]}
 ---
 
 
@@ -71,4 +71,4 @@ La tua privacy non è negoziabile.**
 
 ---
 
-🔗 _Approfondisci con [[Bitcoin/Wallet/🐦 Sparrow Wallet\|🐦 Sparrow Wallet]], [[Bitcoin/Self-custody\|Self-custody]], [[Bitcoin/Cold Storage\|Cold Storage]], [[Bitcoin/Bitcoin e sorveglianza\|Bitcoin e sorveglianza]]_
+🔗 _Approfondisci con [[Bitcoin/Wallet/🐦 Sparrow Wallet\|🐦 Sparrow Wallet]], [[Bitcoin/Self-custody\|Self-custody]], [[Bitcoin/Cold Storage\|Cold Storage]], [[Bitcoin e sorveglianza\|Bitcoin e sorveglianza]]_

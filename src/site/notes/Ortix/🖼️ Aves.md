@@ -1,5 +1,5 @@
 ---
-{"dg-home":false,"dg-publish":true,"title":"🖼️ Aves: la galleria foto open source per la tua libertà digitale","tags":["Aves","OpenSource","Privacy","Syncthing","Foto","SelfCustody","Decentralizzazione"],"date":"2025-07-09","permalink":"/ortix/aves/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/ortix/aves/","title":"🖼️ Aves: la galleria foto open source per la tua libertà digitale","tags":["Aves","OpenSource","Privacy","Syncthing","Foto","SelfCustody","Decentralizzazione"]}
 ---
 
 

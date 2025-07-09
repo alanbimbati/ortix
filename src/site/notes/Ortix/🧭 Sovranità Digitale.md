@@ -1,5 +1,5 @@
 ---
-{"dg-home":false,"dg-publish":true,"title":"🧭 Sovranità Digitale: il controllo inizia da te","tags":["SovranitàDigitale","Libertà","OpenSource","Privacy","Bitcoin","SelfCustody"],"date":"2025-07-09","permalink":"/ortix/sovranita-digitale/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/ortix/sovranita-digitale/","title":"🧭 Sovranità Digitale: il controllo inizia da te","tags":["SovranitàDigitale","Libertà","OpenSource","Privacy","Bitcoin","SelfCustody"]}
 ---
 
 

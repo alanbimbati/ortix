@@ -1,5 +1,5 @@
 ---
-{"dg-home":false,"dg-publish":true,"title":"⚙️ Proof of Work: il sudore che dà valore al denaro","tags":["Bitcoin","ProofOfWork","Energia","Libertà","Mining"],"date":"2025-07-09","permalink":"/bitcoin/proof-of-work/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/bitcoin/proof-of-work/","title":"⚙️ Proof of Work: il sudore che dà valore al denaro","tags":["Bitcoin","ProofOfWork","Energia","Libertà","Mining"]}
 ---
 
 

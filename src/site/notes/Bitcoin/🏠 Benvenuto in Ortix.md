@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"title":"🏠 Home – Bitcoin & Sovranità Digitale","tags":["Indice","Home","Bitcoin","Sovranità","Educazione","Obsidian","gardenEntry"],"date":"2025-07-09","permalink":"/bitcoin/benvenuto-in-ortix/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/bitcoin/benvenuto-in-ortix/","title":"🏠 Home – Bitcoin & Sovranità Digitale","tags":["Indice","Home","Bitcoin","Sovranità","Educazione","Obsidian","gardenEntry"]}
 ---
 
 # 🏠 Benvenuto in Ortix

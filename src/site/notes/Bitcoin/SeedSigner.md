@@ -1,5 +1,5 @@
 ---
-{"dg-home":false,"dg-publish":true,"title":"🟧 SeedSigner: la chiave è nella tua testa","tags":["Bitcoin","Wallet","Hardware","Airgapped","Privacy","ColdStorage"],"date":"2025-07-09","permalink":"/bitcoin/seed-signer/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/bitcoin/seed-signer/","title":"🟧 SeedSigner: la chiave è nella tua testa","tags":["Bitcoin","Wallet","Hardware","Airgapped","Privacy","ColdStorage"]}
 ---
 
 

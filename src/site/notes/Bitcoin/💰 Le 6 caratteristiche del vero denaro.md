@@ -1,5 +1,5 @@
 ---
-{"dg-home":false,"dg-publish":true,"title":"💰 Le 6 caratteristiche del vero denaro","tags":["Denaro","Bitcoin","Educazione","Economia","Inflazione","Valuta"],"date":"2025-07-09","permalink":"/bitcoin/le-6-caratteristiche-del-vero-denaro/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/bitcoin/le-6-caratteristiche-del-vero-denaro/","title":"💰 Le 6 caratteristiche del vero denaro","tags":["Denaro","Bitcoin","Educazione","Economia","Inflazione","Valuta"]}
 ---
 
 

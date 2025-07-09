@@ -1,5 +1,5 @@
 ---
-{"dg-home":false,"dg-publish":true,"title":"🕊️ Bitcoin disincentiva le guerre","tags":["Bitcoin","Guerra","Stato","Inflazione","Finanza","Etica"],"date":"2025-07-09","permalink":"/bitcoin/filosofia/bitcoin-disincentiva-le-guerre/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/bitcoin/filosofia/bitcoin-disincentiva-le-guerre/","title":"🕊️ Bitcoin disincentiva le guerre","tags":["Bitcoin","Guerra","Stato","Inflazione","Finanza","Etica"]}
 ---
 
 

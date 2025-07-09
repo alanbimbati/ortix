@@ -1,5 +1,5 @@
 ---
-{"dg-home":false,"dg-publish":true,"title":"⚡ Scalabilità di Lightning Network: milioni di transazioni senza congestionare Bitcoin","tags":["Bitcoin","Lightning","Scalabilità","Layer2","Pagamenti","Microtransazioni"],"date":"2025-07-09","permalink":"/bitcoin/lightning-network/scalabilita-di-lightning-network/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/bitcoin/lightning-network/scalabilita-di-lightning-network/","title":"⚡ Scalabilità di Lightning Network: milioni di transazioni senza congestionare Bitcoin","tags":["Bitcoin","Lightning","Scalabilità","Layer2","Pagamenti","Microtransazioni"]}
 ---
 
 

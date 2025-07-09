@@ -1,5 +1,5 @@
 ---
-{"dg-home":false,"dg-publish":true,"title":"🕵️‍♂️ KYC e Sorveglianza Finanziaria","tags":["Bitcoin","Privacy","KYC","Finanza","Controllo"],"date":"2025-07-09","permalink":"/bitcoin/kyc-e-sorveglianza-finanziaria/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/bitcoin/kyc-e-sorveglianza-finanziaria/","title":"🕵️‍♂️ KYC e Sorveglianza Finanziaria","tags":["Bitcoin","Privacy","KYC","Finanza","Controllo"]}
 ---
 
 

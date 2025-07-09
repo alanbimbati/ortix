@@ -1,5 +1,5 @@
 ---
-{"dg-home":false,"dg-publish":true,"title":"🔒 Airgap Vault: firmare transazioni senza rischi","tags":["Bitcoin","Airgap","Sicurezza","PSBT","ColdStorage","SelfCustody"],"date":"2025-07-09","permalink":"/bitcoin/wallet/airgap-vault/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/bitcoin/wallet/airgap-vault/","title":"🔒 Airgap Vault: firmare transazioni senza rischi","tags":["Bitcoin","Airgap","Sicurezza","PSBT","ColdStorage","SelfCustody"]}
 ---
 
 

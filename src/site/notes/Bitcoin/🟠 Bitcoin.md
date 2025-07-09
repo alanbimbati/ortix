@@ -1,5 +1,5 @@
 ---
-{"dg-home":false,"dg-publish":true,"title":"🟠 Bitcoin: denaro forte per esseri liberi","tags":["Bitcoin","Libertà","Sovranità","Denaro","ProofOfWork","SelfCustody"],"date":"2025-07-09","permalink":"/bitcoin/bitcoin/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/bitcoin/bitcoin/","title":"🟠 Bitcoin: denaro forte per esseri liberi","tags":["Bitcoin","Libertà","Sovranità","Denaro","ProofOfWork","SelfCustody"]}
 ---
 
 

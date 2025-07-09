@@ -1,5 +1,5 @@
 ---
-{"dg-home":false,"dg-publish":true,"title":"⚡ Electrum: il nonno dei wallet Bitcoin (che ancora spacca)","tags":["Bitcoin","Wallet","Electrum","Desktop","SelfCustody","PSBT"],"date":"2025-07-09","permalink":"/bitcoin/wallet/electrum/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/bitcoin/wallet/electrum/","title":"⚡ Electrum: il nonno dei wallet Bitcoin (che ancora spacca)","tags":["Bitcoin","Wallet","Electrum","Desktop","SelfCustody","PSBT"]}
 ---
 
 

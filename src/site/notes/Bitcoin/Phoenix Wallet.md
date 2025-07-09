@@ -1,5 +1,5 @@
 ---
-{"dg-home":false,"dg-publish":true,"title":"🧡 Phoenix Wallet: il fulmine in tasca","tags":["Bitcoin","Wallet","Lightning","Custody","Mobile"],"date":"2025-07-09","permalink":"/bitcoin/phoenix-wallet/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/bitcoin/phoenix-wallet/","title":"🧡 Phoenix Wallet: il fulmine in tasca","tags":["Bitcoin","Wallet","Lightning","Custody","Mobile"]}
 ---
 
 

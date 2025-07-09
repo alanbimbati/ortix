@@ -1,7 +1,6 @@
 ---
-{"dg-home":false,"dg-publish":true,"title":"🔐 La Self-Custody: il tuo denaro, le tue regole","tags":["Bitcoin","Custody","Sovranità","Libertà","Wallet"],"date":"2025-07-09","permalink":"/bitcoin/self-custody/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/bitcoin/self-custody/","title":"🔐 La Self-Custody: il tuo denaro, le tue regole","tags":["Bitcoin","Custody","Sovranità","Libertà","Wallet"]}
 ---
-
 
 # 🔐 La Self-Custody: il tuo denaro, le tue regole
 

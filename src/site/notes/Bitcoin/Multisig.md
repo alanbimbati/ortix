@@ -1,5 +1,5 @@
 ---
-{"dg-home":false,"dg-publish":true,"title":"🔐 Multisig: la forza del gruppo nella custodia Bitcoin","tags":["Bitcoin","Multisig","Sicurezza","SelfCustody","Wallet"],"date":"2025-07-09","permalink":"/bitcoin/multisig/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/bitcoin/multisig/","title":"🔐 Multisig: la forza del gruppo nella custodia Bitcoin","tags":["Bitcoin","Multisig","Sicurezza","SelfCustody","Wallet"]}
 ---
 
 
