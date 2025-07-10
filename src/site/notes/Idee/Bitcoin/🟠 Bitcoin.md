@@ -42,7 +42,7 @@ E funziona **senza fiducia. Solo verifica.**
 1. [[Proof of Work\|Proof of Work]] → protegge la rete  
 2. [[Full Node\|Full Node]] → verifica le regole  
 3. [[Bitcoin/Wallet/🧭 Wallet Index\|🧭 Wallet Index]] → interagisci con la rete  
-4. [[Idee/Bitcoin/🧠 Seed Phrase\|🧠 Seed Phrase]] → possiedi le tue chiavi  
+4. [[Idee/Bitcoin/🧠 Seed Phrase\|Idee/Bitcoin/🧠 Seed Phrase]] → possiedi le tue chiavi  
 5. [[Lightning Network\|Lightning Network]] → paghi in tempo reale
 
 🎯 Ogni pezzo funziona **senza permessi**.  
@@ -58,7 +58,7 @@ Chiunque può partecipare. Ovunque.
 - ❌ Una tecnologia neutra da regolamentare
 
 Bitcoin è **politico**, **radicale**, **inalterabile**.  
-[[Bitcoin/🥇Bitcoin è oro digitale\|🥇Bitcoin è oro digitale]], ma senza confini, senza custodi, senza elite.
+[[Bitcoin/Economia/🥇Bitcoin è oro digitale\|🥇Bitcoin è oro digitale]], ma senza confini, senza custodi, senza elite.
 
 ---
 

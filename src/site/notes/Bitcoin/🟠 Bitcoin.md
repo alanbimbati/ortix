@@ -42,7 +42,7 @@ E funziona **senza fiducia. Solo verifica.**
 1. [[Bitcoin/Mining/⚙️  Proof of Work\|⚙️  Proof of Work]] → protegge la rete  
 2. [[Full Node\|Full Node]] → verifica le regole  
 3. [[Bitcoin/Wallet/🧭 Wallet Index\|🧭 Wallet Index]] → interagisci con la rete  
-4. [[Bitcoin/🧠 Seed Phrase\|🧠 Seed Phrase]] → possiedi le tue chiavi  
+4. [[Bitcoin/Wallet/🧠 Seed Phrase\|Bitcoin/Wallet/🧠 Seed Phrase]] → possiedi le tue chiavi  
 5. [[Bitcoin/Lightning Network/⚡ Lightning Network\|⚡ Lightning Network]] → paghi in tempo reale
 
 🎯 Ogni pezzo funziona **senza permessi**.  

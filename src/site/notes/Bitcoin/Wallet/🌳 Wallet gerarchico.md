@@ -78,4 +78,4 @@ senza mai uscire dal tuo schema mentale, senza perdere il controllo.
 
 ---
 
-🔗 _Approfondisci con [[Bitcoin/🧠 Seed Phrase\|🧠 Seed Phrase]], [[Bitcoin/Cold Storage\|Cold Storage]], [[Bitcoin/Wallet/🔐 Multisig\|🔐 Multisig]], [[Bitcoin/Wallet/🪨 Steelwallet\|Bitcoin/Wallet/🪨 Steelwallet]], [[Bitcoin/Wallet/🧭 Wallet Index\|🧭 Wallet Index]], [[Bitcoin/Wallet/🔐 Self-custody\|🔐 Self-custody]]_
+🔗 _Approfondisci con [[Bitcoin/Wallet/🧠 Seed Phrase\|Bitcoin/Wallet/🧠 Seed Phrase]], [[Bitcoin/Cold Storage\|Cold Storage]], [[Bitcoin/Wallet/🔐 Multisig\|🔐 Multisig]], [[Bitcoin/Wallet/🪨 Steelwallet\|Bitcoin/Wallet/🪨 Steelwallet]], [[Bitcoin/Wallet/🧭 Wallet Index\|🧭 Wallet Index]], [[Bitcoin/Wallet/🔐 Self-custody\|🔐 Self-custody]]_

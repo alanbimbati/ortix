@@ -43,7 +43,7 @@ quando due forme di denaro **coesistono** legalmente (es. carta e oro), le perso
 - Incensurabile  
 - Scarso, divisibile, inarrestabile  
 - Sempre più accettato e desiderato
-- [[Bitcoin/🥇Bitcoin è oro digitale\|🥇Bitcoin è oro digitale]]
+- [[Bitcoin/Economia/🥇Bitcoin è oro digitale\|🥇Bitcoin è oro digitale]]
 
 ---
 

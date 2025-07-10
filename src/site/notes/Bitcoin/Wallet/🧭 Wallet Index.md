@@ -27,13 +27,13 @@
 
 👉 Per ogni wallet trovi un post dedicato con dettagli, pro, contro, esempi e link:
 
-- 🟠 [[Bitcoin/Wallet/🟠 Wallet of Satoshi\|🟠 Wallet of Satoshi]] – Lightning custodial, semplicissimo  
-- 🔥 [[Bitcoin/Wallet/🕊 Phoenix Wallet\|🕊 Phoenix Wallet]] – Lightning non-custodial con canali automatici  
-- 🔵 [[Bitcoin/Wallet/🔵 BlueWallet\|🔵 BlueWallet]] – Ibrido, versatile, multi-wallet  
-- 🐦 [[Bitcoin/Wallet/🐦 Sparrow Wallet\|🐦 Sparrow Wallet]]– On-chain avanzato, CoinJoin, PSBT  
-- 🟧 [[Bitcoin/Wallet/✍️ SeedSigner\|✍️ SeedSigner]] – Airgapped, senza memoria, sicurezza estrema  
-- ❄️ [[Bitcoin/Wallet/❄️ Coldcard\|❄️ Coldcard]] – Hardware wallet solo BTC, firma offline  
-- ⚡ [[Bitcoin/Wallet/⚡ Electrum\|⚡ Electrum]] – On-chain desktop, multisig e fee custom  
+-  [[Bitcoin/Wallet/🟠 Wallet of Satoshi\|🟠 Wallet of Satoshi]] – Lightning custodial, semplicissimo  
+-  [[Bitcoin/Wallet/🕊 Phoenix Wallet\|🕊 Phoenix Wallet]] – Lightning non-custodial con canali automatici  
+-  [[Bitcoin/Wallet/🔵 BlueWallet\|🔵 BlueWallet]] – Ibrido, versatile, multi-wallet  
+-  [[Bitcoin/Wallet/🐦 Sparrow Wallet\|🐦 Sparrow Wallet]]– On-chain avanzato, CoinJoin, PSBT  
+-  [[Bitcoin/Wallet/✍️ SeedSigner\|✍️ SeedSigner]] – Airgapped, senza memoria, sicurezza estrema  
+-  [[Bitcoin/Wallet/❄️ Coldcard\|❄️ Coldcard]] – Hardware wallet solo BTC, firma offline  
+-  [[Bitcoin/Wallet/⚡ Electrum\|⚡ Electrum]] – On-chain desktop, multisig e fee custom  
 
 ---
 

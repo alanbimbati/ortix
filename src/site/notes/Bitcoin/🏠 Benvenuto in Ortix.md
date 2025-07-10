@@ -13,38 +13,38 @@ Ogni pagina è una tessera che ti aiuta a capire, esplorare e difendere la tua l
 
 ## 🟠 **Bitcoin: la rivoluzione monetaria**
 
-📌 [[Bitcoin/🟠 Bitcoin\|🟠 Bitcoin]]  
-📜 [[Bitcoin/💰 Le 6 caratteristiche del vero denaro\|💰 Le 6 caratteristiche del vero denaro]]  
+ [[Bitcoin/🟠 Bitcoin\|🟠 Bitcoin]]  
+ [[Bitcoin/Economia/💰 Le 6 caratteristiche del vero denaro\|💰 Le 6 caratteristiche del vero denaro]]  
 💣 [[Bitcoin/Economia/📉 Inflazione\|Bitcoin/Economia/📉 Inflazione]]  
-📉 [[Bitcoin/Economia/🏛️ Stato e Moneta\|🏛️ Stato e Moneta]]  
-⚙️ [[Bitcoin/Mining/⚙️  Proof of Work\|⚙️  Proof of Work]]  
-⛏️ [[Bitcoin/Mining/⛏️ Mining\|⛏️ Mining]] / [[Bitcoin/Mining/🌱 Mining Green\|🌱 Mining Green]]  
-✌️ [[Bitcoin/Filosofia/☮️ Bitcoin disincentiva le guerre\|☮️ Bitcoin disincentiva le guerre]]  
-🧪 [[Bitcoin/Filosofia/🔺 Il Trilemma\|🔺 Il Trilemma]] / [[Bitcoin/Lightning Network/⚡ Scalabilità di Lightning Network\|⚡ Scalabilità di Lightning Network]]  
-🌍 [[Bitcoin/Filosofia/🕸️ Decentralizzazione\|🕸️ Decentralizzazione]]  
-📚 [[Bitcoin/Economia/⚖️ Legge di Gresham\|⚖️ Legge di Gresham]]
+ [[Bitcoin/Economia/🏛️ Stato e Moneta\|🏛️ Stato e Moneta]]  
+ [[Bitcoin/Mining/⚙️  Proof of Work\|⚙️  Proof of Work]]  
+ [[Bitcoin/Mining/⛏️ Mining\|⛏️ Mining]] / [[Bitcoin/Mining/🌱 Mining Green\|🌱 Mining Green]]  
+ [[Bitcoin/Filosofia/☮️ Bitcoin disincentiva le guerre\|☮️ Bitcoin disincentiva le guerre]]  
+ [[Bitcoin/Filosofia/🔺 Il Trilemma\|🔺 Il Trilemma]] / [[Bitcoin/Lightning Network/⚡ Scalabilità di Lightning Network\|⚡ Scalabilità di Lightning Network]]  
+ [[Bitcoin/Filosofia/🕸️ Decentralizzazione\|🕸️ Decentralizzazione]]  
+ [[Bitcoin/Economia/⚖️ Legge di Gresham\|⚖️ Legge di Gresham]]
 
 ---
 
 ## 🔐 **Self-Custody & Sicurezza**
 
-🧠 [[Bitcoin/🧠 Seed Phrase\|🧠 Seed Phrase]]  
+🧠 [[Bitcoin/Wallet/🧠 Seed Phrase\|Bitcoin/Wallet/🧠 Seed Phrase]]  
 🔏 [[25ª parola (passphrase)\|25ª parola (passphrase)]]  
-🌳 [[Bitcoin/Wallet/🌳 Wallet gerarchico\|🌳 Wallet gerarchico]]  
-🪙 [[Bitcoin/Wallet/🧭 Wallet Index\|🧭 Wallet Index]]  
+ [[Bitcoin/Wallet/🌳 Wallet gerarchico\|🌳 Wallet gerarchico]]  
+ [[Bitcoin/Wallet/🧭 Wallet Index\|🧭 Wallet Index]]  
 🧊 [[Bitcoin/Cold Storage\|Cold Storage]]  
 🧱 [[Bitcoin/Wallet/🪨 Steelwallet\|Bitcoin/Wallet/🪨 Steelwallet]]  
-🔑 [[Bitcoin/Wallet/🔐 Multisig\|🔐 Multisig]]  
-📤 [[Bitcoin/Wallet/✍️ PSBT\|✍️ PSBT]]  
-🔄 [[Bitcoin/Wallet/🌀 CoinJoin\|🌀 CoinJoin]]
+ [[Bitcoin/Wallet/🔐 Multisig\|🔐 Multisig]]  
+ [[Bitcoin/Wallet/✍️ PSBT\|✍️ PSBT]]  
+ [[Bitcoin/Wallet/🌀 CoinJoin\|🌀 CoinJoin]]
 
 ---
 
 ## ⚡ **Lightning Network & Layer 2**
 
-📡 [[Bitcoin/Lightning Network/⚡ Lightning Network\|⚡ Lightning Network]]  
-🧩 [[Bitcoin/Lightning Network/🧱 Layer 2\|🧱 Layer 2]]  
-⚖️ [[Bitcoin/Lightning Network/⚡ Scalabilità di Lightning Network\|⚡ Scalabilità di Lightning Network]]  
+ [[Bitcoin/Lightning Network/⚡ Lightning Network\|⚡ Lightning Network]]  
+ [[Bitcoin/Lightning Network/🧱 Layer 2\|🧱 Layer 2]]  
+ [[Bitcoin/Lightning Network/⚡ Scalabilità di Lightning Network\|⚡ Scalabilità di Lightning Network]]  
 🚀 Wallet Lightning:
 - [[Bitcoin/Wallet/🕊 Phoenix Wallet\|🕊 Phoenix Wallet]]
 - [[Breez\|Breez]]
@@ -56,8 +56,8 @@ Ogni pagina è una tessera che ti aiuta a capire, esplorare e difendere la tua l
 ## 🕵️ **Privacy & Libertà**
 
 [[Bitcoin/Filosofia/🕵️‍♂️ Privacy\|🕵️‍♂️ Privacy]]  
-❌ [[Bitcoin/Filosofia/🕵️‍♂️  KYC e sorveglianza finanziaria\|🕵️‍♂️  KYC e sorveglianza finanziaria]]  
-🎭 [[Bitcoin/Wallet/🌀 CoinJoin\|🌀 CoinJoin]]  
+ [[Bitcoin/Filosofia/🕵️‍♂️  KYC e sorveglianza finanziaria\|🕵️‍♂️  KYC e sorveglianza finanziaria]]  
+ [[Bitcoin/Wallet/🌀 CoinJoin\|🌀 CoinJoin]]  
  [[Bitcoin/📡 Nostr\|📡 Nostr]]  
  [[Bitcoin/🧬 Open Source\|🧬 Open Source]]  
 [[Ortix/🧭 Sovranità Digitale\|🧭 Sovranità Digitale]]
@@ -77,7 +77,7 @@ Ogni pagina è una tessera che ti aiuta a capire, esplorare e difendere la tua l
 
 ## 🗺️ **Esplora**
 
-🔗 [[Bitcoin/Wallet/🧭 Wallet Index\|🧭 Wallet Index]]  
+ [[Bitcoin/Wallet/🧭 Wallet Index\|🧭 Wallet Index]]  
 📚 [[Filosofia del denaro\|Filosofia del denaro]]  
 🛡️ [[Bitcoin/Wallet/🔐 Self-custody\|🔐 Self-custody]]  
 📦 [[Open Source Toolkit\|Open Source Toolkit]]  

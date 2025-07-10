@@ -76,4 +76,4 @@ E offre un’alternativa: **risparmiare in una moneta che rispetta il tuo lavoro
 
 ---
 
-🔗 _Approfondisci con [[Bitcoin/🥇Bitcoin è oro digitale\|🥇Bitcoin è oro digitale]], [[Bitcoin/Economia/🏛️ Stato e Moneta\|🏛️ Stato e Moneta]], [[Idee/Bitcoin/Self-custody\|Idee/Bitcoin/Self-custody]], [[Proof of Work\|Proof of Work]], [[Bitcoin/Filosofia/☮️ Bitcoin disincentiva le guerre\|☮️ Bitcoin disincentiva le guerre]]_
+🔗 _Approfondisci con [[Bitcoin/Economia/🥇Bitcoin è oro digitale\|🥇Bitcoin è oro digitale]], [[Bitcoin/Economia/🏛️ Stato e Moneta\|🏛️ Stato e Moneta]], [[Idee/Bitcoin/Self-custody\|Idee/Bitcoin/Self-custody]], [[Proof of Work\|Proof of Work]], [[Bitcoin/Filosofia/☮️ Bitcoin disincentiva le guerre\|☮️ Bitcoin disincentiva le guerre]]_

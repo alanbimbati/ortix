@@ -46,7 +46,7 @@ Se tutti usano strumenti tracciabili, anche tu vieni compromesso.
 - Sincronizza i tuoi dati con [[Ortix/🔄 Syncthing\|🔄 Syncthing]]  
 - Evita KYC dove puoi (vedi: [[Bitcoin/Filosofia/🕵️‍♂️  KYC e sorveglianza finanziaria\|🕵️‍♂️  KYC e sorveglianza finanziaria]])  
 - Usa [[Bitcoin/Wallet/🧭 Wallet Index\|🧭 Wallet Index]] non custodial  
-- Tieni la tua [[Bitcoin/🧠 Seed Phrase\|🧠 Seed Phrase]] offline  
+- Tieni la tua [[Bitcoin/Wallet/🧠 Seed Phrase\|Bitcoin/Wallet/🧠 Seed Phrase]] offline  
 - Chatta con app libere (es. Session, SimpleX, Nostr)
 
 🔐 Non è paranoia.  
