@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/cold-storage/","title":"❄️ Cold Storage: quando i tuoi sats vanno in letargo","tags":["Bitcoin","ColdStorage","Sicurezza","Wallet","SelfCustody"]}
+{"dg-publish":true,"permalink":"/idee/bitcoin/cold-storage/","title":"❄️ Cold Storage: quando i tuoi sats vanno in letargo","tags":["Bitcoin","ColdStorage","Sicurezza","Wallet","SelfCustody"]}
 ---
 
 
@@ -20,8 +20,8 @@ Né Wi-Fi, né Bluetooth, né cloud.
 Solo **aria gelida, carta, metallo e silenzio digitale.**
 
 Può assumere varie forme:
-- [[Bitcoin/Wallet/❄️ Coldcard\|❄️ Coldcard]] o altri **wallet hardware airgapped**
-- [[Bitcoin/Wallet/✍️ SeedSigner\|✍️ SeedSigner]] e **firmware temporanei**
+- [[Idee/Bitcoin/Coldcard\|Coldcard]] o altri **wallet hardware airgapped**
+- [[Idee/Bitcoin/SeedSigner\|Idee/Bitcoin/SeedSigner]] e **firmware temporanei**
 - Una **seed scritta su carta o metallo**, offline
 - Una **wallet multisig** distribuita geograficamente
 
@@ -42,7 +42,7 @@ Può assumere varie forme:
 
 - Non fotografare mai la tua seed  
 - Non digitarla su tastiere collegate a internet  
-- Usa **backup fisici** su acciaio (es. [[Bitcoin/Wallet/🪨 Steelwallet\|Bitcoin/Wallet/🪨 Steelwallet]], Cryptosteel)  
+- Usa **backup fisici** su acciaio (es. [[Idee/Bitcoin/🪨 Steelwallet\|Idee/Bitcoin/🪨 Steelwallet]], Cryptosteel)  
 - Considera una **wallet multisig** per evitare il single point of failure
 
 📋 E ricordati: **la sicurezza non è un’app, è un processo**.
@@ -69,4 +69,4 @@ Nessuno può prenderli. Nessuno può vederli.
 
 ---
 
-🔗 _Approfondisci con [[Bitcoin/Wallet/🔐 Self-custody\|🔐 Self-custody]], [[Bitcoin/Wallet/✍️ SeedSigner\|✍️ SeedSigner]], [[Bitcoin/Wallet/❄️ Coldcard\|❄️ Coldcard]], [[Bitcoin/Wallet/🔐 Multisig\|🔐 Multisig]], [[Bitcoin/Wallet/🪨 Steelwallet\|Bitcoin/Wallet/🪨 Steelwallet]]_
+🔗 _Approfondisci con [[Idee/Bitcoin/Self-custody\|Idee/Bitcoin/Self-custody]], [[Idee/Bitcoin/SeedSigner\|Idee/Bitcoin/SeedSigner]], [[Idee/Bitcoin/Coldcard\|Coldcard]], [[Idee/Bitcoin/Multisig\|Idee/Bitcoin/Multisig]], [[Idee/Bitcoin/🪨 Steelwallet\|Idee/Bitcoin/🪨 Steelwallet]]_

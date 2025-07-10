@@ -15,14 +15,14 @@ Ogni pagina è una tessera che ti aiuta a capire, esplorare e difendere la tua l
 
 📌 [[Bitcoin/🟠 Bitcoin\|🟠 Bitcoin]]  
 📜 [[Bitcoin/💰 Le 6 caratteristiche del vero denaro\|💰 Le 6 caratteristiche del vero denaro]]  
-💣 [[Bitcoin/📉 Inflazione\|📉 Inflazione]]  
-📉 [[Bitcoin/🏛️ Stato e Moneta\|🏛️ Stato e Moneta]]  
-⚙️ [[Bitcoin/⚙️  Proof of Work\|⚙️  Proof of Work]]  
+💣 [[Bitcoin/Economia/📉 Inflazione\|Bitcoin/Economia/📉 Inflazione]]  
+📉 [[Bitcoin/Economia/🏛️ Stato e Moneta\|🏛️ Stato e Moneta]]  
+⚙️ [[Bitcoin/Mining/⚙️  Proof of Work\|⚙️  Proof of Work]]  
 ⛏️ [[Bitcoin/Mining/⛏️ Mining\|⛏️ Mining]] / [[Bitcoin/Mining/🌱 Mining Green\|🌱 Mining Green]]  
 ✌️ [[Bitcoin/Filosofia/☮️ Bitcoin disincentiva le guerre\|☮️ Bitcoin disincentiva le guerre]]  
 🧪 [[Bitcoin/Filosofia/🔺 Il Trilemma\|🔺 Il Trilemma]] / [[Bitcoin/Lightning Network/⚡ Scalabilità di Lightning Network\|⚡ Scalabilità di Lightning Network]]  
-🌍 [[Bitcoin/🕸️ Decentralizzazione\|🕸️ Decentralizzazione]]  
-📚 [[Bitcoin/⚖️ Legge di Gresham\|⚖️ Legge di Gresham]]
+🌍 [[Bitcoin/Filosofia/🕸️ Decentralizzazione\|🕸️ Decentralizzazione]]  
+📚 [[Bitcoin/Economia/⚖️ Legge di Gresham\|⚖️ Legge di Gresham]]
 
 ---
 
@@ -33,31 +33,31 @@ Ogni pagina è una tessera che ti aiuta a capire, esplorare e difendere la tua l
 🌳 [[Bitcoin/Wallet/🌳 Wallet gerarchico\|🌳 Wallet gerarchico]]  
 🪙 [[Bitcoin/Wallet/🧭 Wallet Index\|🧭 Wallet Index]]  
 🧊 [[Bitcoin/Cold Storage\|Cold Storage]]  
-🧱 [[Bitcoin/Wallet/Steelwallet\|Steelwallet]]  
-🔑 [[Bitcoin/Multisig\|Multisig]]  
-📤 [[Bitcoin/PSBT\|Psbt]]  
-🔄 [[Bitcoin/🌀 CoinJoin\|🌀 CoinJoin]]
+🧱 [[Bitcoin/Wallet/🪨 Steelwallet\|Bitcoin/Wallet/🪨 Steelwallet]]  
+🔑 [[Bitcoin/Wallet/🔐 Multisig\|🔐 Multisig]]  
+📤 [[Bitcoin/Wallet/✍️ PSBT\|✍️ PSBT]]  
+🔄 [[Bitcoin/Wallet/🌀 CoinJoin\|🌀 CoinJoin]]
 
 ---
 
 ## ⚡ **Lightning Network & Layer 2**
 
-📡 [[Bitcoin/⚡ Lightning Network\|⚡ Lightning Network]]  
-🧩 [[Bitcoin/🧱 Layer 2\|🧱 Layer 2]]  
+📡 [[Bitcoin/Lightning Network/⚡ Lightning Network\|⚡ Lightning Network]]  
+🧩 [[Bitcoin/Lightning Network/🧱 Layer 2\|🧱 Layer 2]]  
 ⚖️ [[Bitcoin/Lightning Network/⚡ Scalabilità di Lightning Network\|⚡ Scalabilità di Lightning Network]]  
 🚀 Wallet Lightning:
-- [[Bitcoin/Phoenix Wallet\|Phoenix Wallet]]
+- [[Bitcoin/Wallet/🕊 Phoenix Wallet\|🕊 Phoenix Wallet]]
 - [[Breez\|Breez]]
-- [[Bitcoin/Wallet/Wallet of Satoshi\|Wallet of Satoshi]]
+- [[Bitcoin/Wallet/🟠 Wallet of Satoshi\|🟠 Wallet of Satoshi]]
 - [[Zeus\|Zeus]]
 
 ---
 
 ## 🕵️ **Privacy & Libertà**
 
-[[Bitcoin/🕵️‍♂️ Privacy\|🕵️‍♂️ Privacy]]  
-❌ [[Bitcoin/🕵️‍♂️  KYC e sorveglianza finanziaria\|🕵️‍♂️  KYC e sorveglianza finanziaria]]  
-🎭 [[Bitcoin/🌀 CoinJoin\|🌀 CoinJoin]]  
+[[Bitcoin/Filosofia/🕵️‍♂️ Privacy\|🕵️‍♂️ Privacy]]  
+❌ [[Bitcoin/Filosofia/🕵️‍♂️  KYC e sorveglianza finanziaria\|🕵️‍♂️  KYC e sorveglianza finanziaria]]  
+🎭 [[Bitcoin/Wallet/🌀 CoinJoin\|🌀 CoinJoin]]  
  [[Bitcoin/📡 Nostr\|📡 Nostr]]  
  [[Bitcoin/🧬 Open Source\|🧬 Open Source]]  
 [[Ortix/🧭 Sovranità Digitale\|🧭 Sovranità Digitale]]
@@ -79,7 +79,7 @@ Ogni pagina è una tessera che ti aiuta a capire, esplorare e difendere la tua l
 
 🔗 [[Bitcoin/Wallet/🧭 Wallet Index\|🧭 Wallet Index]]  
 📚 [[Filosofia del denaro\|Filosofia del denaro]]  
-🛡️ [[Bitcoin/Self-custody\|Self-custody]]  
+🛡️ [[Bitcoin/Wallet/🔐 Self-custody\|🔐 Self-custody]]  
 📦 [[Open Source Toolkit\|Open Source Toolkit]]  
 🧭 [[Sovranità Digitale Toolkit\|Sovranità Digitale Toolkit]] 
 

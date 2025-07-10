@@ -39,7 +39,7 @@ Funziona in modo leggero e veloce, **senza dover scaricare tutta la blockchain**
 - Modalità **offline signing** (PSBT)  
 - **Cold storage** supportato  
 - Multisig configurabile (2-of-3, 3-of-5, ecc.)  
-- Compatibile con: [[Bitcoin/❄️ Coldcard\|❄️ Coldcard]], Trezor, Ledger, [[Bitcoin/SeedSigner\|SeedSigner]]
+- Compatibile con: [[Bitcoin/Wallet/❄️ Coldcard\|❄️ Coldcard]], Trezor, Ledger, [[Bitcoin/Wallet/✍️ SeedSigner\|✍️ SeedSigner]]
 
 💡 E per utenti avanzati: puoi anche **scriptare transazioni via terminale**.
 
@@ -68,4 +68,4 @@ Se ti piace sapere cosa sta succedendo sotto il cofano,
 
 🔗 _Sito ufficiale: [electrum.org](https://electrum.org)_
 
-📎 _Vedi anche: [[Bitcoin/❄️ Coldcard\|❄️ Coldcard]], [[Bitcoin/SeedSigner\|SeedSigner]], [[Bitcoin/PSBT\|PSBT]], [[Bitcoin/Multisig\|Multisig]], [[Bitcoin/Self-custody\|Self-custody]]_
+📎 _Vedi anche: [[Bitcoin/Wallet/❄️ Coldcard\|❄️ Coldcard]], [[Bitcoin/Wallet/✍️ SeedSigner\|✍️ SeedSigner]], [[Bitcoin/Wallet/✍️ PSBT\|✍️ PSBT]], [[Bitcoin/Wallet/🔐 Multisig\|🔐 Multisig]], [[Bitcoin/Wallet/🔐 Self-custody\|🔐 Self-custody]]_

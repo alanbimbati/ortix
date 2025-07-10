@@ -56,7 +56,7 @@ Ma **senza Visa.**
 - Maggiore **liquidità** tra i canali  
 - Interfacce più semplici per i nuovi utenti  
 - Incentivi economici più chiari per chi fornisce routing  
-- Integrazione con [[Bitcoin/Cold Storage\|Cold Storage]] e [[Bitcoin/Self-custody\|Self-custody]] più user-friendly
+- Integrazione con [[Bitcoin/Cold Storage\|Cold Storage]] e [[Bitcoin/Wallet/🔐 Self-custody\|🔐 Self-custody]] più user-friendly
 
 🎯 Ma ogni giorno Lightning cresce. E migliora.
 
@@ -74,4 +74,4 @@ Ma costruendo **strati sopra**, con intelligenza e coerenza.
 
 ---
 
-🔗 _Approfondisci con [[Bitcoin/⚡ Lightning Network\|⚡ Lightning Network]], [[Bitcoin/Phoenix Wallet\|Phoenix Wallet]], [[Routing\|Routing]], [[Bitcoin/Self-custody\|Self-custody]], [[Bitcoin/Wallet/🧭 Wallet Index\|🧭 Wallet Index]]
+🔗 _Approfondisci con [[Bitcoin/Lightning Network/⚡ Lightning Network\|⚡ Lightning Network]], [[Bitcoin/Wallet/🕊 Phoenix Wallet\|🕊 Phoenix Wallet]], [[Routing\|Routing]], [[Bitcoin/Wallet/🔐 Self-custody\|🔐 Self-custody]], [[Bitcoin/Wallet/🧭 Wallet Index\|🧭 Wallet Index]]

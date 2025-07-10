@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/seed-phrase/","title":"🧠 Seed Phrase: 12 parole per tutta la tua libertà","tags":["Bitcoin","Wallet","SeedPhrase","SelfCustody","Sicurezza","ColdStorage"]}
+{"dg-publish":true,"permalink":"/idee/bitcoin/seed-phrase/","title":"🧠 Seed Phrase: 12 parole per tutta la tua libertà","tags":["Bitcoin","Wallet","SeedPhrase","SelfCustody","Sicurezza","ColdStorage"]}
 ---
 
 
@@ -50,7 +50,7 @@ museum sand fabric token window label raccoon ball wealth picnic rubber drive
 | Metodo        | Sicurezza | Note                           |
 |---------------|-----------|--------------------------------|
 | Carta         | ⚠️ Media | Facile da bruciare o bagnare   |
-| [[Bitcoin/Wallet/🪨 Steelwallet\|Bitcoin/Wallet/🪨 Steelwallet]] | ✅ Alta  | Resiste a fuoco e acqua        |
+| [[Idee/Bitcoin/🪨 Steelwallet\|Idee/Bitcoin/🪨 Steelwallet]] | ✅ Alta  | Resiste a fuoco e acqua        |
 | Memoria (parziale) | ⚠️ Rischioso | Meglio come backup secondario |
 | Shamir / Multisig | ✅ Alta  | Per utenti avanzati           |
 
@@ -78,5 +78,5 @@ Chi la protegge, protegge la propria libertà.
 
 ---
 
-🔗 _Approfondisci con [[Bitcoin/Cold Storage\|Cold Storage]], [[Bitcoin/Wallet/🔐 Multisig\|🔐 Multisig]], [[BIP85\|BIP85]], [[25ª parola\|25ª parola]], [[Bitcoin/Wallet/🔐 Self-custody\|🔐 Self-custody]], [[Bitcoin/Wallet/🧭 Wallet Index\|🧭 Wallet Index]], [[Bitcoin/Wallet/🪨 Steelwallet\|Bitcoin/Wallet/🪨 Steelwallet]]_
+🔗 _Approfondisci con [[Idee/Bitcoin/Cold Storage\|Cold Storage]], [[Idee/Bitcoin/Multisig\|Idee/Bitcoin/Multisig]], [[BIP85\|BIP85]], [[25ª parola\|25ª parola]], [[Idee/Bitcoin/Self-custody\|Idee/Bitcoin/Self-custody]], [[Bitcoin/Wallet/🧭 Wallet Index\|🧭 Wallet Index]], [[Idee/Bitcoin/🪨 Steelwallet\|Idee/Bitcoin/🪨 Steelwallet]]_
 

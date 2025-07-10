@@ -68,4 +68,4 @@ Liberati dalle catene dei servizi centralizzati.
 
 ---
 
-🔗 _Approfondisci con [[Ortix/🔄 Syncthing\|🔄 Syncthing]], [[Bitcoin/Self-custody\|Self-custody]], [[Bitcoin/🕵️‍♂️ Privacy\|🕵️‍♂️ Privacy]], [[Bitcoin/🧬 Open Source\|🧬 Open Source]], [[Backup decentralizzato\|Backup decentralizzato]], [[Bitcoin/🔄 Obsidian Syncthing\|🔄 Obsidian Syncthing]]_
+🔗 _Approfondisci con [[Ortix/🔄 Syncthing\|🔄 Syncthing]], [[Bitcoin/Wallet/🔐 Self-custody\|🔐 Self-custody]], [[Bitcoin/Filosofia/🕵️‍♂️ Privacy\|🕵️‍♂️ Privacy]], [[Bitcoin/🧬 Open Source\|🧬 Open Source]], [[Backup decentralizzato\|Backup decentralizzato]], [[Bitcoin/🔄 Obsidian Syncthing\|🔄 Obsidian Syncthing]]_

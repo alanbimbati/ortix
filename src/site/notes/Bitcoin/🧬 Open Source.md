@@ -63,7 +63,7 @@ Se sai leggere, **puoi capire cosa fa davvero.**
 🌱 **Perché scegliere open source nella vita quotidiana**
 
 - Eviti lock-in e dipendenza da big tech  
-- Proteggi la tua [[Bitcoin/🕵️‍♂️ Privacy\|🕵️‍♂️ Privacy]] e i tuoi dati  
+- Proteggi la tua [[Bitcoin/Filosofia/🕵️‍♂️ Privacy\|🕵️‍♂️ Privacy]] e i tuoi dati  
 - Sostieni progetti costruiti **da persone per le persone**  
 - Aiuti la creazione di **alternative etiche e decentralizzate**
 
@@ -75,11 +75,11 @@ E tu puoi farne parte.
 🔥 **Conclusione**
 
 🧬 L'open source è **il codice ella libertà**.  
-È la base tecnica della [[Bitcoin/🕸️ Decentralizzazione\|🕸️ Decentralizzazione]] e della [[Bitcoin/Self-custody\|Self-custody]].
+È la base tecnica della [[Bitcoin/Filosofia/🕸️ Decentralizzazione\|🕸️ Decentralizzazione]] e della [[Bitcoin/Wallet/🔐 Self-custody\|🔐 Self-custody]].
 
 📖 Se il software è legge,  
 **meglio una legge leggibile, replicabile e giusta.**
 
 ---
 
-🔗 _Approfondisci con [[Bitcoin/🟠 Bitcoin\|🟠 Bitcoin]], [[Ortix/🔄 Syncthing\|🔄 Syncthing]], [[Ortix/🖼️ Aves\|🖼️ Aves]], [[Bitcoin/📡 Nostr\|📡 Nostr]], [[Bitcoin/🕵️‍♂️ Privacy\|🕵️‍♂️ Privacy]], [[Sovranità Digitale\|Sovranità Digitale]], [[Bitcoin/Wallet/🧭 Wallet Index\|🧭 Wallet Index]]_
+🔗 _Approfondisci con [[Bitcoin/🟠 Bitcoin\|🟠 Bitcoin]], [[Ortix/🔄 Syncthing\|🔄 Syncthing]], [[Ortix/🖼️ Aves\|🖼️ Aves]], [[Bitcoin/📡 Nostr\|📡 Nostr]], [[Bitcoin/Filosofia/🕵️‍♂️ Privacy\|🕵️‍♂️ Privacy]], [[Sovranità Digitale\|Sovranità Digitale]], [[Bitcoin/Wallet/🧭 Wallet Index\|🧭 Wallet Index]]_

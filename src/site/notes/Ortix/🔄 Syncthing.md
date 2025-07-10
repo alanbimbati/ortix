@@ -68,4 +68,4 @@ solo **privacy e controllo totali**.
 
 ---
 
-🔗 _Approfondisci con [[Bitcoin/Self-custody\|Self-custody]], [[Bitcoin/🔄 Obsidian Syncthing\|🔄 Obsidian Syncthing]], [[Decentralizzazione\|Decentralizzazione]], [[Backup\|Backup]], [[Bitcoin/🕵️‍♂️ Privacy\|🕵️‍♂️ Privacy]]_
+🔗 _Approfondisci con [[Bitcoin/Wallet/🔐 Self-custody\|🔐 Self-custody]], [[Bitcoin/🔄 Obsidian Syncthing\|🔄 Obsidian Syncthing]], [[Decentralizzazione\|Decentralizzazione]], [[Backup\|Backup]], [[Bitcoin/Filosofia/🕵️‍♂️ Privacy\|🕵️‍♂️ Privacy]]_

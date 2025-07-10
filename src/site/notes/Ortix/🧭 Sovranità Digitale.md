@@ -27,8 +27,8 @@ Senza filtri invisibili. Senza permessi da chiedere.
 
 | Pilastro         | Strumento consigliato               |
 | ---------------- | ----------------------------------- |
-| Valuta           | [[Bitcoin\|Bitcoin]], [[Bitcoin/⚡ Lightning Network\|⚡ Lightning Network]]  |
-| Custodia         | [[Bitcoin/Self-custody\|Self-custody]], [[Bitcoin/Cold Storage\|Cold Storage]]  |
+| Valuta           | [[Bitcoin\|Bitcoin]], [[Bitcoin/Lightning Network/⚡ Lightning Network\|⚡ Lightning Network]]  |
+| Custodia         | [[Bitcoin/Wallet/🔐 Self-custody\|🔐 Self-custody]], [[Bitcoin/Cold Storage\|Cold Storage]]  |
 | Comunicazione    | [[Nostr\|Nostr]], [[SimpleX\|SimpleX]], [[Session\|Session]] |
 | File personali   | [[Ortix/🔄 Syncthing\|🔄 Syncthing]], [[Ortix/🖼️ Aves\|🖼️ Aves]]      |
 | Appunti/idee     | [[Ortix/🔄 Obsidian\|🔄 Obsidian]]                     |

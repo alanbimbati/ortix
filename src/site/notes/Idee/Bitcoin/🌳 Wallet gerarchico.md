@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/wallet/wallet-gerarchico/","title":"🌳 Wallet gerarchico con BIP85: una sola radice, infiniti rami","tags":["Wallet","BIP85","SelfCustody","Sicurezza","Seed","ColdStorage"]}
+{"dg-publish":true,"permalink":"/idee/bitcoin/wallet-gerarchico/","title":"🌳 Wallet gerarchico con BIP85: una sola radice, infiniti rami","tags":["Wallet","BIP85","SelfCustody","Sicurezza","Seed","ColdStorage"]}
 ---
 
 
@@ -51,7 +51,7 @@ Come un albero: 🌱 una radice, mille rami.
 ⚠️ **Attenzione: potere = responsabilità**
 
 🧨 Chi ha la seed master… ha accesso a tutto.  
-Per questo va **protetta con cura assoluta**, meglio in [[Bitcoin/Cold Storage\|Cold Storage]], su carta, acciaio, o meglio ancora con [[Bitcoin/Wallet/🔐 Multisig\|🔐 Multisig]].
+Per questo va **protetta con cura assoluta**, meglio in [[Idee/Bitcoin/Cold Storage\|Cold Storage]], su carta, acciaio, o meglio ancora con [[Idee/Bitcoin/Multisig\|Idee/Bitcoin/Multisig]].
 
 ---
 
@@ -78,4 +78,4 @@ senza mai uscire dal tuo schema mentale, senza perdere il controllo.
 
 ---
 
-🔗 _Approfondisci con [[Bitcoin/🧠 Seed Phrase\|🧠 Seed Phrase]], [[Bitcoin/Cold Storage\|Cold Storage]], [[Bitcoin/Wallet/🔐 Multisig\|🔐 Multisig]], [[Bitcoin/Wallet/🪨 Steelwallet\|Bitcoin/Wallet/🪨 Steelwallet]], [[Bitcoin/Wallet/🧭 Wallet Index\|🧭 Wallet Index]], [[Bitcoin/Wallet/🔐 Self-custody\|🔐 Self-custody]]_
+🔗 _Approfondisci con [[Idee/Bitcoin/🧠 Seed Phrase\|🧠 Seed Phrase]], [[Idee/Bitcoin/Cold Storage\|Cold Storage]], [[Idee/Bitcoin/Multisig\|Idee/Bitcoin/Multisig]], [[Idee/Bitcoin/🪨 Steelwallet\|Idee/Bitcoin/🪨 Steelwallet]], [[Bitcoin/Wallet/🧭 Wallet Index\|🧭 Wallet Index]], [[Idee/Bitcoin/Self-custody\|Idee/Bitcoin/Self-custody]]_

@@ -71,4 +71,4 @@ Ti lascia spazio per crescere, imparare, e diventare un utente sempre più liber
 
 🔗 _Sito ufficiale: [bluewallet.io](https://bluewallet.io)_
 
-📎 _Vedi anche: [[Bitcoin/Phoenix Wallet\|Phoenix Wallet]], [[Bitcoin/Self-custody\|Self-custody]], [[Bitcoin/⚡ Lightning Network\|⚡ Lightning Network]], [[Bitcoin/❄️ Coldcard\|❄️ Coldcard]]_
+📎 _Vedi anche: [[Bitcoin/Wallet/🕊 Phoenix Wallet\|🕊 Phoenix Wallet]], [[Bitcoin/Wallet/🔐 Self-custody\|🔐 Self-custody]], [[Bitcoin/Lightning Network/⚡ Lightning Network\|⚡ Lightning Network]], [[Bitcoin/Wallet/❄️ Coldcard\|❄️ Coldcard]]_

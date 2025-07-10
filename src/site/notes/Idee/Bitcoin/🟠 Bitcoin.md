@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/bitcoin/","title":"🟠 Bitcoin: denaro forte per esseri liberi","tags":["Bitcoin","Libertà","Sovranità","Denaro","ProofOfWork","SelfCustody"]}
+{"dg-publish":true,"permalink":"/idee/bitcoin/bitcoin/","title":"🟠 Bitcoin: denaro forte per esseri liberi","tags":["Bitcoin","Libertà","Sovranità","Denaro","ProofOfWork","SelfCustody"]}
 ---
 
 
@@ -39,11 +39,11 @@ E funziona **senza fiducia. Solo verifica.**
 
 ⚙️ **Come funziona?**
 
-1. [[Bitcoin/Mining/⚙️  Proof of Work\|⚙️  Proof of Work]] → protegge la rete  
+1. [[Proof of Work\|Proof of Work]] → protegge la rete  
 2. [[Full Node\|Full Node]] → verifica le regole  
 3. [[Bitcoin/Wallet/🧭 Wallet Index\|🧭 Wallet Index]] → interagisci con la rete  
-4. [[Bitcoin/🧠 Seed Phrase\|🧠 Seed Phrase]] → possiedi le tue chiavi  
-5. [[Bitcoin/Lightning Network/⚡ Lightning Network\|⚡ Lightning Network]] → paghi in tempo reale
+4. [[Idee/Bitcoin/🧠 Seed Phrase\|🧠 Seed Phrase]] → possiedi le tue chiavi  
+5. [[Lightning Network\|Lightning Network]] → paghi in tempo reale
 
 🎯 Ogni pezzo funziona **senza permessi**.  
 Chiunque può partecipare. Ovunque.
@@ -58,7 +58,7 @@ Chiunque può partecipare. Ovunque.
 - ❌ Una tecnologia neutra da regolamentare
 
 Bitcoin è **politico**, **radicale**, **inalterabile**.  
-È **oro digitale**, ma senza confini, senza custodi, senza elite.
+[[Bitcoin/🥇Bitcoin è oro digitale\|🥇Bitcoin è oro digitale]], ma senza confini, senza custodi, senza elite.
 
 ---
 
@@ -78,9 +78,9 @@ Perché viviamo in un mondo dove:
 
 👣 **Come iniziare**
 
-- Studia → [[Bitcoin/Filosofia/🗽Bitcoin è per tutti\|🗽Bitcoin è per tutti]], [[Bitcoin/Filosofia/🕸️ Decentralizzazione\|🕸️ Decentralizzazione]], [[Bitcoin/Economia/📉 Inflazione\|Bitcoin/Economia/📉 Inflazione]]  
-- Custodisci → [[Bitcoin/Wallet/🔐 Self-custody\|🔐 Self-custody]], [[Bitcoin/Cold Storage\|Cold Storage]], [[Bitcoin/Wallet/🔐 Multisig\|🔐 Multisig]]  
-- Spendi → [[Bitcoin/Lightning Network/⚡ Lightning Network\|⚡ Lightning Network]], [[Bitcoin/Wallet/🧭 Wallet Index\|🧭 Wallet Index]], [[Zap\|Zap]]  
+- Studia → [[Bitcoin/Filosofia/🗽Bitcoin è per tutti\|🗽Bitcoin è per tutti]], [[Bitcoin/Filosofia/🕸️ Decentralizzazione\|🕸️ Decentralizzazione]], [[Idee/Bitcoin/📉 Inflazione\|Idee/Bitcoin/📉 Inflazione]]  
+- Custodisci → [[Idee/Bitcoin/Self-custody\|Idee/Bitcoin/Self-custody]], [[Idee/Bitcoin/Cold Storage\|Cold Storage]], [[Idee/Bitcoin/Multisig\|Idee/Bitcoin/Multisig]]  
+- Spendi → [[Lightning Network\|Lightning Network]], [[Bitcoin/Wallet/🧭 Wallet Index\|🧭 Wallet Index]], [[Zap\|Zap]]  
 - Condividi → [[Bitcoin/📡 Nostr\|📡 Nostr]], [[Filosofia del denaro\|Filosofia del denaro]]
 
 ---
@@ -94,4 +94,4 @@ Puoi solo decidere quando unirti.**
 
 ---
 
-🔗 _Approfondisci con [[Bitcoin/Mining/⚙️  Proof of Work\|⚙️  Proof of Work]], [[Bitcoin/Wallet/🔐 Self-custody\|🔐 Self-custody]], [[Bitcoin/Wallet/🧭 Wallet Index\|🧭 Wallet Index]], [[Bitcoin/Lightning Network/⚡ Lightning Network\|⚡ Lightning Network]], [[Bitcoin/Economia/📉 Inflazione\|Bitcoin/Economia/📉 Inflazione]], [[Bitcoin/Economia/🏛️ Stato e Moneta\|🏛️ Stato e Moneta]], [[Bitcoin/Filosofia/🔺 Il Trilemma\|🔺 Il Trilemma]]_
+🔗 _Approfondisci con [[Proof of Work\|Proof of Work]], [[Idee/Bitcoin/Self-custody\|Idee/Bitcoin/Self-custody]], [[Bitcoin/Wallet/🧭 Wallet Index\|🧭 Wallet Index]], [[Lightning Network\|Lightning Network]], [[Idee/Bitcoin/📉 Inflazione\|Idee/Bitcoin/📉 Inflazione]], [[Bitcoin/Economia/🏛️ Stato e Moneta\|🏛️ Stato e Moneta]], [[Bitcoin/Filosofia/🔺 Il Trilemma\|🔺 Il Trilemma]]_

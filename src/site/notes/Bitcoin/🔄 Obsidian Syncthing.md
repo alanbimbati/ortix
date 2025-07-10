@@ -68,4 +68,4 @@ sincronizzato tra più dispositivi, **senza perdere sovranità.**
 
 ---
 
-🔗 _Approfondisci con [[Ortix/🔄 Syncthing\|🔄 Syncthing]], [[Bitcoin/Self-custody\|Self-custody]], [[Bitcoin/🕵️‍♂️ Privacy\|🕵️‍♂️ Privacy]], [[Obsidian Vault\|Obsidian Vault]], [[Plugin Obsidian\|Plugin Obsidian]], [[Secondo cervello\|Secondo cervello]]_
+🔗 _Approfondisci con [[Ortix/🔄 Syncthing\|🔄 Syncthing]], [[Bitcoin/Wallet/🔐 Self-custody\|🔐 Self-custody]], [[Bitcoin/Filosofia/🕵️‍♂️ Privacy\|🕵️‍♂️ Privacy]], [[Obsidian Vault\|Obsidian Vault]], [[Plugin Obsidian\|Plugin Obsidian]], [[Secondo cervello\|Secondo cervello]]_

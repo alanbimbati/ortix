@@ -24,8 +24,8 @@ Niente Wi-Fi. Niente Bluetooth. Niente porte USB attive. Nessuna connessione.
 
 🧱 **Esempi reali**
 
-- [[Bitcoin/SeedSigner\|SeedSigner]] → fotocamera + QR, nessuna memoria permanente  
-- [[Bitcoin/❄️ Coldcard\|❄️ Coldcard]] → microSD per firmare e trasmettere  
+- [[Bitcoin/Wallet/✍️ SeedSigner\|✍️ SeedSigner]] → fotocamera + QR, nessuna memoria permanente  
+- [[Bitcoin/Wallet/❄️ Coldcard\|❄️ Coldcard]] → microSD per firmare e trasmettere  
 - Laptop con [[Bitcoin/Wallet/⚡ Electrum\|⚡ Electrum]] offline e chiavetta USB (se configurato bene)
 
 ---
@@ -52,4 +52,4 @@ Niente Wi-Fi. Niente Bluetooth. Niente porte USB attive. Nessuna connessione.
 
 ---
 
-🔗 _Vedi anche: [[Bitcoin/PSBT\|PSBT]], [[Bitcoin/SeedSigner\|SeedSigner]], [[Bitcoin/❄️ Coldcard\|❄️ Coldcard]], [[Bitcoin/Wallet/🐦 Sparrow Wallet\|🐦 Sparrow Wallet]], [[Bitcoin/Self-custody\|Self-custody]], [[Bitcoin/Cold Storage\|Cold Storage]]_
+🔗 _Vedi anche: [[Bitcoin/Wallet/✍️ PSBT\|✍️ PSBT]], [[Bitcoin/Wallet/✍️ SeedSigner\|✍️ SeedSigner]], [[Bitcoin/Wallet/❄️ Coldcard\|❄️ Coldcard]], [[Bitcoin/Wallet/🐦 Sparrow Wallet\|🐦 Sparrow Wallet]], [[Bitcoin/Wallet/🔐 Self-custody\|🔐 Self-custody]], [[Bitcoin/Cold Storage\|Cold Storage]]_

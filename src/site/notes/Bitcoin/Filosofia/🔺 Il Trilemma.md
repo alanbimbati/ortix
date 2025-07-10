@@ -33,10 +33,10 @@ Bitcoin ha scelto con cura. E ha scelto bene.
 🟠 **Bitcoin ha scelto: Sicurezza + Decentralizzazione**
 
 ❌ Scalabilità on-chain limitata  
-✅ Massima sicurezza (grazie a [[Bitcoin/⚙️  Proof of Work\|⚙️  Proof of Work]])  
+✅ Massima sicurezza (grazie a [[Bitcoin/Mining/⚙️  Proof of Work\|⚙️  Proof of Work]])  
 ✅ Massima decentralizzazione (chiunque può fare un nodo)
 
-🎯 Ma la **scalabilità arriva nel secondo layer**, con [[Bitcoin/⚡ Lightning Network\|⚡ Lightning Network]].
+🎯 Ma la **scalabilità arriva nel secondo layer**, con [[Bitcoin/Lightning Network/⚡ Lightning Network\|⚡ Lightning Network]].
 
 💡 *Bitcoin scala a strati, non a compromessi.*
 
@@ -68,11 +68,11 @@ Costruisce **mattoni solidi** per un futuro durevole.
 
 🔺 Il Trilemma non è un problema. È **una bussola**.  
 Bitcoin l’ha seguita per **restare libero, sicuro e incensurabile**.  
-E con [[Bitcoin/⚡ Lightning Network\|⚡ Lightning Network]], scala **senza tradire i suoi principi.**
+E con [[Bitcoin/Lightning Network/⚡ Lightning Network\|⚡ Lightning Network]], scala **senza tradire i suoi principi.**
 
 🛠️ La buona ingegneria non ignora i limiti.  
 **Li rispetta. E li aggira con intelligenza.**
 
 ---
 
-🔗 _Approfondisci con [[Bitcoin/🕸️ Decentralizzazione\|🕸️ Decentralizzazione]], [[Bitcoin/⚡ Lightning Network\|⚡ Lightning Network]], [[Bitcoin/⚙️  Proof of Work\|⚙️  Proof of Work]], [[Bitcoin/Lightning Network/⚡ Scalabilità di Lightning Network\|⚡ Scalabilità di Lightning Network]], [[Ethereum vs Bitcoin\|Ethereum vs Bitcoin]], [[Bitcoin/Self-custody\|Self-custody]]_
+🔗 _Approfondisci con [[Bitcoin/Filosofia/🕸️ Decentralizzazione\|🕸️ Decentralizzazione]], [[Bitcoin/Lightning Network/⚡ Lightning Network\|⚡ Lightning Network]], [[Bitcoin/Mining/⚙️  Proof of Work\|⚙️  Proof of Work]], [[Bitcoin/Lightning Network/⚡ Scalabilità di Lightning Network\|⚡ Scalabilità di Lightning Network]], [[Ethereum vs Bitcoin\|Ethereum vs Bitcoin]], [[Bitcoin/Wallet/🔐 Self-custody\|🔐 Self-custody]]_
