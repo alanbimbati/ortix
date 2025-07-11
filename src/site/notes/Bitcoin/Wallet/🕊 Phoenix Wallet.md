@@ -55,4 +55,4 @@ La tua seed recupera *tutto*.
 
 🔗 _Scaricalo su [phoenix.acinq.co](https://phoenix.acinq.co)_
 
-📎 _Vedi anche: [[Bitcoin\|Bitcoin]], [[Bitcoin/Wallet/🧭 Wallet Index\|🧭 Wallet Index]],[[Bitcoin/Wallet/🔐 Self-custody\|🔐 Self-custody]] [[Bitcoin/Lightning Network/⚡ Lightning Network\|⚡ Lightning Network]], [[Bitcoin/Wallet/❄️ Coldcard\|❄️ Coldcard]]_
+📎 _Vedi anche: [[Bitcoin/Bitcoin\|Bitcoin]], [[Bitcoin/Wallet/🧭 Wallet Index\|🧭 Wallet Index]],[[Bitcoin/Wallet/🔐 Self-custody\|🔐 Self-custody]] [[Bitcoin/Lightning Network/⚡ Lightning Network\|⚡ Lightning Network]], [[Bitcoin/Wallet/❄️ Coldcard\|❄️ Coldcard]]_

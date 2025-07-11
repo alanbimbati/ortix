@@ -80,7 +80,7 @@ Uno strato sociale, sopra la libertà monetaria.
 
 🔥 **Conclusione**
 
-📡 Se [[Bitcoin/🟠 Bitcoin\|🟠 Bitcoin]] è una rete di libertà per il denaro,  
+📡 Se [[Bitcoin/Bitcoin\|Bitcoin]] è una rete di libertà per il denaro,  
 **Nostr è la rete di libertà per la voce umana.**
 
 👉 Non è solo un’alternativa a Twitter.  

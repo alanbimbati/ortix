@@ -76,4 +76,4 @@ Lo fa **per convenienza economica**, non per ideologia.
 
 ---
 
-🔗 _Approfondisci con [[Bitcoin/Mining/⚙️  Proof of Work\|⚙️  Proof of Work]], [[Bitcoin/Mining/⛏️ Mining\|⛏️ Mining]], [[Avalon Nano 3S\|Avalon Nano 3S]], [[Bitcoin/Filosofia/☮️ Bitcoin disincentiva le guerre\|☮️ Bitcoin disincentiva le guerre]], [[Bitcoin/Filosofia/🕸️ Decentralizzazione\|🕸️ Decentralizzazione]]_ 
+🔗 _Approfondisci con [[Bitcoin/Mining/⚙️  Proof of Work\|⚙️  Proof of Work]], [[Bitcoin/Mining/⛏️ Mining\|⛏️ Mining]], [[Bitcoin/Filosofia/☮️ Bitcoin disincentiva le guerre\|☮️ Bitcoin disincentiva le guerre]], [[Bitcoin/Filosofia/🕸️ Decentralizzazione\|🕸️ Decentralizzazione]]_ 

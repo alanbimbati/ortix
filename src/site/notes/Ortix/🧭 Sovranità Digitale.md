@@ -25,15 +25,15 @@ Senza filtri invisibili. Senza permessi da chiedere.
 
 📦 **Pilastri della sovranità digitale**
 
-| Pilastro         | Strumento consigliato               |
-| ---------------- | ----------------------------------- |
-| Valuta           | [[Bitcoin\|Bitcoin]], [[Bitcoin/Lightning Network/⚡ Lightning Network\|⚡ Lightning Network]]  |
-| Custodia         | [[Bitcoin/Wallet/🔐 Self-custody\|🔐 Self-custody]], [[Bitcoin/Cold Storage\|Cold Storage]]  |
-| Comunicazione    | [[Nostr\|Nostr]], [[SimpleX\|SimpleX]], [[Session\|Session]] |
-| File personali   | [[Ortix/🔄 Syncthing\|🔄 Syncthing]], [[Ortix/🖼️ Aves\|🖼️ Aves]]      |
-| Appunti/idee     | [[Ortix/🔄 Obsidian\|🔄 Obsidian]]                     |
-| Codice/controllo | [[Bitcoin/🧬 Open Source\|🧬 Open Source]]                  |
-| Navigazione      | Brave, Tor, Firefox                 |
+| Pilastro         | Strumento consigliato                 |
+| ---------------- | ------------------------------------- |
+| Valuta           | [[Bitcoin/Bitcoin\|Bitcoin]], [[Bitcoin/Lightning Network/⚡ Lightning Network\|⚡ Lightning Network]]  |
+| Custodia         | [[Bitcoin/Wallet/🔐 Self-custody\|🔐 Self-custody]], [[Bitcoin/Cold Storage\|Cold Storage]] |
+| Comunicazione    | [[Bitcoin/📡 Nostr\|📡 Nostr]], [[SimpleX\|SimpleX]], [[Session\|Session]]   |
+| File personali   | [[Ortix/🔄 Syncthing\|🔄 Syncthing]], [[Ortix/🖼️ Aves\|🖼️ Aves]]        |
+| Appunti/idee     | [[Ortix/🔄 Obsidian\|🔄 Obsidian]]                       |
+| Codice/controllo | [[Bitcoin/🧬 Open Source\|🧬 Open Source]]                    |
+| Navigazione      | Brave, Tor, Firefox                   |
 
 🛠️ Ogni scelta tecnica è una **dichiarazione politica**.  
 Sovranità significa: **“questo lo decido io”.**

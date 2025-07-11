@@ -13,8 +13,8 @@ Ogni pagina è una tessera che ti aiuta a capire, esplorare e difendere la tua l
 
 ## 🟠 **Bitcoin: la rivoluzione monetaria**
 
- [[Bitcoin/🟠 Bitcoin\|🟠 Bitcoin]]  
- [[Bitcoin/Economia/💰 Le 6 caratteristiche del vero denaro\|💰 Le 6 caratteristiche del vero denaro]]  
+ [[Bitcoin/Bitcoin\|Bitcoin]]  
+ [[Bitcoin/Economia/💰 Le caratteristiche del vero denaro\|💰 Le caratteristiche del vero denaro]]  
 💣 [[Bitcoin/Economia/📉 Inflazione\|Bitcoin/Economia/📉 Inflazione]]  
  [[Bitcoin/Economia/🏛️ Stato e Moneta\|🏛️ Stato e Moneta]]  
  [[Bitcoin/Mining/⚙️  Proof of Work\|⚙️  Proof of Work]]  
@@ -70,8 +70,6 @@ Ogni pagina è una tessera che ti aiuta a capire, esplorare e difendere la tua l
 [[Bitcoin/🔄 Obsidian Syncthing\|🔄 Obsidian Syncthing]]  
 [[Ortix/🔄 Syncthing\|🔄 Syncthing]]  
 [[Ortix/🖼️ Aves\|🖼️ Aves]]  
-📸 [[Aves la galleria open source simile a Google foto ma che aiuta ad essere liberi e permette di usarla con sotto syncthing\|Aves la galleria open source simile a Google foto ma che aiuta ad essere liberi e permette di usarla con sotto syncthing]]  
-🧱 [[Airgap Vault e il suo gemello\|Airgap Vault e il suo gemello]]
 
 ---
 
