@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/economia/le-caratteristiche-del-vero-denaro/","title":"💰 Le 6 caratteristiche del vero denaro","tags":["Denaro","Bitcoin","Educazione","Economia","Inflazione","Valuta"]}
+{"dg-publish":true,"permalink":"/bitcoin/economia/le-caratteristiche-del-vero-denaro/","title":"💰 Le caratteristiche del vero denaro","tags":["Denaro","Bitcoin","Educazione","Economia","Inflazione","Valuta"]}
 ---
 
 
@@ -93,14 +93,15 @@ anche se a qualcuno non piace **chi sei o cosa stai facendo**.
 
 📊 **Riepilogo**
 
-| Caratteristica    | Fiat     | Oro      | Bitcoin   |
-|-------------------|----------|----------|-----------|
-| Durabilità        | ⚠️ Media | ✅ Alta  | ✅ Alta   |
-| Divisibilità      | ⚠️ Media | ❌ Bassa | ✅ Alta   |
-| Portabilità       | ⚠️ Media | ❌ Bassa | ✅ Alta   |
-| Fungibilità       | ⚠️ Bassa | ✅ Alta  | ✅ Alta   |
-| Verificabilità    | ❌ No    | ⚠️ Difficile | ✅ Facilissima |
-| Scarsità          | ❌ Nulla | ⚠️ Limitata | ✅ Assoluta |
+| Caratteristica          | Fiat          | Oro             | Bitcoin          |
+| ----------------------- | ------------- | --------------- | ---------------- |
+| Durabilità              | ⚠️ Media      | ✅ Alta          | ✅ Alta           |
+| Divisibilità            | ⚠️ Media      | ❌ Bassa         | ✅ Alta           |
+| Portabilità             | ⚠️ Media      | ❌ Bassa         | ✅ Alta           |
+| Fungibilità             | ⚠️ Bassa      | ✅ Alta          | ✅ Alta           |
+| Verificabilità          | ❌ No          | ⚠️ Difficile    | ✅ Facilissima    |
+| Scarsità                | ❌ Nulla       | ⚠️ Limitata     | ✅ Assoluta       |
+| Resistente alla censura | ❌ Censurabile | ⚠️ Confiscabile | ✅ Incensurabile  |
 
 
 ---
