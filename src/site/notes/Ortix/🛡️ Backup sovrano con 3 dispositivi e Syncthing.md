@@ -101,9 +101,6 @@ Tutto gratuito e open source. Paghi solo una tantum per i telefoni (e, se serve,
 ## 🔗 Post correlati
 
 - [[Ortix/🔄 Syncthing\|🔄 Syncthing]]  
-- [[Self-hosting con Raspberry Pi\|Self-hosting con Raspberry Pi]]  
-- [[Bitcoin/🔄 Obsidian Syncthing\|🔄 Obsidian Syncthing]]  
-- [[🔐 KeePass password manager\|🔐 KeePass password manager]]  
 - [[Ortix/🧭 Sovranità Digitale\|🧭 Sovranità Digitale]]
 
 ---

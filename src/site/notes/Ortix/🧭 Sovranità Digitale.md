@@ -25,15 +25,20 @@ Senza filtri invisibili. Senza permessi da chiedere.
 
 📦 **Pilastri della sovranità digitale**
 
-| Pilastro         | Strumento consigliato                 |
-| ---------------- | ------------------------------------- |
-| Valuta           | [[Bitcoin/Bitcoin\|Bitcoin]], [[Bitcoin/Lightning Network/⚡ Lightning Network\|⚡ Lightning Network]]  |
-| Custodia         | [[Bitcoin/Wallet/🔐 Self-custody\|🔐 Self-custody]], [[Bitcoin/Cold Storage\|Cold Storage]] |
-| Comunicazione    | [[Bitcoin/📡 Nostr\|📡 Nostr]], [[SimpleX\|SimpleX]], [[Session\|Session]]   |
-| File personali   | [[Ortix/🔄 Syncthing\|🔄 Syncthing]], [[Ortix/🖼️ Aves\|🖼️ Aves]]        |
-| Appunti/idee     | [[Ortix/🔄 Obsidian\|🔄 Obsidian]]                       |
-| Codice/controllo | [[Bitcoin/🧬 Open Source\|🧬 Open Source]]                    |
-| Navigazione      | Brave, Tor, Firefox                   |
+| Pilastro             | Strumento consigliato                  |
+| -------------------- | -------------------------------------- |
+| Proprietà del denaro | [[Bitcoin/Wallet/🔐 Self-custody\|🔐 Self-custody]]                    |
+| Comunicazione        | [[Bitcoin/📡 Nostr\|📡 Nostr]], [[SimpleX\|SimpleX]], [[Session\|Session]] |
+| File personali       | [[Ortix/🔄 Syncthing\|🔄 Syncthing]], [[Ortix/🖼️ Aves\|🖼️ Aves]]         |
+| Appunti/idee         | [[Ortix/🔄 Obsidian\|🔄 Obsidian]]                        |
+| Codice/controllo     | [[Bitcoin/🧬 Open Source\|🧬 Open Source]]                     |
+| Privacy nel web      | [[Brave\|Brave]], [[Tor\|Tor]], [[VPN\|VPN]]            |
+| Informazione         | [[Ortix/📰 Feeder\|📰 Feeder]]                          |
+| Navigazione          | [[CoMaps\|CoMaps]]                             |
+| Video                | [[Ortix/📺 NewPipe\|📺 NewPipe]]                         |
+| Musica               | [[Booming Music\|Booming Music]], [[EchoWave\|EchoWave]]        |
+| Audiolibri           | [[Ortix/🗣️ SherpaTTS\|🗣️ SherpaTTS]]                      |
+| AppStore             | [[Ortix/📦 F-Droid\|📦 F-Droid]]                         |
 
 🛠️ Ogni scelta tecnica è una **dichiarazione politica**.  
 Sovranità significa: **“questo lo decido io”.**
@@ -61,11 +66,10 @@ E l’utente **è il prodotto**.
 - 🧬 Scegli open source, non scatole nere  
 - 🧠 Crea il tuo sistema, invece di abitare in quello altrui
 
+[[Ortix/🛠️ Avere un’alternativa è potere\|🛠️ Avere un’alternativa è potere]]
+
 Ogni gesto è un mattoncino.  
 Costruisci il tuo castello. 🏰
 
----
 
-🔥 **Conclusione**
 
-🧭 La sovranità digitale

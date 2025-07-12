@@ -67,7 +67,7 @@ Ogni pagina è una tessera che ti aiuta a capire, esplorare e difendere la tua l
 ## 🛠️ **Tool per la libertà**
 
 [[Ortix/🔄 Obsidian\|🔄 Obsidian]]  
-[[Bitcoin/🔄 Obsidian Syncthing\|🔄 Obsidian Syncthing]]  
+[[🔄 Obsidian Syncthing\|🔄 Obsidian Syncthing]]  
 [[Ortix/🔄 Syncthing\|🔄 Syncthing]]  
 [[Ortix/🖼️ Aves\|🖼️ Aves]]  
 
