@@ -18,10 +18,11 @@ Poi sono arrivate le banconote, le banche centrali… e infine **il denaro fiat*
 
 🎯 Oggi la moneta:
 - è emessa da banche centrali statali  
-- viene inflazionata a piacimento  
+- viene inflazionata a piacimento 
 - è **imposta per legge (corso legale)**  
 - è legata a **controlli, censura e sorveglianza**
-
+- 
+[[Bitcoin/Economia/💰 Le caratteristiche del vero denaro\|💰 Le caratteristiche del vero denaro]]
 ---
 
 👁️‍🗨️ **Perché lo Stato vuole il controllo della moneta?**
@@ -37,7 +38,7 @@ Poi sono arrivate le banconote, le banche centrali… e infine **il denaro fiat*
 
 📉 **E tu che ruolo hai in tutto questo?**
 
-- Subisci l’inflazione  
+- Subisci [[Bitcoin/Economia/📉 Inflazione\|📉 Inflazione]]  
 - Lavori di più per comprare meno  
 - Sei tracciato per ogni acquisto  
 - Non puoi salvarti dal sistema… finché **usi la loro moneta**
@@ -65,5 +66,3 @@ Bitcoin la riporta al popolo.
 E noi oggi… possiamo averla.
 
 ---
-
-🔗 _Approfondisci con [[Bitcoin/Economia/📉 Inflazione\|Bitcoin/Economia/📉 Inflazione]], [[Bitcoin/Filosofia/🕵️‍♂️  KYC e sorveglianza finanziaria\|🕵️‍♂️  KYC e sorveglianza finanziaria]], [[Bitcoin/Filosofia/☮️ Bitcoin disincentiva le guerre\|☮️ Bitcoin disincentiva le guerre]], [[Bitcoin/Wallet/🔐 Self-custody\|🔐 Self-custody]], [[Bitcoin/Mining/⚙️  Proof of Work\|⚙️  Proof of Work]]_

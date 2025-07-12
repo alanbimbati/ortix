@@ -20,11 +20,11 @@ Avere **strumenti liberi e alternativi** ci rende **più noi stessi**.
 🧭 **Invece di usare solo Google Maps**, esplora anche [[Comaps\|Comaps]]
 Una mappa collaborativa, etica, fatta da chi vive i luoghi e li ama.
 
-📝 **Invece di Word**, prova a scrivere in Markdown con [[Logseq\|Logseq]] o [[Ortix/🔄 Obsidian\|🔄 Obsidian]]
+📝 **Invece di Word**, prova a scrivere in Markdown con [[Ortix/Appunti/🧠 Logseq\|🧠 Logseq]] o [[Ortix/Appunti/🔄 Obsidian\|🔄 Obsidian]]
 Così i tuoi appunti restano leggibili, esportabili, tuoi. Nessuna licenza, nessuna pubblicità, nessuna chiave di attivazione.
 
 🎧 **Invece di dipendere da Spotify**, scarica la tua musica  
-e ascoltala con [[Booming Music\|Booming Music]] o [[EchoWave\|EchoWave]] che funziona anche offline, senza pubblicità e senza abbonamenti.
+e ascoltala con [[Ortix/Musica/🎶 BoomingMusic\|🎶 BoomingMusic]] o [[Ortix/Musica/🎵 EchoWave\|🎵 EchoWave]] che funziona anche offline, senza pubblicità e senza abbonamenti.
 
 ---
 

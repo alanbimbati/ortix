@@ -42,7 +42,7 @@
 🛣️ **Inizia da semplice a complesso:**
 
 1. 🔰 *Prova* con [[Bitcoin/Wallet/🟠 Wallet of Satoshi\|🟠 Wallet of Satoshi]]  
-2. 🧭 Passa a [[Bitcoin/Wallet/🕊 Phoenix Wallet\|🕊 Phoenix Wallet]] per vera self-custody  
+2. 🧭 Passa a [[Bitcoin/Wallet/🕊 Phoenix Wallet\|🕊 Phoenix Wallet]] per vera self-custody 
 3. 🐦 Impara con [[Bitcoin/Wallet/🐦 Sparrow Wallet\|🐦 Sparrow Wallet]]
 4. ❄️ Custodisci con [[Bitcoin/Wallet/❄️ Coldcard\|❄️ Coldcard]] o [[Bitcoin/Wallet/✍️ SeedSigner\|✍️ SeedSigner]]  
 5. ⚡ Automatizza e personalizza con [[Bitcoin/Wallet/⚡ Electrum\|⚡ Electrum]]
@@ -50,5 +50,3 @@
 🧱 E costruisci la tua sicurezza, un wallet alla volta.
 
 ---
-
-🔗 _Approfondisci anche: [[Bitcoin/Wallet/🔐 Self-custody\|🔐 Self-custody]], [[Bitcoin/Cold Storage\|Cold Storage]], [[Bitcoin/Wallet/✍️ PSBT\|✍️ PSBT]], [[Bitcoin/Wallet/🌀 CoinJoin\|🌀 CoinJoin]], [[Bitcoin/Lightning Network/⚡ Lightning Network\|⚡ Lightning Network]]_

@@ -50,12 +50,7 @@ Ma è come guidare: **preferisci essere al volante o nel bagagliaio?**
 - **Custodial** → le chiavi le tiene qualcun altro. Più comodo, ma rischioso.  
 - **Non-Custodial** → le chiavi le tieni tu. Più sicuro, più libero.
 
-💡 Soluzioni self-custody consigliate:
-- [[Bitcoin/Wallet/🕊 Phoenix Wallet\|🕊 Phoenix Wallet]]
-- [[Bitcoin/Wallet/🔵 BlueWallet\|🔵 BlueWallet]]
-- [[Bitcoin/Wallet/🐦 Sparrow Wallet\|🐦 Sparrow Wallet]]
-- [[Bitcoin/Wallet/✍️ SeedSigner\|✍️ SeedSigner]]
-- [[Bitcoin/Wallet/❄️ Coldcard\|❄️ Coldcard]]
+💡 Scegli il tuo wallet: [[Bitcoin/Wallet/🧭 Wallet Index\|🧭 Wallet Index]]
 
 ---
 

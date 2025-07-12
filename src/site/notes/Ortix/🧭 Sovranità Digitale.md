@@ -17,7 +17,7 @@ passa da server di altri… **non sei sovrano.**
 
 È la capacità di **usare la tecnologia senza dipendere da nessuno.**  
 Senza cloud centralizzati. Senza account obbligatori.  
-Senza filtri invisibili. Senza permessi da chiedere.
+Senza filtri invisibili. Senza permessi da chiedere. In totale [[Bitcoin/Filosofia/🕵️‍♂️ Privacy\|🕵️‍♂️ Privacy]]
 
 🎯 È **sapere dove stanno i tuoi dati, le tue chiavi, le tue decisioni.**
 
@@ -29,16 +29,16 @@ Senza filtri invisibili. Senza permessi da chiedere.
 | -------------------- | -------------------------------------- |
 | Proprietà del denaro | [[Bitcoin/Wallet/🔐 Self-custody\|🔐 Self-custody]]                    |
 | Comunicazione        | [[Bitcoin/📡 Nostr\|📡 Nostr]], [[SimpleX\|SimpleX]], [[Session\|Session]] |
-| File personali       | [[Ortix/🔄 Syncthing\|🔄 Syncthing]], [[Ortix/🖼️ Aves\|🖼️ Aves]]         |
-| Appunti/idee         | [[Ortix/🔄 Obsidian\|🔄 Obsidian]]                        |
+| File personali       | [[Ortix/🔄 Syncthing\|🔄 Syncthing]], [[Ortix/Foto/🖼️ Aves\|🖼️ Aves]]         |
+| Appunti/idee         | [[Ortix/Appunti/🔄 Obsidian\|🔄 Obsidian]]                        |
 | Codice/controllo     | [[Bitcoin/🧬 Open Source\|🧬 Open Source]]                     |
 | Privacy nel web      | [[Brave\|Brave]], [[Tor\|Tor]], [[VPN\|VPN]]            |
-| Informazione         | [[Ortix/📰 Feeder\|📰 Feeder]]                          |
+| Informazione         | [[Ortix/Informazione/📰 Feeder\|📰 Feeder]]                          |
 | Navigazione          | [[CoMaps\|CoMaps]]                             |
-| Video                | [[Ortix/📺 NewPipe\|📺 NewPipe]]                         |
-| Musica               | [[Booming Music\|Booming Music]], [[EchoWave\|EchoWave]]        |
-| Audiolibri           | [[Ortix/🗣️ SherpaTTS\|🗣️ SherpaTTS]]                      |
-| AppStore             | [[Ortix/📦 F-Droid\|📦 F-Droid]]                         |
+| Video                | [[Ortix/Video/📺 NewPipe\|📺 NewPipe]]                         |
+| Musica               | [[Ortix/Musica/🎶 BoomingMusic\|🎶 BoomingMusic]], [[Ortix/Musica/🎵 EchoWave\|🎵 EchoWave]]        |
+| Audiolibri           | [[Ortix/Libri/🗣️ SherpaTTS\|🗣️ SherpaTTS]]                      |
+| AppStore             | [[Ortix/AppStore/📦 F-Droid\|📦 F-Droid]]                         |
 
 🛠️ Ogni scelta tecnica è una **dichiarazione politica**.  
 Sovranità significa: **“questo lo decido io”.**

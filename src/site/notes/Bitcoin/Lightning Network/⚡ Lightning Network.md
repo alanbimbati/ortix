@@ -47,9 +47,8 @@ La Lightning Network è una rete di secondo livello costruita sopra Bitcoin, che
 🛠️ **Wallet che supportano Lightning**
 
 - [[Bitcoin/Wallet/🕊 Phoenix Wallet\|🕊 Phoenix Wallet]] → non-custodial, automatizzato  
-- [[Bitcoin/Wallet/🔵 BlueWallet\|🔵 BlueWallet]] → non-custodial, complesso 
 - [[Bitcoin/Wallet/🟠 Wallet of Satoshi\|🟠 Wallet of Satoshi]]-> custodial, semplice
-- [[Breeze\|Breeze]], [[Zeus\|Zeus]], [[Mutiny\|Mutiny]], SatsMobiBot→ più tecnici  
+- [[Bitcoin/Wallet/Breeze\|Breeze]], [[Zeus\|Zeus]], [[Mutiny\|Mutiny]], SatsMobiBot→ più tecnici  
 - E i tuoi **nodi personali** con LND, Core Lightning o eclair
 
 ---
@@ -85,4 +84,3 @@ Con Lightning diventa **il contante digitale.**
 
 ---
 
-🔗 _Approfondisci con [[Bitcoin/Wallet/🕊 Phoenix Wallet\|🕊 Phoenix Wallet]], [[Bitcoin/Wallet/🔵 BlueWallet\|🔵 BlueWallet]], [[Bitcoin/Wallet/🔐 Self-custody\|🔐 Self-custody]], [[Bitcoin/Cold Storage\|Cold Storage]], [[Bitcoin/Lightning Network/⚡ Scalabilità di Lightning Network\|⚡ Scalabilità di Lightning Network]]_

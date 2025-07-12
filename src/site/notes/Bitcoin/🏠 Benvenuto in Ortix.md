@@ -15,7 +15,7 @@ Ogni pagina è una tessera che ti aiuta a capire, esplorare e difendere la tua l
 
  [[Bitcoin/Bitcoin\|Bitcoin]]  
  [[Bitcoin/Economia/💰 Le caratteristiche del vero denaro\|💰 Le caratteristiche del vero denaro]]  
-💣 [[Bitcoin/Economia/📉 Inflazione\|Bitcoin/Economia/📉 Inflazione]]  
+[[Bitcoin/Economia/📉 Inflazione\|📉 Inflazione]]
  [[Bitcoin/Economia/🏛️ Stato e Moneta\|🏛️ Stato e Moneta]]  
  [[Bitcoin/Mining/⚙️  Proof of Work\|⚙️  Proof of Work]]  
  [[Bitcoin/Mining/⛏️ Mining\|⛏️ Mining]] / [[Bitcoin/Mining/🌱 Mining Green\|🌱 Mining Green]]  
@@ -28,48 +28,23 @@ Ogni pagina è una tessera che ti aiuta a capire, esplorare e difendere la tua l
 
 ## 🔐 **Self-Custody & Sicurezza**
 
-🧠 [[Bitcoin/Wallet/🧠 Seed Phrase\|Bitcoin/Wallet/🧠 Seed Phrase]]  
-🔏 [[25ª parola (passphrase)\|25ª parola (passphrase)]]  
- [[Bitcoin/Wallet/🌳 Wallet gerarchico\|🌳 Wallet gerarchico]]  
- [[Bitcoin/Wallet/🧭 Wallet Index\|🧭 Wallet Index]]  
-🧊 [[Bitcoin/Cold Storage\|Cold Storage]]  
-🧱 [[Bitcoin/Wallet/🪨 Steelwallet\|Bitcoin/Wallet/🪨 Steelwallet]]  
- [[Bitcoin/Wallet/🔐 Multisig\|🔐 Multisig]]  
- [[Bitcoin/Wallet/✍️ PSBT\|✍️ PSBT]]  
- [[Bitcoin/Wallet/🌀 CoinJoin\|🌀 CoinJoin]]
-
----
-
-## ⚡ **Lightning Network & Layer 2**
-
- [[Bitcoin/Lightning Network/⚡ Lightning Network\|⚡ Lightning Network]]  
- [[Bitcoin/Lightning Network/🧱 Layer 2\|🧱 Layer 2]]  
- [[Bitcoin/Lightning Network/⚡ Scalabilità di Lightning Network\|⚡ Scalabilità di Lightning Network]]  
-🚀 Wallet Lightning:
-- [[Bitcoin/Wallet/🕊 Phoenix Wallet\|🕊 Phoenix Wallet]]
-- [[Breez\|Breez]]
-- [[Bitcoin/Wallet/🟠 Wallet of Satoshi\|🟠 Wallet of Satoshi]]
-- [[Zeus\|Zeus]]
-
+ [[Bitcoin/Wallet/🧠 Seed Phrase\|🧠 Seed Phrase]]
+ [[Bitcoin/Wallet/🧭 Wallet Index\|🧭 Wallet Index]] 
+ 
 ---
 
 ## 🕵️ **Privacy & Libertà**
 
-[[Bitcoin/Filosofia/🕵️‍♂️ Privacy\|🕵️‍♂️ Privacy]]  
- [[Bitcoin/Filosofia/🕵️‍♂️  KYC e sorveglianza finanziaria\|🕵️‍♂️  KYC e sorveglianza finanziaria]]  
- [[Bitcoin/Wallet/🌀 CoinJoin\|🌀 CoinJoin]]  
- [[Bitcoin/📡 Nostr\|📡 Nostr]]  
- [[Bitcoin/🧬 Open Source\|🧬 Open Source]]  
 [[Ortix/🧭 Sovranità Digitale\|🧭 Sovranità Digitale]]
 
 ---
 
 ## 🛠️ **Tool per la libertà**
 
-[[Ortix/🔄 Obsidian\|🔄 Obsidian]]  
+[[Ortix/Appunti/🔄 Obsidian\|🔄 Obsidian]]  
 [[🔄 Obsidian Syncthing\|🔄 Obsidian Syncthing]]  
 [[Ortix/🔄 Syncthing\|🔄 Syncthing]]  
-[[Ortix/🖼️ Aves\|🖼️ Aves]]  
+[[Ortix/Foto/🖼️ Aves\|🖼️ Aves]]  
 
 ---
 
