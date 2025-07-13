@@ -50,3 +50,4 @@ Se li tieni, nel tempo diventeranno sempre più rari e preziosi 📈
 ---
 
 #Bitcoin #Sovranità #Inflazione #ContrattoIndelebile
+{ #tr-2eq62nvm0}

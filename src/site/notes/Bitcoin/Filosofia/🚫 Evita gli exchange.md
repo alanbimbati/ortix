@@ -55,3 +55,4 @@ nessun hacker, azienda o stato potrà mai sottrarti i tuoi Bitcoin.
 ✊ **Bitcoin è libertà solo se lo controlli tu.**
 
 #Bitcoin #NotYourKeysNotYourCoins
+{ #tr-t79xb8pil}

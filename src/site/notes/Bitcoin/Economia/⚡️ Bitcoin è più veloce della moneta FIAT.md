@@ -64,3 +64,4 @@ Per i pagamenti quotidiani esiste [[Bitcoin/Lightning Network/⚡ Lightning Netw
 - Nessun permesso da chiedere
 
 #Bitcoin #Lightning #Sovranità #TransazioniLibere
+{ #tr-t1i2dnqkk}

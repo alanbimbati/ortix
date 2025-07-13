@@ -84,3 +84,4 @@ ogni passaggio ha cercato di **risolvere i limiti del precedente**.
 Bitcoin non è un’invenzione casuale: è **la naturale evoluzione del denaro.**
 
 #Bitcoin #Educazione #Economia #Storia #Sovranità #Libertà
+{ #tr-cytyhl3te}

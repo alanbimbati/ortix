@@ -109,3 +109,4 @@ Tutto gratuito e open source. Paghi solo una tantum per i telefoni (e, se serve,
 Con 3 dispositivi, anche vecchi, puoi creare una **cassaforte digitale decentralizzata**, tutta tua.
 
 #Backup #Syncthing #Obsidian #SovranitàDigitale #Bitcoin
+{ #tr-ky99vfz0p}

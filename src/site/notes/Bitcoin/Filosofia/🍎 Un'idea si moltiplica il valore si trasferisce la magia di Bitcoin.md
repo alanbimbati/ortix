@@ -20,7 +20,7 @@ Questo è meraviglioso per le idee, ma un problema enorme per il **valore**:
 
 ---
 
-🧠 La genialità di [[Satoshi Nakamoto\|Satoshi Nakamoto]]:  
+🧠 La genialità di [[Bitcoin/Satoshi Nakamoto\|Satoshi Nakamoto]]:  
 Ha risolto il problema della **doppia spesa**, qualcosa che si pensava impossibile.
 
 Con **Bitcoin**, ha creato una forma di **denaro digitale non duplicabile**,  

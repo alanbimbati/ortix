@@ -61,3 +61,4 @@ Ma la verità è più profonda: il **problema è il sistema monetario stesso**.
 Bitcoin non è solo denaro: è **giustizia economica codificata**.
 
 #Bitcoin #Cantillon #Inflazione #Economia #Libertà #Disuguaglianza
+{ #tr-w67af9bkk}
