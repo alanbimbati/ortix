@@ -2,93 +2,67 @@
 {"dg-publish":true,"permalink":"/bitcoin/nostr/","title":"📡 Nostr: il protocollo per la libertà d’espressione","tags":["Nostr","Decentralizzazione","Libertà","Social","Bitcoin","Censura"]}
 ---
 
+---
 
-# 📡 Nostr: il protocollo per la libertà d’espressione
 
-🧠 **Bitcoin è libertà monetaria.  
-Nostr è libertà di parola.**  
-Se oggi possono bloccarti il conto, domani possono anche silenziarti.  
-Ma **separando il messaggio dal mezzo**, Nostr crea **un web sociale libero e resistente alla censura.**
+# 📡 **Nostr: il protocollo libero per comunicare senza censura**
+
+🔓 **Nostr** non è un social network.  
+È un **protocollo**, come l’email o il web: serve per pubblicare messaggi in modo aperto, decentralizzato e resistente alla censura.
 
 ---
 
-🧬 **Cos'è Nostr?**
+## 🕸️ Come funziona?
 
-Nostr non è un'app.  
-È un **protocollo** semplice, minimale, decentralizzato, per pubblicare messaggi e identità su internet.
+✍️ Tu firmi un messaggio con la tua chiave privata (proprio come fai su [[Bitcoin/Bitcoin\|Bitcoin]]).  
+📡 Poi lo invii a uno o più *relay* (nodi pubblici).  
+📬 Chiunque può ricevere, leggere o inoltrare quel messaggio.
 
-> Nostr = Notes and Other Stuff Transmitted by Relays
-
-📡 I messaggi non vanno su un server centrale, ma passano attraverso **relay** pubblici e distribuiti.
-
-🎯 Ogni utente ha una **chiave privata/pubblica** (come in Bitcoin).  
-E ogni messaggio è **firmato crittograficamente**.
+Non esiste un server centrale, né un’azienda proprietaria.
 
 ---
 
-🗣️ **Cosa puoi fare con Nostr?**
+## 💬 È già usabile?
 
-- Pubblicare messaggi (post)  
-- Seguire altre identità  
-- Ricevere zap ⚡ via [[Bitcoin/Lightning Network/⚡ Lightning Network\|⚡ Lightning Network]]  
-- Creare feed, blog, eventi, chat  
-- Usare app diverse con la **stessa identità**
+Sì! Ecco alcune app Nostr:
+- 📱 [[Amethyst\|Amethyst]] (Android)
+- 🍎 [[Damus\|Damus]] (iOS)
+- 💻 [[Iris\|Iris]] (web)
+- ⚡ [[Snort\|Snort]] (web)
 
-💡 Come usare il web…  
-**senza chiedere il permesso a nessuno.**
-
----
-
-🚫 **Nessuno ti può bannare**
-
-Se un relay ti blocca…  
-✅ puoi usare un altro  
-✅ o crearne uno tuo
-
-💣 Il tuo account è la tua chiave privata.  
-Non può essere cancellato, né sequestrato.
-
-🔐 **Zero KYC. Zero censura. Zero padroni.**
+Puoi usarle per:
+- Scrivere post (tipo Twitter)
+- Chattare in modo privato
+- Ricevere micropagamenti in [[Bitcoin/Bitcoin\|Bitcoin]] con [[Bitcoin/Lightning Network/⚡ Lightning Network\|⚡ Lightning Network]]
 
 ---
 
-🧱 **Bitcoin + Nostr = Sovranità Totale**
+## 🛡 Perché è importante?
 
-- 🔑 Identità private  
-- 🧠 Messaggi pubblici firmati  
-- ⚡ Zap integrati via [[Bitcoin/Lightning Network/⚡ Lightning Network\|⚡ Lightning Network]]  
-- 📲 App leggere, resistenti, interoperabili
+❌ Twitter può bannarti  
+❌ Facebook ti profila  
+❌ Telegram può essere chiuso
 
-🌍 È l’infrastruttura per un **internet veramente libero**.  
-Uno strato sociale, sopra la libertà monetaria.
-
----
-
-🔧 **App e client Nostr popolari**
-
-| App          | Tipo         | Note                              |
-|--------------|--------------|------------------------------------|
-| Damus        | Social app   | iOS, stile Twitter                 |
-| Amethyst     | Social app   | Android, open source              |
-| Primal       | Feed web     | Interfaccia pulita e veloce       |
-| Snort        | Web client   | Potente e leggero                 |
-| Coracle      | Web client   | Modularità e supporto eventi      |
-
-🧪 E ce ne sono decine in sviluppo… ogni giorno!
+✅ Nostr è [[Bitcoin/🧬 Open Source\|🧬 Open Source]]
+✅ Nessuno può bloccarti  
+✅ Le chiavi sono tue
 
 ---
 
-🔥 **Conclusione**
+## 🔑 Cosa ti serve per iniziare?
 
-📡 Se [[Bitcoin/Bitcoin\|Bitcoin]] è una rete di libertà per il denaro,  
-**Nostr è la rete di libertà per la voce umana.**
+Solo due cose:
+1. Una **chiave privata/pubblica** (come un’identità digitale)
+2. Un client Nostr per interagire
 
-👉 Non è solo un’alternativa a Twitter.  
-È **un internet parallelo**, aperto, neutrale, antifragile.
-
-💬 Il futuro della comunicazione…  
-non ha più bisogno del permesso di nessuno.
+Consiglio: crea la chiave con qualunque client, salva il tuo npub e nsec in un [[Ortix/Password Manager/🔐 KeePass password manager\|🔐 KeePass password manager]] sicuro.
 
 ---
 
-🔗 _Approfondisci con [[Bitcoin/Filosofia/🕸️ Decentralizzazione\|🕸️ Decentralizzazione]], [[Bitcoin/Wallet/🔐 Self-custody\|🔐 Self-custody]], [[Bitcoin/Lightning Network/⚡ Lightning Network\|⚡ Lightning Network]], [[Zap\|Zap]], [[Bitcoin/Wallet/🧭 Wallet Index\|🧭 Wallet Index]], [[Censura e sovranità\|Censura e sovranità]]_
+📌 Con Nostr, **tu controlli la tua identità**.  
+**Tu decidi cosa pubblicare, dove, quando e con chi.**
+
+È la base di una [[Ortix/🧭 Sovranità Digitale\|🧭 Sovranità Digitale]], dove la voce di ciascuno può essere ascoltata, anche se scomoda.
+
+#Nostr #Bitcoin #Decentralizzazione #LibertàDiEspressione #OpenSource
+{ #tr-wo7wljnaw}

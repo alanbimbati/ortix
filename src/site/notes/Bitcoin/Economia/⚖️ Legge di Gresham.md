@@ -15,7 +15,7 @@
 Risale al XVI secolo, ma la logica è eterna:  
 quando due forme di denaro **coesistono** legalmente (es. carta e oro), le persone **tendono a spendere quella percepita come “cattiva”** e **a tenere quella “buona”**.
 
-🎯 La “moneta cattiva” è quella che **perde valore** (fiat, inflattiva)  
+🎯 La “moneta cattiva” è quella che **perde valore** (fiat, a causa dell' [[Bitcoin/Economia/📉 Inflazione\|📉 Inflazione]]
 🎯 La “moneta buona” è quella **stabile o scarsa** (oro, Bitcoin)
 
 ---

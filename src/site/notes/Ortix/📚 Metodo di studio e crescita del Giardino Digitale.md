@@ -3,7 +3,7 @@
 ---
 
 
-# 📚 Metodo di studio e crescita del mio [[Ortix/🌱 Digital Garden\|🌱 Digital Garden]]
+# 📚 Metodo di studio e crescita del mio [[Ortix/Giardino digitale\|Giardino digitale]]
 
 
 🧠 Questo non è un semplice sistema di appunti.  
@@ -13,7 +13,7 @@
 
 ## 🪴 **1. Esportare il sapere grezzo**
 
-Ogni fonte di conoscenza (blog, articoli, note) può essere **esportata in testo grezzo**, trasformata in Markdown e importata in [[Ortix/Appunti/🔄 Obsidian\|🔄 Obsidian]].
+Ogni fonte di conoscenza (blog, articoli, note) può essere **esportata in testo grezzo**, trasformata in Markdown e importata in [[Ortix/Appunti/Obsidian\|Obsidian]] o [[Ortix/Appunti/LogSeq\|LogSeq]]
 
 > 📦 Ho iniziato esportando il mio blog "AlanbimbatBlog" da Telegram Desktop in JSON,  
 > e con l’AI l’ho convertito in articoli ben formattati.

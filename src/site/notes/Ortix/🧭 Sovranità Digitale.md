@@ -30,7 +30,7 @@ Senza filtri invisibili. Senza permessi da chiedere. In totale [[Bitcoin/Filosof
 | Proprietà del denaro | [[Bitcoin/Wallet/🔐 Self-custody\|🔐 Self-custody]]                    |
 | Comunicazione        | [[Bitcoin/📡 Nostr\|📡 Nostr]], [[SimpleX\|SimpleX]], [[Session\|Session]] |
 | File personali       | [[Ortix/🔄 Syncthing\|🔄 Syncthing]], [[Ortix/Foto/🖼️ Aves\|🖼️ Aves]]         |
-| Appunti/idee         | [[Ortix/Appunti/🔄 Obsidian\|🔄 Obsidian]]                        |
+| Appunti/idee         | [[Ortix/Appunti/Obsidian\|Obsidian]]                        |
 | Codice/controllo     | [[Bitcoin/🧬 Open Source\|🧬 Open Source]]                     |
 | Privacy nel web      | [[Brave\|Brave]], [[Tor\|Tor]], [[VPN\|VPN]]            |
 | Informazione         | [[Ortix/Informazione/📰 Feeder\|📰 Feeder]]                          |

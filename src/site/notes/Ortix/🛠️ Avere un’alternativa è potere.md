@@ -20,7 +20,7 @@ Avere **strumenti liberi e alternativi** ci rende **più noi stessi**.
 🧭 **Invece di usare solo Google Maps**, esplora anche [[Comaps\|Comaps]]
 Una mappa collaborativa, etica, fatta da chi vive i luoghi e li ama.
 
-📝 **Invece di Word**, prova a scrivere in Markdown con [[Ortix/Appunti/🧠 Logseq\|🧠 Logseq]] o [[Ortix/Appunti/🔄 Obsidian\|🔄 Obsidian]]
+📝 **Invece di Word**, prova a scrivere in Markdown con [[Ortix/Appunti/LogSeq\|LogSeq]] o [[Ortix/Appunti/Obsidian\|Obsidian]]
 Così i tuoi appunti restano leggibili, esportabili, tuoi. Nessuna licenza, nessuna pubblicità, nessuna chiave di attivazione.
 
 🎧 **Invece di dipendere da Spotify**, scarica la tua musica  

@@ -22,7 +22,7 @@ Con l’aiuto di [[ChatGPT\|ChatGPT]], ogni post è diventato:
 - ✅ Con link interni ad altri concetti
 - ✅ Con tag, proprietà e titoli coerenti
 
-Ho costruito un vero [[Ortix/🌱 Digital Garden\|🌱 Digital Garden]].
+Ho costruito un vero [[Ortix/Giardino digitale\|Giardino digitale]].
 
 ---
 
@@ -55,10 +55,10 @@ E non il contrario.
 
 ## 🧰 **Tecnologie usate**
 
-- 🧠 [[Ortix/Appunti/🔄 Obsidian\|🔄 Obsidian]] come sistema di pensiero
+- 🧠 [[Ortix/Appunti/Obsidian\|Obsidian]] come sistema di pensiero
 - 🤖 [[ChatGPT\|ChatGPT]] come assistente di scrittura
 - 📡 [[Ortix/🔄 Syncthing\|🔄 Syncthing]] per la sincronizzazione
-- 🛠️ [[LogSeq\|LogSeq]] e altre app markdown per l’editing parallelo
+- [[Ortix/Appunti/LogSeq\|LogSeq]] e altre app markdown per l’editing parallelo
 - 🌐 [[GitHub Pages\|GitHub Pages]] per la pubblicazione
 
 ---

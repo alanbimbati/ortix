@@ -48,7 +48,7 @@ Esistono lettori completamente **offline, leggeri e open source**:
 ## 🛠️ Come usarlo?
 
 1. Scarica il file `.epub` o `.pdf`  
-2. Salvalo sul telefono o su una [[MicroSD\|MicroSD]]  
+2. Salvalo sul telefono o su una MicroSD
 3. Aprilo con l’app open source che preferisci  
 
 ---
@@ -56,7 +56,7 @@ Esistono lettori completamente **offline, leggeri e open source**:
 ## 🔗 Lo abbino con…
 
 - [[Ortix/🔄 Syncthing\|🔄 Syncthing]] → per leggere su più dispositivi  
-- [[📁 MicroSD\|📁 MicroSD]] → per avere una biblioteca portatile  
+- 📁 MicroSD→ per avere una biblioteca portatile  
 
 ---
 

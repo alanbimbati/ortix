@@ -14,22 +14,6 @@ Ogni pagina è una tessera che ti aiuta a capire, esplorare e difendere la tua l
 ## 🟠 **Bitcoin: la rivoluzione monetaria**
 
  [[Bitcoin/Bitcoin\|Bitcoin]]  
- [[Bitcoin/Economia/💰 Le caratteristiche del vero denaro\|💰 Le caratteristiche del vero denaro]]  
-[[Bitcoin/Economia/📉 Inflazione\|📉 Inflazione]]
- [[Bitcoin/Economia/🏛️ Stato e Moneta\|🏛️ Stato e Moneta]]  
- [[Bitcoin/Mining/⚙️  Proof of Work\|⚙️  Proof of Work]]  
- [[Bitcoin/Mining/⛏️ Mining\|⛏️ Mining]] / [[Bitcoin/Mining/🌱 Mining Green\|🌱 Mining Green]]  
- [[Bitcoin/Filosofia/☮️ Bitcoin disincentiva le guerre\|☮️ Bitcoin disincentiva le guerre]]  
- [[Bitcoin/Filosofia/🔺 Il Trilemma\|🔺 Il Trilemma]] / [[Bitcoin/Lightning Network/⚡ Scalabilità di Lightning Network\|⚡ Scalabilità di Lightning Network]]  
- [[Bitcoin/Filosofia/🕸️ Decentralizzazione\|🕸️ Decentralizzazione]]  
- [[Bitcoin/Economia/⚖️ Legge di Gresham\|⚖️ Legge di Gresham]]
-
----
-
-## 🔐 **Self-Custody & Sicurezza**
-
- [[Bitcoin/Wallet/🧠 Seed Phrase\|🧠 Seed Phrase]]
- [[Bitcoin/Wallet/🧭 Wallet Index\|🧭 Wallet Index]] 
  
 ---
 
@@ -39,26 +23,5 @@ Ogni pagina è una tessera che ti aiuta a capire, esplorare e difendere la tua l
 
 ---
 
-## 🛠️ **Tool per la libertà**
-
-[[Ortix/Appunti/🔄 Obsidian\|🔄 Obsidian]]  
-[[🔄 Obsidian Syncthing\|🔄 Obsidian Syncthing]]  
-[[Ortix/🔄 Syncthing\|🔄 Syncthing]]  
-[[Ortix/Foto/🖼️ Aves\|🖼️ Aves]]  
-
----
-
-## 🗺️ **Esplora**
-
- [[Bitcoin/Wallet/🧭 Wallet Index\|🧭 Wallet Index]]  
-📚 [[Filosofia del denaro\|Filosofia del denaro]]  
-🛡️ [[Bitcoin/Wallet/🔐 Self-custody\|🔐 Self-custody]]  
-📦 [[Open Source Toolkit\|Open Source Toolkit]]  
-🧭 [[Sovranità Digitale Toolkit\|Sovranità Digitale Toolkit]] 
-
----
-
 > 🧡 _"Se non sei sovrano del tuo denaro, non sei sovrano di nulla."_  
 > – Alan Bimbati
-
----
