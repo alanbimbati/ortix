@@ -62,9 +62,9 @@ e Syncthing di **muoverle senza fili, senza server, senza sorveglianza.**
 🔥 **Conclusione**
 
 🦅 Aves è la galleria che rispetta la tua [[Bitcoin/Filosofia/🕵️‍♂️ Privacy\|🕵️‍♂️ Privacy]] e la tua autonomia.  
-Abbinata a [[Ortix/🔄 Syncthing\|🔄 Syncthing]] diventa il **cloud personale senza padroni.**  
+Abbinata a [[Ortix/Storage/🔄 Syncthing\|🔄 Syncthing]] diventa il **cloud personale senza padroni.**  
 Liberati dalle catene dei servizi centralizzati.  
 **Organizza, sincronizza, vivi le tue foto come vuoi tu.**
 
-[[Ortix/🧭 Sovranità Digitale\|🧭 Sovranità Digitale]]
+[[Ortix/Filosofia/🧭 Sovranità Digitale\|🧭 Sovranità Digitale]]
 ---

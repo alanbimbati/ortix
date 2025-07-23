@@ -35,14 +35,14 @@ con un'interfaccia semplice, elegante e moderna, **senza pubblicità e senza con
 ## 📱 Come usarla?
 
 1. Installa **BoomingMusic** da [[Ortix/AppStore/📦 F-Droid\|📦 F-Droid]]
-2. Copia la tua musica sul telefono (anche via [[Ortix/🔄 Syncthing\|🔄 Syncthing]] o microSD)  
+2. Copia la tua musica sul telefono (anche via [[Ortix/Storage/🔄 Syncthing\|🔄 Syncthing]] o microSD)  
 3. Avvia l’app e inizia ad ascoltare!
 
 ---
 
 ## 🔗 Lo abbino con…
 
-- [[Ortix/🔄 Syncthing\|🔄 Syncthing]] → per sincronizzare musica da PC o altro telefono  
+- [[Ortix/Storage/🔄 Syncthing\|🔄 Syncthing]] → per sincronizzare musica da PC o altro telefono  
 - [[Ortix/Musica/🎵 EchoWave\|🎵 EchoWave]] → per lo streaming da YouTube  
 - [[MicroSD\|MicroSD]] → per espandere la memoria su telefoni più vecchi  
 

@@ -57,4 +57,4 @@ un sistema basato su **scarsità, responsabilità e libertà**.
 
 ---
 
-🔗 _Approfondisci con [[Bitcoin/Bitcoin\|Bitcoin]], [[Bitcoin/Economia/📉 Inflazione\|📉 Inflazione]], [[Bitcoin/Economia/🏛️ Stato e Moneta\|🏛️ Stato e Moneta]], [[Bitcoin/Mining/⚙️  Proof of Work\|⚙️  Proof of Work]], [[Ortix/🧭 Sovranità Digitale\|🧭 Sovranità Digitale]], [[Bitcoin/Economia/💰 Le caratteristiche del vero denaro\|💰 Le caratteristiche del vero denaro]]_
+🔗 _Approfondisci con [[Bitcoin/Bitcoin\|Bitcoin]], [[Bitcoin/Economia/📉 Inflazione\|📉 Inflazione]], [[Bitcoin/Economia/🏛️ Stato e Moneta\|🏛️ Stato e Moneta]], [[Bitcoin/Mining/⚙️  Proof of Work\|⚙️  Proof of Work]], [[Ortix/Filosofia/🧭 Sovranità Digitale\|🧭 Sovranità Digitale]], [[Bitcoin/Economia/💰 Le caratteristiche del vero denaro\|💰 Le caratteristiche del vero denaro]]_

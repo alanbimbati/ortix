@@ -41,7 +41,7 @@ Una volta installato, hai accesso all'intera libreria di YouTube **senza dipende
 - 🎵 Crea la tua playlist offline
 - ⬇️ Scegli qualità e formato per ogni download
 - 🔎 Cerca video anche su PeerTube
-- 📁 Salva tutto su [[Ortix/🔄 Syncthing\|🔄 Syncthing]] o su una microSD
+- 📁 Salva tutto su [[Ortix/Storage/🔄 Syncthing\|🔄 Syncthing]] o su una microSD
 
 ---
 
@@ -50,7 +50,7 @@ Una volta installato, hai accesso all'intera libreria di YouTube **senza dipende
 NewPipe è perfetta per chi vuole **un'esperienza YouTube pulita**,  
 senza perdite di tempo, distrazioni o violazioni della privacy.
 
-Un altro tassello verso una vera [[Ortix/🧭 Sovranità Digitale\|🧭 Sovranità Digitale]].
+Un altro tassello verso una vera [[Ortix/Filosofia/🧭 Sovranità Digitale\|🧭 Sovranità Digitale]].
 
 ---
 

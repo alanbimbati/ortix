@@ -44,7 +44,7 @@ Se sai leggere, **puoi capire cosa fa davvero.**
 
 📦 Questo vale anche per:
 - [[Bitcoin/Wallet/🧭 Wallet Index\|🧭 Wallet Index]] Bitcoin (es. Sparrow, SeedSigner)  
-- [[Ortix/🔄 Syncthing\|🔄 Syncthing]] (sincronizzazione peer-to-peer)  
+- [[Ortix/Storage/🔄 Syncthing\|🔄 Syncthing]] (sincronizzazione peer-to-peer)  
 - [[Ortix/Foto/🖼️ Aves\|🖼️ Aves]] (galleria privata per foto)  
 - [[Bitcoin/📡 Nostr\|📡 Nostr]] (protocollo sociale decentralizzato)
 
@@ -82,4 +82,4 @@ E tu puoi farne parte.
 
 ---
 
-🔗 _Approfondisci con [[Bitcoin/Bitcoin\|Bitcoin]], [[Ortix/🔄 Syncthing\|🔄 Syncthing]], [[Ortix/Foto/🖼️ Aves\|🖼️ Aves]], [[Bitcoin/📡 Nostr\|📡 Nostr]], [[Bitcoin/Filosofia/🕵️‍♂️ Privacy\|🕵️‍♂️ Privacy]], [[Ortix/🧭 Sovranità Digitale\|🧭 Sovranità Digitale]], [[Bitcoin/Wallet/🧭 Wallet Index\|🧭 Wallet Index]]_
+🔗 _Approfondisci con [[Bitcoin/Bitcoin\|Bitcoin]], [[Ortix/Storage/🔄 Syncthing\|🔄 Syncthing]], [[Ortix/Foto/🖼️ Aves\|🖼️ Aves]], [[Bitcoin/📡 Nostr\|📡 Nostr]], [[Bitcoin/Filosofia/🕵️‍♂️ Privacy\|🕵️‍♂️ Privacy]], [[Ortix/Filosofia/🧭 Sovranità Digitale\|🧭 Sovranità Digitale]], [[Bitcoin/Wallet/🧭 Wallet Index\|🧭 Wallet Index]]_

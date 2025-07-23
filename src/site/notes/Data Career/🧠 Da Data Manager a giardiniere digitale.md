@@ -22,7 +22,7 @@ Con l’aiuto di [[ChatGPT\|ChatGPT]], ogni post è diventato:
 - ✅ Con link interni ad altri concetti
 - ✅ Con tag, proprietà e titoli coerenti
 
-Ho costruito un vero [[Ortix/Giardino digitale\|Giardino digitale]].
+Ho costruito un vero [[Ortix/Filosofia/Giardino digitale\|Giardino digitale]].
 
 ---
 
@@ -48,7 +48,7 @@ Ma ora i dati sono **le mie idee**.
 📍 Se una nota è poco connessa, significa che è inesplorata, c'è margine per espandersi.
 📍Se un nodo è densamente connesso, significa che è il centro delle mie idee.
 
-Il [[Ortix/Secondo cervello\|Secondo cervello]] guida la crescita del mio blog.  
+Il [[Ortix/Filosofia/Secondo cervello\|Secondo cervello]] guida la crescita del mio blog.  
 E non il contrario.
 
 ---
@@ -57,7 +57,7 @@ E non il contrario.
 
 - 🧠 [[Ortix/Appunti/Obsidian\|Obsidian]] come sistema di pensiero
 - 🤖 [[ChatGPT\|ChatGPT]] come assistente di scrittura
-- 📡 [[Ortix/🔄 Syncthing\|🔄 Syncthing]] per la sincronizzazione
+- 📡 [[Ortix/Storage/🔄 Syncthing\|🔄 Syncthing]] per la sincronizzazione
 - [[Ortix/Appunti/LogSeq\|LogSeq]] e altre app markdown per l’editing parallelo
 - 🌐 [[GitHub Pages\|GitHub Pages]] per la pubblicazione
 

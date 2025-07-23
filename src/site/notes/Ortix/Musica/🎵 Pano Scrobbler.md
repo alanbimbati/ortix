@@ -28,7 +28,7 @@ Pano Scrobbler è un'app che tiene traccia delle canzoni che ascolti su vari pla
 ### 🔐 Privacy e Sovranità Digitale
 
 Se usato in locale o con **Libre.fm auto-hostato**, **Pano Scrobbler** ti permette di avere **pieno controllo sui tuoi dati musicali**.  
-📁 Puoi poi sincronizzare il database con [[Ortix/🔄 Syncthing\|🔄 Syncthing]] per tenerne una copia sicura su più dispositivi, **senza cloud centralizzati**.
+📁 Puoi poi sincronizzare il database con [[Ortix/Storage/🔄 Syncthing\|🔄 Syncthing]] per tenerne una copia sicura su più dispositivi, **senza cloud centralizzati**.
 
 ---
 

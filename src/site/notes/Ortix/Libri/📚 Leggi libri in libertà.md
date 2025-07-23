@@ -55,7 +55,7 @@ Esistono lettori completamente **offline, leggeri e open source**:
 
 ## 🔗 Lo abbino con…
 
-- [[Ortix/🔄 Syncthing\|🔄 Syncthing]] → per leggere su più dispositivi  
+- [[Ortix/Storage/🔄 Syncthing\|🔄 Syncthing]] → per leggere su più dispositivi  
 - 📁 MicroSD→ per avere una biblioteca portatile  
 
 ---

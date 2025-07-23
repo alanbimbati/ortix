@@ -15,7 +15,7 @@ Ma usare la **stessa password ovunque** è un suicidio digitale.
 
 KeePass è un gestore di password **offline**, **open source**, gratuito e **multi-piattaforma**.  
 Tutti i tuoi accessi vengono salvati in un **file criptato (.kdbx)** che puoi custodire dove vuoi:  
-su chiavetta, su disco, o sincronizzato tra dispositivi tramite [[Ortix/🔄 Syncthing\|🔄 Syncthing]].
+su chiavetta, su disco, o sincronizzato tra dispositivi tramite [[Ortix/Storage/🔄 Syncthing\|🔄 Syncthing]].
 
 ✅ Nessun cloud  
 ✅ Nessun abbonamento  
@@ -44,7 +44,7 @@ su chiavetta, su disco, o sincronizzato tra dispositivi tramite [[Ortix/🔄 Syn
 
 ## 🔁 Backup e sincronizzazione
 
-💾 Sincronizza il file .kdbx tra più dispositivi con [[Ortix/🔄 Syncthing\|🔄 Syncthing]], ad esempio:  
+💾 Sincronizza il file .kdbx tra più dispositivi con [[Ortix/Storage/🔄 Syncthing\|🔄 Syncthing]], ad esempio:  
 - 📱 Telefono principale  
 - 💻 Computer  
 - 📱 Telefono vecchio come backup
@@ -80,9 +80,9 @@ Con KeePass:
 
 ## 🔗 Post correlati
 
-- [[Ortix/🛡️ Backup sovrano con 3 dispositivi e Syncthing\|🛡️ Backup sovrano con 3 dispositivi e Syncthing]]  
-- [[Ortix/🔄 Syncthing\|🔄 Syncthing]]
-- [[Ortix/🧭 Sovranità Digitale\|🧭 Sovranità Digitale]]
+- [[Ortix/Storage/🛡️ Backup sovrano con 3 dispositivi e Syncthing\|🛡️ Backup sovrano con 3 dispositivi e Syncthing]]  
+- [[Ortix/Storage/🔄 Syncthing\|🔄 Syncthing]]
+- [[Ortix/Filosofia/🧭 Sovranità Digitale\|🧭 Sovranità Digitale]]
 - [[Self-hosting con Raspberry Pi\|Self-hosting con Raspberry Pi]]
 
 ---

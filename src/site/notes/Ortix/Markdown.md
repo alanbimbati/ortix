@@ -54,5 +54,5 @@ Quando scrivi in Markdown, stai **creando contenuti davvero tuoi**, che potrai *
 ✊ È uno strumento fondamentale per la **sovranità digitale**.
 
 #Markdown
-[[Ortix/Giardino digitale\|Giardino digitale]]
-[[Ortix/🧭 Sovranità Digitale\|🧭 Sovranità Digitale]]
+[[Ortix/Filosofia/Giardino digitale\|Giardino digitale]]
+[[Ortix/Filosofia/🧭 Sovranità Digitale\|🧭 Sovranità Digitale]]

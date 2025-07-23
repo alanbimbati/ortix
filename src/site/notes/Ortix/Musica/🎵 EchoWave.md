@@ -49,7 +49,7 @@ e senza la pubblicità, il tracciamento o gli abbonamenti forzati.
 ## 🔗 Abbinamenti utili
 
 - [[Ortix/AppStore/📦 F-Droid\|📦 F-Droid]] per installarlo senza Play Store  
-- [[Ortix/🔄 Syncthing\|🔄 Syncthing]] per sincronizzare la musica offline su più dispositivi  
+- [[Ortix/Storage/🔄 Syncthing\|🔄 Syncthing]] per sincronizzare la musica offline su più dispositivi  
 - [[MicroSD\|MicroSD]] per espandere lo spazio su smartphone vecchi
 
 ---

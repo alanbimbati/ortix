@@ -19,7 +19,7 @@ Ogni pagina è una tessera che ti aiuta a capire, esplorare e difendere la tua l
 
 ## 🕵️ **Privacy & Libertà**
 
-[[Ortix/🧭 Sovranità Digitale\|🧭 Sovranità Digitale]]
+[[Ortix/Filosofia/🧭 Sovranità Digitale\|🧭 Sovranità Digitale]]
 
 ---
 

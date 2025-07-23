@@ -43,7 +43,7 @@ Se tutti usano strumenti tracciabili, anche tu vieni compromesso.
 🛡️ **Come difenderla nella vita digitale**
 
 - Usa [[Bitcoin/Bitcoin\|Bitcoin]] con [[Bitcoin/Wallet/🌀 CoinJoin\|🌀 CoinJoin]] o wallet attenti alla privacy  
-- Sincronizza i tuoi dati con [[Ortix/🔄 Syncthing\|🔄 Syncthing]]  
+- Sincronizza i tuoi dati con [[Ortix/Storage/🔄 Syncthing\|🔄 Syncthing]]  
 - Evita KYC dove puoi (vedi: [[Bitcoin/Filosofia/🕵️‍♂️  KYC e sorveglianza finanziaria\|🕵️‍♂️  KYC e sorveglianza finanziaria]])  
 - Usa [[Bitcoin/Wallet/🧭 Wallet Index\|🧭 Wallet Index]] non custodial  
 
