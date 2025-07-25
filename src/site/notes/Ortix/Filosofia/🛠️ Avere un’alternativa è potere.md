@@ -17,7 +17,7 @@ Avere **strumenti liberi e alternativi** ci rende **più noi stessi**.
 
 ## 🗺️ Inizia con piccoli passi
 
-🧭 **Invece di usare solo Google Maps**, esplora anche [[Comaps\|Comaps]]
+🧭 **Invece di usare solo Google Maps**, esplora anche [[CoMaps\|Comaps]]
 Una mappa collaborativa, etica, fatta da chi vive i luoghi e li ama.
 
 📝 **Invece di Word**, prova a scrivere in Markdown con [[Ortix/Appunti/LogSeq\|LogSeq]] o [[Ortix/Appunti/Obsidian\|Obsidian]]
