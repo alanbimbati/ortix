@@ -34,7 +34,7 @@ Senza filtri invisibili. Senza permessi da chiedere. In totale [[Bitcoin/Filosof
 | Codice/controllo     | [[Bitcoin/🧬 Open Source\|🧬 Open Source]]                     |
 | Privacy nel web      | [[Brave\|Brave]], [[Tor\|Tor]], [[VPN\|VPN]]            |
 | Informazione         | [[Ortix/Informazione/📰 Feeder\|📰 Feeder]]                          |
-| Navigazione          | [[CoMaps\|CoMaps]]                             |
+| Navigazione          | [[Ortix/Navigazione/CoMaps\|CoMaps]]                             |
 | Video                | [[Ortix/Video/📺 NewPipe\|📺 NewPipe]]                         |
 | Musica               | [[Ortix/Musica/🎶 BoomingMusic\|🎶 BoomingMusic]], [[Ortix/Musica/🎵 EchoWave\|🎵 EchoWave]]        |
 | Audiolibri           | [[Ortix/Libri/🗣️ SherpaTTS\|🗣️ SherpaTTS]]                      |

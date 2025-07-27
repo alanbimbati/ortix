@@ -8,7 +8,7 @@
 ![1752873497330.jpg](/img/user/1752873497330.jpg)
 ## 📍 Con CoMaps ho scoperto strade che Google non vuole tu veda
 
-Qualche giorno fa ho deciso di usare [[CoMaps\|CoMaps]] un'app [[Bitcoin/🧬 Open Source\|🧬 Open Source]] per la navigazione **offline**, al posto di Google Maps.  
+Qualche giorno fa ho deciso di usare [[Ortix/Navigazione/CoMaps\|CoMaps]] un'app [[Bitcoin/🧬 Open Source\|🧬 Open Source]] per la navigazione **offline**, al posto di Google Maps.  
 E... sorpresa: ho trovato **strade più corte**, **più tranquille**, **più vuote**. Non sempre più comode, ma sicuramente più *libere*.
 
 🚧 CoMaps non ha il traffico in tempo reale, è vero. Ma proprio per questo **non ti "spinge" da nessuna parte**.  

@@ -15,10 +15,10 @@ Quando usi un normale telefono Android, **Google sa dove sei, cosa cerchi, con c
 
 ## 🔧 Quali alternative ci sono?
 
-### 📱 LineageOS
+### 📱 [[Ortix/Smartphone/LineageOS\|LineageOS]]
 Un sistema operativo Android libero e [[Bitcoin/🧬 Open Source\|🧬 Open Source]], **senza Google**. Puoi installarci **Aurora Store**, **[[Ortix/AppStore/📦 F-Droid\|📦 F-Droid]]** e tutte le app alternative senza dover accedere a un account Google.
 
-### 🐧 [[Linux Phone\|Linux Phone]] (es. PinePhone, Librem)
+### 🐧 [[Ortix/Smartphone/Linux Phone\|Linux Phone]] (es. PinePhone, Librem)
 Per chi vuole spingersi oltre, ci sono telefoni che usano **distribuzioni GNU/Linux vere e proprie**. Più complessi da usare, ma completamente sotto il tuo controllo.
 
 ---
