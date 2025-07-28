@@ -14,8 +14,8 @@ e arriva fino alla libertà.
 
 🪙 **Cos’è Bitcoin?**
 
-- Una rete **distribuita e open source** per inviare valore peer-to-peer  
-- Un **registro immutabile** (blockchain) mantenuto da migliaia di nodi  
+- Una rete **distribuita e [[Bitcoin/🧬 Open Source\|🧬 Open Source]]** per inviare valore peer-to-peer  
+- Un **registro immutabile** ([[blockchain\|blockchain]]) mantenuto da migliaia di nodi
 - Una **moneta digitale limitata**: solo 21 milioni  
 - Un sistema monetario alternativo che non dipende da Stati, banche o aziende
 
@@ -66,10 +66,10 @@ Bitcoin è **politico**, **radicale**, **inalterabile**.
 
 Perché viviamo in un mondo dove:
 
-- Le monete perdono valore ogni anno  
+- Le monete perdono valore ogni anno per via dell'[[Bitcoin/Economia/📉 Inflazione\|📉 Inflazione]]
 - I tuoi risparmi possono essere bloccati  
-- Le guerre sono finanziate stampando denaro  
-- La privacy finanziaria è quasi scomparsa
+- Le guerre sono finanziate stampando denaro, mentre [[Bitcoin/Filosofia/☮️ Bitcoin disincentiva le guerre\|☮️ Bitcoin disincentiva le guerre]]
+- La [[Bitcoin/Filosofia/🕵️‍♂️ Privacy\|🕵️‍♂️ Privacy]] finanziaria è quasi scomparsa
 
 🟠 Bitcoin è l'antidoto:  
 **un sistema che non puoi corrompere, manipolare o spegnere.**
