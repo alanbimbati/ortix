@@ -66,5 +66,5 @@ Abbinata a [[Ortix/Storage/🔄 Syncthing\|🔄 Syncthing]] diventa il **cloud p
 Liberati dalle catene dei servizi centralizzati.  
 **Organizza, sincronizza, vivi le tue foto come vuoi tu.**
 
-[[Ortix/Filosofia/🧭 Sovranità Digitale\|🧭 Sovranità Digitale]]
+[[Ortix/Filosofia/🛡️ Sovranità digitale\|🛡️ Sovranità digitale]]
 ---

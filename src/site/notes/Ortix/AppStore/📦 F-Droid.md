@@ -7,7 +7,7 @@
 
 🤖 **F-Droid** è uno **store di applicazioni Android completamente libero e [[Bitcoin/🧬 Open Source\|🧬 Open Source]]**, pensato per chi vuole **più controllo sul proprio telefono** e **più privacy**, senza dover passare da Google.
 
-Il primo passo per la [[Ortix/Filosofia/🧭 Sovranità Digitale\|🧭 Sovranità Digitale]]
+Il primo passo per la [[Ortix/Filosofia/🛡️ Sovranità digitale\|🛡️ Sovranità digitale]]
 
 ---
 

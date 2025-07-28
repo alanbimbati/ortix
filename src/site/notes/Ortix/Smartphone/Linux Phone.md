@@ -9,7 +9,7 @@
 È uno smartphone che non usa Android né iOS, ma **una distribuzione GNU/Linux completa**, come **Mobian**, **postmarketOS**, **PureOS** o **Arch Linux ARM**. Un vero e proprio **computer tascabile** con interfaccia touch, terminale, pacchetti Linux… e senza Google.
 
 🔐 **Perché usarlo?**  
-Perché è il livello più alto di [[Ortix/Filosofia/🧭 Sovranità Digitale\|🧭 Sovranità Digitale]]:
+Perché è il livello più alto di [[Ortix/Filosofia/🛡️ Sovranità digitale\|🛡️ Sovranità digitale]]:
 
 - 🕶️ Niente tracciamento o sorveglianza
 - 💻 Puoi installare i software che vuoi, da riga di comando

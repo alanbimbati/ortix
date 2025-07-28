@@ -43,7 +43,7 @@ significa **non rimanere a piedi**.
 - Non per forza per usarle sempre  
 - Ma per **non dipendere da nessuno**
 
-🔓 È questo il vero significato di libertà digitale, il passo per la tua [[Ortix/Filosofia/🧭 Sovranità Digitale\|🧭 Sovranità Digitale]]
+🔓 È questo il vero significato di libertà digitale, il passo per la tua [[Ortix/Filosofia/🛡️ Sovranità digitale\|🛡️ Sovranità digitale]]
 
 ---
 

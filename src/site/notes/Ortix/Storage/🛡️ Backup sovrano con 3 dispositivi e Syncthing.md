@@ -101,7 +101,7 @@ Tutto gratuito e open source. Paghi solo una tantum per i telefoni (e, se serve,
 ## 🔗 Post correlati
 
 - [[Ortix/Storage/🔄 Syncthing\|🔄 Syncthing]]  
-- [[Ortix/Filosofia/🧭 Sovranità Digitale\|🧭 Sovranità Digitale]]
+- [[Ortix/Filosofia/🛡️ Sovranità digitale\|🛡️ Sovranità digitale]]
 
 ---
 

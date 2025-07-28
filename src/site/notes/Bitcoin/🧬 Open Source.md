@@ -82,4 +82,4 @@ E tu puoi farne parte.
 
 ---
 
-🔗 _Approfondisci con [[Bitcoin/Bitcoin\|Bitcoin]], [[Ortix/Storage/🔄 Syncthing\|🔄 Syncthing]], [[Ortix/Foto/🖼️ Aves\|🖼️ Aves]], [[Bitcoin/📡 Nostr\|📡 Nostr]], [[Bitcoin/Filosofia/🕵️‍♂️ Privacy\|🕵️‍♂️ Privacy]], [[Ortix/Filosofia/🧭 Sovranità Digitale\|🧭 Sovranità Digitale]], [[Bitcoin/Wallet/🧭 Wallet Index\|🧭 Wallet Index]]_
+🔗 _Approfondisci con [[Bitcoin/Bitcoin\|Bitcoin]], [[Ortix/Storage/🔄 Syncthing\|🔄 Syncthing]], [[Ortix/Foto/🖼️ Aves\|🖼️ Aves]], [[Bitcoin/📡 Nostr\|📡 Nostr]], [[Bitcoin/Filosofia/🕵️‍♂️ Privacy\|🕵️‍♂️ Privacy]], [[Ortix/Filosofia/🛡️ Sovranità digitale\|🛡️ Sovranità digitale]], [[Bitcoin/Wallet/🧭 Wallet Index\|🧭 Wallet Index]]_

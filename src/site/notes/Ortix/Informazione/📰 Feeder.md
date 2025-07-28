@@ -7,7 +7,7 @@
 
 📲 **Feeder** è un'app semplice ma potentissima per **leggere notizie via RSS**, senza pubblicità, senza algoritmi manipolatori, **senza tracciamento**.
 
-Perfetto per la tua [[Ortix/Filosofia/🧭 Sovranità Digitale\|🧭 Sovranità Digitale]]
+Perfetto per la tua [[Ortix/Filosofia/🛡️ Sovranità digitale\|🛡️ Sovranità digitale]]
 
 ---
 

@@ -66,4 +66,4 @@ Nel mondo Bitcoin… **è un ritorno alla normalità.**
 
 ---
 
-🔗 _Approfondisci con [[Bitcoin/Economia/📉 Inflazione\|📉 Inflazione]], [[Bitcoin/Wallet/🔐 Self-custody\|🔐 Self-custody]], [[Ortix/Filosofia/🧭 Sovranità Digitale\|🧭 Sovranità Digitale]], [[Bitcoin/Bitcoin\|Bitcoin]], [[Bitcoin/Economia/💉 La droga monetaria\|💉 La droga monetaria]]_
+🔗 _Approfondisci con [[Bitcoin/Economia/📉 Inflazione\|📉 Inflazione]], [[Bitcoin/Wallet/🔐 Self-custody\|🔐 Self-custody]], [[Ortix/Filosofia/🛡️ Sovranità digitale\|🛡️ Sovranità digitale]], [[Bitcoin/Bitcoin\|Bitcoin]], [[Bitcoin/Economia/💉 La droga monetaria\|💉 La droga monetaria]]_

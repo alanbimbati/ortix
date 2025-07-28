@@ -45,4 +45,4 @@ Se non vuoi fare tutto da solo, puoi acquistarne uno **già pronto all'uso** su:
 ---
 
 > ✊ De-google yourself.  
-> La [[Ortix/Filosofia/🧭 Sovranità Digitale\|🧭 Sovranità Digitale]] inizia dal telefono in tasca.
+> La [[Ortix/Filosofia/🛡️ Sovranità digitale\|🛡️ Sovranità digitale]] inizia dal telefono in tasca.

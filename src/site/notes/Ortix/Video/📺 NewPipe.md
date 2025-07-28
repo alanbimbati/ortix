@@ -50,7 +50,7 @@ Una volta installato, hai accesso all'intera libreria di YouTube **senza dipende
 NewPipe è perfetta per chi vuole **un'esperienza YouTube pulita**,  
 senza perdite di tempo, distrazioni o violazioni della privacy.
 
-Un altro tassello verso una vera [[Ortix/Filosofia/🧭 Sovranità Digitale\|🧭 Sovranità Digitale]].
+Un altro tassello verso una vera [[Ortix/Filosofia/🛡️ Sovranità digitale\|🛡️ Sovranità digitale]].
 
 ---
 

@@ -62,7 +62,7 @@ Consiglio: crea la chiave con qualunque client, salva il tuo npub e nsec in un [
 📌 Con Nostr, **tu controlli la tua identità**.  
 **Tu decidi cosa pubblicare, dove, quando e con chi.**
 
-È la base di una [[Ortix/Filosofia/🧭 Sovranità Digitale\|🧭 Sovranità Digitale]], dove la voce di ciascuno può essere ascoltata, anche se scomoda.
+È la base di una [[Ortix/Filosofia/🛡️ Sovranità digitale\|🛡️ Sovranità digitale]], dove la voce di ciascuno può essere ascoltata, anche se scomoda.
 
 #Nostr #Bitcoin #Decentralizzazione #LibertàDiEspressione #OpenSource
 { #tr-wo7wljnaw}

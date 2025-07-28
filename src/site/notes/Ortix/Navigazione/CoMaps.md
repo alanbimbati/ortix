@@ -26,7 +26,7 @@ CoMaps ti mostra semplicemente le strade. Non suggerisce deviazioni commerciali,
 🧱 **Per chi è ideale CoMaps?**
 - Chi vuole **controllo totale** sui propri spostamenti.  
 - Viaggiatori e camminatori che prediligono l’essenzialità.  
-- Persone attente alla [[Ortix/Filosofia/🧭 Sovranità Digitale\|🧭 Sovranità Digitale]]
+- Persone attente alla [[Ortix/Filosofia/🛡️ Sovranità digitale\|🛡️ Sovranità digitale]]
 
 ---
 
