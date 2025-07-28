@@ -83,4 +83,3 @@ Senza transazioni… niente libertà monetaria.
 
 ---
 
-🔗 _Approfondisci con [[Bitcoin/Mining/⚙️  Proof of Work\|⚙️  Proof of Work]], [[Avalon Nano 3S\|Avalon Nano 3S]]

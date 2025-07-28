@@ -79,10 +79,8 @@ Perché viviamo in un mondo dove:
 👣 **Come iniziare**
 
 - Studia → [[Bitcoin/Filosofia/🗽Bitcoin è per tutti\|🗽Bitcoin è per tutti]], [[Bitcoin/Filosofia/🕸️ Decentralizzazione\|🕸️ Decentralizzazione]], [[Bitcoin/Economia/📉 Inflazione\|Bitcoin/Economia/📉 Inflazione]]  
-- Custodisci → [[Bitcoin/Wallet/🔐 Self-custody\|🔐 Self-custody]], [[Bitcoin/Cold Storage\|Cold Storage]], [[Bitcoin/Wallet/🔐 Multisig\|🔐 Multisig]]  
-- Spendi → [[Bitcoin/Lightning Network/⚡ Lightning Network\|⚡ Lightning Network]], [[Bitcoin/Wallet/🧭 Wallet Index\|🧭 Wallet Index]], [[Zap\|Zap]]  
-- Condividi → [[Bitcoin/📡 Nostr\|📡 Nostr]], [[Filosofia del denaro\|Filosofia del denaro]]
-
+- Custodisci → [[Bitcoin/Wallet/🔐 Self-custody\|🔐 Self-custody]] [[Bitcoin/Wallet/🧭 Wallet Index\|🧭 Wallet Index]]
+- Spendi → [[Bitcoin/Lightning Network/⚡ Lightning Network\|⚡ Lightning Network]]
 ---
 
 📜 **Conclusione**
@@ -93,5 +91,3 @@ E **non puoi fermarlo.
 Puoi solo decidere quando unirti.**
 
 ---
-
-🔗 _Approfondisci con [[Bitcoin/Mining/⚙️  Proof of Work\|⚙️  Proof of Work]], [[Bitcoin/Wallet/🔐 Self-custody\|🔐 Self-custody]], [[Bitcoin/Wallet/🧭 Wallet Index\|🧭 Wallet Index]], [[Bitcoin/Lightning Network/⚡ Lightning Network\|⚡ Lightning Network]], [[Bitcoin/Economia/📉 Inflazione\|Bitcoin/Economia/📉 Inflazione]], [[Bitcoin/Economia/🏛️ Stato e Moneta\|🏛️ Stato e Moneta]], [[Bitcoin/Filosofia/🔺 Il Trilemma\|🔺 Il Trilemma]]_

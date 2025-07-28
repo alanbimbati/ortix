@@ -6,7 +6,7 @@
 # 🔺 Il Trilemma: perché non puoi avere tutto (subito)
 
 ⚖️ **Veloce, sicuro, decentralizzato: scegli due.**  
-Questo è il **Trilemma della Blockchain**:  
+Questo è il **Trilemma della [[blockchain\|blockchain]]**:  
 un concetto che spiega perché **non esiste una rete perfetta**.  
 Ogni scelta tecnica comporta **dei compromessi.**
 
@@ -75,4 +75,3 @@ E con [[Bitcoin/Lightning Network/⚡ Lightning Network\|⚡ Lightning Network]]
 
 ---
 
-🔗 _Approfondisci con [[Bitcoin/Filosofia/🕸️ Decentralizzazione\|🕸️ Decentralizzazione]], [[Bitcoin/Lightning Network/⚡ Lightning Network\|⚡ Lightning Network]], [[Bitcoin/Mining/⚙️  Proof of Work\|⚙️  Proof of Work]], [[Bitcoin/Lightning Network/⚡ Scalabilità di Lightning Network\|⚡ Scalabilità di Lightning Network]], [[Ethereum vs Bitcoin\|Ethereum vs Bitcoin]], [[Bitcoin/Wallet/🔐 Self-custody\|🔐 Self-custody]]_

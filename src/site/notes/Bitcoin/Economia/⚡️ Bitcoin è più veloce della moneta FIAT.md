@@ -42,7 +42,7 @@ Con Bitcoin, il denaro si muove **in 10 minuti**, sempre.
 💼 Vuoi trasferire tutto su un nuovo wallet?  
 ✔️ Lo fai **senza chiedere il permesso a nessuno**, subito.
 
-🔍 La [[Blockchain\|Blockchain]] è **pubblica**: puoi vedere **dove sono i Bitcoin**, se una transazione è **confermata**, e tutto in tempo reale.
+🔍 La [[blockchain\|Blockchain]] è **pubblica**: puoi vedere **dove sono i Bitcoin**, se una transazione è **confermata**, e tutto in tempo reale.
 
 ---
 
