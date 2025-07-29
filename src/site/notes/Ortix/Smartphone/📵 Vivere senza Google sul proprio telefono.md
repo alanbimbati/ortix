@@ -15,7 +15,7 @@ Quando usi un normale telefono Android, **Google sa dove sei, cosa cerchi, con c
 
 ## 🔧 Quali alternative ci sono?
 
-### 📱 [[Ortix/Smartphone/LineageOS\|LineageOS]]
+### 📱 [[Ortix/Smartphone/LineageOS\|LineageOS]] / [[Ortix/Smartphone/GrapheneOs\|GrapheneOs]]
 Un sistema operativo Android libero e [[Bitcoin/🧬 Open Source\|🧬 Open Source]], **senza Google**. Puoi installarci **Aurora Store**, **[[Ortix/AppStore/📦 F-Droid\|📦 F-Droid]]** e tutte le app alternative senza dover accedere a un account Google.
 
 ### 🐧 [[Ortix/Smartphone/Linux Phone\|Linux Phone]] (es. PinePhone, Librem)
