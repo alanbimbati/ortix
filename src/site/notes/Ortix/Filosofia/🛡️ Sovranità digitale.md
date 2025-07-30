@@ -6,7 +6,8 @@
 # 🛡️ Sovranità digitale
 
 🧠 La libertà oggi non si misura solo in **diritti politici**,  
-ma in **strumenti informatici** che puoi controllare.
+ma in **strumenti informatici** che puoi controllare. Non farti influenzare dall' [[Ortix/Economica comportamentale/Ingegneria del pensiero\|Ingegneria del pensiero]]
+
 
 📱 Se tutto ciò che fai — scrivere, pagare, cercare, archiviare —  
 passa da server di altri… **non sei sovrano.**

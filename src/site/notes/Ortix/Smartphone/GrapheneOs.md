@@ -74,7 +74,7 @@ L'installazione è guidata via web: **nessuna riga di comando** necessaria.
 
 Con GrapheneOS puoi:
 
-- Usare app [[FOSS\|FOSS]] da [[F-Droid\|F-Droid]], [[Obtainium\|Obtainium]], [[Aurora Store\|Aurora Store]]
+- Usare app [[FOSS\|FOSS]] da [[Ortix/AppStore/📦 F-Droid\|📦 F-Droid]] o simili
 - Isolare app Google in una sandbox, se proprio servono
 - Vivere senza pubblicità, tracking e bloatware
 
