@@ -6,7 +6,7 @@
 # 🔺 Il Trilemma: perché non puoi avere tutto (subito)
 
 ⚖️ **Veloce, sicuro, decentralizzato: scegli due.**  
-Questo è il **Trilemma della [[blockchain\|blockchain]]**:  
+Questo è il **Trilemma della [[Bitcoin/Definizioni/blockchain\|blockchain]]**:  
 un concetto che spiega perché **non esiste una rete perfetta**.  
 Ogni scelta tecnica comporta **dei compromessi.**
 

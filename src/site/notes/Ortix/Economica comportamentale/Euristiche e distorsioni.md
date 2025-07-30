@@ -11,14 +11,14 @@
 
 ## 🧭 Premessa
 
-Negli anni '70, i ricercatori [[Amos Tversky\|Amos Tversky]] e [[Daniel Kahneman\|Daniel Kahneman]] rivoluzionarono la psicologia cognitiva e diedero vita all’[[Ortix/Economica comportamentale/Euristiche e distorsioni\|Euristiche e distorsioni]].  
+Negli anni '70, i ricercatori Amos Tversky e Daniel Kahneman rivoluzionarono la psicologia cognitiva e diedero vita all’[[Ortix/Economica comportamentale/Euristiche e distorsioni\|Euristiche e distorsioni]].  
 Analizzarono *come* le persone prendono decisioni **nella vita reale**, scoprendo che spesso **non seguono la logica**, ma **regole mentali semplificate** chiamate *euristiche*.
 
 ---
 
 ## 🧩 Le 3 euristiche principali
 
-Kahneman e Tversky identificarono tre strategie cognitive fondamentali che usiamo per decidere sotto incertezza:
+Kahneman e Tversky identificarono tre strategie cognitive fondamentali che usiamo per decidere sotto incertezza, basate sui [[Ortix/Economica comportamentale/Bias cognitivi\|Bias cognitivi]]
 
 ---
 
@@ -79,18 +79,8 @@ Ha mostrato che **le nostre scelte sono prevedibilmente irrazionali**, e che **l
 📚 Ha ispirato opere fondamentali come:
 - *Thinking, Fast and Slow* di Daniel Kahneman
 - *Nudge* di Richard Thaler e Cass Sunstein
-- Le ricerche sul [[Priming\|Priming]], sul [[Nudge\|Nudge]] e sull’architettura delle scelte
+- Le ricerche sul [[Ortix/Economica comportamentale/Priming\|Priming]], sul [[Ortix/Economica comportamentale/Nudge\|Nudge]] e sull’architettura delle scelte
 
----
-
-## 🧠 Collegamenti utili
-
-- [[Daniel Kahneman\|Daniel Kahneman]]
-- [[Amos Tversky\|Amos Tversky]]
-- [[Bias cognitivi\|Bias cognitivi]]
-- [[Nudge\|Nudge]]
-- [[Economia classica vs comportamentale\|Economia classica vs comportamentale]]
-- [[Pensiero veloce e pensiero lento\|Pensiero veloce e pensiero lento]]
 
 ---
 

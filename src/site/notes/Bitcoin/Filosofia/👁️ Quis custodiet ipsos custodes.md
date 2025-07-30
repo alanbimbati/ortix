@@ -38,7 +38,7 @@ Bitcoin risponde con una **rivoluzione di fiducia**:
 > **"Don’t trust. Verify."**  
 > — [[Bitcoin/Satoshi Nakamoto\|Satoshi Nakamoto]]
 
-📦 Un sistema come [[Bitcoin/Bitcoin\|Bitcoin]] non richiede fiducia cieca, perché tutto è **open source**, **immutabile**, e **verificabile** da chiunque con un [[Full Node\|Full node]].
+📦 Un sistema come [[Bitcoin/Bitcoin\|Bitcoin]] non richiede fiducia cieca, perché tutto è **open source**, **immutabile**, e **verificabile** da chiunque con un [[Bitcoin/Definizioni/Full Node\|Full Node]].
 
 📉 Al contrario, i sistemi centralizzati come le [[Bitcoin/Economia/CBDC\|CBDC]] chiedono **fiducia totale**... senza mai offrire **trasparenza reale**.
 
