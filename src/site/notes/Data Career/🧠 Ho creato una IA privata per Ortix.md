@@ -2,14 +2,6 @@
 {"dg-publish":true,"permalink":"/data-career/ho-creato-una-ia-privata-per-ortix/","title":"🤖 Progetto AI Vault Ortix - Resoconto","tags":["AI","LLM","Obsidian","llama_index","localAI","embedding","ETL","Sovranità Digitale"]}
 ---
 
----
-dg-publish: true
-dg-home: false
-title: "🧠 Ho creato una IA privata per Ortix"
-date: 2025-08-01
-tags: [AI, Ortix, Sovranità Digitale, Obsidian, Local AI, LLM, Privacy]
----
-
 # 🧠 Ho creato una IA privata per Ortix
 
 ![Pasted image 20250801183101.png](/img/user/Pasted%20image%2020250801183101.png)
