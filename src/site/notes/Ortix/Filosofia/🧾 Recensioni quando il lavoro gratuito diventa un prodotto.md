@@ -3,7 +3,7 @@
 ---
 
 
-# 🧾 Recensioni: quando il lavoro gratuito diventa un prodotto
+# 🧾 Recensioni: stai lavorando gratis per le big tech?
 
 ![[1754231367681.jpg\|1754231367681.jpg]]
 
