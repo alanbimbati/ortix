@@ -5,7 +5,7 @@
 
 # 🧾 Recensioni: stai lavorando gratis per le big tech?
 
-![[1754231367681.jpg\|1754231367681.jpg]]
+![1754231367681.jpg](/img/user/1754231367681.jpg)
 
 🧠 **Hai mai pensato a cosa sia, davvero, una recensione?**  
 Una frase su Google, un punteggio su Amazon, un commento su TripAdvisor. Tutto gratis, tutto volontario.

@@ -5,7 +5,7 @@
 
 # 🎵 EchoWave: musica da YouTube, senza pubblicità né abbonamenti
 
-🎧 **EchoWave** è un'app open-source per Android che ti permette di ascoltare musica direttamente da **YouTube**,  
+🎧 **EchoWave** è un'app [[Bitcoin/🧬 Open Source\|🧬 Open Source]] per Android che ti permette di ascoltare musica direttamente da **YouTube**,  
 ma con una **grafica simile (se non migliore) di Spotify**,  
 e senza la pubblicità, il tracciamento o gli abbonamenti forzati.
 

@@ -15,8 +15,8 @@ con un'interfaccia semplice, elegante e moderna, **senza pubblicità e senza con
 
 È un'app [[Bitcoin/🧬 Open Source\|🧬 Open Source]] per Android, pensata per chi vuole:  
 - ascoltare la **musica già presente sul dispositivo**  
-- organizzare album, artisti e playlist  
-- avere un’interfaccia piacevole come Spotify  
+- organizzare album, artisti, cartelle e playlist 
+- avere un’interfaccia piacevole e accattivante 
 - restare **totalmente offline**, senza tracciamento
 
 ---
