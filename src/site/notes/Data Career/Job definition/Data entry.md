@@ -30,7 +30,7 @@ Questo è **Data Entry distribuito**, e alimenta profitti miliardari di Big Tech
 Nel mondo del lavoro, chi fa data entry è spesso considerato "junior", "sostituibile" o "temporaneo".  
 Ma la verità è che **senza dati ben raccolti, tutto il resto è spazzatura.**
 
-🛠 Chi costruisce flussi [[Data Career/ETL\|ETL]] lo sa bene: se non sai da dove arrivano i dati, non puoi fidarti del risultato.
+🛠 Chi costruisce flussi [[Data Career/Definizioni/ETL\|ETL]] lo sa bene: se non sai da dove arrivano i dati, non puoi fidarti del risultato.
 
 ---
 

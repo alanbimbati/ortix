@@ -5,7 +5,7 @@
 
 🧱 **Il costruttore invisibile dei sistemi dati**
 
-Il **Data Engineer** è uno specialista tecnico che sviluppa e mantiene le **pipeline [[Data Career/ETL\|ETL]] (Extract, Transform, Load)**.  
+Il **Data Engineer** è uno specialista tecnico che sviluppa e mantiene le **pipeline [[Data Career/Definizioni/ETL\|ETL]] (Extract, Transform, Load)**.  
 Il suo compito è:
 - estrarre i dati da varie fonti (database, API, file),
 - pulirli e trasformarli per renderli consistenti,

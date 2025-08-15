@@ -8,7 +8,7 @@
 ![1752389471400.jpg](/img/user/1752389471400.jpg)
 
 📊 Fare il [[Data Manager\|Data Manager]] mi ha cambiato anche nel modo di studiare.  
-Lavorare ogni giorno con [[Data Career/ETL\|ETL]] (estrazione, trasformazione, caricamento) mi ha influenzato profondamente anche nel mio rapporto con la conoscenza.
+Lavorare ogni giorno con [[Data Career/Definizioni/ETL\|ETL]] (estrazione, trasformazione, caricamento) mi ha influenzato profondamente anche nel mio rapporto con la conoscenza.
 
 ---
 
