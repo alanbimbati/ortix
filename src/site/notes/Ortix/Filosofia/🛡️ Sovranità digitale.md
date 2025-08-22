@@ -33,7 +33,7 @@ Senza filtri invisibili. Senza permessi da chiedere. In totale [[Bitcoin/Filosof
 | File personali       | [[Ortix/Storage/🔄 Syncthing\|🔄 Syncthing]], [[Ortix/Foto/🖼️ Aves\|🖼️ Aves]]         |
 | Appunti/idee         | [[Ortix/Appunti/Obsidian\|Obsidian]]                        |
 | Codice/controllo     | [[Bitcoin/🧬 Open Source\|🧬 Open Source]]                     |
-| Privacy nel web      | [[Brave\|Brave]], [[Tor\|Tor]], [[VPN\|VPN]]            |
+| Privacy nel web      | [[Brave\|Brave]], [[Ortix/Navigazione/Web/Tor\|Tor]], [[Ortix/Navigazione/Web/VPN\|VPN]]            |
 | Informazione         | [[Ortix/Informazione/📰 Feeder\|📰 Feeder]]                          |
 | Navigazione          | [[Ortix/Navigazione/CoMaps\|CoMaps]]                             |
 | Video                | [[Ortix/Video/📺 NewPipe\|📺 NewPipe]]                         |

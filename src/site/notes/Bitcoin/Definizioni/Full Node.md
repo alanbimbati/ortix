@@ -50,7 +50,7 @@ Puoi installarlo su:
 Puoi usarlo per:
 - Fare [[routing Lightning\|routing Lightning]] con un nodo [[LND\|LND]] o [[Core Lightning\|Core Lightning]]  
 - Collegarci un wallet come [[Sparrow Wallet\|Sparrow Wallet]]  
-- Avere [[Tor\|Tor]] integrato per la privacy  
+- Avere [[Ortix/Navigazione/Web/Tor\|Tor]] integrato per la privacy  
 - Hostare [[BTCPay Server\|BTCPay Server]] e accettare pagamenti in Bitcoin
 
 ---

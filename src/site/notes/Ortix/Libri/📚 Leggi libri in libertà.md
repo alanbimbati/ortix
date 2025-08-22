@@ -37,7 +37,7 @@ Esistono lettori completamente **offline, leggeri e open source**:
 ## 🛰️ Dove trovare i libri?
 
 🗂 **Anna’s Archive** è un **motore di ricerca libero** per ebook.  
-📡 Accessibile anche tramite [[Tor\|Tor]] per maggior [[Bitcoin/Filosofia/🕵️‍♂️ Privacy\|🕵️‍♂️ Privacy]].
+📡 Accessibile anche tramite [[Ortix/Navigazione/Web/Tor\|Tor]] per maggior [[Bitcoin/Filosofia/🕵️‍♂️ Privacy\|🕵️‍♂️ Privacy]].
 
 > L’obiettivo non è la pirateria, ma l’**accesso libero alla conoscenza**.  
 > Molti testi accademici, classici e rari sono introvabili o vincolati da editori.
