@@ -59,6 +59,21 @@ Ogni 2-3 anni mi porto a casa un telefono nuovo, e quello vecchio diventa subito
 
 ---
 
+##📱 Il paradosso dei telefoni sempre nuovi
+Il meccanismo dell'[[Bitcoin/Economia/📉 Inflazione\|📉 Inflazione]] ci spinge a consumare in fretta: i soldi perdono valore e sembra “conveniente” spendere subito, anche per comprare l’ennesimo smartphone che, di fatto, non porta un vero salto di qualità. Cambia la fotocamera, il colore, qualche dettaglio… ma il telefono resta lo stesso.
+
+---
+
+⚡ Con [[Bitcoin/Bitcoin\|Bitcoin]] il concetto si ribalta. Una [[Bitcoin/Economia/Preferenza temporale\|Preferenza temporale]] bassa – resa possibile da una moneta che non perde potere d’acquisto – ci porta a ragionare diversamente: non spendo per il nuovo iPhone solo perché è uscito, spendo solo se davvero ne vale la pena.
+
+![IMG_20250825_155501_765.jpg](/img/user/IMG_20250825_155501_765.jpg)
+
+💡 Pensaci: se invece di cambiare iPhone ogni anno avessi comprato Bitcoin con gli stessi soldi, oggi potresti ritrovarti con milioni di euro in tasca. Non è fantascienza, è la matematica della scarsità.
+
+🔑 La vera libertà non è avere dieci telefoni, ma saper scegliere quando e perché spendere. E Bitcoin è lo strumento che ti restituisce questo potere.
+
+---
+
 ## 🌍 Conclusione
 Ogni volta che scegli un’app leggera e libera, **allunghi la vita del tuo telefono**, riduci rifiuti elettronici e **recuperi la tua libertà digitale**.  
 
