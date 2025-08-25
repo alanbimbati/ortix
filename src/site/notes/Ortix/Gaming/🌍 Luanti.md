@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ortix/gaming/luanti/","title":"🌍 Luanti","tags":["Gaming","OpenSource","Multiplayer","CrossPlatform","SovranitàDigitale"]}
+{"dg-publish":true,"permalink":"/ortix/gaming/luanti/","title":"🌍 Luanti"}
 ---
 
 
