@@ -4,7 +4,7 @@
 
 
 # 🛠️ Avere un’alternativa è potere
-![1752334564173.jpg](/img/user/1752334564173.jpg)
+![1752334564173.jpg](/img/user/Immagini/1752334564173.jpg)
 
 💡 Non si tratta di **smettere di usare tutto da un giorno all'altro**,  
 ma di **avere una via d'uscita**.

@@ -5,7 +5,7 @@
 
 # 🧠 Preferenza temporale: uovo oggi o gallina domani?
 
-![1753734585969.jpg](/img/user/1753734585969.jpg)
+![1753734585969.jpg](/img/user/Immagini/1753734585969.jpg)
 
 🥚 Uno dei concetti chiave in economia — e soprattutto nel [[Bitcoin/Bitcoin\|Bitcoin]] — è quello di **preferenza temporale**: quanto sei disposto a **rimandare una gratificazione** oggi per ottenere un **beneficio maggiore in futuro**?
 

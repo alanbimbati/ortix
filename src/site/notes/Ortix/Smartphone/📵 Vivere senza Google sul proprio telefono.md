@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ortix/smartphone/vivere-senza-google-sul-proprio-telefono/","tags":["degoogle","sovranità-digitale","privacy","android","bitcoin","tecnologia"]}
 ---
 
-![1753630012857.jpg](/img/user/1753630012857.jpg)
+![1753630012857.jpg](/img/user/Immagini/1753630012857.jpg)
 # 📵 Vivere senza Google sul proprio telefono
 
 ## 🛡 Perché degooglizzare lo smartphone?

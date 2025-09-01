@@ -4,7 +4,7 @@
 
 
 # 📱 Il mito del nuovo smartphone  
-![file_000000003ab46243ab6243f9587d4691.png](/img/user/file_000000003ab46243ab6243f9587d4691.png)
+![1756574882735.jpg](/img/user/1756574882735.jpg)
 
 🚨 **Ogni anno ci vendono lo stesso sogno:** più RAM, più ROM, più potenza. Ma dietro questa narrativa c’è un inganno sottile: gli sviluppatori mainstream **non si preoccupano più dell’ottimizzazione**. Tanto sanno che i dispositivi avranno sempre più risorse a disposizione. 
 
@@ -51,11 +51,8 @@ Ogni 2-3 anni mi porto a casa un telefono nuovo, e quello vecchio diventa subito
 ---
 
 ## 🔧 Azioni pratiche
-- Installa app FOSS da [[Ortix/AppStore/📦 F-Droid\|📦 F-Droid]]
-- Usa launcher minimalisti come [Olauncher](Olauncher.md).  
+- Respira! Non andare in [[Ortix/Filosofia/🌐 Apnea Digitale\|🌐 Apnea Digitale]]
 - Sostituisci le app pesanti con equivalenti [[Bitcoin/🧬 Open Source\|🧬 Open Source]] 
-- Evita i social proprietari e usa **feed RSS** per informarti senza app pesanti.  
-- Blocca pubblicità e tracker con degli [[Ortix/Navigazione/Web/🔒 Adblocker\|🔒 Adblocker]]
 
 ---
 
@@ -66,7 +63,7 @@ Il meccanismo dell'[[Bitcoin/Economia/📉 Inflazione\|📉 Inflazione]] ci spin
 
 ⚡ Con [[Bitcoin/Bitcoin\|Bitcoin]] il concetto si ribalta. Una [[Bitcoin/Economia/Preferenza temporale\|Preferenza temporale]] bassa – resa possibile da una moneta che non perde potere d’acquisto – ci porta a ragionare diversamente: non spendo per il nuovo iPhone solo perché è uscito, spendo solo se davvero ne vale la pena.
 
-![IMG_20250825_155501_765.jpg](/img/user/IMG_20250825_155501_765.jpg)
+![IMG_20250825_155501_765.jpg](/img/user/Immagini/IMG_20250825_155501_765.jpg)
 
 💡 Pensaci: se invece di cambiare iPhone ogni anno avessi comprato Bitcoin con gli stessi soldi, oggi potresti ritrovarti con milioni di euro in tasca. Non è fantascienza, è la matematica della scarsità.
 

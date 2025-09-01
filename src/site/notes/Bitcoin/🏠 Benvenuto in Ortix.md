@@ -4,10 +4,11 @@
 
 # 🏠 Benvenuto in Ortix
 
-![Pasted image 20250709175127.png](/img/user/Pasted%20image%2020250709175127.png)
-🧭 Qui trovi il **cuore pulsante del mio archivio** dedicato a **Bitcoin** e alla **Sovranità Digitale**.  
-Ogni pagina è una tessera che ti aiuta a capire, esplorare e difendere la tua libertà.  
-**Nessun intermediario, nessuna fiducia cieca. Solo verifica, conoscenza e autonomia.**
+![1756573465645.jpg](/img/user/1756573465645.jpg)
+
+🌱 Vi presento Ortix: la mascotte del canale
+
+Ortix è una pianta digitale, il seme da cui tutto il giardino creativo può germogliare. Con le sue foglioline pixelate e il suo spirito curioso, Ortix rappresenta l’idea che anche nel mondo virtuale si possa coltivare qualcosa di vivo, originale e in continua evoluzione.
 
 ---
 

@@ -4,7 +4,7 @@
 
 
 
-![1752768097049.jpg](/img/user/1752768097049.jpg)
+![1752768097049.jpg](/img/user/Immagini/1752768097049.jpg)
 ## ✨ Cos’è [[Bitcoin/📡 Nostr\|📡 Nostr]]?
 
 Nostr è un nuovo modo di concepire i social network.  

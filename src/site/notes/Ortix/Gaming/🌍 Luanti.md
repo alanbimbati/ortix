@@ -5,7 +5,7 @@
 
 # 🌍 Luanti
 
-![1754771660179.jpg](/img/user/1754771660179.jpg)
+![1754771660179.jpg](/img/user/Immagini/1754771660179.jpg)
 
 🧱 **Luanti** è un gioco sandbox 3D ispirato a Minecraft, è l'ex [[Ortix/Gaming/⛏️ Minetest\|⛏️ Minetest]]. È **totalmente [[Bitcoin/🧬 Open Source\|🧬 Open Source]]** e gratuito.
 Puoi creare, esplorare, modificare il mondo come vuoi… ma senza pagare licenze, senza DRM, e con la libertà di **personalizzare ogni aspetto** e in totale [[Bitcoin/Filosofia/🕵️‍♂️ Privacy\|🕵️‍♂️ Privacy]]. È [[Ortix/Gaming/🕹️ Gaming libero\|🕹️ Gaming libero]].

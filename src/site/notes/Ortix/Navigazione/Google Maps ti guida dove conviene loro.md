@@ -5,7 +5,7 @@
 
 # 🗺️ Google Maps ti guida... dove conviene a *loro*  
 
-![1752873497330.jpg](/img/user/1752873497330.jpg)
+![1752873497330.jpg](/img/user/Immagini/1752873497330.jpg)
 ## 📍 Con CoMaps ho scoperto strade che Google non vuole tu veda
 
 Qualche giorno fa ho deciso di usare [[Ortix/Navigazione/CoMaps\|CoMaps]] un'app [[Bitcoin/🧬 Open Source\|🧬 Open Source]] per la navigazione **offline**, al posto di Google Maps.  

@@ -5,7 +5,7 @@
 
 ### 🧠 **Pensavi fosse solo pubblicità? È ingegneria del pensiero.**  
 
-![1753860439746.jpg](/img/user/1753860439746.jpg)
+![1753860439746.jpg](/img/user/Immagini/1753860439746.jpg)
 
 Ogni volta che accedi a un social network o guardi il TG, **stai pagando con la tua attenzione**.  
 Ma non solo: **condividi dati personali**, comportamenti, gusti, emozioni...  

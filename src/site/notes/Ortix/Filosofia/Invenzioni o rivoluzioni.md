@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ortix/filosofia/invenzioni-o-rivoluzioni/","title":"🚀 Da 0 a 1: quando la tecnologia cambia il mondo","tags":["tecnologia","innovazione","bitcoin","internet","riflessioni","disruption"]}
 ---
 
-![1753536695128.jpg](/img/user/1753536695128.jpg)
+![1753536695128.jpg](/img/user/Immagini/1753536695128.jpg)
 
 🧠 **Non tutte le innovazioni sono rivoluzioni.**  
 Alcune cambiano il mondo. Altre... lo colorano un po’ meglio.

@@ -5,7 +5,7 @@
 
 # 👶🤖 Fecondazione artificiale, robot gestatori e il futuro distopico delle caste genetiche
 
-![1755678054816.jpg](/img/user/1755678054816.jpg)
+![1755678054816.jpg](/img/user/Immagini/1755678054816.jpg)
 
 🌱 **All’inizio sarà una rivoluzione positiva.**  
 La notizia che un’azienda cinese stia sviluppando un robot umanoide capace di portare avanti una gravidanza sembra uscita da un romanzo di fantascienza. Per molte coppie infertili rappresenterebbe una svolta: finalmente la possibilità di avere un figlio senza ricorrere a costosi processi di surrogazione o lunghi viaggi all’estero.  

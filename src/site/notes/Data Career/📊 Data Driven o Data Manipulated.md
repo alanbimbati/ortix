@@ -5,7 +5,7 @@
 
 # 📊 Data Driven o Data Manipulated?
 
-![1755292083514.jpg](/img/user/1755292083514.jpg)
+![1755292083514.jpg](/img/user/Immagini/1755292083514.jpg)
 
 💡 **Essere "data driven"** significa prendere decisioni basandosi sui dati, non sulle opinioni. È il sogno di ogni organizzazione che vuole essere *oggettiva* e non guidata dall’istinto.  
 Essere padroni dei propri dati vuol dire avere una bussola che ci indica la direzione, senza dipendere da altri.

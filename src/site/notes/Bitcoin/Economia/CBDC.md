@@ -5,7 +5,7 @@
 
 # 🏛️ CBDC: la moneta programmabile
 
-![1753710314873.jpg](/img/user/1753710314873.jpg)
+![1753710314873.jpg](/img/user/Immagini/1753710314873.jpg)
 
 🧠 Le **CBDC (Central Bank Digital Currencies)** sono valute digitali emesse direttamente da una **banca centrale**. Non sono criptovalute libere o decentralizzate: sono la **digitalizzazione della moneta fiat** sotto **controllo totale statale**.
 

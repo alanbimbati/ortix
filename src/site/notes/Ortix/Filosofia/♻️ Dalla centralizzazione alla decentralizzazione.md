@@ -5,7 +5,7 @@
 
 # ♻️ Dalla centralizzazione alla decentralizzazione… e ritorno (e ancora)
 
-![1754424873314.jpg](/img/user/1754424873314.jpg)
+![1754424873314.jpg](/img/user/Immagini/1754424873314.jpg)
 
 📜 **La storia della tecnologia è un pendolo.**  
 Alterna fasi di **centralizzazione** (tutto sotto pochi nodi di controllo) a fasi di **decentralizzazione** (potere distribuito agli utenti).  

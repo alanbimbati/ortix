@@ -4,7 +4,7 @@
 
 # 🧠 Ho creato una IA privata per Ortix
 
-![Pasted image 20250801183101.png](/img/user/Pasted%20image%2020250801183101.png)
+![Pasted image 20250801183101.png](/img/user/Immagini/Pasted%20image%2020250801183101.png)
 
 🌱 **Ortix** è il mio giardino digitale, uno spazio dove conservo tutta la mia conoscenza, idee e riflessioni.  
 Da tempo sognavo di poterci *parlare* direttamente, come se fosse una mente secondaria sempre disponibile, **senza passare da ChatGPT, Gemini o altri servizi esterni**.  
@@ -23,7 +23,7 @@ In una parola: **una IA tutta mia**, in locale, senza internet, nel pieno rispet
 - uno per *capire* il contenuto (`all-MiniLM`, molto leggero, ottimo per trasformare i testi in vettori),  
 - uno per *rispondere* alle domande (`llama-3-8b-instruct`, un grande modello linguistico locale, da usare al posto di ChatGPT).
 
-![Pasted image 20250801182941.png](/img/user/Pasted%20image%2020250801182941.png)
+![Pasted image 20250801182941.png](/img/user/Immagini/Pasted%20image%2020250801182941.png)
 
 👎🏻 Al primo tentativo, **ha funzionato**... ma:
 - ci ha messo **6 minuti per rispondere**,
@@ -37,7 +37,7 @@ In una parola: **una IA tutta mia**, in locale, senza internet, nel pieno rispet
 - Scaricato un **modello più leggero**, adatto al mio PC di 5 anni fa
 - Aggiunto un **system prompt** per dirgli di rispondere sempre in italiano e in modo chiaro
 
-![Pasted image 20250801182954.png](/img/user/Pasted%20image%2020250801182954.png)
+![Pasted image 20250801182954.png](/img/user/Immagini/Pasted%20image%2020250801182954.png)
 
 ✅ Così facendo, ho ottenuto un assistente in grado di leggere Ortix e rispondere alle mie domande.  
 Certo, una risposta può richiedere anche **3 minuti**, ma funziona! E **tutto in locale**.
