@@ -5,7 +5,7 @@
 
 # 🕹️ Gaming libero
 
-![1756576293934.jpg](/img/user/1756576293934.jpg)
+![1756576293934.jpg](/img/user/Immagini/1756576293934.jpg)
 
 🎭 Quando compri un gioco su Steam o su altri store digitale, **non stai acquistando il gioco**. Ottieni solo una **licenza limitata** a usarlo… fino a quando:
 

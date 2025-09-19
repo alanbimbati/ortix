@@ -3,7 +3,7 @@
 ---
 
 
-![1756575339221.jpg](/img/user/1756575339221.jpg)
+![1756575339221.jpg](/img/user/Immagini/1756575339221.jpg)
 
 🌙 **Sogni lucidi, confusi, inquietanti o rivelatori...**  
 Annotarli in Obsidian può diventare una pratica potente per capire **chi sei, dove ti trovi nella tua vita, qual è il tuo stato emotivo** e **dove puoi agire per trasformarti**.

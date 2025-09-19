@@ -5,7 +5,7 @@
 
 # 🛡️ Infrastruttura personale: robusta, privata, resiliente
 
-![1756574031774.jpg](/img/user/1756574031774.jpg)
+![1756574031774.jpg](/img/user/Immagini/1756574031774.jpg)
 
 🌌 **Quello che ho costruito non è solo un sistema di appunti. È un'infrastruttura digitale personale: decentralizzata, logica, sincronizzata, pubblicabile.**  
 Un’architettura a tre strati che tiene insieme **privacy, ridondanza e accessibilità**, sempre sotto il mio controllo.

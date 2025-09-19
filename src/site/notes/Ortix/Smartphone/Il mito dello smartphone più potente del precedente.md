@@ -4,7 +4,7 @@
 
 
 # 📱 Il mito del nuovo smartphone  
-![1756574882735.jpg](/img/user/1756574882735.jpg)
+![Ortix_Dispositivi.jpg](/img/user/Immagini/Ortix_Dispositivi.jpg)
 
 🚨 **Ogni anno ci vendono lo stesso sogno:** più RAM, più ROM, più potenza. Ma dietro questa narrativa c’è un inganno sottile: gli sviluppatori mainstream **non si preoccupano più dell’ottimizzazione**. Tanto sanno che i dispositivi avranno sempre più risorse a disposizione. 
 
