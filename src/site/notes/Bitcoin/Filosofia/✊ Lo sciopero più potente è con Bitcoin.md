@@ -5,7 +5,7 @@
 
 # ✊ Lo sciopero più potente è con Bitcoin  
 
-![Bitcoin_sciopero.jpg](/img/user/Immagini/Bitcoin_sciopero.jpg)
+![Bitcoin_sciopero.jpg](/img/user/Immagini/Bitcoin_sciopero.jpg)   
 
 Il 22 settembre si parla di **[sciopero per la Palestina](https://www.today.it/attualita/sciopero-generale-22-settembre.html)**.  
 👉 Non voglio entrare nel tema politico: il punto è più ampio e riguarda tutti noi.  
