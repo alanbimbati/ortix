@@ -28,7 +28,7 @@ Alterna fasi di **centralizzazione** (tutto sotto pochi nodi di controllo) a fas
 ---
 
 ## ⛏ Mining: dalla camera del nerd al data center… e di nuovo al nerd
-- **Primi anni di [[Bitcoin/Mining/⛏️ Mining\|⛏️ Mining]]:** decentralizzato, chiunque poteva minare da casa.  
+- **Primi anni di [[Bitcoin/Definizioni/Mining/⛏️ Mining\|⛏️ Mining]]:** decentralizzato, chiunque poteva minare da casa.  
 - **Mining industriale:** mega data center centralizzano la potenza di calcolo.  
 - **Oggi:** progetti come [[Lottery Mining\|Lottery Mining]] e [[Nerd Miner\|Nerd Miner]] riportano il mining alla portata di tutti, anche con hardware economico.
 

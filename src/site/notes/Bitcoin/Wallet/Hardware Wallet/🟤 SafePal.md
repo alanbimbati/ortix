@@ -12,7 +12,7 @@
 
 ## 🔐 Cos'è SafePal?
 
-SafePal è un **[[Bitcoin/Wallet/Hardware Wallet\|hardware wallet]]** prodotto da SafePal, azienda sostenuta da **Binance**.
+SafePal è un **[[Bitcoin/Wallet/Hardware Wallet/Hardware Wallet\|hardware wallet]]** prodotto da SafePal, azienda sostenuta da **Binance**.
 
 Modelli disponibili:
 - **SafePal S1** (~40€) → hardware wallet airgapped
@@ -129,4 +129,4 @@ SafePal è un **entry-level hardware wallet**, ma con troppi compromessi.
 
 🔗 _Sito ufficiale: [safepal.com](https://www.safepal.com)_
 
-📎 _Vedi anche: [[Bitcoin/Wallet/Hardware Wallet\|Hardware Wallet]], [[Bitcoin/Wallet/Hardware Wallet/🟢 Jade\|🟢 Jade]], [[Bitcoin/Wallet/Hardware Wallet/🔴 Trezor\|🔴 Trezor]], [[Bitcoin/Wallet/❄️ Coldcard\|❄️ Coldcard]], [[Bitcoin/Wallet/🔐 Self-custody\|🔐 Self-custody]]_
+📎 _Vedi anche: [[Bitcoin/Wallet/Hardware Wallet/Hardware Wallet\|Hardware Wallet]], [[Bitcoin/Wallet/Hardware Wallet/🟢 Jade\|🟢 Jade]], [[Bitcoin/Wallet/Hardware Wallet/🔴 Trezor\|🔴 Trezor]], [[Bitcoin/Wallet/Hardware Wallet/❄️ Coldcard\|❄️ Coldcard]], [[Bitcoin/Definizioni/Blockchain/🔐 Self-custody\|🔐 Self-custody]]_

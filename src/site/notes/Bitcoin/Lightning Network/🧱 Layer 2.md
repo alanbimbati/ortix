@@ -80,4 +80,4 @@ Costruiamo sopra un fondamento solido.
 
 ---
 
-🔗 _Approfondisci con [[Bitcoin/Lightning Network/⚡ Lightning Network\|⚡ Lightning Network]], [[Bitcoin/Lightning Network/⚡ Scalabilità di Lightning Network\|⚡ Scalabilità di Lightning Network]], [[Bitcoin/Filosofia/🔺 Il Trilemma\|🔺 Il Trilemma]], [[Bitcoin/Mining/⚙️  Proof of Work\|⚙️  Proof of Work]], [[Bitcoin/Filosofia/🕸️ Decentralizzazione\|🕸️ Decentralizzazione]], [[Bitcoin/Wallet/🔐 Self-custody\|🔐 Self-custody]]_
+🔗 _Approfondisci con [[Bitcoin/Lightning Network/⚡ Lightning Network\|⚡ Lightning Network]], [[Bitcoin/Lightning Network/⚡ Scalabilità di Lightning Network\|⚡ Scalabilità di Lightning Network]], [[Bitcoin/Filosofia/🔺 Il Trilemma\|🔺 Il Trilemma]], [[Bitcoin/Definizioni/Mining/⚙️  Proof of Work\|⚙️  Proof of Work]], [[Bitcoin/Filosofia/🕸️ Decentralizzazione\|🕸️ Decentralizzazione]], [[Bitcoin/Definizioni/Blockchain/🔐 Self-custody\|🔐 Self-custody]]_

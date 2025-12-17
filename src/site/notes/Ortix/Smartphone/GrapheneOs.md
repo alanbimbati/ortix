@@ -51,7 +51,7 @@ Quindi, per **massima sicurezza verificabile**, GrapheneOS **sceglie i Pixel**: 
 - Nessuna **backdoor statale o aziendale**
 - Tutto è **open source**, verificabile, replicabile
 
-👉 È il sistema consigliato anche da Edward Snowden, e viene spesso affiancato a pratiche come usare un [[Bitcoin/Definizioni/Full Node\|Full Node]], [[Ortix/Navigazione/Web/Tor\|Tor]] e [[Signal\|Signal]].
+👉 È il sistema consigliato anche da Edward Snowden, e viene spesso affiancato a pratiche come usare un [[Bitcoin/Definizioni/Blockchain/Full Node\|Full Node]], [[Ortix/Navigazione/Web/Tor\|Tor]] e [[Signal\|Signal]].
 
 ---
 

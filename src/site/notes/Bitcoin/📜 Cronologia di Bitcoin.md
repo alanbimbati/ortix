@@ -63,7 +63,7 @@ Adam Back sviluppa [[Hashcash\|Hashcash]] (anti-spam proof-of-work). Hal Finney 
 ---
 
 ## 📄 31 ottobre 2008 — Whitepaper: *Bitcoin: A Peer-to-Peer Electronic Cash System*
-[[Bitcoin/Satoshi Nakamoto\|Satoshi Nakamoto]] pubblica il documento che combina P2P, [[Bitcoin/Mining/⚙️  Proof of Work\|⚙️  Proof of Work]], [[Bitcoin/Definizioni/blockchain\|blockchain]] e incentivi economici. È il progetto teorico che risolve il problema della doppia spesa senza intermediari.  
+[[Bitcoin/Satoshi Nakamoto\|Satoshi Nakamoto]] pubblica il documento che combina P2P, [[Bitcoin/Definizioni/Mining/⚙️  Proof of Work\|⚙️  Proof of Work]], [[Bitcoin/Definizioni/Blockchain/blockchain\|blockchain]] e incentivi economici. È il progetto teorico che risolve il problema della doppia spesa senza intermediari.  
 
 
 ---
@@ -81,7 +81,7 @@ Evento emblematico: [[Bitcoin Pizza Day\|Bitcoin Pizza Day]]
 ---
 
 ## 📈 2013–2017 — awareness, bolle e mainstreaming
-Bitcoin entra nei radar globali: scambi, exchange (MtGox e le sue lezioni), primi boom di prezzo. Il concetto di “[[Bitcoin/Economia/🥇Bitcoin è oro digitale\|🥇Bitcoin è oro digitale]]” prende piede. La tensione: sicurezza, custodia, exchange custodial vs [[Bitcoin/Wallet/🔐 Self-custody\|🔐 Self-custody]].  
+Bitcoin entra nei radar globali: scambi, exchange (MtGox e le sue lezioni), primi boom di prezzo. Il concetto di “[[Bitcoin/Economia/🥇Bitcoin è oro digitale\|🥇Bitcoin è oro digitale]]” prende piede. La tensione: sicurezza, custodia, exchange custodial vs [[Bitcoin/Definizioni/Blockchain/🔐 Self-custody\|🔐 Self-custody]].  
 
 
 ---

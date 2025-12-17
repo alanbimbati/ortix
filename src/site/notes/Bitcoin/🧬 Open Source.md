@@ -75,7 +75,7 @@ E tu puoi farne parte.
 🔥 **Conclusione**
 
 🧬 L'open source è **il codice ella libertà**.  
-È la base tecnica della [[Bitcoin/Filosofia/🕸️ Decentralizzazione\|🕸️ Decentralizzazione]] e della [[Bitcoin/Wallet/🔐 Self-custody\|🔐 Self-custody]].
+È la base tecnica della [[Bitcoin/Filosofia/🕸️ Decentralizzazione\|🕸️ Decentralizzazione]] e della [[Bitcoin/Definizioni/Blockchain/🔐 Self-custody\|🔐 Self-custody]].
 
 📖 Se il software è legge,  
 **meglio una legge leggibile, replicabile e giusta.**

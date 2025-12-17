@@ -12,7 +12,7 @@ Grande display touchscreen, completamente airgapped, e supporto multi-wallet ecc
 
 ## 🔐 Cos'è KeyStone?
 
-KeyStone è un **[[Bitcoin/Wallet/Hardware Wallet\|hardware wallet]]** prodotto da KeyStone (ex Cobo Vault).
+KeyStone è un **[[Bitcoin/Wallet/Hardware Wallet/Hardware Wallet\|hardware wallet]]** prodotto da KeyStone (ex Cobo Vault).
 
 Modelli principali:
 - **KeyStone Essential** (~150€) → versione base
@@ -47,9 +47,9 @@ Modelli principali:
 
 ## 🧠 Funzionalità
 
-- Supporta [[Bitcoin/Wallet/✍️ PSBT\|✍️ PSBT]] via **QR code animati**
+- Supporta [[Bitcoin/Definizioni/Blockchain/✍️ PSBT\|✍️ PSBT]] via **QR code animati**
 - Compatibile con **MetaMask, Sparrow, Electrum, BlueWallet, Wasabi** e molti altri
-- [[Bitcoin/Wallet/🔐 Multisig\|🔐 Multisig]] facile da configurare
+- [[Bitcoin/Definizioni/Blockchain/🔐 Multisig\|🔐 Multisig]] facile da configurare
 - Supporto per **Shamir Backup** (split seed in più parti)
 - Firmware verificabile via QR code
 - Anti-tamper e self-destruct mechanism
@@ -99,7 +99,7 @@ KeyStone è **il wallet più user-friendly tra gli airgapped.**
 
 ⚙️ Il fatto che supporti **così tanti wallet software** lo rende estremamente versatile.
 
-⚠️ Il lato negativo è che **non è Bitcoin-only**, quindi se sei un massimalista puro, [[Bitcoin/Wallet/❄️ Coldcard\|❄️ Coldcard]] o [[Bitcoin/Wallet/Hardware Wallet/🔶 Passport\|🔶 Passport]] sono scelte migliori.
+⚠️ Il lato negativo è che **non è Bitcoin-only**, quindi se sei un massimalista puro, [[Bitcoin/Wallet/Hardware Wallet/❄️ Coldcard\|❄️ Coldcard]] o [[Bitcoin/Wallet/Hardware Wallet/🔶 Passport\|🔶 Passport]] sono scelte migliori.
 
 💡 Ma se vuoi un **airgapped facile da usare** e non ti dispiace il supporto multi-cryto, KeyStone è **eccellente**.
 
@@ -126,4 +126,4 @@ KeyStone è **l'hardware wallet con la migliore UX tra gli airgapped.**
 
 🔗 _Sito ufficiale: [keyst.one](https://keyst.one)_
 
-📎 _Vedi anche: [[Bitcoin/Wallet/Hardware Wallet\|Hardware Wallet]], [[Bitcoin/Wallet/❄️ Coldcard\|❄️ Coldcard]], [[Bitcoin/Wallet/Hardware Wallet/🔶 Passport\|🔶 Passport]], [[Bitcoin/Wallet/✍️ PSBT\|✍️ PSBT]], [[Bitcoin/Wallet/🔐 Self-custody\|🔐 Self-custody]], [[Bitcoin/Wallet/🐦 Sparrow Wallet\|🐦 Sparrow Wallet]]_
+📎 _Vedi anche: [[Bitcoin/Wallet/Hardware Wallet/Hardware Wallet\|Hardware Wallet]], [[Bitcoin/Wallet/Hardware Wallet/❄️ Coldcard\|❄️ Coldcard]], [[Bitcoin/Wallet/Hardware Wallet/🔶 Passport\|🔶 Passport]], [[Bitcoin/Definizioni/Blockchain/✍️ PSBT\|✍️ PSBT]], [[Bitcoin/Definizioni/Blockchain/🔐 Self-custody\|🔐 Self-custody]], [[Bitcoin/Wallet/Software Wallet/🐦 Sparrow Wallet\|🐦 Sparrow Wallet]]_

@@ -48,13 +48,13 @@ Non si crea con un click.
 Si **mina**, cioè si conquista con risorse reali: tempo, energia, lavoro.
 
 - 🔒 **Offerta fissa: 21 milioni**  
-- ⛏️ Sostenuto da [[Bitcoin/Mining/⚙️  Proof of Work\|⚙️  Proof of Work]]
+- ⛏️ Sostenuto da [[Bitcoin/Definizioni/Mining/⚙️  Proof of Work\|⚙️  Proof of Work]]
 - 📖 Codice trasparente, regole immutabili  
-- 💡 Nessuna banca centrale. Solo [[Bitcoin/Wallet/🔐 Self-custody\|🔐 Self-custody]] e verifica
+- 💡 Nessuna banca centrale. Solo [[Bitcoin/Definizioni/Blockchain/🔐 Self-custody\|🔐 Self-custody]] e verifica
 
 ✊ **Bitcoin è la cura** per chi vuole disintossicarsi dal denaro fiat:  
 un sistema basato su **scarsità, responsabilità e libertà**.
 
 ---
 
-🔗 _Approfondisci con [[Bitcoin/Bitcoin\|Bitcoin]], [[Bitcoin/Economia/📉 Inflazione\|📉 Inflazione]], [[Bitcoin/Economia/🏛️ Stato e Moneta\|🏛️ Stato e Moneta]], [[Bitcoin/Mining/⚙️  Proof of Work\|⚙️  Proof of Work]], [[Ortix/Filosofia/🛡️ Sovranità digitale\|🛡️ Sovranità digitale]], [[Bitcoin/Economia/💰 Le caratteristiche del vero denaro\|💰 Le caratteristiche del vero denaro]]_
+🔗 _Approfondisci con [[Bitcoin/Bitcoin\|Bitcoin]], [[Bitcoin/Economia/📉 Inflazione\|📉 Inflazione]], [[Bitcoin/Economia/🏛️ Stato e Moneta\|🏛️ Stato e Moneta]], [[Bitcoin/Definizioni/Mining/⚙️  Proof of Work\|⚙️  Proof of Work]], [[Ortix/Filosofia/🛡️ Sovranità digitale\|🛡️ Sovranità digitale]], [[Bitcoin/Economia/💰 Le caratteristiche del vero denaro\|💰 Le caratteristiche del vero denaro]]_

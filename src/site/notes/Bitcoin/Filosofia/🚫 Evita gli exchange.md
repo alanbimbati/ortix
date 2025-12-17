@@ -44,9 +44,9 @@ nessun hacker, azienda o stato potrà mai sottrarti i tuoi Bitcoin.
 
 📌 Nei prossimi post spiegherò come creare un wallet sicuro:  
 → [[Bitcoin/Wallet/🧭 Wallet Index\|🧭 Wallet Index]]  
-→ [[Bitcoin/Wallet/🧠 Seed Phrase\|🧠 Seed Phrase]]  
-→ [[Bitcoin/Wallet/🔐 Self-custody\|🔐 Self-custody]]  
-→ [[Bitcoin/Cold Wallet\|Cold Wallet]]  
+→ [[Bitcoin/Definizioni/Blockchain/🧠 Seed Phrase\|🧠 Seed Phrase]]  
+→ [[Bitcoin/Definizioni/Blockchain/🔐 Self-custody\|🔐 Self-custody]]  
+→ [[Bitcoin/Definizioni/Blockchain/Cold Wallet\|Cold Wallet]]  
 → [[Multisig\|Multisig]]  
 → [[Steelwallet\|Steelwallet]]
 

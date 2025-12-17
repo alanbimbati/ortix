@@ -42,7 +42,7 @@ Se tutti usano strumenti tracciabili, anche tu vieni compromesso.
 
 🛡️ **Come difenderla nella vita digitale**
 
-- Usa [[Bitcoin/Bitcoin\|Bitcoin]] con [[Bitcoin/Wallet/🌀 CoinJoin\|🌀 CoinJoin]] o wallet attenti alla privacy  
+- Usa [[Bitcoin/Bitcoin\|Bitcoin]] con [[Bitcoin/Definizioni/Blockchain/🌀 CoinJoin\|🌀 CoinJoin]] o wallet attenti alla privacy  
 - Sincronizza i tuoi dati con [[Ortix/Storage/🔄 Syncthing\|🔄 Syncthing]]  
 - Evita KYC dove puoi (vedi: [[Bitcoin/Filosofia/🕵️‍♂️  KYC e sorveglianza finanziaria\|🕵️‍♂️  KYC e sorveglianza finanziaria]])  
 - Usa [[Bitcoin/Wallet/🧭 Wallet Index\|🧭 Wallet Index]] non custodial  
@@ -58,7 +58,7 @@ Se tutti usano strumenti tracciabili, anche tu vieni compromesso.
 - Bitcoin è pseudonimo, ma può essere potenziato con strumenti giusti  
 - La libertà finanziaria **senza privacy è un’illusione**
 
-🧠 [[Bitcoin/Wallet/🔐 Self-custody\|🔐 Self-custody]] + privacy = **vera sovranità**
+🧠 [[Bitcoin/Definizioni/Blockchain/🔐 Self-custody\|🔐 Self-custody]] + privacy = **vera sovranità**
 
 ---
 

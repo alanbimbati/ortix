@@ -15,7 +15,7 @@ e arriva fino alla libertà.
 🪙 **Cos’è Bitcoin?**
 
 - Una rete **distribuita e [[Bitcoin/🧬 Open Source\|🧬 Open Source]]** per inviare valore peer-to-peer  
-- Un **registro immutabile** ([[Bitcoin/Definizioni/blockchain\|blockchain]]) mantenuto da migliaia di nodi
+- Un **registro immutabile** ([[Bitcoin/Definizioni/Blockchain/blockchain\|blockchain]]) mantenuto da migliaia di nodi
 - Una **moneta digitale limitata**: solo 21 milioni  
 - Un sistema monetario alternativo che non dipende da Stati, banche o aziende
 
@@ -39,10 +39,10 @@ E funziona **senza fiducia. Solo verifica.**
 
 ⚙️ **Come funziona?**
 
-1. [[Bitcoin/Mining/⚙️  Proof of Work\|⚙️  Proof of Work]] → protegge la rete  
-2. [[Bitcoin/Definizioni/Full Node\|Full Node]] → verifica le regole  
+1. [[Bitcoin/Definizioni/Mining/⚙️  Proof of Work\|⚙️  Proof of Work]] → protegge la rete  
+2. [[Bitcoin/Definizioni/Blockchain/Full Node\|Full Node]] → verifica le regole  
 3. [[Bitcoin/Wallet/🧭 Wallet Index\|🧭 Wallet Index]] → interagisci con la rete  
-4. [[Bitcoin/Wallet/🧠 Seed Phrase\|Bitcoin/Wallet/🧠 Seed Phrase]] → possiedi le tue chiavi  
+4. [[Bitcoin/Definizioni/Blockchain/🧠 Seed Phrase\|🧠 Seed Phrase]] → possiedi le tue chiavi  
 5. [[Bitcoin/Lightning Network/⚡ Lightning Network\|⚡ Lightning Network]] → paghi in tempo reale
 
 🎯 Ogni pezzo funziona **senza permessi**.  
@@ -79,7 +79,7 @@ Perché viviamo in un mondo dove:
 👣 **Come iniziare**
 
 - Studia → [[Bitcoin/Filosofia/🗽Bitcoin è per tutti\|🗽Bitcoin è per tutti]], [[Bitcoin/Filosofia/🕸️ Decentralizzazione\|🕸️ Decentralizzazione]], [[Bitcoin/Economia/📉 Inflazione\|Bitcoin/Economia/📉 Inflazione]]  
-- Custodisci → [[Bitcoin/Wallet/🔐 Self-custody\|🔐 Self-custody]] [[Bitcoin/Wallet/🧭 Wallet Index\|🧭 Wallet Index]]
+- Custodisci → [[Bitcoin/Definizioni/Blockchain/🔐 Self-custody\|🔐 Self-custody]] [[Bitcoin/Wallet/🧭 Wallet Index\|🧭 Wallet Index]]
 - Spendi → [[Bitcoin/Lightning Network/⚡ Lightning Network\|⚡ Lightning Network]]
 ---
 

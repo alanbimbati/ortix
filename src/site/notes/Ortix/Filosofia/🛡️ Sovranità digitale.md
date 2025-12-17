@@ -28,7 +28,7 @@ Senza filtri invisibili. Senza permessi da chiedere. In totale [[Bitcoin/Filosof
 
 | Pilastro             | Strumento consigliato                  |
 | -------------------- | -------------------------------------- |
-| Proprietà del denaro | [[Bitcoin/Wallet/🔐 Self-custody\|🔐 Self-custody]]                    |
+| Proprietà del denaro | [[Bitcoin/Definizioni/Blockchain/🔐 Self-custody\|🔐 Self-custody]]                    |
 | Comunicazione        | [[Bitcoin/📡 Nostr\|📡 Nostr]], [[SimpleX\|SimpleX]], [[Session\|Session]] |
 | File personali       | [[Ortix/Storage/🔄 Syncthing\|🔄 Syncthing]], [[Ortix/Foto/🖼️ Aves\|🖼️ Aves]]         |
 | Appunti/idee         | [[Ortix/Appunti/Obsidian\|Obsidian]]                        |

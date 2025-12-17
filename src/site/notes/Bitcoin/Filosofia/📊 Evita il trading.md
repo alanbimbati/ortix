@@ -64,4 +64,4 @@ e concentrarti sull’unica cosa che conta: **costruire valore nel tempo**.
 
 ---
 
-🔗 _Approfondisci con [[Bitcoin/Wallet/🔐 Self-custody\|🔐 Self-custody]], [[Bitcoin/Filosofia/📊 Evita le promesse di guadagni giornalieri\|📊 Evita le promesse di guadagni giornalieri]], [[Bitcoin/Economia/💉 La droga monetaria\|💉 La droga monetaria]], [[Bitcoin/Wallet/🧠 Seed Phrase\|🧠 Seed Phrase]]_
+🔗 _Approfondisci con [[Bitcoin/Definizioni/Blockchain/🔐 Self-custody\|🔐 Self-custody]], [[Bitcoin/Filosofia/📊 Evita le promesse di guadagni giornalieri\|📊 Evita le promesse di guadagni giornalieri]], [[Bitcoin/Economia/💉 La droga monetaria\|💉 La droga monetaria]], [[Bitcoin/Definizioni/Blockchain/🧠 Seed Phrase\|🧠 Seed Phrase]]_

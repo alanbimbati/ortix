@@ -36,7 +36,7 @@ La Lightning Network è una rete di secondo livello costruita sopra Bitcoin, che
 
 🧠 **Come funziona?**
 
-1. Apri un canale Lightning (es. con [[Bitcoin/Wallet/🕊 Phoenix Wallet\|🕊 Phoenix Wallet]] o nodo tuo)  
+1. Apri un canale Lightning (es. con [[Bitcoin/Wallet/Software Wallet/🕊 Phoenix Wallet\|🕊 Phoenix Wallet]] o nodo tuo)  
 2. Invia e ricevi BTC in modo rapido  
 3. Quando vuoi, chiudi il canale e torna on-chain
 
@@ -46,9 +46,9 @@ La Lightning Network è una rete di secondo livello costruita sopra Bitcoin, che
 
 🛠️ **Wallet che supportano Lightning**
 
-- [[Bitcoin/Wallet/🕊 Phoenix Wallet\|🕊 Phoenix Wallet]] → non-custodial, automatizzato  
-- [[Bitcoin/Wallet/🟠 Wallet of Satoshi\|🟠 Wallet of Satoshi]]-> custodial, semplice
-- [[Bitcoin/Wallet/Breeze\|Breeze]], [[Zeus\|Zeus]], [[Mutiny\|Mutiny]], SatsMobiBot→ più tecnici  
+- [[Bitcoin/Wallet/Software Wallet/🕊 Phoenix Wallet\|🕊 Phoenix Wallet]] → non-custodial, automatizzato  
+- [[Bitcoin/Wallet/Software Wallet/🟠 Wallet of Satoshi\|🟠 Wallet of Satoshi]]-> custodial, semplice
+- [[Bitcoin/Wallet/Software Wallet/Breeze\|Breeze]], [[Zeus\|Zeus]], [[Mutiny\|Mutiny]], SatsMobiBot→ più tecnici  
 - E i tuoi **nodi personali** con LND, Core Lightning o eclair
 
 ---

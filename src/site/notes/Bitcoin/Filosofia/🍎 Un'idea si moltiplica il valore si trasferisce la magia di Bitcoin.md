@@ -41,4 +41,4 @@ Bitcoin è **immutabile, incensurabile e assolutamente scarso.**
 
 ---
 
-🔗 _Approfondisci con [[Bitcoin/Bitcoin\|Bitcoin]], [[Bitcoin/Mining/⚙️  Proof of Work\|⚙️  Proof of Work]], [[Bitcoin/Economia/💰 Le caratteristiche del vero denaro\|💰 Le caratteristiche del vero denaro]], [[Bitcoin/Economia/💉 La droga monetaria\|💉 La droga monetaria]]_
+🔗 _Approfondisci con [[Bitcoin/Bitcoin\|Bitcoin]], [[Bitcoin/Definizioni/Mining/⚙️  Proof of Work\|⚙️  Proof of Work]], [[Bitcoin/Economia/💰 Le caratteristiche del vero denaro\|💰 Le caratteristiche del vero denaro]], [[Bitcoin/Economia/💉 La droga monetaria\|💉 La droga monetaria]]_

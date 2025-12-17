@@ -37,7 +37,7 @@ Molte Altcoin promettono rendimenti tramite "staking":
 
 ## 🥇 **Bitcoin non promette rendite… e proprio per questo è solido**
 
-🛠️ L’unico modo per ottenere Bitcoin passivamente è il [[Bitcoin/Mining/⛏️ Mining\|⛏️ Mining]]:  
+🛠️ L’unico modo per ottenere Bitcoin passivamente è il [[Bitcoin/Definizioni/Mining/⛏️ Mining\|⛏️ Mining]]:  
 - richiede macchine, energia, competenze  
 - **non è per tutti**
 
@@ -56,4 +56,4 @@ Ma **protegge il tuo valore nel tempo**.
 
 ---
 
-🔗 _Approfondisci con [[Bitcoin/Bitcoin\|Bitcoin]], [[Bitcoin/Economia/📉 Inflazione\|📉 Inflazione]], [[Bitcoin/Mining/⚙️  Proof of Work\|⚙️  Proof of Work]], [[Bitcoin/Economia/💉 La droga monetaria\|💉 La droga monetaria]]_
+🔗 _Approfondisci con [[Bitcoin/Bitcoin\|Bitcoin]], [[Bitcoin/Economia/📉 Inflazione\|📉 Inflazione]], [[Bitcoin/Definizioni/Mining/⚙️  Proof of Work\|⚙️  Proof of Work]], [[Bitcoin/Economia/💉 La droga monetaria\|💉 La droga monetaria]]_

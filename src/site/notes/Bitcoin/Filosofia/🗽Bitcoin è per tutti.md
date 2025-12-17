@@ -8,11 +8,11 @@
 ⚡ **Bitcoin è per chi vive in un paese in crisi**, con l'[[Bitcoin/Economia/📉 Inflazione\|📉 Inflazione]] alle stelle e una moneta che cambia valore ogni settimana.
 
 🔐 **Bitcoin è per chi vuole libertà**, perché permette di **custodire i propri risparmi senza dover chiedere il permesso a nessuno**. Nessuna banca, nessun governo, nessuna azienda privata.
-[[Bitcoin/Wallet/🔐 Self-custody\|🔐 Self-custody]]
+[[Bitcoin/Definizioni/Blockchain/🔐 Self-custody\|🔐 Self-custody]]
 
 📡 **Bitcoin è per chi è offline**, perché funziona anche via radio, via satellite o con SMS. Anche dove internet non c’è, Bitcoin arriva.
 
-📲 **Bitcoin è per i tecnici, ma anche per i nonni.** Wallet semplici come [[Bitcoin/Wallet/🟠 Wallet of Satoshi\|🟠 Wallet of Satoshi]] lo rendono usabile da chiunque. Nessun intermediario, solo il tuo telefono.
+📲 **Bitcoin è per i tecnici, ma anche per i nonni.** Wallet semplici come [[Bitcoin/Wallet/Software Wallet/🟠 Wallet of Satoshi\|🟠 Wallet of Satoshi]] lo rendono usabile da chiunque. Nessun intermediario, solo il tuo telefono.
 
 🏃 **Bitcoin è per chi fugge**, per chi scappa da regimi autoritari, guerre o disastri economici. I tuoi Bitcoin ti seguono ovunque tu vada. Nessun confine può fermare 12 parole nella tua mente. Anzi [[Bitcoin/Filosofia/☮️ Bitcoin disincentiva le guerre\|☮️ Bitcoin disincentiva le guerre]]
 

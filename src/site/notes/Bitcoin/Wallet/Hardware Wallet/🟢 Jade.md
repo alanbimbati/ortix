@@ -12,7 +12,7 @@ Prodotto da Blockstream, costa ~70€ ma offre caratteristiche da hardware walle
 
 ## 🔐 Cos'è Jade?
 
-Jade è un **[[Bitcoin/Wallet/Hardware Wallet\|hardware wallet]]** completamente **[[Bitcoin/🧬 Open Source\|🧬 Open Source]]** prodotto da Blockstream.
+Jade è un **[[Bitcoin/Wallet/Hardware Wallet/Hardware Wallet\|hardware wallet]]** completamente **[[Bitcoin/🧬 Open Source\|🧬 Open Source]]** prodotto da Blockstream.
 
 Versioni disponibili:
 - **Jade** (~70€) → standard, supporta Bitcoin + Liquid
@@ -67,8 +67,8 @@ Jade usa un approccio **innovativo** per la sicurezza:
 
 ## 🧠 Funzionalità
 
-- Supporta [[Bitcoin/Wallet/✍️ PSBT\|✍️ PSBT]] e [[Bitcoin/Wallet/🔐 Multisig\|🔐 Multisig]]
-- Compatibile con **Green Wallet** (Blockstream), [[Bitcoin/Wallet/🐦 Sparrow Wallet\|🐦 Sparrow Wallet]], [[Bitcoin/Wallet/⚡ Electrum\|⚡ Electrum]]
+- Supporta [[Bitcoin/Definizioni/Blockchain/✍️ PSBT\|✍️ PSBT]] e [[Bitcoin/Definizioni/Blockchain/🔐 Multisig\|🔐 Multisig]]
+- Compatibile con **Green Wallet** (Blockstream), [[Bitcoin/Wallet/Software Wallet/🐦 Sparrow Wallet\|🐦 Sparrow Wallet]], [[Bitcoin/Wallet/Software Wallet/⚡ Electrum\|⚡ Electrum]]
 - PIN con schermata di inserimento protetta
 - Recovery phrase BIP39 da 12 o 24 parole
 - Supporto per **Liquid Network** (sidechain Bitcoin)
@@ -105,7 +105,7 @@ Jade è **uno dei migliori hardware wallet per rapporto qualità/prezzo.**
 Se il server Blockstream sparisce, devi self-hostare il tuo oracle… o passare a un altro wallet.
 
 💡 Per ~70€, però, è **difficile battere Jade** in termini di sicurezza e funzionalità.  
-È un'ottima scelta per chi vuole entrare nel mondo della [[Bitcoin/Wallet/🔐 Self-custody\|🔐 Self-custody]] senza spendere 250€.
+È un'ottima scelta per chi vuole entrare nel mondo della [[Bitcoin/Definizioni/Blockchain/🔐 Self-custody\|🔐 Self-custody]] senza spendere 250€.
 
 ---
 
@@ -130,4 +130,4 @@ Jade è un **hardware wallet moderno, accessibile e intelligente.**
 
 🔗 _Sito ufficiale: [blockstream.com/jade](https://blockstream.com/jade)_
 
-📎 _Vedi anche: [[Bitcoin/Wallet/Hardware Wallet\|Hardware Wallet]], [[Bitcoin/Wallet/❄️ Coldcard\|❄️ Coldcard]], [[Bitcoin/Wallet/✍️ SeedSigner\|✍️ SeedSigner]], [[Bitcoin/Wallet/🔐 Self-custody\|🔐 Self-custody]], [[Bitcoin/Wallet/🐦 Sparrow Wallet\|🐦 Sparrow Wallet]], [[Bitcoin/🧬 Open Source\|🧬 Open Source]]_
+📎 _Vedi anche: [[Bitcoin/Wallet/Hardware Wallet/Hardware Wallet\|Hardware Wallet]], [[Bitcoin/Wallet/Hardware Wallet/❄️ Coldcard\|❄️ Coldcard]], [[Bitcoin/Wallet/Hardware Wallet/✍️ SeedSigner\|✍️ SeedSigner]], [[Bitcoin/Definizioni/Blockchain/🔐 Self-custody\|🔐 Self-custody]], [[Bitcoin/Wallet/Software Wallet/🐦 Sparrow Wallet\|🐦 Sparrow Wallet]], [[Bitcoin/🧬 Open Source\|🧬 Open Source]]_

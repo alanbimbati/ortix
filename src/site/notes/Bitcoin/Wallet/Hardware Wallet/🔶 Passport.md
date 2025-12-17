@@ -12,7 +12,7 @@ Design premium, completamente airgapped, Bitcoin-only. È Coldcard con stile.
 
 ## 🔐 Cos'è Passport?
 
-Passport è un **[[Bitcoin/Wallet/Hardware Wallet\|hardware wallet]]** prodotto da **Foundation Devices**.
+Passport è un **[[Bitcoin/Wallet/Hardware Wallet/Hardware Wallet\|hardware wallet]]** prodotto da **Foundation Devices**.
 
 Versioni disponibili:
 - **Passport Batch 2** (~270€) → versione attuale, design premium
@@ -46,9 +46,9 @@ Versioni disponibili:
 
 ## 🧠 Funzionalità
 
-- Supporta [[Bitcoin/Wallet/✍️ PSBT\|✍️ PSBT]] via **QR code animati o microSD**
-- Compatibile con **Envoy** (app mobile di Foundation), [[Bitcoin/Wallet/🐦 Sparrow Wallet\|🐦 Sparrow Wallet]], [[Bitcoin/Wallet/⚡ Electrum\|⚡ Electrum]]
-- [[Bitcoin/Wallet/🔐 Multisig\|🔐 Multisig]] facile da configurare
+- Supporta [[Bitcoin/Definizioni/Blockchain/✍️ PSBT\|✍️ PSBT]] via **QR code animati o microSD**
+- Compatibile con **Envoy** (app mobile di Foundation), [[Bitcoin/Wallet/Software Wallet/🐦 Sparrow Wallet\|🐦 Sparrow Wallet]], [[Bitcoin/Wallet/Software Wallet/⚡ Electrum\|⚡ Electrum]]
+- [[Bitcoin/Definizioni/Blockchain/🔐 Multisig\|🔐 Multisig]] facile da configurare
 - Backup seed su metallo consigliato ([[Bitcoin/Wallet/🪨 Steelwallet\|🪨 Steelwallet]])
 - Supporto per **passphrase BIP39** (25a parola)
 - Firmware verificabile e aggiornabile via microSD
@@ -115,7 +115,7 @@ Passport è **il wallet hardware più bello mai creato**, punto.
 
 🔶 Ma non è solo bello: è anche **sicuro, airgapped, open source, Bitcoin-only**.
 
-⚙️ Se [[Bitcoin/Wallet/❄️ Coldcard\|❄️ Coldcard]] è la scelta dei paranoici tecnici, **Passport è la scelta dei Bitcoiner raffinati**.
+⚙️ Se [[Bitcoin/Wallet/Hardware Wallet/❄️ Coldcard\|❄️ Coldcard]] è la scelta dei paranoici tecnici, **Passport è la scelta dei Bitcoiner raffinati**.
 
 💡 Ha **tutte le funzionalità di sicurezza che servono**, ma le presenta in un pacchetto **elegante e user-friendly**.
 
@@ -133,7 +133,7 @@ Passport è per chi vuole **il meglio senza compromessi**.
 
 🚫 Considera alternative se:
 - Cerchi prezzo più basso (guarda [[Bitcoin/Wallet/Hardware Wallet/🟢 Jade\|🟢 Jade]])
-- Vuoi funzionalità super-tecniche (guarda [[Bitcoin/Wallet/❄️ Coldcard\|❄️ Coldcard]])
+- Vuoi funzionalità super-tecniche (guarda [[Bitcoin/Wallet/Hardware Wallet/❄️ Coldcard\|❄️ Coldcard]])
 - Vuoi supporto multi-crypto
 
 🔶 **Passport è il wallet dei Bitcoiner che hanno capito che sicurezza e bellezza non si escludono.**
@@ -142,4 +142,4 @@ Passport è per chi vuole **il meglio senza compromessi**.
 
 🔗 _Sito ufficiale: [foundationdevices.com](https://foundationdevices.com)_
 
-📎 _Vedi anche: [[Bitcoin/Wallet/Hardware Wallet\|Hardware Wallet]], [[Bitcoin/Wallet/❄️ Coldcard\|❄️ Coldcard]], [[Bitcoin/Wallet/✍️ SeedSigner\|✍️ SeedSigner]], [[Bitcoin/Wallet/🔐 Self-custody\|🔐 Self-custody]], [[Bitcoin/Wallet/✍️ PSBT\|✍️ PSBT]], [[Bitcoin/Wallet/🐦 Sparrow Wallet\|🐦 Sparrow Wallet]]_
+📎 _Vedi anche: [[Bitcoin/Wallet/Hardware Wallet/Hardware Wallet\|Hardware Wallet]], [[Bitcoin/Wallet/Hardware Wallet/❄️ Coldcard\|❄️ Coldcard]], [[Bitcoin/Wallet/Hardware Wallet/✍️ SeedSigner\|✍️ SeedSigner]], [[Bitcoin/Definizioni/Blockchain/🔐 Self-custody\|🔐 Self-custody]], [[Bitcoin/Definizioni/Blockchain/✍️ PSBT\|✍️ PSBT]], [[Bitcoin/Wallet/Software Wallet/🐦 Sparrow Wallet\|🐦 Sparrow Wallet]]_

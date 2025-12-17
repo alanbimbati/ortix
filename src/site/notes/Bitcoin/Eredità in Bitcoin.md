@@ -35,7 +35,7 @@ Ma questo vale anche per chi viene dopo di te.
    - Come accedere, come inviare  
    - Una spiegazione semplice del funzionamento
 
-2. **Usare soluzioni come [[Bitcoin/Wallet/🔐 Multisig\|🔐 Multisig]] o [[BIP85\|BIP85]]**:  
+2. **Usare soluzioni come [[Bitcoin/Definizioni/Blockchain/🔐 Multisig\|🔐 Multisig]] o [[BIP85\|BIP85]]**:  
    👉 [[Bitcoin/Wallet/🧭 Wallet Index\|🧭 Wallet Index]] derivati da una seed master, con diverse configurazioni.
 
 3. **Creare una Lettera di Istruzioni cartacea** con:

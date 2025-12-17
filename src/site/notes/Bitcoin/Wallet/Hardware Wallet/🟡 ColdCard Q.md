@@ -6,13 +6,13 @@
 # 🟡 ColdCard Q: l'evoluzione della sicurezza airgapped
 
 🚀 **Coldcard Q è Coldcard cresciuto: più grande, più veloce, più potente.**  
-Tutto ciò che amavi di [[Bitcoin/Wallet/❄️ Coldcard\|❄️ Coldcard]], ma con touchscreen e NFC.
+Tutto ciò che amavi di [[Bitcoin/Wallet/Hardware Wallet/❄️ Coldcard\|❄️ Coldcard]], ma con touchscreen e NFC.
 
 ---
 
 ## 🔐 Cos'è ColdCard Q?
 
-ColdCard Q è la **nuova generazione** dell'iconico [[Bitcoin/Wallet/❄️ Coldcard\|❄️ Coldcard]], prodotto da Coinkite.
+ColdCard Q è la **nuova generazione** dell'iconico [[Bitcoin/Wallet/Hardware Wallet/❄️ Coldcard\|❄️ Coldcard]], prodotto da Coinkite.
 
 **Differenze principali:**
 - **Touchscreen a colori** → 3.5 pollici, addio tastierino
@@ -62,7 +62,7 @@ ColdCard Q è la **nuova generazione** dell'iconico [[Bitcoin/Wallet/❄️ Cold
 
 ## 🧠 Funzionalità
 
-Tutte le funzioni avanzate di [[Bitcoin/Wallet/❄️ Coldcard\|❄️ Coldcard]], più:
+Tutte le funzioni avanzate di [[Bitcoin/Wallet/Hardware Wallet/❄️ Coldcard\|❄️ Coldcard]], più:
 
 - **NFC per PSBT** → trasmetti transazioni senza cavi/QR/SD
 - **Touchscreen** → firma transazioni con gesture
@@ -79,7 +79,7 @@ Tutte le funzioni avanzate di [[Bitcoin/Wallet/❄️ Coldcard\|❄️ Coldcard]
 Il **NFC** (Near Field Communication) è la feature killer di ColdCard Q.
 
 **Come funziona:**
-1. Prepari una transazione in [[Bitcoin/Wallet/🐦 Sparrow Wallet\|🐦 Sparrow Wallet]]
+1. Prepari una transazione in [[Bitcoin/Wallet/Software Wallet/🐦 Sparrow Wallet\|🐦 Sparrow Wallet]]
 2. Avvicini il telefono/computer al ColdCard Q
 3. Il PSBT viene trasmesso via NFC
 4. Firmi sul ColdCard Q
@@ -147,4 +147,4 @@ ColdCard Q è **l'hardware wallet definitivo per Bitcoiner seri con budget premi
 
 🔗 _Sito ufficiale: [coldcard.com](https://coldcard.com)_
 
-📎 _Vedi anche: [[Bitcoin/Wallet/Hardware Wallet\|Hardware Wallet]], [[Bitcoin/Wallet/❄️ Coldcard\|❄️ Coldcard]], [[Bitcoin/Wallet/✍️ SeedSigner\|✍️ SeedSigner]], [[Bitcoin/Wallet/Hardware Wallet/🔶 Passport\|🔶 Passport]], [[Bitcoin/Wallet/🔐 Self-custody\|🔐 Self-custody]], [[Bitcoin/Wallet/✍️ PSBT\|✍️ PSBT]]_
+📎 _Vedi anche: [[Bitcoin/Wallet/Hardware Wallet/Hardware Wallet\|Hardware Wallet]], [[Bitcoin/Wallet/Hardware Wallet/❄️ Coldcard\|❄️ Coldcard]], [[Bitcoin/Wallet/Hardware Wallet/✍️ SeedSigner\|✍️ SeedSigner]], [[Bitcoin/Wallet/Hardware Wallet/🔶 Passport\|🔶 Passport]], [[Bitcoin/Definizioni/Blockchain/🔐 Self-custody\|🔐 Self-custody]], [[Bitcoin/Definizioni/Blockchain/✍️ PSBT\|✍️ PSBT]]_

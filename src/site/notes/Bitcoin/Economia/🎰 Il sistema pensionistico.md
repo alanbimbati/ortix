@@ -42,7 +42,7 @@ Se li tieni, nel tempo diventeranno sempre più rari e preziosi 📈
 
 - [[Bitcoin/Economia/💉 La droga monetaria\|💉 La droga monetaria]]  
 - [[Bitcoin/Economia/📉 Inflazione\|📉 Inflazione]]  
-- [[Bitcoin/Wallet/🔐 Self-custody\|🔐 Self-custody]]  
+- [[Bitcoin/Definizioni/Blockchain/🔐 Self-custody\|🔐 Self-custody]]  
 - [[Bitcoin/Economia/⚡️ Bitcoin è più veloce della moneta FIAT\|⚡️ Bitcoin è più veloce della moneta FIAT]]  
 - [[Bitcoin/Filosofia/📊 Evita le promesse di guadagni giornalieri\|📊 Evita le promesse di guadagni giornalieri]]  
 - [[Risparmiare con Bitcoin: addio al controllodelle banche\|Risparmiare con Bitcoin: addio al controllodelle banche]]

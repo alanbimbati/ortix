@@ -51,7 +51,7 @@ Come un albero: 🌱 una radice, mille rami.
 ⚠️ **Attenzione: potere = responsabilità**
 
 🧨 Chi ha la seed master… ha accesso a tutto.  
-Per questo va **protetta con cura assoluta**, meglio in [[Bitcoin/Cold Wallet\|Cold Wallet]], su carta, acciaio, o meglio ancora con [[Bitcoin/Wallet/🔐 Multisig\|🔐 Multisig]].
+Per questo va **protetta con cura assoluta**, meglio in [[Bitcoin/Definizioni/Blockchain/Cold Wallet\|Cold Wallet]], su carta, acciaio, o meglio ancora con [[Bitcoin/Definizioni/Blockchain/🔐 Multisig\|🔐 Multisig]].
 
 ---
 
@@ -78,4 +78,4 @@ senza mai uscire dal tuo schema mentale, senza perdere il controllo.
 
 ---
 
-🔗 _Approfondisci con [[Bitcoin/Wallet/🧠 Seed Phrase\|Bitcoin/Wallet/🧠 Seed Phrase]], [[Bitcoin/Cold Wallet\|Cold Wallet]], [[Bitcoin/Wallet/🔐 Multisig\|🔐 Multisig]], [[Bitcoin/Wallet/🪨 Steelwallet\|Bitcoin/Wallet/🪨 Steelwallet]], [[Bitcoin/Wallet/🧭 Wallet Index\|🧭 Wallet Index]], [[Bitcoin/Wallet/🔐 Self-custody\|🔐 Self-custody]]_
+🔗 _Approfondisci con [[Bitcoin/Definizioni/Blockchain/🧠 Seed Phrase\|🧠 Seed Phrase]], [[Bitcoin/Definizioni/Blockchain/Cold Wallet\|Cold Wallet]], [[Bitcoin/Definizioni/Blockchain/🔐 Multisig\|🔐 Multisig]], [[Bitcoin/Wallet/🪨 Steelwallet\|Bitcoin/Wallet/🪨 Steelwallet]], [[Bitcoin/Wallet/🧭 Wallet Index\|🧭 Wallet Index]], [[Bitcoin/Definizioni/Blockchain/🔐 Self-custody\|🔐 Self-custody]]_

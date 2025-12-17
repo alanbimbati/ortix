@@ -37,7 +37,7 @@ A differenza della carta, **non brucia, non si bagna, non si rompe**.
 
 🔧 **Come si usa**
 
-1. Genera la tua seed con un wallet sicuro ([[Bitcoin/Wallet/✍️ SeedSigner\|✍️ SeedSigner]], [[Bitcoin/Wallet/❄️ Coldcard\|❄️ Coldcard]], ecc.)  
+1. Genera la tua seed con un wallet sicuro ([[Bitcoin/Wallet/Hardware Wallet/✍️ SeedSigner\|✍️ SeedSigner]], [[Bitcoin/Wallet/Hardware Wallet/❄️ Coldcard\|❄️ Coldcard]], ecc.)  
 2. Prendi una steelwallet o una piastra d’acciaio compatibile (es. Cryptosteel, Blockplate, Cobo, ecc.)  
 3. Incidi, punzona o inserisci le lettere della seed  
 4. Nascondila in un luogo sicuro (o più copie in posti diversi)
@@ -50,7 +50,7 @@ A differenza della carta, **non brucia, non si bagna, non si rompe**.
 🎯 **Per chi è adatta?**
 
 - HODLer di lungo termine  
-- Chi fa [[Bitcoin/Cold Wallet\|Cold Wallet]]  
+- Chi fa [[Bitcoin/Definizioni/Blockchain/Cold Wallet\|Cold Wallet]]  
 - Chi vive in zone a rischio ambientale  
 - Chi vuole dormire tranquillo sapendo che **la seed può sopravvivere a lui stesso**
 
@@ -67,4 +67,4 @@ Con Steelwallet, **quella chiave diventa indistruttibile**.
 
 🔗 _Prodotti consigliati: [Blockplate](https://blockplate.com), [Cryptosteel](https://cryptosteel.com), [Seedplate](https://seedplate.com)_
 
-📎 _Vedi anche: [[Bitcoin/Wallet/✍️ SeedSigner\|✍️ SeedSigner]], [[Bitcoin/Wallet/❄️ Coldcard\|❄️ Coldcard]], [[Bitcoin/Wallet/🔐 Self-custody\|🔐 Self-custody]], [[Bitcoin/Cold Wallet\|Cold Wallet]]
+📎 _Vedi anche: [[Bitcoin/Wallet/Hardware Wallet/✍️ SeedSigner\|✍️ SeedSigner]], [[Bitcoin/Wallet/Hardware Wallet/❄️ Coldcard\|❄️ Coldcard]], [[Bitcoin/Definizioni/Blockchain/🔐 Self-custody\|🔐 Self-custody]], [[Bitcoin/Definizioni/Blockchain/Cold Wallet\|Cold Wallet]]

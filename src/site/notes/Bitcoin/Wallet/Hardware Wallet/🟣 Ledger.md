@@ -12,7 +12,7 @@
 
 ## 🔐 Cos'è Ledger?
 
-Ledger è un **[[Bitcoin/Wallet/Hardware Wallet\|hardware wallet]]** prodotto dalla società francese Ledger SAS.  
+Ledger è un **[[Bitcoin/Wallet/Hardware Wallet/Hardware Wallet\|hardware wallet]]** prodotto dalla società francese Ledger SAS.  
 I modelli principali sono:
 - **Ledger Nano S Plus** (~80€) → versione economica
 - **Ledger Nano X** (~150€) → con Bluetooth per mobile
@@ -45,8 +45,8 @@ I modelli principali sono:
 
 ## 🧠 Funzionalità
 
-- Supporta [[Bitcoin/Wallet/✍️ PSBT\|✍️ PSBT]] e [[Bitcoin/Wallet/🔐 Multisig\|🔐 Multisig]]
-- Compatibile con [[Bitcoin/Wallet/🐦 Sparrow Wallet\|🐦 Sparrow Wallet]], [[Bitcoin/Wallet/⚡ Electrum\|⚡ Electrum]], MetaMask
+- Supporta [[Bitcoin/Definizioni/Blockchain/✍️ PSBT\|✍️ PSBT]] e [[Bitcoin/Definizioni/Blockchain/🔐 Multisig\|🔐 Multisig]]
+- Compatibile con [[Bitcoin/Wallet/Software Wallet/🐦 Sparrow Wallet\|🐦 Sparrow Wallet]], [[Bitcoin/Wallet/Software Wallet/⚡ Electrum\|⚡ Electrum]], MetaMask
 - PIN per accesso e protezione anti-manomissione
 - Recovery phrase da 24 parole (standard BIP39)
 - App Ledger Live per gestire portfolio e fare staking
@@ -80,7 +80,7 @@ Ledger è **comodo e popolare**, ma **non è la scelta più sicura o trasparente
 ⚠️ Il fatto che il firmware sia **closed source** significa che devi **fidarti ciecamente** di Ledger.  
 E il data breach del 2020 ha mostrato che **custodiscono dati sensibili** dei clienti.
 
-💡 Se vuoi davvero **massima sicurezza** e sei disposto a investire tempo per imparare, considera [[Bitcoin/Wallet/❄️ Coldcard\|❄️ Coldcard]], [[Bitcoin/Wallet/✍️ SeedSigner\|✍️ SeedSigner]] o [[Bitcoin/Wallet/Hardware Wallet/🔶 Passport\|🔶 Passport]].
+💡 Se vuoi davvero **massima sicurezza** e sei disposto a investire tempo per imparare, considera [[Bitcoin/Wallet/Hardware Wallet/❄️ Coldcard\|❄️ Coldcard]], [[Bitcoin/Wallet/Hardware Wallet/✍️ SeedSigner\|✍️ SeedSigner]] o [[Bitcoin/Wallet/Hardware Wallet/🔶 Passport\|🔶 Passport]].
 
 ---
 
@@ -104,4 +104,4 @@ Ledger è un **buon hardware wallet per iniziare**, ma non è la scelta definiti
 
 🔗 _Sito ufficiale: [ledger.com](https://www.ledger.com)_
 
-📎 _Vedi anche: [[Bitcoin/Wallet/Hardware Wallet\|Hardware Wallet]], [[Bitcoin/Wallet/❄️ Coldcard\|❄️ Coldcard]], [[Bitcoin/Wallet/Hardware Wallet/🔴 Trezor\|🔴 Trezor]], [[Bitcoin/Wallet/✍️ SeedSigner\|✍️ SeedSigner]], [[Bitcoin/Wallet/🔐 Self-custody\|🔐 Self-custody]], [[Bitcoin/Wallet/🐦 Sparrow Wallet\|🐦 Sparrow Wallet]]_
+📎 _Vedi anche: [[Bitcoin/Wallet/Hardware Wallet/Hardware Wallet\|Hardware Wallet]], [[Bitcoin/Wallet/Hardware Wallet/❄️ Coldcard\|❄️ Coldcard]], [[Bitcoin/Wallet/Hardware Wallet/🔴 Trezor\|🔴 Trezor]], [[Bitcoin/Wallet/Hardware Wallet/✍️ SeedSigner\|✍️ SeedSigner]], [[Bitcoin/Definizioni/Blockchain/🔐 Self-custody\|🔐 Self-custody]], [[Bitcoin/Wallet/Software Wallet/🐦 Sparrow Wallet\|🐦 Sparrow Wallet]]_

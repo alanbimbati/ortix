@@ -6,7 +6,7 @@
 # 🔺 Il Trilemma: perché non puoi avere tutto (subito)
 
 ⚖️ **Veloce, sicuro, decentralizzato: scegli due.**  
-Questo è il **Trilemma della [[Bitcoin/Definizioni/blockchain\|blockchain]]**:  
+Questo è il **Trilemma della [[Bitcoin/Definizioni/Blockchain/blockchain\|blockchain]]**:  
 un concetto che spiega perché **non esiste una rete perfetta**.  
 Ogni scelta tecnica comporta **dei compromessi.**
 
@@ -33,7 +33,7 @@ Bitcoin ha scelto con cura. E ha scelto bene.
 🟠 **Bitcoin ha scelto: Sicurezza + Decentralizzazione**
 
 ❌ Scalabilità on-chain limitata  
-✅ Massima sicurezza (grazie a [[Bitcoin/Mining/⚙️  Proof of Work\|⚙️  Proof of Work]])  
+✅ Massima sicurezza (grazie a [[Bitcoin/Definizioni/Mining/⚙️  Proof of Work\|⚙️  Proof of Work]])  
 ✅ Massima decentralizzazione (chiunque può fare un nodo)
 
 🎯 Ma la **scalabilità arriva nel secondo layer**, con [[Bitcoin/Lightning Network/⚡ Lightning Network\|⚡ Lightning Network]].

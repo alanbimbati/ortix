@@ -36,7 +36,7 @@ Ed è qui che il castello di carte dell’accentramento crolla.
 # 🛡️ La rivolta silenziosa dei nodi  
 Qualora uno Stato o un blocco di potere riuscisse ad acquisire la maggior parte dei Bitcoin in circolazione, il resto della comunità avrebbe un’arma semplice, elegante e definitiva:
 
-**Smettere di riconoscere quella catena e adottarne una nuova, con nuove regole, nuovi UTXO e un nuovo stato del ledger.**
+**Smettere di riconoscere quella catena e adottarne una nuova, con nuove regole, nuovi [[Bitcoin/Definizioni/Blockchain/UTXO\|UTXO]] e un nuovo stato del ledger.**
 
 Sembra fantascienza?  
 È la pura forza del consenso: se i nodi, gli utenti e i miners rifiutano quella catena, *quella catena è morta*, a prescindere da quanti Bitcoin vi siano registrati.

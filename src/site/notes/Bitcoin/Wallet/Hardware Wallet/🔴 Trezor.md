@@ -12,7 +12,7 @@ Creato da SatoshiLabs nel 2014, ha definito lo standard per la custodia sicura d
 
 ## 🔐 Cos'è Trezor?
 
-Trezor è un **[[Bitcoin/Wallet/Hardware Wallet\|hardware wallet]]** completamente **open source**, disponibile in due modelli:
+Trezor è un **[[Bitcoin/Wallet/Hardware Wallet/Hardware Wallet\|hardware wallet]]** completamente **open source**, disponibile in due modelli:
 - **Trezor One** (~70€) → modello base, schermo piccolo
 - **Trezor Model T** (~220€) → touchscreen, più funzioni
 
@@ -44,8 +44,8 @@ Trezor è un **[[Bitcoin/Wallet/Hardware Wallet\|hardware wallet]]** completamen
 
 ## 🧠 Funzionalità
 
-- Supporta [[Bitcoin/Wallet/✍️ PSBT\|✍️ PSBT]] e [[Bitcoin/Wallet/🔐 Multisig\|🔐 Multisig]]
-- Compatibile con [[Bitcoin/Wallet/🐦 Sparrow Wallet\|🐦 Sparrow Wallet]], [[Bitcoin/Wallet/⚡ Electrum\|⚡ Electrum]], MetaMask
+- Supporta [[Bitcoin/Definizioni/Blockchain/✍️ PSBT\|✍️ PSBT]] e [[Bitcoin/Definizioni/Blockchain/🔐 Multisig\|🔐 Multisig]]
+- Compatibile con [[Bitcoin/Wallet/Software Wallet/🐦 Sparrow Wallet\|🐦 Sparrow Wallet]], [[Bitcoin/Wallet/Software Wallet/⚡ Electrum\|⚡ Electrum]], MetaMask
 - PIN e recupero con parole seed (12 o 24 parole)
 - Passphrase opzionale per wallet nascosti
 - Shamir Backup (solo Model T) per dividere la seed
@@ -98,7 +98,7 @@ Trezor è **storico, affidabile, open source.**
 ⚠️ **MA**: devi usare una **passphrase BIP39** per proteggerti da attacchi fisici.  
 Senza passphrase, Trezor è vulnerabile a chi ha accesso fisico al device.
 
-💡 Se vuoi massima sicurezza Bitcoin-only e airgapped, [[Bitcoin/Wallet/❄️ Coldcard\|❄️ Coldcard]] o [[Bitcoin/Wallet/✍️ SeedSigner\|✍️ SeedSigner]] sono migliori.  
+💡 Se vuoi massima sicurezza Bitcoin-only e airgapped, [[Bitcoin/Wallet/Hardware Wallet/❄️ Coldcard\|❄️ Coldcard]] o [[Bitcoin/Wallet/Hardware Wallet/✍️ SeedSigner\|✍️ SeedSigner]] sono migliori.  
 Se vuoi open source puro senza compromessi, Trezor Model T è ottimo.
 
 ---
@@ -125,4 +125,4 @@ Trezor è un **classico intramontabile.**
 
 🔗 _Sito ufficiale: [trezor.io](https://trezor.io)_
 
-📎 _Vedi anche: [[Bitcoin/Wallet/Hardware Wallet\|Hardware Wallet]], [[Bitcoin/Wallet/❄️ Coldcard\|❄️ Coldcard]], [[Bitcoin/Wallet/Hardware Wallet/🟣 Ledger\|🟣 Ledger]], [[Bitcoin/Wallet/✍️ SeedSigner\|✍️ SeedSigner]], [[Bitcoin/Wallet/🔐 Self-custody\|🔐 Self-custody]], [[Bitcoin/Wallet/🧠 Seed Phrase\|🧠 Seed Phrase]]_
+📎 _Vedi anche: [[Bitcoin/Wallet/Hardware Wallet/Hardware Wallet\|Hardware Wallet]], [[Bitcoin/Wallet/Hardware Wallet/❄️ Coldcard\|❄️ Coldcard]], [[Bitcoin/Wallet/Hardware Wallet/🟣 Ledger\|🟣 Ledger]], [[Bitcoin/Wallet/Hardware Wallet/✍️ SeedSigner\|✍️ SeedSigner]], [[Bitcoin/Definizioni/Blockchain/🔐 Self-custody\|🔐 Self-custody]], [[Bitcoin/Definizioni/Blockchain/🧠 Seed Phrase\|🧠 Seed Phrase]]_

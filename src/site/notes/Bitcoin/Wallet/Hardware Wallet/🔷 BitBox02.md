@@ -12,7 +12,7 @@ Prodotto da Shift Crypto in Svizzera, è l'hardware wallet per chi vuole **sicur
 
 ## 🔐 Cos'è BitBox02?
 
-BitBox02 è un **[[Bitcoin/Wallet/Hardware Wallet\|hardware wallet]]** open source prodotto da Shift Crypto.
+BitBox02 è un **[[Bitcoin/Wallet/Hardware Wallet/Hardware Wallet\|hardware wallet]]** open source prodotto da Shift Crypto.
 
 Versioni disponibili:
 - **BitBox02 Bitcoin-only** (~140€) → solo Bitcoin, massima sicurezza
@@ -47,8 +47,8 @@ Versioni disponibili:
 
 ## 🧠 Funzionalità
 
-- Supporta [[Bitcoin/Wallet/✍️ PSBT\|✍️ PSBT]] e [[Bitcoin/Wallet/🔐 Multisig\|🔐 Multisig]]
-- Compatibile con **BitBoxApp**, [[Bitcoin/Wallet/🐦 Sparrow Wallet\|🐦 Sparrow Wallet]], [[Bitcoin/Wallet/⚡ Electrum\|⚡ Electrum]]
+- Supporta [[Bitcoin/Definizioni/Blockchain/✍️ PSBT\|✍️ PSBT]] e [[Bitcoin/Definizioni/Blockchain/🔐 Multisig\|🔐 Multisig]]
+- Compatibile con **BitBoxApp**, [[Bitcoin/Wallet/Software Wallet/🐦 Sparrow Wallet\|🐦 Sparrow Wallet]], [[Bitcoin/Wallet/Software Wallet/⚡ Electrum\|⚡ Electrum]]
 - Touch sensor per navigazione intuitiva
 - PIN invisibile (nessuno può vedere cosa digiti)
 - Recovery phrase BIP39 da 24 parole
@@ -121,4 +121,4 @@ BitBox02 è **il wallet svizzero per eccellenza: preciso, affidabile, minimalist
 
 🔗 _Sito ufficiale: [bitbox.swiss](https://bitbox.swiss)_
 
-📎 _Vedi anche: [[Bitcoin/Wallet/Hardware Wallet\|Hardware Wallet]], [[Bitcoin/Wallet/❄️ Coldcard\|❄️ Coldcard]], [[Bitcoin/Wallet/✍️ SeedSigner\|✍️ SeedSigner]], [[Bitcoin/Wallet/🔐 Self-custody\|🔐 Self-custody]], [[Bitcoin/🧬 Open Source\|🧬 Open Source]], [[Bitcoin/Wallet/🐦 Sparrow Wallet\|🐦 Sparrow Wallet]]_
+📎 _Vedi anche: [[Bitcoin/Wallet/Hardware Wallet/Hardware Wallet\|Hardware Wallet]], [[Bitcoin/Wallet/Hardware Wallet/❄️ Coldcard\|❄️ Coldcard]], [[Bitcoin/Wallet/Hardware Wallet/✍️ SeedSigner\|✍️ SeedSigner]], [[Bitcoin/Definizioni/Blockchain/🔐 Self-custody\|🔐 Self-custody]], [[Bitcoin/🧬 Open Source\|🧬 Open Source]], [[Bitcoin/Wallet/Software Wallet/🐦 Sparrow Wallet\|🐦 Sparrow Wallet]]_
