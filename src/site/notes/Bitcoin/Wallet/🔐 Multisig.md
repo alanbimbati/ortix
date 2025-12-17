@@ -62,4 +62,4 @@ Se vuoi davvero mettere al sicuro i tuoi sats, **la multisig è il futuro della 
 
 ---
 
-🔗 _Approfondisci con [[Bitcoin/Wallet/🔐 Self-custody\|🔐 Self-custody]], [[Bitcoin/Cold Storage\|Cold Storage]], [[Bitcoin/Wallet/✍️ PSBT\|✍️ PSBT]], [[Bitcoin/Wallet/🐦 Sparrow Wallet\|🐦 Sparrow Wallet]]_ 
+🔗 _Approfondisci con [[Bitcoin/Wallet/🔐 Self-custody\|🔐 Self-custody]], [[Bitcoin/Cold Wallet\|Cold Wallet]], [[Bitcoin/Wallet/✍️ PSBT\|✍️ PSBT]], [[Bitcoin/Wallet/🐦 Sparrow Wallet\|🐦 Sparrow Wallet]]_ 

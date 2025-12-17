@@ -56,7 +56,7 @@ Ma **senza Visa.**
 - Maggiore **liquidità** tra i canali  
 - Interfacce più semplici per i nuovi utenti  
 - Incentivi economici più chiari per chi fornisce routing  
-- Integrazione con [[Bitcoin/Cold Storage\|Cold Storage]] e [[Bitcoin/Wallet/🔐 Self-custody\|🔐 Self-custody]] più user-friendly
+- Integrazione con [[Bitcoin/Cold Wallet\|Cold Wallet]] e [[Bitcoin/Wallet/🔐 Self-custody\|🔐 Self-custody]] più user-friendly
 
 🎯 Ma ogni giorno Lightning cresce. E migliora.
 

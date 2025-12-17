@@ -61,4 +61,4 @@ Se vuoi fare self-custody **seriamente**, imparare a usare PSBT è fondamentale.
 
 ---
 
-🔗 _Approfondisci con [[Bitcoin/Wallet/🔐 Self-custody\|🔐 Self-custody]], [[Bitcoin/Wallet/🔐 Multisig\|🔐 Multisig]], [[Bitcoin/Cold Storage\|Cold Storage]], [[Bitcoin/Wallet/🐦 Sparrow Wallet\|🐦 Sparrow Wallet]], [[Bitcoin/Wallet/❄️ Coldcard\|❄️ Coldcard]]_
+🔗 _Approfondisci con [[Bitcoin/Wallet/🔐 Self-custody\|🔐 Self-custody]], [[Bitcoin/Wallet/🔐 Multisig\|🔐 Multisig]], [[Bitcoin/Cold Wallet\|Cold Wallet]], [[Bitcoin/Wallet/🐦 Sparrow Wallet\|🐦 Sparrow Wallet]], [[Bitcoin/Wallet/❄️ Coldcard\|❄️ Coldcard]]_

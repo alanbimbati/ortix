@@ -66,4 +66,4 @@ Perché la vera sicurezza… è il silenzio.
 
 🔗 _Sito ufficiale: [coldcard.com](https://coldcard.com)_
 
-📎 _Vedi anche: [[Bitcoin/Wallet/✍️ SeedSigner\|✍️ SeedSigner]], [[Bitcoin/Wallet/🐦 Sparrow Wallet\|🐦 Sparrow Wallet]], [[Bitcoin/Wallet/🔐 Self-custody\|🔐 Self-custody]], [[Bitcoin/Cold Storage\|Cold Storage]], [[Bitcoin/Wallet/✍️ PSBT\|✍️ PSBT]]_
+📎 _Vedi anche: [[Bitcoin/Wallet/✍️ SeedSigner\|✍️ SeedSigner]], [[Bitcoin/Wallet/🐦 Sparrow Wallet\|🐦 Sparrow Wallet]], [[Bitcoin/Wallet/🔐 Self-custody\|🔐 Self-custody]], [[Bitcoin/Cold Wallet\|Cold Wallet]], [[Bitcoin/Wallet/✍️ PSBT\|✍️ PSBT]]_

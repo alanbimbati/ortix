@@ -50,7 +50,7 @@ A differenza della carta, **non brucia, non si bagna, non si rompe**.
 🎯 **Per chi è adatta?**
 
 - HODLer di lungo termine  
-- Chi fa [[Bitcoin/Cold Storage\|Cold Storage]]  
+- Chi fa [[Bitcoin/Cold Wallet\|Cold Wallet]]  
 - Chi vive in zone a rischio ambientale  
 - Chi vuole dormire tranquillo sapendo che **la seed può sopravvivere a lui stesso**
 
@@ -67,4 +67,4 @@ Con Steelwallet, **quella chiave diventa indistruttibile**.
 
 🔗 _Prodotti consigliati: [Blockplate](https://blockplate.com), [Cryptosteel](https://cryptosteel.com), [Seedplate](https://seedplate.com)_
 
-📎 _Vedi anche: [[Bitcoin/Wallet/✍️ SeedSigner\|✍️ SeedSigner]], [[Bitcoin/Wallet/❄️ Coldcard\|❄️ Coldcard]], [[Bitcoin/Wallet/🔐 Self-custody\|🔐 Self-custody]], [[Bitcoin/Cold Storage\|Cold Storage]]
+📎 _Vedi anche: [[Bitcoin/Wallet/✍️ SeedSigner\|✍️ SeedSigner]], [[Bitcoin/Wallet/❄️ Coldcard\|❄️ Coldcard]], [[Bitcoin/Wallet/🔐 Self-custody\|🔐 Self-custody]], [[Bitcoin/Cold Wallet\|Cold Wallet]]

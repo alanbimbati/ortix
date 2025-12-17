@@ -78,5 +78,5 @@ Chi la protegge, protegge la propria libertà.
 
 ---
 
-🔗 _Approfondisci con [[Bitcoin/Cold Storage\|Cold Storage]], [[Bitcoin/Wallet/🔐 Multisig\|🔐 Multisig]], [[BIP85\|BIP85]], [[25ª parola\|25ª parola]], [[Bitcoin/Wallet/🔐 Self-custody\|🔐 Self-custody]], [[Bitcoin/Wallet/🧭 Wallet Index\|🧭 Wallet Index]], [[Bitcoin/Wallet/🪨 Steelwallet\|Bitcoin/Wallet/🪨 Steelwallet]]_
+🔗 _Approfondisci con [[Bitcoin/Cold Wallet\|Cold Wallet]], [[Bitcoin/Wallet/🔐 Multisig\|🔐 Multisig]], [[BIP85\|BIP85]], [[25ª parola\|25ª parola]], [[Bitcoin/Wallet/🔐 Self-custody\|🔐 Self-custody]], [[Bitcoin/Wallet/🧭 Wallet Index\|🧭 Wallet Index]], [[Bitcoin/Wallet/🪨 Steelwallet\|Bitcoin/Wallet/🪨 Steelwallet]]_
 

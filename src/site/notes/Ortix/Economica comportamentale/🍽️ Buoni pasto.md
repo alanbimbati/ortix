@@ -73,6 +73,35 @@ In questo contesto, i buoni pasto possono essere letti come un **prototipo embri
 In sostanza, una CBDC potrebbe sostituire i buoni pasto rendendoli “più efficienti”, ma **replicandone esattamente il difetto strutturale**: la perdita di neutralità del denaro. Il problema, dunque, non è lo strumento specifico, ma il principio stesso del **denaro condizionato**.
 
 ---
+## 🔐 Privacy e controllo: il caso Edenred
+
+Oltre alla dimensione economica, i buoni pasto introducono un problema di **privacy strutturale**. Tracciabilità, profilazione delle spese e dipendenza da infrastrutture centralizzate trasformano un presunto benefit in un **meccanismo di sorveglianza soft**.
+
+Questo aspetto è stato analizzato in modo puntuale da Jeremiah B. in due articoli che meritano di essere citati:
+
+- *[La fregatura dei buoni pasto](https://www.balzibox.com/it/articoli/la-fregatura-dei-buoni-pasto/)* – BalziBox  
+  
+
+- *Aggiornamento App: attenti alla privacy – caso studio Edenred* – BalziBox  
+  
+
+In particolare, il caso Edenred mostra come **basti un disservizio tecnico o un sistema offline** per rendere inutilizzabile ciò che dovrebbe fungere da mezzo di pagamento. Un denaro che smette di funzionare quando l’infrastruttura centrale fallisce **non è denaro affidabile**, ma uno strumento condizionato.
+
+---
+
+## 🏛️ CBDC e denaro programmabile: un’estensione del problema
+
+I buoni pasto possono essere letti come un **prototipo di denaro programmabile**. Le **CBDC** promettono efficienza e politiche economiche mirate, ma introducono la possibilità tecnica di:
+- vincolare l’uso del denaro,
+- imporre scadenze,
+- limitare categorie di spesa,
+- applicare condizioni differenziate.
+
+Il problema non è la tecnologia, ma il principio: **la perdita di neutralità del denaro**. I buoni pasto mostrano già oggi cosa accade quando il mezzo di scambio diventa uno strumento di policy.
+
+---
+
+---
 
 ## ₿ Bitcoin come alternativa libera e neutrale
 

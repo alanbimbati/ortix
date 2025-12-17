@@ -71,4 +71,4 @@ La tua privacy non è negoziabile.**
 
 ---
 
-🔗 _Approfondisci con [[Bitcoin/Wallet/🐦 Sparrow Wallet\|🐦 Sparrow Wallet]], [[Bitcoin/Wallet/🔐 Self-custody\|🔐 Self-custody]], [[Bitcoin/Cold Storage\|Cold Storage]], [[Bitcoin e sorveglianza\|Bitcoin e sorveglianza]]_
+🔗 _Approfondisci con [[Bitcoin/Wallet/🐦 Sparrow Wallet\|🐦 Sparrow Wallet]], [[Bitcoin/Wallet/🔐 Self-custody\|🔐 Self-custody]], [[Bitcoin/Cold Wallet\|Cold Wallet]], [[Bitcoin e sorveglianza\|Bitcoin e sorveglianza]]_
