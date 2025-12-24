@@ -89,4 +89,4 @@ Una visione del mondo in cui **nessuno può comandarti la vita.**
 
 ---
 
-🔗 _Approfondisci con [[Bitcoin/Definizioni/Blockchain/🔐 Self-custody\|🔐 Self-custody]], [[Bitcoin/Definizioni/Mining/⚙️  Proof of Work\|⚙️  Proof of Work]], [[Bitcoin/Lightning Network/⚡ Lightning Network\|⚡ Lightning Network]], [[Bitcoin/Economia/🏛️ Stato e Moneta\|🏛️ Stato e Moneta]], [[Bitcoin/Definizioni/Mining/🌱 Mining Green\|🌱 Mining Green]]_
+🔗 _Approfondisci con [[Bitcoin/Definizioni/Blockchain/🔐 Self-custody\|🔐 Self-custody]], [[⚙️ Proof of Work\|⚙️ Proof of Work]], [[Bitcoin/Lightning Network/⚡ Lightning Network\|⚡ Lightning Network]], [[Bitcoin/Economia/🏛️ Stato e Moneta\|🏛️ Stato e Moneta]], [[Bitcoin/Definizioni/Mining/🌱 Mining Green\|🌱 Mining Green]], [[Bitcoin/Definizioni/Blockchain/Full Node\|Full Node]], [[Bitcoin/Filosofia/🔺 Il Trilemma\|🔺 Il Trilemma]], [[Bitcoin/🔧 Bitcoin dal punto di vista tecnologico\|🔧 Bitcoin dal punto di vista tecnologico]], [[Bitcoin/Definizioni/Mining/⛏️ Mining\|⛏️ Mining]], [[Bitcoin/Bitcoin\|Bitcoin]]_

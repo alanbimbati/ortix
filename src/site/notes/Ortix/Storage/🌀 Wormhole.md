@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ortix/storage/wormhole/","title":"Wormhole – Invio di file e cartelle, una volta sola","tags":["privacy","file-sharing","decentralizzazione","alternative","sicurezza","digital-garden"]}
 ---
 
-
+	
 ## 🌀 Wormhole: il passaggio segreto dei file
 
 In un’epoca dominata da **cloud permanenti**, account obbligatori e link che restano in vita più del necessario, **Wormhole** rappresenta un ritorno a un’idea semplice e potente:  

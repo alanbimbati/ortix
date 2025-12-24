@@ -71,3 +71,5 @@ La self-custody è **l’anello di fuoco** tra te e la schiavitù finanziaria.
 🔐 È la scelta di **non delegare**, di **assumersi la responsabilità**, di **essere sovrani**.
 
 ---
+
+🔗 _Approfondisci con [[Bitcoin/Wallet/🧭 Wallet Index\|🧭 Wallet Index]], [[Bitcoin/Definizioni/Blockchain/🧠 Seed Phrase\|🧠 Seed Phrase]], [[Bitcoin/Definizioni/Blockchain/🔐 Multisig\|🔐 Multisig]], [[Bitcoin/Definizioni/Blockchain/Cold Wallet\|Cold Wallet]], [[Bitcoin/Wallet/🪨 Steelwallet\|🪨 Steelwallet]], [[Bitcoin/Wallet/🌳 Wallet gerarchico\|🌳 Wallet gerarchico]], [[Bitcoin/Guide e consigli/🔑 Come creare un Wallet (non custodial)\|🔑 Come creare un Wallet (non custodial)]], [[Bitcoin/Guide e consigli/1️⃣ Come creare una seed phrase in modo sicuro\|1️⃣ Come creare una seed phrase in modo sicuro]], [[Bitcoin/Filosofia/🚫 Evita gli exchange\|🚫 Evita gli exchange]], [[Bitcoin/Wallet/Hardware Wallet/Hardware Wallet\|Hardware Wallet]], [[Bitcoin/Filosofia/🕵️‍♂️ Privacy\|🕵️‍♂️ Privacy]], [[Bitcoin/Bitcoin\|Bitcoin]]_
