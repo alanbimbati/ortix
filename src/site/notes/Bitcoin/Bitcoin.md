@@ -28,6 +28,8 @@ Funziona **senza fiducia. Solo verifica.**
 
 ## 🟠 Bitcoin ha molte porte
 
+![BitcoinMoltePorte.png](/img/user/Immagini/BitcoinMoltePorte.png)
+
 *E da qualunque tu entri, finisci nella tana del bianconiglio.*
 
 Bitcoin non è una cosa sola. È **più simile a un pianeta**: puoi atterrarci da punti diversi, ma una volta dentro scopri che tutto è collegato.
