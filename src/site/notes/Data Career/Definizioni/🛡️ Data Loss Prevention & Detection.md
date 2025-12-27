@@ -5,7 +5,7 @@
 
 # 🛡️ Data Loss Prevention & Detection
 
-🔐 **Data Loss Prevention (DLP)** e **Data Loss Detection (DLD)** sono due concetti fondamentali nella **Data Career**, soprattutto per chi lavora in ambiti come [[Data Career/Job definition/🧱 Data Engineer\|🧱 Data Engineer]], [[Data Governance\|Data Governance]] e [[Cybersecurity\|Cybersecurity]].
+🔐 **Data Loss Prevention (DLP)** e **Data Loss Detection (DLD)** sono due concetti fondamentali nella **Data Career**, soprattutto per chi lavora in ambiti come [[Data Career/Job definition/🧱 Data Engineer\|🧱 Data Engineer]], [[Data Career/Definizioni/Data Governance\|Data Governance]] e [[Cybersecurity\|Cybersecurity]].
 
 ---
 
@@ -32,7 +32,7 @@ Esempio: se accedo al mio account aziendale da un PC personale e scarico un inte
 ## 🎯 Perché è importante per la Data Career
 Chi lavora con i dati non si occupa solo di **pipelines, modelli o dashboard**, ma anche di **protezione delle informazioni**.  
 - Un [[Data Career/Job definition/🧱 Data Engineer\|🧱 Data Engineer]] deve conoscere le policy di **sicurezza e compliance**.  
-- Un [[Data Analyst\|Data Analyst]] deve sapere come gestire dati sensibili senza esporli.  
+- Un [[Data Career/Job definition/Data Analyst\|Data Analyst]] deve sapere come gestire dati sensibili senza esporli.  
 - Un Data Governance Specialist deve garantire che regole e strumenti siano rispettati.  
 
 👉 Integrare DLP e DLD significa avere non solo dati affidabili e di qualità, ma anche **dati protetti**.  

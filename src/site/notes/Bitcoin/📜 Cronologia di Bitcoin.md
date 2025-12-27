@@ -33,7 +33,7 @@ Link: https://it.wikipedia.org/wiki/Accordi_di_Bretton_Woods • [[Bretton Woods
 ## 🔓 15 agosto 1971 — Nixon Shock: fine della convertibilità oro/dollaro
 Nixon sospende la convertibilità del dollaro in oro. Fine ufficiale di Bretton Woods. Nasce l’era della **moneta fiat**: valore basato sulla fiducia e sulla forza dello Stato, non su una commodity fisica.  
 Conseguenza: più spazio per la politica monetaria — e più possibilità di abuso (inflazione, redistribuzione di potere).  
-Leggi: https://it.wikipedia.org/wiki/Nixon_Shock • [[Nixon Shock\|Nixon Shock]]
+Leggi: https://it.wikipedia.org/wiki/Nixon_Shock • [[Bitcoin/Economia/Storia/Nixon Shock\|Nixon Shock]]
 
 ---
 
@@ -50,9 +50,9 @@ Approfondimenti: https://en.wikipedia.org/wiki/Cypherpunk • Wei Dai (b-money):
 ---
 
 ## 🔐 1990s–2000s — esperimenti di valuta elettronica
-- [[DigiCash\|DigiCash]] (David Chaum) — privacy digitale, ma modello centralizzato.  
+- [[Bitcoin/Storia/Precursori/DigiCash\|DigiCash]] (David Chaum) — privacy digitale, ma modello centralizzato.  
 - [[e-gold\|e-gold]]e altri esperimenti.  
-- [[Bit Gold\|Bit Gold]] (Nick Szabo) e [[B-Money\|B-Money]](Wei Dai) gettano idee fondamentali (scarcity, proof-of-work-like mechanisms, consenso distribuito).  
+- [[Bitcoin/Storia/Precursori/Bit Gold\|Bit Gold]] (Nick Szabo) e [[Bitcoin/Storia/Precursori/B-Money\|B-Money]](Wei Dai) gettano idee fondamentali (scarcity, proof-of-work-like mechanisms, consenso distribuito).  
 
 ---
 
@@ -70,7 +70,7 @@ Adam Back sviluppa [[Hashcash\|Hashcash]] (anti-spam proof-of-work). Hal Finney 
 
 ## ⛏ 3 gennaio 2009 — Genesis Block
 Il blocco zero viene minato. La frase contenuta nel coinbase è simbolica e politica: rimanda alla crisi finanziaria e ai salvataggi bancari. Nasce la moneta programmabile, scarica, e non censurabile.  
-Approfondisci: [[Genesis Block\|Genesis Block]] • https://en.bitcoin.it/wiki/Genesis_block
+Approfondisci: [[Bitcoin/Storia/Genesis Block\|Genesis Block]] • https://en.bitcoin.it/wiki/Genesis_block
 
 ---
 
@@ -94,7 +94,7 @@ Approfondimenti: [[Bitcoin e stato\|Bitcoin e stato]] • (vedi notizie e analis
 ## 📚 Per approfondire (link esterni e interni)
 - [[Gold Standard\|Gold Standard]] — https://it.wikipedia.org/wiki/Gold_standard  
 - [[Bretton Woods\|Bretton Woods]] — https://it.wikipedia.org/wiki/Accordi_di_Bretton_Woods  
-- [[Nixon Shock\|Nixon Shock]] — https://it.wikipedia.org/wiki/Nixon_Shock  
+- [[Bitcoin/Economia/Storia/Nixon Shock\|Nixon Shock]] — https://it.wikipedia.org/wiki/Nixon_Shock  
 - [[Economia Austriaca\|Economia Austriaca]] — pagine su [[Menger\|Menger]], [[Mises\|Mises]], [[Hayek\|Hayek]], [[Rothbard\|Rothbard]]  
 - Cypherpunk movement — https://en.wikipedia.org/wiki/Cypherpunk  
 - B-money (Wei Dai) — https://en.wikipedia.org/wiki/B-money  

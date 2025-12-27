@@ -5,6 +5,8 @@
 
 # 🔸 KeyStone: il gigante gentile degli hardware wallet
 
+![KeyStone Hardware Wallet](../../Immagini/Ortix_KeyStone.jpg)
+
 📱 **KeyStone sembra un piccolo smartphone, ma è un bunker per le tue chiavi private.**  
 Grande display touchscreen, completamente airgapped, e supporto multi-wallet eccezionale.
 

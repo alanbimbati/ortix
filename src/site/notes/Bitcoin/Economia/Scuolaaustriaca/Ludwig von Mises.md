@@ -1,29 +1,55 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/economia/scuolaaustriaca/ludwig-von-mises/"}
+{"dg-publish":true,"permalink":"/bitcoin/economia/scuolaaustriaca/ludwig-von-mises/","title":"Ludwig von Mises: l'ultimo cavaliere del liberalismo","tags":["ScuolaAustriaca","Economia","Praxeologia","AzioneUmana","Socialismo"]}
 ---
 
 
-# Ludwig von Mises
+# 🛡️ Ludwig von Mises: l'ultimo cavaliere del liberalismo
 
-
-2️⃣ **Ludwig** **von Mises** (29 settembre 1881) è uno dei principali esponenti della Scuola Austriaca di Economia.
-Il suo principale lavoro è "L'azione** umana**" e tratta questi principi:
-
-<u>✊</u><u> Azione Umana e Razionalità
-</u>L'**azione umana** mira a** massimizzare il proprio benessere **attraverso azioni razionali nei limiti della conoscenza di ogni individuo**.** Ogni individuo agisce con uno scopo e le sue scelte sono guidate dalla ricerca della soddisfazione personale.
-<u>
-📈 Calcolo Economico e Socialismo
-</u>Lo Stato, senza un libero mercato definito dal rapporto tra domanda e offerta, non può stabilire regole giuste per la produzione. In che modo può definire la quantità da produrre? Il libero mercato incentiva o disincentiva la produzione attraverso la libera definizione dei prezzi. Mises argomenta che il socialismo non può realizzare un calcolo economico razionale poiché manca dei prezzi di mercato necessari per prendere decisioni efficienti.
-
-**🔑**** Proprietà privata**
-La proprietà privata rende libero l'individuo. Al contrario, l'utilizzo di beni statali rende facile l'impedimento o la coercizione degli individui. La proprietà privata è fondamentale per la libertà economica e la prosperità.
-
-**💰**** Analogia con Bitcoin**
-Il mining di Bitcoin è un'attività libera che nessun governo può impedire a livello mondiale. [L'incentivo per i miner è maggiore dove il costo dell'elettricità è minore, spesso in luoghi con abbondanza di risorse rinnovabili.](#) Questo rispecchia i principi del libero mercato di Mises, dove la produzione e i prezzi sono determinati dalla domanda e dall'offerta.
-
-Gli individui scelgono di comprare e [detenere Bitcoin](#) per massimizzare il proprio benessere, rispecchiando l'idea di azione umana di Mises. Bitcoin è la prima forma di moneta facilmente trasportabile in tutto il mondo, permettendo agli individui di mantenere il vero possesso della loro ricchezza senza intermediari.
-
-#ScuolaAustriaca
+👨‍🏫 **Ludwig von Mises** (1881 - 1973) è la figura centrale della Scuola Austriaca nel XX secolo.
+Ha combattuto intellettualmente contro il socialismo, il nazismo e l'interventismo statale, dimostrando che **senza libertà economica, la civiltà stessa collassa**.
 
 ---
-[[🇦🇹 Bitcoin nasce dall'economia austriaca\|🇦🇹 Bitcoin nasce dall'economia austriaca]]
+
+## 🧠 I Concetti Chiave
+
+### 1. L'Azione Umana (Praxeologia)
+L'economia non riguarda grafici e numeri, ma le **scelte degli individui**.
+Ogni persona agisce per rimuovere un senso di insoddisfazione e migliorare la propria condizione.
+- L'azione è sempre **razionale** (dal punto di vista di chi agisce).
+- Il valore è **soggettivo**.
+
+### 2. Il Teorema dell'Impossibilità del Socialismo
+Nel 1920, Mises sganciò una bomba intellettuale: **il socialismo è impossibile**.
+- Senza proprietà privata dei mezzi di produzione → Non c'è mercato.
+- Senza mercato → Non ci sono prezzi reali.
+- Senza prezzi → Non si può fare **calcolo economico** (capire cosa conviene produrre).
+Risultato: Caos, spreco e povertà. (La storia gli ha dato ragione nel 1989).
+
+### 3. Teorema di Regressione della Moneta
+Spiega come un pezzo di carta (o un bit) possa avere valore.
+Il valore della moneta oggi dipende dal suo potere d'acquisto ieri, e così via a ritroso fino al momento in cui quel bene aveva un valore come merce (es. oro).
+Bitcoin sfida parzialmente questo teorema, o meglio, ne dimostra una nuova evoluzione digitale.
+
+---
+
+## 🔗 Mises e Bitcoin
+
+Mises diceva: *"Il suono del denaro deve essere tolto dalle mani del governo."*
+Bitcoin è la realizzazione tecnica di questo desiderio.
+- È denaro che non può essere stampato a piacere (inflazione).
+- È un sistema di prezzi globale e incensurabile.
+
+---
+
+## 📚 Opere Fondamentali
+
+- **"L'Azione Umana"** (*Human Action*, 1949)
+  - Il suo capolavoro, un trattato completo di economia e sociologia.
+- **"Socialismo"** (*Socialism*, 1922)
+  - La demolizione sistematica di ogni forma di collettivismo.
+- **"Teoria della moneta e del credito"** (1912)
+  - Dove integra la moneta nella teoria dell'utilità marginale.
+
+---
+
+🔗 _Approfondisci con [[Bitcoin/Economia/Scuolaaustriaca/Murray Rothbard\|Murray Rothbard]], [[Bitcoin/Economia/Scuolaaustriaca/Friedrich Von Hayek\|Friedrich Von Hayek]], [[Bitcoin/Economia/Scuolaaustriaca/Carl Menger\|Carl Menger]], [[Bitcoin/Economia/Scuolaaustriaca/💰L'Economia Austriaca Dietro Bitcoin\|💰L'Economia Austriaca Dietro Bitcoin]]_

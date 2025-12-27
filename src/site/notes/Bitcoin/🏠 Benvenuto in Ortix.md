@@ -4,7 +4,7 @@
 
 # 🏠 Benvenuto in Ortix
 
-![Ortix.jpg](/img/user/Immagini/Ortix.jpg)
+![Ortix_Benvenuto.png](/img/user/Immagini/Ortix_Benvenuto.png)
 
 🌱 Vi presento Ortix: la mascotte del canale
 

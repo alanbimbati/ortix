@@ -5,6 +5,8 @@
 
 # 🟢 Jade: sicurezza open source a prezzo accessibile
 
+![Jade Hardware Wallet](../../Immagini/Ortix_Jade.jpg)
+
 💎 **Jade è la dimostrazione che sicurezza e accessibilità possono coesistere.**  
 Prodotto da Blockstream, costa ~70€ ma offre caratteristiche da hardware wallet premium.
 

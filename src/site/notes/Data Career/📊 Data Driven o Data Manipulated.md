@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/data-career/data-driven-o-data-manipulated/"}
+{"dg-publish":true,"permalink":"/data-career/data-driven-o-data-manipulated/","title":"Data Driven o Data Manipulated?","tags":["DataCulture","Filosofia","SovranitàDigitale","DataDriven"]}
 ---
 
 
 # 📊 Data Driven o Data Manipulated?
 
-![1756912534106.jpg](/img/user/Immagini/1756912534106.jpg)
+![Ortix_DataDriven_Manipulated.jpg](/img/user/Immagini/Ortix_DataDriven_Manipulated.jpg)
 
 💡 **Essere "data driven"** significa prendere decisioni basandosi sui dati, non sulle opinioni. È il sogno di ogni organizzazione che vuole essere *oggettiva* e non guidata dall’istinto.  
 Essere padroni dei propri dati vuol dire avere una bussola che ci indica la direzione, senza dipendere da altri.

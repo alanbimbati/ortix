@@ -5,7 +5,7 @@
 
 # 💰 La piramide dei fondi – Gestire i Bitcoin in modo intelligente
 
-![Pasted image 20251216181339.png](/img/user/Pasted%20image%2020251216181339.png)
+![Ortix_GestioneBitcoin.png](/img/user/Immagini/Ortix_GestioneBitcoin.png)
 Quando si parla di **gestione dei Bitcoin**, la sicurezza e l’accessibilità sono due facce della stessa medaglia.  
 Un approccio efficace consiste nel **dividere i fondi secondo una piramide**:  
 

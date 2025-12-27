@@ -5,7 +5,7 @@
 
 # 🙅‍♂️ **I soldi in banca non sono tuoi** 📜
 
-![[Pasted image 20250708150113.png\|Pasted image 20250708150113.png]]
+![[Ortix_SoldiBancaNonTuoi.png\|Ortix_SoldiBancaNonTuoi.png]]
 
 > "Nei depositi di una somma di denaro presso una banca, questa ne acquista la proprietà."  
 > *Art. 1834 del Codice Civile*

@@ -5,6 +5,8 @@
 
 # 🔶 Passport: eleganza airgapped per Bitcoiner esigenti
 
+![Passport Hardware Wallet](../../Immagini/Ortix_Passport.jpg)
+
 ✨ **Passport è l'hardware wallet che sembra uscito da un set di James Bond.**  
 Design premium, completamente airgapped, Bitcoin-only. È Coldcard con stile.
 

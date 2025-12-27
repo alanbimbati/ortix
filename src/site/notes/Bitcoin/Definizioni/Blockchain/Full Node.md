@@ -30,7 +30,7 @@
 ✅ [[Ortix/Filosofia/🛡️ Sovranità digitale\|🛡️ Sovranità digitale]] — Non ti fidi, verifichi.  
 ✅ [[Bitcoin/Filosofia/🕵️‍♂️ Privacy\|🕵️‍♂️ Privacy]] — Non riveli i tuoi indirizzi a server esterni.  
 ✅ **Supporto alla rete** — Sei parte attiva, non un semplice spettatore.  
-✅ **Accesso diretto alla [[mempool\|mempool]]** — Vedi le transazioni in tempo reale, senza intermediari.
+✅ **Accesso diretto alla [[Bitcoin/Definizioni/Blockchain/Mempool\|mempool]]** — Vedi le transazioni in tempo reale, senza intermediari.
 
 ---
 

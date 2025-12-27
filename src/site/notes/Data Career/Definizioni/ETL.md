@@ -15,7 +15,7 @@ ETL assicura che i dati arrivino **già pronti**, ma richiede tempo e risorse pr
 
 ## 🚀 Cos’è ELT – Extract, Load, Transform  
 
-Con ELT, i dati vengono estratti e **caricati subito** in un [[data lake\|data lake]] o warehouse, senza trasformazioni preliminari.  
+Con ELT, i dati vengono estratti e **caricati subito** in un [[Data Career/Definizioni/Data Lake\|data lake]] o warehouse, senza trasformazioni preliminari.  
 Le trasformazioni avvengono **dopo**, direttamente nel sistema, quando servono e nel momento dell’analisi 3.
 
 Questo approccio è più veloce e scala meglio con i moderni sistemi cloud, adattandosi sia a dati strutturati che non 4.

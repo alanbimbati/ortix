@@ -5,6 +5,8 @@
 
 # 🔐 Multisig: la forza del gruppo nella custodia Bitcoin
 
+![Multisig Security Concept](/img/user/Immagini/Ortix_Multisig.jpg)
+
 🤝 **Da soli si può, ma in compagnia si è più forti.**  
 La multisig (multi-signature) è una tecnologia che richiede **più chiavi per autorizzare una transazione**.  
 È come un caveau con più serrature: serve più di una persona per aprirlo.

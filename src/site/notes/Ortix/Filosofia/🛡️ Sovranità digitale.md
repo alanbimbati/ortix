@@ -59,6 +59,18 @@ E l’utente **è il prodotto**.
 
 ---
 
+## 📉 Il contesto: La morte della proprietà
+
+La sovranità digitale è l'unica difesa contro la tendenza moderna che vuole trasformare tutto in un servizio in affitto.
+Come spiegato in [[Bitcoin/Libertarismo/📉 La morte della proprietà\|📉 La morte della proprietà]], stiamo perdendo il possesso delle nostre case, delle nostre auto e dei nostri strumenti creativi.
+
+**Ortix** si oppone a questo modello:
+- Rifiuta la "Subscription Economy" per i dati personali.
+- Promuove il possesso fisico e crittografico dei propri asset.
+- Sostiene che senza proprietà non c'è libertà ([[Bitcoin/Libertarismo/🗽 Libertarismo\|🗽 Libertarismo]]).
+
+---
+
 🧱 **Da dove si parte?**
 
 - ✍️ Scrivi le tue note su Obsidian, non su Google Docs  

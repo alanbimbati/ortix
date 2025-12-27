@@ -26,7 +26,7 @@ Il **Data Scientist** è uno specialista analitico che costruisce **modelli mate
 - Raccomandazioni (motori di suggerimento)
 - Analisi test A/B
 
-Il Data Scientist lavora spesso a stretto contatto con [[Business Analyst\|Business Analyst]] e [[Data Career/Job definition/🧱 Data Engineer\|🧱 Data Engineer]].
+Il Data Scientist lavora spesso a stretto contatto con [[Data Career/Job definition/Business Analyst\|Business Analyst]] e [[Data Career/Job definition/🧱 Data Engineer\|🧱 Data Engineer]].
 
 ---
 

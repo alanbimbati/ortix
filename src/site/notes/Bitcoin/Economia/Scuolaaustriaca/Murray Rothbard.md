@@ -1,26 +1,55 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/economia/scuolaaustriaca/murray-rothbard/"}
+{"dg-publish":true,"permalink":"/bitcoin/economia/scuolaaustriaca/murray-rothbard/","title":"Murray Rothbard: il padre dell'Anarco-Capitalismo","tags":["ScuolaAustriaca","Libertarismo","AnarcoCapitalismo","Economia","Storia"]}
 ---
 
 
-4️⃣** Murray Rothbard** (2 marzo 1926 - 7 gennaio 1995) ha definito i principi del **libertarianismo e dell'anarco-capitalismo**. 
-Tra le sue opere più significative, **"L'uomo, l'economia e lo Stato"** e **"La società senza Stato"** che approfondiscono i seguenti concetti:
-**
-🏛 Anarco-capitalismo**
-N**on esiste uno Stato centrale, gli individui** interagiscono liberamente tramite organizzazioni volontarie.
-La difesa e la giustizia sono fornite da imprese private concorrenziali, incentivando l'efficienza e la riduzione dei costi.
+# 🏴 Murray Rothbard: il padre dell'Anarco-Capitalismo
 
-**🚫 Abolizione dell'Intervento Statale**
-L**'intervento statale nell'economia è dannoso e produce inefficienze**. L'abolizione di gran parte delle attività governative, tra cui l'imposizione fiscale, la regolamentazione e la spesa pubblica, favoriscono la libertà individuale e l'autogoverno.
+👨‍🏫 **Murray N. Rothbard** (2 marzo 1926 - 7 gennaio 1995) è stato il gigante che ha fuso l'economia della Scuola Austriaca con il diritto naturale, creando la filosofia politica nota come **Anarco-Capitalismo**.
 
-**💸 Teoria Austriaca del Ciclo Economico**
-Il Ciclo Economico spiega come l'espansione creditizia da parte delle banche centrali causi boom e bust economici. 
-**L'espansione del credito porta a un'eccessiva allocazione di risorse verso settori insostenibili,** seguita da una correzione inevitabile quando il credito si contrae.
-
-**💰 Analogia con Bitcoin**
-Bitcoin si oppone all'intervento statale nella emissione della moneta, è basato sulla concorrenza e l'assenza di un'autorità centrale.
-
-#ScuolaAustriaca
+Allievo di [[Bitcoin/Economia/Scuolaaustriaca/Ludwig von Mises\|Ludwig von Mises]], Rothbard ha portato alle estreme conseguenze logiche il pensiero liberale: se lo Stato è inefficiente nell'economia, lo è anche nella giustizia e nella difesa.
 
 ---
-[[🇦🇹 Bitcoin nasce dall'economia austriaca\|🇦🇹 Bitcoin nasce dall'economia austriaca]]
+
+## 🏛️ I Pilastri del Pensiero
+
+### 1. Anarco-Capitalismo
+Rothbard dimostra che **non esiste alcuna funzione statale che non possa essere svolta meglio dal libero mercato**.
+- **Giustizia:** Tribunali privati in concorrenza.
+- **Sicurezza:** Agenzie di protezione assicurative.
+- **Strade:** Gestite da privati o associazioni.
+
+> "Lo Stato è quell'organizzazione che detiene il monopolio dell'uso della forza su un determinato territorio."
+
+### 2. Teoria della Moneta e Ciclo Economico
+Rothbard ha raffinato la teoria di Mises, spiegando come l'espansione del credito da parte delle **Banche Centrali** sia l'unica causa dei cicli di boom e bust (recessioni).
+Sosteneva il ritorno a un **Gold Standard al 100%** (o a una moneta di mercato come Bitcoin) per impedire l'inflazione.
+
+### 3. Etica della Libertà
+La libertà non è solo utile (efficienza economica), è **giusta** (diritto naturale).
+Ogni aggressione contro la proprietà privata è un crimine, anche se commessa dallo Stato (tasse, leva obbligatoria, proibizionismo).
+
+---
+
+## 🔗 Rothbard e Bitcoin
+
+Rothbard morì nel 1995, troppo presto per vedere Bitcoin. Ma ne aveva predetto la necessità.
+Bitcoin realizza il suo sogno:
+- Una moneta privata.
+- Scarsa e inconfiscabile.
+- Che non richiede lo Stato per esistere.
+
+---
+
+## 📚 Opere Fondamentali
+
+- **"L'uomo, l'economia e lo Stato"** (*Man, Economy, and State*, 1962)
+  - Il trattato economico definitivo della Scuola Austriaca moderna.
+- **"L'etica della libertà"** (*The Ethics of Liberty*, 1982)
+  - La fondazione giuridica dell'anarco-capitalismo.
+- **"Cosa ha fatto il governo ai nostri soldi?"** (*What Has Government Done to Our Money?*, 1963)
+  - Un classico breve e accessibile sulla storia della moneta e della svalutazione.
+
+---
+
+🔗 _Approfondisci con [[Bitcoin/Economia/Scuolaaustriaca/Ludwig von Mises\|Ludwig von Mises]], [[Bitcoin/Economia/Scuolaaustriaca/Friedrich Von Hayek\|Friedrich Von Hayek]], [[Bitcoin/Libertarismo/Autori/Hans-Hermann Hoppe\|Hans-Hermann Hoppe]], [[Bitcoin/Libertarismo/🗽 Libertarismo\|🗽 Libertarismo]], [[Bitcoin/Economia/Scuolaaustriaca/💰L'Economia Austriaca Dietro Bitcoin\|💰L'Economia Austriaca Dietro Bitcoin]]_

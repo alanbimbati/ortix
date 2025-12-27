@@ -5,6 +5,8 @@
 
 # 🔧 Bitcoin dal punto di vista tecnologico
 
+![Bitcoin Technology](/img/user/Immagini/Ortix_BitcoinTecnologia.jpg)
+
 Bitcoin è un **protocollo open source** che implementa un sistema di pagamento peer-to-peer decentralizzato.  
 Non è un'app, non è un'azienda: è **un'infrastruttura pubblica** che nessuno può spegnere.
 

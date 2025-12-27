@@ -5,6 +5,8 @@
 
 # 🔷 BitBox02: semplicità svizzera open source
 
+![BitBox02 Hardware Wallet](../../Immagini/Ortix_BitBox02.jpg)
+
 🇨🇭 **BitBox02 è come un orologio svizzero: preciso, affidabile, minimalista.**  
 Prodotto da Shift Crypto in Svizzera, è l'hardware wallet per chi vuole **sicurezza senza complicazioni**.
 

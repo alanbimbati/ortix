@@ -57,7 +57,7 @@ Immagina che ogni dato sia un pacco che arriva da mittenti diversi: e-commerce, 
 
 ## 🚫 Quando NON va usato
 
-❌ Se i dati cambiano di continuo (real-time → meglio i [[Data Lake\|Data Lake]] o i database [[OLTP\|OLTP]])  
+❌ Se i dati cambiano di continuo (real-time → meglio i [[Data Career/Definizioni/Data Lake\|Data Lake]] o i database [[Data Career/Definizioni/OLTP\|OLTP]])  
 ❌ Se hai poca quantità di dati (usa un database classico)  
 ❌ Se vuoi risparmiare: i Data Warehouse sono **costosi se mal progettati**
 

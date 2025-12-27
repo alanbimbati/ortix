@@ -5,7 +5,7 @@
 
 🧱 **Il Data Entry è la base di tutto.**
 
-In un mondo che parla solo di *AI*, *[[Data Science\|Data Science]]* e *insight*, ci dimentichiamo troppo facilmente che prima di ogni modello, ogni dashboard o ogni decisione... c’è un dato compilato e inserito da qualcuno.
+In un mondo che parla solo di *AI*, *[[Data Career/Definizioni/Data Science\|Data Science]]* e *insight*, ci dimentichiamo troppo facilmente che prima di ogni modello, ogni dashboard o ogni decisione... c’è un dato compilato e inserito da qualcuno.
 
 E quel qualcuno potresti essere tu, oppure... **milioni di utenti che regalano dati senza rendersene conto.**
 

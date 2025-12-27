@@ -6,16 +6,16 @@
 # ⚖️ La Legge di Gresham: perché spendiamo euro e teniamo i satoshi
 
 🧠 “La moneta cattiva scaccia quella buona.”  
-È il cuore della **Legge di Gresham**, una delle dinamiche economiche più antiche… ma più attuali che mai nel mondo di Bitcoin.
+È il cuore della **Legge di Gresham**, una delle dinamiche economiche più antiche… ma più attuali che mai nel mondo di [[Bitcoin/Bitcoin\|Bitcoin]].
 
 ---
 
 🪙 **Cos’è la Legge di Gresham?**
 
 Risale al XVI secolo, ma la logica è eterna:  
-quando due forme di denaro **coesistono** legalmente (es. carta e oro), le persone **tendono a spendere quella percepita come “cattiva”** e **a tenere quella “buona”**.
+quando due forme di denaro **coesistono** (es. carta e oro), le persone **tendono a spendere quella percepita come “cattiva”** e **a tenere quella “buona”**.
 
-🎯 La “moneta cattiva” è quella che **perde valore** (fiat, a causa dell' [[Bitcoin/Economia/📉 Inflazione\|📉 Inflazione]]
+🎯 La “moneta cattiva” è quella che **perde valore** (fiat, a causa dell' [[Bitcoin/Economia/📉 Inflazione\|📉 Inflazione]] )
 🎯 La “moneta buona” è quella **stabile o scarsa** (oro, Bitcoin)
 
 ---
@@ -44,6 +44,18 @@ quando due forme di denaro **coesistono** legalmente (es. carta e oro), le perso
 - Scarso, divisibile, inarrestabile  
 - Sempre più accettato e desiderato
 - [[Bitcoin/Economia/🥇Bitcoin è oro digitale\|🥇Bitcoin è oro digitale]]
+
+---
+
+## 📈 La Legge di Thiers (Gresham Inversa)
+> **"La moneta buona scaccia quella cattiva."**
+
+Questa legge si applica in un **mercato libero**, dove non ci sono imposizioni statali e le persone possono scegliere cosa accettare.
+Se posso scegliere come essere pagato, sceglierò la moneta più solida e affidabile.
+
+*Esempio moderno:*
+In paesi con iperinflazione (Venezuela, Argentina), nessuno vuole la valuta locale (moneta cattiva). Tutti cercano Dollari o Bitcoin (moneta buona).
+La moneta buona diventa la preferita per gli scambi importanti e per il risparmio.
 
 ---
 
