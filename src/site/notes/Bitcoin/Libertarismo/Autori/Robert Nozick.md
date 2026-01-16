@@ -58,4 +58,4 @@ Nozick difendeva i "processi a mano invisibile".
 Bitcoin è l'esempio perfetto di un ordine spontaneo che nasce senza un pianificatore centrale.
 Anche se Nozick accettava uno Stato minimo, la sua difesa radicale della proprietà privata e del libero scambio lo rende un pilastro del pensiero libertario.
 
-🔗 _Approfondisci con [[Bitcoin/Libertarismo/🗽 Libertarismo\|🗽 Libertarismo]], [[Bitcoin/Economia/Scuolaaustriaca/Murray Rothbard\|Murray Rothbard]], [[Proprietà privata\|Proprietà privata]]_
+🔗 _Approfondisci con [[Politica/🗽 Libertarismo\|🗽 Libertarismo]], [[Bitcoin/Economia/Scuolaaustriaca/Murray Rothbard\|Murray Rothbard]], [[Proprietà privata\|Proprietà privata]]_

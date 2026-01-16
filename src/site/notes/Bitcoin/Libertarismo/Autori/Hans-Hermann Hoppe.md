@@ -57,4 +57,4 @@ Hoppe immagina una società senza Stato formata da migliaia di piccole comunità
 Hoppe vede nel denaro fiat lo strumento principale con cui lo Stato democratico finanzia la sua espansione e le guerre.
 Bitcoin, essendo denaro privato e scarso, è perfettamente allineato con la sua visione di un ordine monetario naturale.
 
-🔗 _Approfondisci con [[Bitcoin/Economia/Scuolaaustriaca/Murray Rothbard\|Murray Rothbard]], [[Bitcoin/Libertarismo/🗽 Libertarismo\|🗽 Libertarismo]], [[Bitcoin/Economia/Preferenza temporale\|Preferenza temporale]], [[Democrazia\|Democrazia]]_
+🔗 _Approfondisci con [[Bitcoin/Economia/Scuolaaustriaca/Murray Rothbard\|Murray Rothbard]], [[Politica/🗽 Libertarismo\|🗽 Libertarismo]], [[Bitcoin/Economia/Preferenza temporale\|Preferenza temporale]], [[Democrazia\|Democrazia]]_

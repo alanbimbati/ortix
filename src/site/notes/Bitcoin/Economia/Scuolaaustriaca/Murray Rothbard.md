@@ -52,4 +52,4 @@ Bitcoin realizza il suo sogno:
 
 ---
 
-🔗 _Approfondisci con [[Bitcoin/Economia/Scuolaaustriaca/Ludwig von Mises\|Ludwig von Mises]], [[Bitcoin/Economia/Scuolaaustriaca/Friedrich Von Hayek\|Friedrich Von Hayek]], [[Bitcoin/Libertarismo/Autori/Hans-Hermann Hoppe\|Hans-Hermann Hoppe]], [[Bitcoin/Libertarismo/🗽 Libertarismo\|🗽 Libertarismo]], [[Bitcoin/Economia/Scuolaaustriaca/💰L'Economia Austriaca Dietro Bitcoin\|💰L'Economia Austriaca Dietro Bitcoin]]_
+🔗 _Approfondisci con [[Bitcoin/Economia/Scuolaaustriaca/Ludwig von Mises\|Ludwig von Mises]], [[Bitcoin/Economia/Scuolaaustriaca/Friedrich Von Hayek\|Friedrich Von Hayek]], [[Bitcoin/Libertarismo/Autori/Hans-Hermann Hoppe\|Hans-Hermann Hoppe]], [[Politica/🗽 Libertarismo\|🗽 Libertarismo]], [[Bitcoin/Economia/Scuolaaustriaca/💰L'Economia Austriaca Dietro Bitcoin\|💰L'Economia Austriaca Dietro Bitcoin]]_

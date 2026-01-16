@@ -49,4 +49,4 @@ Ed è la realizzazione della **Denazionalizzazione della Moneta**: una valuta ch
 
 ---
 
-🔗 _Approfondisci con [[Bitcoin/Economia/Scuolaaustriaca/Ludwig von Mises\|Ludwig von Mises]], [[Bitcoin/Economia/Scuolaaustriaca/Murray Rothbard\|Murray Rothbard]], [[Bitcoin/Economia/Scuolaaustriaca/💰L'Economia Austriaca Dietro Bitcoin\|💰L'Economia Austriaca Dietro Bitcoin]], [[Bitcoin/Libertarismo/🗽 Libertarismo\|🗽 Libertarismo]]_
+🔗 _Approfondisci con [[Bitcoin/Economia/Scuolaaustriaca/Ludwig von Mises\|Ludwig von Mises]], [[Bitcoin/Economia/Scuolaaustriaca/Murray Rothbard\|Murray Rothbard]], [[Bitcoin/Economia/Scuolaaustriaca/💰L'Economia Austriaca Dietro Bitcoin\|💰L'Economia Austriaca Dietro Bitcoin]], [[Politica/🗽 Libertarismo\|🗽 Libertarismo]]_

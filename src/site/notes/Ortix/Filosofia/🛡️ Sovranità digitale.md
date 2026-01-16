@@ -59,6 +59,15 @@ E l’utente **è il prodotto**.
 
 ---
 
+## 🚀 Guida Pratica all'Indipendenza
+
+La teoria è inutile senza azione.  
+Abbiamo creato una **roadmap completa** per emanciparsi dai giganti del web, passo dopo passo.
+
+👉 **Vai alla guida: [[Ortix/Filosofia/🧭 Essere completamente indipendenti da Google\|🧭 Essere completamente indipendenti da Google]]**
+
+---
+
 ## 📉 Il contesto: La morte della proprietà
 
 La sovranità digitale è l'unica difesa contro la tendenza moderna che vuole trasformare tutto in un servizio in affitto.
@@ -67,7 +76,8 @@ Come spiegato in [[Bitcoin/Libertarismo/📉 La morte della proprietà\|📉 La 
 **Ortix** si oppone a questo modello:
 - Rifiuta la "Subscription Economy" per i dati personali.
 - Promuove il possesso fisico e crittografico dei propri asset.
-- Sostiene che senza proprietà non c'è libertà ([[Bitcoin/Libertarismo/🗽 Libertarismo\|🗽 Libertarismo]]).
+- Sostiene che senza proprietà non c'è libertà ([[Politica/🗽 Libertarismo\|🗽 Libertarismo]]).
+- Applica il [[Politica/⚖️ NAP\|Principio di Non Aggressione]] al digitale: nessuno può rubare i tuoi dati.
 
 ---
 

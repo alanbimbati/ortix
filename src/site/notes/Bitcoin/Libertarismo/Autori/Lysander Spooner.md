@@ -56,4 +56,4 @@ Spooner sarebbe stato un Bitcoiner massimalista.
 - Credeva nel diritto naturale di ogni individuo di contrattare liberamente.
 - Bitcoin è la realizzazione tecnologica del suo sogno: un sistema che ignora le leggi ingiuste dello Stato e opera secondo regole matematiche volontarie.
 
-🔗 _Approfondisci con [[Bitcoin/Libertarismo/🗽 Libertarismo\|🗽 Libertarismo]], [[Disobbedienza civile e Bitcoin\|Disobbedienza civile e Bitcoin]], [[Diritto Naturale\|Diritto Naturale]]_
+🔗 _Approfondisci con [[Politica/🗽 Libertarismo\|🗽 Libertarismo]], [[Disobbedienza civile e Bitcoin\|Disobbedienza civile e Bitcoin]], [[Diritto Naturale\|Diritto Naturale]]_

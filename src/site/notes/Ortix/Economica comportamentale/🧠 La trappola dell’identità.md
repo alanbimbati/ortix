@@ -5,7 +5,7 @@
 
 # 🧠 La trappola dell’identità  
 
-![IMG_20251221_224907_083 1.jpg](/img/user/IMG_20251221_224907_083%201.jpg)
+![[IMG_20251221_224907_083 1.jpg\|IMG_20251221_224907_083 1.jpg]]
 ## Quando rendere pubblico blocca la possibilità di cambiare
 
 Esiste un punto sottile ma decisivo:  

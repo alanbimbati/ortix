@@ -55,4 +55,4 @@ L'unico antidoto è la [[Ortix/Filosofia/🛡️ Sovranità digitale\|🛡️ So
 - Archivia i tuoi file in locale ([[Ortix/Appunti/Obsidian\|Obsidian]], [[Data Career/Definizioni/Data Lake\|Data Lake]] personali).
 - Supporta aziende che vendono prodotti, non servizi.
 
-🔗 _Approfondisci con [[Bitcoin/Libertarismo/📉 La morte della proprietà\|📉 La morte della proprietà]], [[Bitcoin/Libertarismo/🗽 Libertarismo\|🗽 Libertarismo]], [[Ortix/Filosofia/🛡️ Sovranità digitale\|🛡️ Sovranità digitale]]_
+🔗 _Approfondisci con [[Bitcoin/Libertarismo/📉 La morte della proprietà\|📉 La morte della proprietà]], [[Politica/🗽 Libertarismo\|🗽 Libertarismo]], [[Ortix/Filosofia/🛡️ Sovranità digitale\|🛡️ Sovranità digitale]]_

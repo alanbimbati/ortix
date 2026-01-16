@@ -51,10 +51,18 @@ Qui la perdita di proprietà è totale.
 ## 🔗 La dipendenza come antitesi della libertà
 
 Il [[Bitcoin/Libertarismo/🗽 Libertarismo\|🗽 Libertarismo]] insegna che la libertà si fonda sull'**auto-proprietà** e sulla **proprietà privata**.
+
+Come spiegato in [[Politica/🔒 Privato vs Pubblico\|🔒 Privato vs Pubblico]], quando non sei proprietario:
+- Chi decide non sei tu
+- Gli incentivi non sono allineati con i tuoi interessi
+- La responsabilità è scaricata su altri
+
 Se non possiedi nulla:
 1. **Sei ricattabile:** Se la piattaforma o il proprietario decide di tagliarti fuori (deplatforming), perdi tutto.
 2. **Non hai privacy:** Ogni utilizzo di un servizio genera dati per il fornitore ([[Data Career/📊 Data Driven o Data Manipulated\|📊 Data Driven o Data Manipulated]]).
 3. **Non è trasferibile:** Non puoi prestare contenuti digitali che non ti appartengono.
+
+Questo modello ricorda il [[Politica/🔴 Comunismo\|🔴 Comunismo]]: *"Non possiederai nulla"* non è più un incubo sovietico, è il business model delle Big Tech.
 
 ---
 
@@ -71,4 +79,4 @@ In un mondo che ti spinge a diventare un "utente" passivo, Ortix ti invita a tor
 
 > **La libertà richiede responsabilità. E la responsabilità richiede proprietà.**
 
-🔗 _Approfondisci con [[Bitcoin/Libertarismo/🗽 Libertarismo\|🗽 Libertarismo]], [[Ortix/Filosofia/🌱 Come lavora Ortix\|🌱 Come lavora Ortix]], [[Ortix/Filosofia/🛡️ Sovranità digitale\|🛡️ Sovranità digitale]], [[Bitcoin/Filosofia/Bitcoin non è possessibile\|Bitcoin non è possessibile]]_
+🔗 _Approfondisci con [[Bitcoin/Libertarismo/🗽 Libertarismo\|🗽 Libertarismo]], [[Politica/🔒 Privato vs Pubblico\|🔒 Privato vs Pubblico]], [[Politica/🔴 Comunismo\|🔴 Comunismo]], [[Ortix/Filosofia/🛡️ Sovranità digitale\|🛡️ Sovranità digitale]], [[Bitcoin/Filosofia/Bitcoin non è possessibile\|Bitcoin non è possessibile]]_
