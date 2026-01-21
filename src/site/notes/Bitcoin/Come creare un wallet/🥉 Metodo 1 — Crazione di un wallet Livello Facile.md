@@ -7,7 +7,7 @@
 
 ### 🔧 Strumenti
 - Smartphone personale
-- App: **[[Bitcoin/Wallet/Software Wallet/🔵 BlueWallet\|🔵 BlueWallet]]** (o equivalente open source)
+- App: **[[Bitcoin/Wallet/Software Wallet/🔵 BlueWallet\|🔵 BlueWallet]]**
 
 ---
 
@@ -26,7 +26,14 @@
    - Seleziona **Bitcoin**
    - Modalità: **On-chain**
 
-4. **Generazione automatica**
+![BlueWallet_AggiungiPortafoglio.png](/img/user/Immagini/BlueWallet_AggiungiPortafoglio.png)
+
+![BlueWallet_Bitcoin.png](/img/user/Immagini/BlueWallet_Bitcoin.png)
+
+![BlueWallet_PortafoglioCreato.png](/img/user/Immagini/BlueWallet_PortafoglioCreato.png)
+
+
+1. **Generazione automatica**
    - L’app genera una **seed phrase (12  parole)**
    - Le parole sono scelte secondo standard [[Bitcoin/Definizioni/BIP/BIP 39 – Mnemonic Seed Phrases\|BIP 39]]
 
@@ -34,15 +41,17 @@
    - Scrivi **a mano**, su carta e conservala con cura, è l'unico modo per recuperare il wallet
    - Nell’ordine esatto
    - **Senza foto, screenshot o copia-incolla**
+   - 
+![[2026_01_18_20_49_16.mp4]]
 
 6. **Verifica**
-   - L’app chiede di reinserire alcune parole
+   - Elimina e reimporta il portafoglio digitando le parole a mano
    - Serve a verificare che tu le abbia copiate correttamente
-   - Prova anche a cancellare e reimportare il wallet digitando le parole scritte su carta
+- 
 
-7. **Fine**
+1. **Fine**
    - Il wallet è creato
-   - Le chiavi esistono
+   - Le chiavi esistono, puoi ricevere e quindi poi spendere Bitcoin
    - Bitcoin **non è ancora stato usato**
 
 ---

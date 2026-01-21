@@ -33,9 +33,22 @@ $$Wallet = Seed + Passphrase$$
 
 ## 🛠️ Protocollo Operativo
 
-### 1. Generazione e Configurazione
+### 1. Generazione e Importazione (Solo Blue Wallet)
 
-Utilizza un software affidabile (es. **Electrum**) per generare la seed base e abilita l'opzione "Passphrase" o "Seed Extension". La passphrase può essere una frase complessa, includere spazi e simboli (es. `Oltre la Luna 2026!`).
+Utilizza **esclusivamente [[Bitcoin/Wallet/Software Wallet/🔵 BlueWallet\|🔵 BlueWallet]]**.
+
+**Creazione:**
+Quando crei un nuovo wallet, abilita l'opzione "Passphrase" nelle impostazioni avanzate. La passphrase può essere una frase complessa, includere spazi e simboli (es. `Oltre la Luna 2026!`).
+
+**Importazione:**
+Quando devi importare un wallet con passphrase:
+1. Clicca su "Aggiungi Wallet" -> "Importa".
+2. Clicca sui **3 puntini in alto** a destra.
+3. Seleziona "Passphrase" per abilitare il campo aggiuntivo.
+4. Inserisci la Seed + la Passphrase.
+
+> [!NOTE]
+> Devi ripetere questa procedura (aggiungere la passphrase dai 3 puntini) ogni volta che vuoi importare un wallet diverso generato con lo stesso Seed ma una Passphrase differente.
 
 ### 2. La Strategia della Separazione Fisica (Regola d'Oro)
 
@@ -102,7 +115,7 @@ Ogni volta che usi:
 - con una **passphrase diversa**
 - o **senza passphrase**
 
-Electrum crea **un wallet completamente distinto**.
+Blue Wallet crea **un wallet completamente distinto**.
 
 Esempio concettuale:
 

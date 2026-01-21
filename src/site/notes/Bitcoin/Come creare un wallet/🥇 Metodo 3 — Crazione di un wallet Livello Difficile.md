@@ -4,60 +4,48 @@
 
 
 # 🥇 Metodo 3 — Crazione di un wallet Livello Difficile
-## Generazione Fisica: Entropia tramite Dadi (Massima Sovranità)
+## 🎲 Perché usare i dadi? (Massima Entropia)
 
-Questo metodo rappresenta l'apice della sicurezza e dell'autonomia nel mondo Bitcoin. Eliminando il software dalla fase di generazione, ti assicuri che **nessun algoritmo, hardware o backdoor** possa aver influenzato la nascita della tua chiave privata.
+Il vantaggio principale di questo metodo è la **Massima Entropia** e l'assenza di fiducia verso terzi.
+Quando usi un software per generare le parole, ti stai fidando che il generatore di numeri casuali del computer sia davvero casuale e non compromesso.
 
----
-
-## 🛠️ Strumenti Necessari
-
-- **Dadi fisici:** Preferibilmente 5 o 6 dadi.
-- **Supporto analogico:** Carta e penna (mai usare file digitali o note sul telefono).
-- **Tabella BIP39:** La lista ufficiale delle 2048 parole.
-- **Ambiente isolato:** Una stanza priva di telecamere (anche smartphone o webcam) e distrazioni.
-    
+Usando i dadi:
+1. **Non ti fidi di nessun algoritmo:** La casualità è fisica, generata dalla gravità e dal movimento.
+2. **Nessuna Backdoor:** Nessuno può aver programmato i dadi per uscire in una certa sequenza.
+3. **Sovranità Totale:** Sei tu, fisicamente, a creare la tua chiave privata.
 
 ---
 
-## 🧭 Flusso Operativo (Protocollo Standard)
+## 🛠️ Come fare (Procedura Semplificata)
 
-### 1. Estrazione dell'Entropia
+Non serve essere matematici. **[[Bitcoin/Wallet/Software Wallet/🔵 BlueWallet\|🔵 BlueWallet]]** ha una funzione nascosta che ci permette di inserire l'entropia dei dadi direttamente, occupandosi lui dei calcoli complessi (checksum), ma senza generare la casualità al posto tuo.
 
-Lancia i dadi ripetutamente per generare eventi casuali non prevedibili.
+### Strumenti
+- **Generatore di casualità:**
+  - **Dado a 6 facce (D6):** Il classico dado da gioco.
+  - **Dado a 20 facce (D20):** Tipico di Dungeons & Dragons.
+  - **Moneta:** Testa o Croce.
+- **Blue Wallet** installato su un dispositivo offline (modalità aereo) per massima sicurezza.
 
-- Per una seed da **12 parole**, servono almeno **128 bit** di entropia (~50 lanci).
-    
-- Per una seed da **24 parole**, servono **256 bit** di entropia (~100 lanci).
-    
-- Annota ogni risultato fedelmente senza "correggere" o saltare lanci.
-    
+> [!TIP] I Dadi Platonici (Grazie a Bubble per la dritta!)
+> È fondamentale che il dado utilizzato sia un **Solido Platonico**, ovvero una figura geometrica con facce identiche e regolari, per garantire che ogni faccia abbia esattamente la stessa probabilità di uscire.
+> Sia il **D6** (cubo) che il **D20** (icosaedro) sono solidi platonici, quindi perfetti per questo scopo.
+>
+> Il concetto rimane lo stesso per tutti gli strumenti: cambia solo il numero di lanci necessari per raggiungere l'entropia richiesta (una moneta ha meno "variabili" di un D20, quindi richiederà più lanci).
 
-### 2. Conversione Binaria e Trascrizione
+### Procedura Passo-Passo
 
-I risultati dei dadi devono essere convertiti in una stringa di bit (0 e 1).
+1. **Apri Blue Wallet** e vai su "Aggiungi Wallet".
+2. Seleziona **Bitcoin**.
+3. Invece di cliccare "Crea", scorri in basso e clicca su **"Fornisci entropia"** (o "Provide Entropy").
+4. Seleziona l'opzione **"Dice"** (Dadi).
+5. **Lancia il dado** fisicamente.
+6. Digita sul telefono il numero uscito (da 1 a 6).
+7. **Ripeti** l'operazione fino a riempire la barra di progresso (servono circa 100 lanci per 24 parole).
+8. Quando hai finito, Blue Wallet calcolerà automaticamente la **Seed Phrase** valida corrispondente ai tuoi lanci.
 
-- Esempio: un dado a 6 facce fornisce circa $2,58$ bit per lancio.
-    
-- Questa stringa binaria costituisce la "materia prima" della tua chiave.
-    
-
-### 3. Calcolo del Checksum
-
-Secondo lo standard **BIP39**, la parte finale della seed non è casuale ma è un "checksum" (somma di controllo).
-
-- Serve a verificare che le parole precedenti siano corrette e non trascritte male.
-    
-- **Nota:** Questo passaggio richiede solitamente un calcolatore offline o un software specializzato su un computer "air-gapped" (mai connesso a internet).
-    
-
-### 4. Mappatura sulla Wordlist BIP39
-
-Dividi la stringa di bit in gruppi (solitamente da 11 bit ciascuno).
-
-- Ogni gruppo corrisponde a un numero che identifica una parola specifica nella **Wordlist BIP39**.
-    
-- Componi la tua sequenza di 12 o 24 parole.
+> [!TIP]
+> Questo metodo unisce la sicurezza dell'entropia fisica con la comodità del software che fa i calcoli per te, eliminando il rischio di errore umano nel calcolo manuale.
     
 
 ---
@@ -84,14 +72,25 @@ Dividi la stringa di bit in gruppi (solitamente da 11 bit ciascuno).
 
 ---
 
-## 🧪 Verifica Finale (Il "Stress Test")
+## 📲 Importazione e Verifica (Solo Blue Wallet)
 
-Prima di inviare cifre importanti a questo wallet:
+Una volta generata la seed con i dadi, devi importarla in un software per usarla. Utilizza **[[Bitcoin/Wallet/Software Wallet/🔵 BlueWallet\|🔵 BlueWallet]]**.
 
-1. **Inizializza** il wallet con le parole generate.
-    
-2. **Cancella** il wallet dal dispositivo.
-    
-3. **Ripristinalo** usando esclusivamente la tua copia cartacea.
-    
-4. Solo se il ripristino ha successo, il processo è concluso correttamente.
+### Importazione
+1. Apri Blue Wallet e clicca su "Aggiungi Wallet" -> "Importa".
+2. Inserisci le 12 o 24 parole generate con i dadi.
+3. **Se hai deciso di usare una Passphrase (consigliato):**
+   - Clicca sui **3 puntini in alto** a destra nella schermata di importazione.
+   - Seleziona "Passphrase" per abilitare il campo aggiuntivo.
+   - Inserisci la Passphrase scelta.
+
+> [!NOTE]
+> Se usi una passphrase, ricorda che ogni combinazione diversa di Seed + Passphrase genera un wallet diverso. Per importare un altro wallet derivato dallo stesso seed ma con passphrase diversa, ripeti la procedura usando i 3 puntini.
+
+### 🧪 Stress Test (Obbligatorio)
+Prima di inviare fondi:
+1. Importa il wallet come descritto sopra.
+2. Annotati un indirizzo di ricezione o l'impronta del wallet.
+3. **Cancella** il wallet dall'app.
+4. **Ripristinalo** da zero usando solo i tuoi appunti (Seed + eventuale Passphrase).
+5. Se l'indirizzo/impronta coincide, il backup è corretto.

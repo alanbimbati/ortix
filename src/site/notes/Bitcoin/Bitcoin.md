@@ -208,7 +208,7 @@ Bitcoin come alternativa, come possibilità, come via d'uscita.
 - [[Bitcoin/Guide e consigli/🔑 Come creare un Wallet (non custodial)\|🔑 Come creare un Wallet (non custodial)]] - Primo passo verso la sovranità
 - [[Bitcoin/Guide e consigli/1️⃣ Come creare una seed phrase in modo sicuro\|1️⃣ Come creare una seed phrase in modo sicuro]] - Sicurezza delle chiavi
 - [[Bitcoin/Guide e consigli/3️⃣ Come scegliere il wallet giusto per te\|3️⃣ Come scegliere il wallet giusto per te]] - Hardware vs software
-- [[Bitcoin/Guide e consigli/Creazione del wallet/🪜 Creare un Wallet Bitcoin Onchain\|🪜 Creare un Wallet Bitcoin Onchain]] - Guida completa per iniziare
+- [[Bitcoin/Come creare un wallet/🪜 Creare un Wallet Bitcoin Onchain\|🪜 Creare un Wallet Bitcoin Onchain]] - Guida completa per iniziare
 - [[Bitcoin/Eredità in Bitcoin\|Eredità in Bitcoin]] - Pianificare il futuro
 
 🔗 **Strumenti:**
