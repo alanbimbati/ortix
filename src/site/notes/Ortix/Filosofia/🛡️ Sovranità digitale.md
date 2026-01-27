@@ -73,11 +73,19 @@ Abbiamo creato una **roadmap completa** per emanciparsi dai giganti del web, pas
 La sovranità digitale è l'unica difesa contro la tendenza moderna che vuole trasformare tutto in un servizio in affitto.
 Come spiegato in [[Bitcoin/Libertarismo/📉 La morte della proprietà\|📉 La morte della proprietà]], stiamo perdendo il possesso delle nostre case, delle nostre auto e dei nostri strumenti creativi.
 
-**Ortix** si oppone a questo modello:
-- Rifiuta la "Subscription Economy" per i dati personali.
-- Promuove il possesso fisico e crittografico dei propri asset.
+**Ortix** si oppone a questo modello applicando i principi della [[Ortix/Filosofia/🧠 Ortix: La Sintesi della Sovranità\|Sintesi della Sovranità]]:
+- Rifiuta la "Subscription Economy" per i dati personali: i tuoi dati sono la tua **proprietà privata**.
+- Promuove il possesso fisico e crittografico dei propri asset (denaro e informazioni).
 - Sostiene che senza proprietà non c'è libertà ([[Politica/🗽 Libertarismo\|🗽 Libertarismo]]).
-- Applica il [[Politica/⚖️ NAP\|Principio di Non Aggressione]] al digitale: nessuno può rubare i tuoi dati.
+- Applica il [[Politica/⚖️ NAP\|Principio di Non Aggressione]] al digitale: la sorveglianza non autorizzata è un'aggressione alla tua proprietà privata.
+
+---
+
+## 🔗 Collegamenti Filosofici
+
+- **Mente:** La sovranità digitale protegge la tua [[🧠 Terapia Cognitivo-Comportamentale (CBT)\|salute mentale]] dal rumore algoritmico.
+- **Economia:** Senza sovranità sui dati, non puoi avere vera sovranità su [[Bitcoin/Bitcoin\|Bitcoin]].
+- **Etica:** Ogni strumento open source è un mattone nel castello del [[Politica/⚖️ NAP\|⚖️ NAP]].
 
 ---
 

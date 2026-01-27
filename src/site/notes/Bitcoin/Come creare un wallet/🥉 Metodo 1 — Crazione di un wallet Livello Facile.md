@@ -42,7 +42,7 @@
    - Nell’ordine esatto
    - **Senza foto, screenshot o copia-incolla**
    - 
-![[2026_01_18_20_49_16.mp4]]
+![[BlueWallet_VideoCreazione.mp4]]
 
 6. **Verifica**
    - Elimina e reimporta il portafoglio digitando le parole a mano

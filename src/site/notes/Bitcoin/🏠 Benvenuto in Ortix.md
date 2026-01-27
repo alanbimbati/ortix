@@ -18,6 +18,13 @@ Ortix è una pianta digitale, il seme da cui tutto il giardino creativo può ger
  
 ---
 
+## 🧠 **La Filosofia di Ortix**
+
+Scopri come collegare mente, tecnologia e libertà:
+[[Ortix/Filosofia/🧠 Ortix: La Sintesi della Sovranità\|🧠 Ortix: La Sintesi della Sovranità]]
+
+---
+
 ## 🕵️ **Privacy & Libertà**
 
 [[Ortix/Filosofia/🛡️ Sovranità digitale\|🛡️ Sovranità digitale]]
