@@ -5,6 +5,8 @@
 
 # 🧭 Bitcoin: Dove iniziare
 
+![Ortix_BitcoinIniziare.png](/img/user/Immagini/Ortix_BitcoinIniziare.png)
+
 Questa guida ti aiuta a navigare le scelte fondamentali per riprendere il controllo del tuo denaro, applicando i principi di **Ortix**.
 
 ---
@@ -101,7 +103,7 @@ Ogni bivio rappresenta **una scelta di responsabilità e fiducia**. Non esiste u
 📝 All'inizio, **semplice batte perfetto**:
 
 - **Seed Standard**: 12 o 24 parole scritte su carta o [[Bitcoin/Wallet/🪨 Steelwallet\|🪨 Steelwallet]]. È lo standard d'oro per chi inizia.
-- **Passphrase**: Aggiungere una "25ª parola" (come visto nel [[Metodo 2 — Crazione di un wallet Livello Medio\|Metodo Medio]]) per creare wallet nascosti o "civetta". Richiede molta disciplina: se perdi la passphrase, il seed è inutile.
+- **Passphrase**: Aggiungere una "25ª parola" (come visto nel [[Bitcoin/Come creare un wallet/🥈 Metodo 2 — Crazione di un wallet Livello Medio\|Medio]]) per creare wallet nascosti o "civetta". Richiede molta disciplina: se perdi la passphrase, il seed è inutile.
 - **BIP85**: Una tecnica avanzata per derivare molti wallet da un unico "Master Seed". Ideale per chi vuole gestire una [[Bitcoin/Wallet/🌳 Wallet gerarchico\|gerarchia di wallet]] senza dover conservare decine di backup diversi.
 
 ---
@@ -110,7 +112,7 @@ Ogni bivio rappresenta **una scelta di responsabilità e fiducia**. Non esiste u
 
 Bitcoin è un sistema, non un singolo wallet. Devi dividere i tuoi fondi in base all'orizzonte temporale e alla frequenza d'uso:
 
-- **❄️ Cold Wallet (HODL)**: Risparmio a lungo termine. Usi dispositivi **Air-gapped** come [[SeedSigner\|SeedSigner]] o [[Coldcard\|Coldcard]] che non toccano mai internet. È il tuo caveau personale.
+- **❄️ Cold Wallet (HODL)**: Risparmio a lungo termine. Usi dispositivi **Air-gapped** come [[Bitcoin/Wallet/Hardware Wallet/✍️ SeedSigner\|✍️ SeedSigner]] o [[Bitcoin/Wallet/Hardware Wallet/❄️ Coldcard\|❄️ Coldcard]] che non toccano mai internet. È il tuo caveau personale.
 - **🔥 Hot Wallet (Spending)**: Somme per acquisti importanti o ricariche. Comodo, veloce, ma on-chain.
 - **⚡ Lightning Network**: Per i micro-pagamenti quotidiani (caffè, mance). È istantaneo e quasi gratuito. Puoi usare app come [[Bitcoin/Wallet/Software Wallet/🕊 Phoenix Wallet\|🕊 Phoenix Wallet]] o [[Bitcoin/Wallet/Software Wallet/Breeze\|Breeze]] per mantenere la sovranità anche sul Layer 2. Vedi [[Bitcoin/Lightning Network/⚡ Lightning Network\|⚡ Lightning Network]] per approfondire.
 
@@ -162,9 +164,9 @@ graph TD
 
 ## 🚀 Prossimi Passi
 
-1. **Inizia dal basso**: Crea un wallet con il [[Metodo 1 — Crazione di un wallet Livello Facile\|Metodo Facile]].
-2. **Sali di livello**: Sperimenta con la [[Metodo 2 — Crazione di un wallet Livello Medio\|Passphrase]] per creare wallet civetta.
-3. **Diventa Sovrano**: Prova la generazione con i [[Metodo 3 — Crazione di un wallet Livello Difficile\|Dadi]] per eliminare ogni fiducia nel software.
+1. **Inizia dal basso**: Crea un wallet con il [[Bitcoin/Come creare un wallet/🥉 Metodo 1 — Crazione di un wallet Livello Facile\|🥉 Metodo 1 — Crazione di un wallet Livello Facile]].
+2. **Sali di livello**: Sperimenta con la [[Bitcoin/Come creare un wallet/🥈 Metodo 2 — Crazione di un wallet Livello Medio\|Passphrase]] per creare wallet civetta.
+3. **Diventa Sovrano**: Prova la generazione con i [[Bitcoin/Come creare un wallet/🥇 Metodo 3 — Crazione di un wallet Livello Difficile\|Dadi]] per eliminare ogni fiducia nel software.
 
 ---
 
