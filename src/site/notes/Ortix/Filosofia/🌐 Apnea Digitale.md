@@ -5,7 +5,7 @@
 
 # 🌐 Apnea Digitale
 
-![1756912669137.jpg](/img/user/Immagini/1756912669137.jpg)
+![Ortix_ApneaDigitale.jpg](/img/user/Immagini/Ortix_ApneaDigitale.jpg)
 
 📱 **Essere sempre connessi non significa essere sempre presenti.**  
 Viviamo in un’epoca in cui lo scroll infinito e le notifiche costanti hanno preso il posto del respiro profondo. È come trattenere il fiato senza accorgersene: ecco perché parlo di **apnea digitale**.  

@@ -6,6 +6,7 @@
 
 ![Ortix_Benvenuto.png](/img/user/Immagini/Ortix_Benvenuto.png)
 
+
 🌱 Vi presento Ortix: la mascotte del canale
 
 Ortix è una pianta digitale, il seme da cui tutto il giardino creativo può germogliare. Con le sue foglioline pixelate e il suo spirito curioso, Ortix rappresenta l’idea che anche nel mondo virtuale si possa coltivare qualcosa di vivo, originale e in continua evoluzione.

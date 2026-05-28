@@ -18,8 +18,8 @@ Un esempio classico:
 
 | Trattamento     | Uomini guariti | Donne guarite | Totale guariti |
 |-----------------|----------------|---------------|----------------|
-| Farmaco A       | 90%            | 30%           | 60%            |
-| Farmaco B       | 80%            | 40%           | 65%            |
+| Farmaco A       | 90% (9/10)     | 30% (27/90)   | 36% (36/100)   |
+| Farmaco B       | 80% (72/90)    | 20% (2/10)    | 74% (74/100)   |
 
 💥 Guardando il **totale**, sembra che **il Farmaco B sia migliore**.  
 Ma se guardi separatamente uomini e donne, **il Farmaco A vince in entrambi i gruppi**!  
