@@ -11,6 +11,7 @@
 
 Ortix è una pianta digitale, il seme da cui tutto il giardino creativo può germogliare. Con le sue foglioline pixelate e il suo spirito curioso, Ortix rappresenta l’idea che anche nel mondo virtuale si possa coltivare qualcosa di vivo, originale e in continua evoluzione.
 
+
 ---
 
 ## 🟠 **Bitcoin: la rivoluzione monetaria**
@@ -22,7 +23,7 @@ Ortix è una pianta digitale, il seme da cui tutto il giardino creativo può ger
 ## 🧠 **La Filosofia di Ortix**
 
 Scopri come collegare mente, tecnologia e libertà:
-[[Ortix/Filosofia/🧠 Ortix: La Sintesi della Sovranità\|🧠 Ortix: La Sintesi della Sovranità]]
+[[🧠 Ortix: La Sintesi della Sovranità\|🧠 Ortix: La Sintesi della Sovranità]]
 
 ---
 

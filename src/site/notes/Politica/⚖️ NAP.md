@@ -137,7 +137,7 @@ La redistribuzione forzata è furto.
 
 ## 🧭 NAP e Ortix
 
-Ogni strumento Ortix è un **atto di difesa** contro l'aggressione digitale, basato sulla [[Ortix/Filosofia/🧠 Ortix: La Sintesi della Sovranità\|Sintesi della Sovranità]]:
+Ogni strumento Ortix è un **atto di difesa** contro l'aggressione digitale, basato sulla [[🧠 Ortix: La Sintesi della Sovranità\|Sintesi della Sovranità]]:
 
 - **Difesa dalla coercizione economica**: [[FIAT\|FIAT]] è aggressione tramite inflazione; [[Bitcoin/Bitcoin\|Bitcoin]] è difesa della proprietà.
 - **Difesa dalla coercizione mentale**: L'[[Ortix/Economica comportamentale/Ingegneria del pensiero\|Ingegneria del pensiero]] è una forma di frode cognitiva; la [[🧠 Terapia Cognitivo-Comportamentale (CBT)\|CBT]] è difesa della mente.

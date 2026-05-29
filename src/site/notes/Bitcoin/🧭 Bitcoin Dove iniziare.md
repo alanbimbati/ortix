@@ -172,4 +172,4 @@ graph TD
 
 > 🧡 *"La tua sovranità è proporzionale alla tua responsabilità."*
 
-[[Ortix/Filosofia/🧠 Ortix: La Sintesi della Sovranità\|🧠 Ortix: La Sintesi della Sovranità]] | [[Bitcoin/Bitcoin\|Bitcoin]] | [[Bitcoin/Definizioni/Blockchain/🔐 Self-custody\|🔐 Self-custody]]
+[[🧠 Ortix: La Sintesi della Sovranità\|🧠 Ortix: La Sintesi della Sovranità]] | [[Bitcoin/Bitcoin\|Bitcoin]] | [[Bitcoin/Definizioni/Blockchain/🔐 Self-custody\|🔐 Self-custody]]

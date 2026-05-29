@@ -12,6 +12,7 @@ A volte, possono addirittura portarti a credere l’opposto di ciò che accade d
 
 🔍 **Cos’è il Paradosso di Simpson?**
 
+
 Succede quando **una tendenza presente in diversi gruppi di dati sparisce (o si inverte!) quando i gruppi vengono aggregati**.
 
 Un esempio classico:
