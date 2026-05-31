@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/politica/manifesto-libertario/","title":"📜 Manifesto Libertario","tags":["filosofia-politica","libertà","manifesto","proprietà","NAP","digital-garden"]}
+{"dg-publish":true,"permalink":"/politica/manifesto-libertario/","title":"📜 Manifesto Libertario","tags":["filosofia-politica","libertà","manifesto","proprietà","NAP","digital-garden"],"dg-note-properties":{"title":"📜 Manifesto Libertario","tags":["filosofia-politica","libertà","manifesto","proprietà","NAP","digital-garden"],"aliases":["Manifesto Libertario","Dichiarazione Libertaria"]}}
 ---
 
 

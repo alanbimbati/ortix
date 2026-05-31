@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/definizioni/blockchain/psbt/","title":"✍️ PSBT: firmare Bitcoin senza rischi","tags":["Bitcoin","PSBT","Sicurezza","SelfCustody","Multisig"]}
+{"dg-publish":true,"permalink":"/bitcoin/definizioni/blockchain/psbt/","title":"✍️ PSBT: firmare Bitcoin senza rischi","tags":["Bitcoin","PSBT","Sicurezza","SelfCustody","Multisig"],"dg-note-properties":{"title":"✍️ PSBT: firmare Bitcoin senza rischi","tags":["Bitcoin","PSBT","Sicurezza","SelfCustody","Multisig"],"date":"2025-07-09"}}
 ---
 
 

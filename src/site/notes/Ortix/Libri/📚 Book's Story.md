@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ortix/libri/book-s-story/","title":"Book's Story – leggere in modo consapevole","tags":["lettura","ebook","android","produttività","strumenti-digitali","digital-garden"]}
+{"dg-publish":true,"permalink":"/ortix/libri/book-s-story/","title":"Book's Story – leggere in modo consapevole","tags":["lettura","ebook","android","produttività","strumenti-digitali","digital-garden"],"dg-note-properties":{"title":"Book's Story – leggere in modo consapevole","tags":["lettura","ebook","android","produttività","strumenti-digitali","digital-garden"],"date":"2025-12-17","status":"evergreen"}}
 ---
 
 

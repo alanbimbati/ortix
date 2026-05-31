@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ortix/smartphone/linux-phone/","tags":["linuxphone","privacy","degoogle","opensource","tecnologia","bitcoin"]}
+{"dg-publish":true,"permalink":"/ortix/smartphone/linux-phone/","tags":["linuxphone","privacy","degoogle","opensource","tecnologia","bitcoin"],"dg-note-properties":{"tags":["linuxphone","privacy","degoogle","opensource","tecnologia","bitcoin"]}}
 ---
 
 

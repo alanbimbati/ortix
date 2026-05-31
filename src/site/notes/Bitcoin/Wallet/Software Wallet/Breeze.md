@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/wallet/software-wallet/breeze/","title":"⚡ Breez: il wallet Lightning tutto-in-uno","tags":["Wallet","Lightning","Bitcoin","Breez","Custodia","Sovranità"]}
+{"dg-publish":true,"permalink":"/bitcoin/wallet/software-wallet/breeze/","title":"⚡ Breez: il wallet Lightning tutto-in-uno","tags":["Wallet","Lightning","Bitcoin","Breez","Custodia","Sovranità"],"dg-note-properties":{"title":"⚡ Breez: il wallet Lightning tutto-in-uno","tags":["Wallet","Lightning","Bitcoin","Breez","Custodia","Sovranità"],"date":"2025-07-10"}}
 ---
 
 

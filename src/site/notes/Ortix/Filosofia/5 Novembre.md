@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ortix/filosofia/5-novembre/","title":"🎭 Buon 5 novembre: dubitare, approfondire, agire","tags":["GuyFawkes","Libertà","Bitcoin","Anonymous","SovranitàDigitale"]}
+{"dg-publish":true,"permalink":"/ortix/filosofia/5-novembre/","title":"🎭 Buon 5 novembre: dubitare, approfondire, agire","tags":["GuyFawkes","Libertà","Bitcoin","Anonymous","SovranitàDigitale"],"dg-note-properties":{"title":"🎭 Buon 5 novembre: dubitare, approfondire, agire","tags":["GuyFawkes","Libertà","Bitcoin","Anonymous","SovranitàDigitale"]}}
 ---
 
 

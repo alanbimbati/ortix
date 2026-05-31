@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data-career/tips/metadati-e-data-lineage/","title":"Metadati e Data Lineage: la bussola del Data Engineer","tags":["DataEngineering","Metadati","DataLineage","BestPractices"]}
+{"dg-publish":true,"permalink":"/data-career/tips/metadati-e-data-lineage/","title":"Metadati e Data Lineage: la bussola del Data Engineer","tags":["DataEngineering","Metadati","DataLineage","BestPractices"],"dg-note-properties":{"title":"Metadati e Data Lineage: la bussola del Data Engineer","tags":["DataEngineering","Metadati","DataLineage","BestPractices"],"date":"2025-08-01"}}
 ---
 
 

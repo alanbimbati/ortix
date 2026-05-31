@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ortix/filosofia/come-lavora-ortix/","title":"Come lavora Ortix","tags":["Ortix","Obsidian","Syncthing","GitHub","Digital-Garden"]}
+{"dg-publish":true,"permalink":"/ortix/filosofia/come-lavora-ortix/","title":"Come lavora Ortix","tags":["Ortix","Obsidian","Syncthing","GitHub","Digital-Garden"],"dg-note-properties":{"title":"Come lavora Ortix","tags":["Ortix","Obsidian","Syncthing","GitHub","Digital-Garden"]}}
 ---
 
 

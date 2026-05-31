@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data-career/job-definition/business-analyst/","title":"Chi è il Business Analyst","tags":["BusinessAnalyst","DataCareer","Ruoli","Processi","Requisiti"]}
+{"dg-publish":true,"permalink":"/data-career/job-definition/business-analyst/","title":"Chi è il Business Analyst","tags":["BusinessAnalyst","DataCareer","Ruoli","Processi","Requisiti"],"dg-note-properties":{"title":"Chi è il Business Analyst","tags":["BusinessAnalyst","DataCareer","Ruoli","Processi","Requisiti"],"date":"2025-08-01","summary":"Il Business Analyst è il ponte tra gli stakeholder di business e i team tecnici. Traduce le esigenze aziendali in requisiti tecnici e processi ottimizzati."}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/filosofia/perche-bitcoin-sara-la-nuova-moneta/","title":"Perché Bitcoin sarà la nuova moneta globale","tags":["Bitcoin","Economia","Futuro","LeggeDiGresham","EffettoLindy"]}
+{"dg-publish":true,"permalink":"/bitcoin/filosofia/perche-bitcoin-sara-la-nuova-moneta/","title":"Perché Bitcoin sarà la nuova moneta globale","tags":["Bitcoin","Economia","Futuro","LeggeDiGresham","EffettoLindy"],"dg-note-properties":{"title":"Perché Bitcoin sarà la nuova moneta globale","tags":["Bitcoin","Economia","Futuro","LeggeDiGresham","EffettoLindy"],"date":"2024-05-24","aliases":["Futuro di Bitcoin","Legge di Thiers"]}}
 ---
 
 

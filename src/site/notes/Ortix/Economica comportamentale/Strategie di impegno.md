@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ortix/economica-comportamentale/strategie-di-impegno/","title":"🔒 Strategie di impegno:difendersi da sé stessi"}
+{"dg-publish":true,"permalink":"/ortix/economica-comportamentale/strategie-di-impegno/","title":"🔒 Strategie di impegno:difendersi da sé stessi","dg-note-properties":{"title":"🔒 Strategie di impegno:difendersi da sé stessi","tags":null,"date":"2025-07-29"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/wallet/hardware-wallet/ledger/","title":"🟣 Ledger: il wallet hardware più popolare","tags":["Bitcoin","Wallet","Hardware","ColdStorage","SelfCustody","Ledger"]}
+{"dg-publish":true,"permalink":"/bitcoin/wallet/hardware-wallet/ledger/","title":"🟣 Ledger: il wallet hardware più popolare","tags":["Bitcoin","Wallet","Hardware","ColdStorage","SelfCustody","Ledger"],"dg-note-properties":{"title":"🟣 Ledger: il wallet hardware più popolare","tags":["Bitcoin","Wallet","Hardware","ColdStorage","SelfCustody","Ledger"],"date":"2025-12-02"}}
 ---
 
 

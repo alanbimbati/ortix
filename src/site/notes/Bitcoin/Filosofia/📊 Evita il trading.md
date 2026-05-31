@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/filosofia/evita-il-trading/","title":"📉 Evita il Trading: accumula Bitcoin con intelligenza","tags":["Bitcoin","Trading","PAC","EducazioneFinanziaria","DAC","Strategia"]}
+{"dg-publish":true,"permalink":"/bitcoin/filosofia/evita-il-trading/","title":"📉 Evita il Trading: accumula Bitcoin con intelligenza","tags":["Bitcoin","Trading","PAC","EducazioneFinanziaria","DAC","Strategia"],"dg-note-properties":{"title":"📉 Evita il Trading: accumula Bitcoin con intelligenza","tags":["Bitcoin","Trading","PAC","EducazioneFinanziaria","DAC","Strategia"],"date":"2023-12-23"}}
 ---
 
 

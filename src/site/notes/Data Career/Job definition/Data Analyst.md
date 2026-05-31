@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data-career/job-definition/data-analyst/","title":"Chi è il Data Analyst","tags":["DataAnalyst","DataCareer","Ruoli","AnalisiDati","SQL","BI"]}
+{"dg-publish":true,"permalink":"/data-career/job-definition/data-analyst/","title":"Chi è il Data Analyst","tags":["DataAnalyst","DataCareer","Ruoli","AnalisiDati","SQL","BI"],"dg-note-properties":{"title":"Chi è il Data Analyst","tags":["DataAnalyst","DataCareer","Ruoli","AnalisiDati","SQL","BI"],"date":"2025-08-01","summary":"Il Data Analyst trasforma i dati in informazioni azionabili. Utilizza SQL, strumenti di BI e statistica descrittiva per rispondere a domande di business e monitorare le performance."}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data-career/job-definition/data-engineer/","title":"Chi è il Data Engineer","tags":["data-engineering","data-career","ruoli","ETL","big-data"]}
+{"dg-publish":true,"permalink":"/data-career/job-definition/data-engineer/","title":"Chi è il Data Engineer","tags":["data-engineering","data-career","ruoli","ETL","big-data"],"dg-note-properties":{"title":"Chi è il Data Engineer","tags":["data-engineering","data-career","ruoli","ETL","big-data"],"aliases":["Data Engineer"],"date":"2025-08-01","summary":"Il Data Engineer è un professionista tecnico che costruisce le fondamenta su cui poggiano tutti i sistemi dati. Si occupa di spostare, trasformare e rendere accessibili grandi volumi di dati in modo efficiente."}}
 ---
 
 

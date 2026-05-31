@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ortix/musica/musica-in-streaming/","title":"Ascoltare la tua musica su Google Home con app gratuite e open source","tags":["musica","open-source","privacy","streaming","google-home","self-hosting"]}
+{"dg-publish":true,"permalink":"/ortix/musica/musica-in-streaming/","title":"Ascoltare la tua musica su Google Home con app gratuite e open source","tags":["musica","open-source","privacy","streaming","google-home","self-hosting"],"dg-note-properties":{"title":"Ascoltare la tua musica su Google Home con app gratuite e open source","tags":["musica","open-source","privacy","streaming","google-home","self-hosting"]}}
 ---
 
 ---

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/filosofia/il-tuo-pezzo-di-bitcoin/","title":"Il tuo pezzo di Bitcoin","tags":["Bitcoin","Scarsità","Adozione"]}
+{"dg-publish":true,"permalink":"/bitcoin/filosofia/il-tuo-pezzo-di-bitcoin/","title":"Il tuo pezzo di Bitcoin","tags":["Bitcoin","Scarsità","Adozione"],"dg-note-properties":{"title":"Il tuo pezzo di Bitcoin","tags":["Bitcoin","Scarsità","Adozione"],"date":"2025-12-26"}}
 ---
 
 

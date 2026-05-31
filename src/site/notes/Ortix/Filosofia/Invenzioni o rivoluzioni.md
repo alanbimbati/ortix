@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ortix/filosofia/invenzioni-o-rivoluzioni/","title":"🚀 Da 0 a 1: quando la tecnologia cambia il mondo","tags":["tecnologia","innovazione","bitcoin","internet","riflessioni","disruption"]}
+{"dg-publish":true,"permalink":"/ortix/filosofia/invenzioni-o-rivoluzioni/","title":"🚀 Da 0 a 1: quando la tecnologia cambia il mondo","tags":["tecnologia","innovazione","bitcoin","internet","riflessioni","disruption"],"dg-note-properties":{"tags":["tecnologia","innovazione","bitcoin","internet","riflessioni","disruption"],"title":"🚀 Da 0 a 1: quando la tecnologia cambia il mondo"}}
 ---
 
 ![1753536695128.jpg](/img/user/Immagini/1753536695128.jpg)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ortix/musica/pano-scrobbler/","title":"Pano Scrobbler – Scrobbling musicale locale e privato","tags":["musica","scrobbling","open-source","privacy","android","syncthing"]}
+{"dg-publish":true,"permalink":"/ortix/musica/pano-scrobbler/","title":"Pano Scrobbler – Scrobbling musicale locale e privato","tags":["musica","scrobbling","open-source","privacy","android","syncthing"],"dg-note-properties":{"title":"Pano Scrobbler – Scrobbling musicale locale e privato","tags":["musica","scrobbling","open-source","privacy","android","syncthing"],"aliases":["pano scrobbler","alternativa lastfm","scrobbling offline"]}}
 ---
 
 

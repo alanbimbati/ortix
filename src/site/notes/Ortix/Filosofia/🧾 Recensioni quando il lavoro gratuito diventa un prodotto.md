@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ortix/filosofia/recensioni-quando-il-lavoro-gratuito-diventa-un-prodotto/","tags":["recensioni","platform-economy","lavoro-gratuito","dati","blog"]}
+{"dg-publish":true,"permalink":"/ortix/filosofia/recensioni-quando-il-lavoro-gratuito-diventa-un-prodotto/","tags":["recensioni","platform-economy","lavoro-gratuito","dati","blog"],"dg-note-properties":{"tags":["recensioni","platform-economy","lavoro-gratuito","dati","blog"],"aliases":["recensioni false","valore delle recensioni","perché non recensisco più"],"created":"2025-08-01","updated":"2025-08-01","author":"Alan Bimbati","source":"original","summary":"Le recensioni online sono diventate una forma di lavoro gratuito per negozi e piattaforme. Ecco perché ho smesso di scriverle (e leggerle)."}}
 ---
 
 

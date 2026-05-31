@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/wallet/hardware-wallet/jade/","title":"🟢 Jade: sicurezza open source a prezzo accessibile","tags":["Bitcoin","Wallet","Hardware","ColdStorage","SelfCustody","OpenSource","Blockstream"]}
+{"dg-publish":true,"permalink":"/bitcoin/wallet/hardware-wallet/jade/","title":"🟢 Jade: sicurezza open source a prezzo accessibile","tags":["Bitcoin","Wallet","Hardware","ColdStorage","SelfCustody","OpenSource","Blockstream"],"dg-note-properties":{"title":"🟢 Jade: sicurezza open source a prezzo accessibile","tags":["Bitcoin","Wallet","Hardware","ColdStorage","SelfCustody","OpenSource","Blockstream"],"date":"2025-12-02"}}
 ---
 
 

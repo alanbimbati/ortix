@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ortix/libri/leggi-libri-in-liberta/","title":"📚 Leggi libri in libertà: app open source e archivi liberi","tags":["Libri","Lettura","OpenSource","SovranitàDigitale","Tor","ePub","DRM","Kindle"]}
+{"dg-publish":true,"permalink":"/ortix/libri/leggi-libri-in-liberta/","title":"📚 Leggi libri in libertà: app open source e archivi liberi","tags":["Libri","Lettura","OpenSource","SovranitàDigitale","Tor","ePub","DRM","Kindle"],"dg-note-properties":{"title":"📚 Leggi libri in libertà: app open source e archivi liberi","tags":["Libri","Lettura","OpenSource","SovranitàDigitale","Tor","ePub","DRM","Kindle"],"date":"2025-07-10"}}
 ---
 
 

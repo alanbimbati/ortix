@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/filosofia/antifragilita/","title":"Antifragilità: ciò che ama il caos","tags":["Filosofia","Taleb","Bitcoin","Resilienza","Caos"]}
+{"dg-publish":true,"permalink":"/bitcoin/filosofia/antifragilita/","title":"Antifragilità: ciò che ama il caos","tags":["Filosofia","Taleb","Bitcoin","Resilienza","Caos"],"dg-note-properties":{"title":"Antifragilità: ciò che ama il caos","tags":["Filosofia","Taleb","Bitcoin","Resilienza","Caos"],"date":"2025-12-27","aliases":["Antifragilità","Antifragile"]}}
 ---
 
 

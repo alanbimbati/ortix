@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/definizioni/blockchain/full-node/","title":"Full Node Bitcoin","tags":["bitcoin","full-node","sovranità-digitale","privacy","decentralizzazione"]}
+{"dg-publish":true,"permalink":"/bitcoin/definizioni/blockchain/full-node/","title":"Full Node Bitcoin","tags":["bitcoin","full-node","sovranità-digitale","privacy","decentralizzazione"],"dg-note-properties":{"title":"Full Node Bitcoin","date":"2025-07-15","tags":["bitcoin","full-node","sovranità-digitale","privacy","decentralizzazione"],"aliases":["Nodo completo","Bitcoin full node","Nodo bitcoin"]}}
 ---
 
 

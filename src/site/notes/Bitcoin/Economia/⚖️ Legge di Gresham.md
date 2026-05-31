@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/economia/legge-di-gresham/","title":"⚖️ La Legge di Gresham: perché spendiamo euro e teniamo i satoshi","tags":["Economia","Bitcoin","Gresham","Denaro","Inflazione"]}
+{"dg-publish":true,"permalink":"/bitcoin/economia/legge-di-gresham/","title":"⚖️ La Legge di Gresham: perché spendiamo euro e teniamo i satoshi","tags":["Economia","Bitcoin","Gresham","Denaro","Inflazione"],"dg-note-properties":{"title":"⚖️ La Legge di Gresham: perché spendiamo euro e teniamo i satoshi","tags":["Economia","Bitcoin","Gresham","Denaro","Inflazione"],"date":"2025-07-09"}}
 ---
 
 

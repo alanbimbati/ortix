@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/wallet/hardware-wallet/bit-box02/","title":"🔷 BitBox02: semplicità svizzera open source","tags":["Bitcoin","Wallet","Hardware","ColdStorage","SelfCustody","OpenSource","Svizzera"]}
+{"dg-publish":true,"permalink":"/bitcoin/wallet/hardware-wallet/bit-box02/","title":"🔷 BitBox02: semplicità svizzera open source","tags":["Bitcoin","Wallet","Hardware","ColdStorage","SelfCustody","OpenSource","Svizzera"],"dg-note-properties":{"title":"🔷 BitBox02: semplicità svizzera open source","tags":["Bitcoin","Wallet","Hardware","ColdStorage","SelfCustody","OpenSource","Svizzera"],"date":"2025-12-02"}}
 ---
 
 

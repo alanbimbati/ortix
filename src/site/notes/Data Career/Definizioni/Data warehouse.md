@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data-career/definizioni/data-warehouse/","title":"🏢 Cos'è un Data Warehouse: l'archivio centrale dei dati","tags":["DataEngineering","DataWarehouse","Dati","ETL","Analisi","Metafora"]}
+{"dg-publish":true,"permalink":"/data-career/definizioni/data-warehouse/","title":"🏢 Cos'è un Data Warehouse: l'archivio centrale dei dati","tags":["DataEngineering","DataWarehouse","Dati","ETL","Analisi","Metafora"],"dg-note-properties":{"title":"🏢 Cos'è un Data Warehouse: l'archivio centrale dei dati","tags":["DataEngineering","DataWarehouse","Dati","ETL","Analisi","Metafora"],"aliases":["Data Warehouse","Data warehouse"],"date":"2025-07-15"}}
 ---
 
 

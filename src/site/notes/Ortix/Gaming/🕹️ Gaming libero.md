@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ortix/gaming/gaming-libero/","tags":["gaming","open source","emulazione","sovranità digitale"]}
+{"dg-publish":true,"permalink":"/ortix/gaming/gaming-libero/","tags":["gaming","open source","emulazione","sovranità digitale"],"dg-note-properties":{"tags":["gaming","open source","emulazione","sovranità digitale"],"alias":["giochi offline","giochi open source","emulazione giochi"]}}
 ---
 
 

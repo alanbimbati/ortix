@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ortix/appunti/log-seq/","title":"🧠 Logseq: il tuo secondo cervello, locale e libero","tags":["Logseq","Note","Markdown","SovranitàDigitale","SecondoCervello","Offline","Obsidian"]}
+{"dg-publish":true,"permalink":"/ortix/appunti/log-seq/","title":"🧠 Logseq: il tuo secondo cervello, locale e libero","tags":["Logseq","Note","Markdown","SovranitàDigitale","SecondoCervello","Offline","Obsidian"],"dg-note-properties":{"title":"🧠 Logseq: il tuo secondo cervello, locale e libero","tags":["Logseq","Note","Markdown","SovranitàDigitale","SecondoCervello","Offline","Obsidian"],"date":"2025-07-10"}}
 ---
 
 

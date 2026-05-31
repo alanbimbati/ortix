@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ortix/filosofia/la-privacy-dei-minori/","title":"🛡️ Privacy dei minori nel digitale","tags":["etica","tecnologia","educazione","sorveglianza"]}
+{"dg-publish":true,"permalink":"/ortix/filosofia/la-privacy-dei-minori/","title":"🛡️ Privacy dei minori nel digitale","tags":["etica","tecnologia","educazione","sorveglianza"],"dg-note-properties":{"title":"🛡️ Privacy dei minori nel digitale","tags":["etica","tecnologia","educazione","sorveglianza"],"publish":true,"description":"Perché la privacy dei minori è fondamentale nell’era della sorveglianza digitale continua."}}
 ---
 
 

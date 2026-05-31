@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/filosofia/il-trilemma/","title":"🔺 Il Trilemma: perché non puoi avere tutto (subito)","tags":["Bitcoin","Trilemma","Sicurezza","Scalabilità","Decentralizzazione","Layer2"]}
+{"dg-publish":true,"permalink":"/bitcoin/filosofia/il-trilemma/","title":"🔺 Il Trilemma: perché non puoi avere tutto (subito)","tags":["Bitcoin","Trilemma","Sicurezza","Scalabilità","Decentralizzazione","Layer2"],"dg-note-properties":{"title":"🔺 Il Trilemma: perché non puoi avere tutto (subito)","tags":["Bitcoin","Trilemma","Sicurezza","Scalabilità","Decentralizzazione","Layer2"],"date":"2025-07-09"}}
 ---
 
 

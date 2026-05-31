@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ortix/economica-comportamentale/priming/","title":"🧠 Priming quando ti influenzano *prima* che tu scelga"}
+{"dg-publish":true,"permalink":"/ortix/economica-comportamentale/priming/","title":"🧠 Priming quando ti influenzano *prima* che tu scelga","dg-note-properties":{"title":"🧠 Priming quando ti influenzano *prima* che tu scelga","tags":null,"date":"2025-07-29"}}
 ---
 
 

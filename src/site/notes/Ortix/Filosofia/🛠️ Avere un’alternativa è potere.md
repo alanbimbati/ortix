@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ortix/filosofia/avere-un-alternativa-e-potere/","title":"🛠️ Avere un’alternativa è potere","tags":["SovranitàDigitale","OpenSource","Libertà","Alternative","Tecnologia","BigTech"]}
+{"dg-publish":true,"permalink":"/ortix/filosofia/avere-un-alternativa-e-potere/","title":"🛠️ Avere un’alternativa è potere","tags":["SovranitàDigitale","OpenSource","Libertà","Alternative","Tecnologia","BigTech"],"dg-note-properties":{"title":"🛠️ Avere un’alternativa è potere","tags":["SovranitàDigitale","OpenSource","Libertà","Alternative","Tecnologia","BigTech"],"date":"2025-07-10"}}
 ---
 
 

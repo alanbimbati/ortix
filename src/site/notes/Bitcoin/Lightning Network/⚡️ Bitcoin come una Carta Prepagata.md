@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/lightning-network/bitcoin-come-una-carta-prepagata/","title":"Bitcoin come una Carta Prepagata","tags":["Bitcoin","LightningNetwork","Pagamenti"]}
+{"dg-publish":true,"permalink":"/bitcoin/lightning-network/bitcoin-come-una-carta-prepagata/","title":"Bitcoin come una Carta Prepagata","tags":["Bitcoin","LightningNetwork","Pagamenti"],"dg-note-properties":{"title":"Bitcoin come una Carta Prepagata","tags":["Bitcoin","LightningNetwork","Pagamenti"],"date":"2025-05-03"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data-career/definizioni/data-governance/","title":"Cos'è la Data Governance","tags":["DataGovernance","QualitàDati","Policy","Management","Definizioni"]}
+{"dg-publish":true,"permalink":"/data-career/definizioni/data-governance/","title":"Cos'è la Data Governance","tags":["DataGovernance","QualitàDati","Policy","Management","Definizioni"],"dg-note-properties":{"title":"Cos'è la Data Governance","tags":["DataGovernance","QualitàDati","Policy","Management","Definizioni"],"date":"2025-08-01","summary":"La Data Governance è l'insieme di processi, ruoli, policy e standard che assicurano l'uso efficace ed efficiente delle informazioni per raggiungere gli obiettivi aziendali."}}
 ---
 
 

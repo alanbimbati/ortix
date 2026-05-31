@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ortix/libri/schermi-per-leggere/","title":"📖 Eink, ePaper e NextPaper a confronto","tags":["eink","epaper","nextpaper","tcl","kindle","android","software-libero","digital-garden","privacy","lettura-digitale"]}
+{"dg-publish":true,"permalink":"/ortix/libri/schermi-per-leggere/","title":"📖 Eink, ePaper e NextPaper a confronto","tags":["eink","epaper","nextpaper","tcl","kindle","android","software-libero","digital-garden","privacy","lettura-digitale"],"dg-note-properties":{"title":"📖 Eink, ePaper e NextPaper a confronto","description":"Confronto critico tra tecnologie di lettura: Eink, ePaper e NextPaper TCL. Libertà, affaticamento visivo e dispositivi aperti.","tags":["eink","epaper","nextpaper","tcl","kindle","android","software-libero","digital-garden","privacy","lettura-digitale"],"date":"2025-12-17"}}
 ---
 
 

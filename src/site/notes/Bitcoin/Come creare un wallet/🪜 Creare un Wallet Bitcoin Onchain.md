@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/come-creare-un-wallet/creare-un-wallet-bitcoin-onchain/","title":"🪜 Creare un Wallet Bitcoin Onchain: guida pratica alla generazione della chiave","tags":["bitcoin","wallet","onchain","seed","entropia","sicurezza","autonomia"]}
+{"dg-publish":true,"permalink":"/bitcoin/come-creare-un-wallet/creare-un-wallet-bitcoin-onchain/","title":"🪜 Creare un Wallet Bitcoin Onchain: guida pratica alla generazione della chiave","tags":["bitcoin","wallet","onchain","seed","entropia","sicurezza","autonomia"],"dg-note-properties":{"title":"🪜 Creare un Wallet Bitcoin Onchain: guida pratica alla generazione della chiave","date":"2026-01-13","tags":["bitcoin","wallet","onchain","seed","entropia","sicurezza","autonomia"],"status":"evergreen","garden":true,"author":"Ortix Collective","cover":"ortix-creazione-wallet.png"}}
 ---
 
 

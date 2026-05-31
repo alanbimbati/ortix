@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/wallet/hardware-wallet/cold-card-q/","title":"🟡 ColdCard Q: l'evoluzione della sicurezza airgapped","tags":["Bitcoin","Wallet","Hardware","ColdStorage","SelfCustody","Airgap","BitcoinOnly","OpenSource"]}
+{"dg-publish":true,"permalink":"/bitcoin/wallet/hardware-wallet/cold-card-q/","title":"🟡 ColdCard Q: l'evoluzione della sicurezza airgapped","tags":["Bitcoin","Wallet","Hardware","ColdStorage","SelfCustody","Airgap","BitcoinOnly","OpenSource"],"dg-note-properties":{"title":"🟡 ColdCard Q: l'evoluzione della sicurezza airgapped","tags":["Bitcoin","Wallet","Hardware","ColdStorage","SelfCustody","Airgap","BitcoinOnly","OpenSource"],"date":"2025-12-02"}}
 ---
 
 

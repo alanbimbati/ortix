@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/p2-p/strumenti/bisq/","title":"🤖 Bisq","tags":["Bitcoin","P2P","Bisq","DAO","No-KYC"]}
+{"dg-publish":true,"permalink":"/bitcoin/p2-p/strumenti/bisq/","title":"🤖 Bisq","tags":["Bitcoin","P2P","Bisq","DAO","No-KYC"],"dg-note-properties":{"title":"🤖 Bisq","tags":["Bitcoin","P2P","Bisq","DAO","No-KYC"],"date":"2026-01-26"}}
 ---
 
 

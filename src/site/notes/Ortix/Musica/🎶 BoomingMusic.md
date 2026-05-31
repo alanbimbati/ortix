@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ortix/musica/booming-music/","title":"🎶 BoomingMusic: la tua musica, senza cloud né pubblicità","tags":["BoomingMusic","Musica","Offline","Android","OpenSource","SovranitàDigitale"]}
+{"dg-publish":true,"permalink":"/ortix/musica/booming-music/","title":"🎶 BoomingMusic: la tua musica, senza cloud né pubblicità","tags":["BoomingMusic","Musica","Offline","Android","OpenSource","SovranitàDigitale"],"dg-note-properties":{"title":"🎶 BoomingMusic: la tua musica, senza cloud né pubblicità","tags":["BoomingMusic","Musica","Offline","Android","OpenSource","SovranitàDigitale"],"date":"2025-07-10"}}
 ---
 
 

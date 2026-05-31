@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/filosofia/bitcoin-non-e-una-spa/","title":"Bitcoin non è una SPA","tags":["bitcoin","hodl","potere","libertà","economia","blackrock","intermediari"]}
+{"dg-publish":true,"permalink":"/bitcoin/filosofia/bitcoin-non-e-una-spa/","title":"Bitcoin non è una SPA","tags":["bitcoin","hodl","potere","libertà","economia","blackrock","intermediari"],"dg-note-properties":{"title":"Bitcoin non è una SPA","alias":["Bitcoin SPA","HODL vs Uso di Bitcoin","Redistribuire il potere con Bitcoin"],"tags":["bitcoin","hodl","potere","libertà","economia","blackrock","intermediari"],"status":"evergreen","date":"2026-01-11","garden":"digital-garden","author":"Ortix"}}
 ---
 
 

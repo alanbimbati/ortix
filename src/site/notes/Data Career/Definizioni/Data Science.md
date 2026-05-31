@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data-career/definizioni/data-science/","title":"Cos'è la Data Science","tags":["DataScience","AI","MachineLearning","MetodoScientifico","Definizioni"]}
+{"dg-publish":true,"permalink":"/data-career/definizioni/data-science/","title":"Cos'è la Data Science","tags":["DataScience","AI","MachineLearning","MetodoScientifico","Definizioni"],"dg-note-properties":{"title":"Cos'è la Data Science","tags":["DataScience","AI","MachineLearning","MetodoScientifico","Definizioni"],"date":"2025-08-01","summary":"La Data Science è un campo interdisciplinare che usa metodi scientifici, processi e algoritmi per estrarre conoscenza dai dati. Unisce statistica, informatica e competenza di dominio."}}
 ---
 
 

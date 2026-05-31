@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ortix/gaming/luanti/","title":"🌍 Luanti"}
+{"dg-publish":true,"permalink":"/ortix/gaming/luanti/","title":"🌍 Luanti","dg-note-properties":{"title":"🌍 Luanti","date":"2025-08-09"}}
 ---
 
 

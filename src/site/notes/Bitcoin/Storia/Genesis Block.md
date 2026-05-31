@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/storia/genesis-block/","title":"Genesis Block: l'inizio di tutto","tags":["Bitcoin","Storia","SatoshiNakamoto","Blockchain"]}
+{"dg-publish":true,"permalink":"/bitcoin/storia/genesis-block/","title":"Genesis Block: l'inizio di tutto","tags":["Bitcoin","Storia","SatoshiNakamoto","Blockchain"],"dg-note-properties":{"title":"Genesis Block: l'inizio di tutto","tags":["Bitcoin","Storia","SatoshiNakamoto","Blockchain"],"date":"2025-12-26","aliases":["Genesis Block"]}}
 ---
 
 

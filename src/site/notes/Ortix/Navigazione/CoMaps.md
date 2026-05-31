@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ortix/navigazione/co-maps/","title":"🗺️ CoMaps: libertà di movimento, anche offline","tags":["maps","privacy","sovranità-digitale","offline","gps"]}
+{"dg-publish":true,"permalink":"/ortix/navigazione/co-maps/","title":"🗺️ CoMaps: libertà di movimento, anche offline","tags":["maps","privacy","sovranità-digitale","offline","gps"],"dg-note-properties":{"tags":["maps","privacy","sovranità-digitale","offline","gps"],"title":"🗺️ CoMaps: libertà di movimento, anche offline"}}
 ---
 
 

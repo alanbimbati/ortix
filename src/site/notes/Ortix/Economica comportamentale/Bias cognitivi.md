@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ortix/economica-comportamentale/bias-cognitivi/","title":"🌀 Bias cognitivi"}
+{"dg-publish":true,"permalink":"/ortix/economica-comportamentale/bias-cognitivi/","title":"🌀 Bias cognitivi","dg-note-properties":{"title":"🌀 Bias cognitivi","tags":null,"date":"2025-07-29"}}
 ---
 
 

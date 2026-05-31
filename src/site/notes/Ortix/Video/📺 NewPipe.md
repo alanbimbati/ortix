@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ortix/video/new-pipe/","title":"📺 NewPipe: YouTube senza pubblicità né tracciamento","tags":["NewPipe","Privacy","Android","OpenSource","SovranitàDigitale","Video"]}
+{"dg-publish":true,"permalink":"/ortix/video/new-pipe/","title":"📺 NewPipe: YouTube senza pubblicità né tracciamento","tags":["NewPipe","Privacy","Android","OpenSource","SovranitàDigitale","Video"],"dg-note-properties":{"title":"📺 NewPipe: YouTube senza pubblicità né tracciamento","tags":["NewPipe","Privacy","Android","OpenSource","SovranitàDigitale","Video"],"date":"2025-07-10"}}
 ---
 
 

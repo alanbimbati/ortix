@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/filosofia/un-idea-si-moltiplica-il-valore-si-trasferisce-la-magia-di-bitcoin/","title":"🍎 Un'idea si moltiplica, il valore si trasferisce: la magia di Bitcoin","tags":["Bitcoin","Scarcity","DoppiaSpesa","Valore","FilosofiaDigitale","Satoshi"]}
+{"dg-publish":true,"permalink":"/bitcoin/filosofia/un-idea-si-moltiplica-il-valore-si-trasferisce-la-magia-di-bitcoin/","title":"🍎 Un'idea si moltiplica, il valore si trasferisce: la magia di Bitcoin","tags":["Bitcoin","Scarcity","DoppiaSpesa","Valore","FilosofiaDigitale","Satoshi"],"dg-note-properties":{"title":"🍎 Un'idea si moltiplica, il valore si trasferisce: la magia di Bitcoin","tags":["Bitcoin","Scarcity","DoppiaSpesa","Valore","FilosofiaDigitale","Satoshi"],"date":"2025-01-17"}}
 ---
 
 

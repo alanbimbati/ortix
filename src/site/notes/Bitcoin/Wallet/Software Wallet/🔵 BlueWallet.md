@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/wallet/software-wallet/blue-wallet/","title":"🔵 BlueWallet: semplice fuori, potente dentro","tags":["Bitcoin","Wallet","Mobile","Custody","Privacy","Lightning"]}
+{"dg-publish":true,"permalink":"/bitcoin/wallet/software-wallet/blue-wallet/","title":"🔵 BlueWallet: semplice fuori, potente dentro","tags":["Bitcoin","Wallet","Mobile","Custody","Privacy","Lightning"],"dg-note-properties":{"title":"🔵 BlueWallet: semplice fuori, potente dentro","tags":["Bitcoin","Wallet","Mobile","Custody","Privacy","Lightning"],"date":"2025-07-09"}}
 ---
 
 

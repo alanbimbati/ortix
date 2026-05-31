@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/bitcoin-dove-iniziare/","title":"🧭 Bitcoin: Guida alla Sovranità","tags":["Bitcoin","Sovranità","Wallet","Privacy","Custody","Mermaid"]}
+{"dg-publish":true,"permalink":"/bitcoin/bitcoin-dove-iniziare/","title":"🧭 Bitcoin: Guida alla Sovranità","tags":["Bitcoin","Sovranità","Wallet","Privacy","Custody","Mermaid"],"dg-note-properties":{"title":"🧭 Bitcoin: Guida alla Sovranità","tags":["Bitcoin","Sovranità","Wallet","Privacy","Custody","Mermaid"],"date":"2026-01-26"}}
 ---
 
 
@@ -172,4 +172,4 @@ graph TD
 
 > 🧡 *"La tua sovranità è proporzionale alla tua responsabilità."*
 
-[[🧠 Ortix: La Sintesi della Sovranità\|🧠 Ortix: La Sintesi della Sovranità]] | [[Bitcoin/Bitcoin\|Bitcoin]] | [[Bitcoin/Definizioni/Blockchain/🔐 Self-custody\|🔐 Self-custody]]
+[[Ortix/Filosofia/🧠 Ortix: La Sintesi della Sovranità\|🧠 Ortix: La Sintesi della Sovranità]] | [[Bitcoin/Bitcoin\|Bitcoin]] | [[Bitcoin/Definizioni/Blockchain/🔐 Self-custody\|🔐 Self-custody]]

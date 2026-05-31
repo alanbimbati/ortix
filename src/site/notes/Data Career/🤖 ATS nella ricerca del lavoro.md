@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data-career/ats-nella-ricerca-del-lavoro/","title":"ATS nella ricerca del lavoro"}
+{"dg-publish":true,"permalink":"/data-career/ats-nella-ricerca-del-lavoro/","title":"ATS nella ricerca del lavoro","dg-note-properties":{"title":"ATS nella ricerca del lavoro"}}
 ---
 
 

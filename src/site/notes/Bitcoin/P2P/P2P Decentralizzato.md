@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/p2-p/p2-p-decentralizzato/","title":"🤖 P2P Decentralizzato: Sovranità Totale","tags":["Bitcoin","P2P","Robosats","Bisq","Decentralizzazione","No-KYC"]}
+{"dg-publish":true,"permalink":"/bitcoin/p2-p/p2-p-decentralizzato/","title":"🤖 P2P Decentralizzato: Sovranità Totale","tags":["Bitcoin","P2P","Robosats","Bisq","Decentralizzazione","No-KYC"],"dg-note-properties":{"title":"🤖 P2P Decentralizzato: Sovranità Totale","tags":["Bitcoin","P2P","Robosats","Bisq","Decentralizzazione","No-KYC"],"date":"2026-01-26"}}
 ---
 
 

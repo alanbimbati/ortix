@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/definizioni/mining/proof-of-work/","title":"⚙️ Proof of Work: il sudore che dà valore al denaro","tags":["Bitcoin","ProofOfWork","Energia","Libertà","Mining"]}
+{"dg-publish":true,"permalink":"/bitcoin/definizioni/mining/proof-of-work/","title":"⚙️ Proof of Work: il sudore che dà valore al denaro","tags":["Bitcoin","ProofOfWork","Energia","Libertà","Mining"],"dg-note-properties":{"title":"⚙️ Proof of Work: il sudore che dà valore al denaro","tags":["Bitcoin","ProofOfWork","Energia","Libertà","Mining"],"aliases":["Proof of Work"],"date":"2025-07-09"}}
 ---
 
 

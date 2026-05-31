@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/economia/effetto-lindy/","title":"L'Effetto Lindy: il tempo è il miglior test","tags":["Filosofia","Tempo","Tecnologia","Bitcoin","Taleb"]}
+{"dg-publish":true,"permalink":"/bitcoin/economia/effetto-lindy/","title":"L'Effetto Lindy: il tempo è il miglior test","tags":["Filosofia","Tempo","Tecnologia","Bitcoin","Taleb"],"dg-note-properties":{"title":"L'Effetto Lindy: il tempo è il miglior test","tags":["Filosofia","Tempo","Tecnologia","Bitcoin","Taleb"],"date":"2025-12-27","aliases":["Effetto Lindy","Lindy Effect"]}}
 ---
 
 

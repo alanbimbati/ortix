@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin-timing-tool/","title":"📈 Bitcoin Timing Tool (Segreto Svelato)"}
+{"dg-publish":true,"permalink":"/bitcoin-timing-tool/","title":"📈 Bitcoin Timing Tool (Segreto Svelato)","dg-note-properties":{"title":"📈 Bitcoin Timing Tool (Segreto Svelato)"}}
 ---
 
 📈 Bitcoin Timing Tool

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ortix/markdown/","title":"📝 Markdown: il formato libero, leggibile da uomo e macchina","tags":["Markdown","FormatiLiberi","Scrittura","Obsidian","SovranitàDigitale"]}
+{"dg-publish":true,"permalink":"/ortix/markdown/","title":"📝 Markdown: il formato libero, leggibile da uomo e macchina","tags":["Markdown","FormatiLiberi","Scrittura","Obsidian","SovranitàDigitale"],"dg-note-properties":{"title":"📝 Markdown: il formato libero, leggibile da uomo e macchina","tags":["Markdown","FormatiLiberi","Scrittura","Obsidian","SovranitàDigitale"],"date":"2025-07-15"}}
 ---
 
 

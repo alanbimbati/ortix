@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/wallet/hardware-wallet/safe-pal/","title":"🟤 SafePal: hardware wallet economico con app integrata","tags":["Bitcoin","Wallet","Hardware","ColdStorage","Mobile","Binance"]}
+{"dg-publish":true,"permalink":"/bitcoin/wallet/hardware-wallet/safe-pal/","title":"🟤 SafePal: hardware wallet economico con app integrata","tags":["Bitcoin","Wallet","Hardware","ColdStorage","Mobile","Binance"],"dg-note-properties":{"title":"🟤 SafePal: hardware wallet economico con app integrata","tags":["Bitcoin","Wallet","Hardware","ColdStorage","Mobile","Binance"],"date":"2025-12-02"}}
 ---
 
 

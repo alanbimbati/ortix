@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/p2-p/strumenti/robosats/","title":"🤖 Robosats","tags":["Bitcoin","P2P","Lightning","Robosats","No-KYC"]}
+{"dg-publish":true,"permalink":"/bitcoin/p2-p/strumenti/robosats/","title":"🤖 Robosats","tags":["Bitcoin","P2P","Lightning","Robosats","No-KYC"],"dg-note-properties":{"title":"🤖 Robosats","tags":["Bitcoin","P2P","Lightning","Robosats","No-KYC"],"date":"2026-01-26"}}
 ---
 
 

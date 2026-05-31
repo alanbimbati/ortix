@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ortix/smartphone/lineage-os/","tags":["lineageos","degoogling","android","privacy","tecnologia","bitcoin"]}
+{"dg-publish":true,"permalink":"/ortix/smartphone/lineage-os/","tags":["lineageos","degoogling","android","privacy","tecnologia","bitcoin"],"dg-note-properties":{"tags":["lineageos","degoogling","android","privacy","tecnologia","bitcoin"]}}
 ---
 
 

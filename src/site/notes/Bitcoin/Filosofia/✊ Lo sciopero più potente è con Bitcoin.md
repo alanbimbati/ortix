@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/filosofia/lo-sciopero-piu-potente-e-con-bitcoin/","title":"✊ Lo sciopero più potente è con Bitcoin","tags":["Bitcoin","SovranitàDigitale","Fiat","RivoluzionePacifica","Sciopero"]}
+{"dg-publish":true,"permalink":"/bitcoin/filosofia/lo-sciopero-piu-potente-e-con-bitcoin/","title":"✊ Lo sciopero più potente è con Bitcoin","tags":["Bitcoin","SovranitàDigitale","Fiat","RivoluzionePacifica","Sciopero"],"dg-note-properties":{"title":"✊ Lo sciopero più potente è con Bitcoin","tags":["Bitcoin","SovranitàDigitale","Fiat","RivoluzionePacifica","Sciopero"],"date":"2025-09-22"}}
 ---
 
 

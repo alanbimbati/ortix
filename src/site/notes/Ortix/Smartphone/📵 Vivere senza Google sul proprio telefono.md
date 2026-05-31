@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ortix/smartphone/vivere-senza-google-sul-proprio-telefono/","tags":["degoogle","sovranità-digitale","privacy","android","bitcoin","tecnologia"]}
+{"dg-publish":true,"permalink":"/ortix/smartphone/vivere-senza-google-sul-proprio-telefono/","tags":["degoogle","sovranità-digitale","privacy","android","bitcoin","tecnologia"],"dg-note-properties":{"tags":["degoogle","sovranità-digitale","privacy","android","bitcoin","tecnologia"]}}
 ---
 
 ![1753630012857.jpg](/img/user/Immagini/1753630012857.jpg)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/libertarismo/autori/robert-nozick/","title":"Robert Nozick: anarchia, stato e utopia","tags":["Libertarismo","Filosofia","Minarchismo","Diritti"]}
+{"dg-publish":true,"permalink":"/bitcoin/libertarismo/autori/robert-nozick/","title":"Robert Nozick: anarchia, stato e utopia","tags":["Libertarismo","Filosofia","Minarchismo","Diritti"],"dg-note-properties":{"title":"Robert Nozick: anarchia, stato e utopia","tags":["Libertarismo","Filosofia","Minarchismo","Diritti"],"date":"2025-12-26","aliases":["Robert Nozick","Nozick"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ortix/storage/backup-sovrano-con-3-dispositivi-e-syncthing/","title":"🛡️ Backup sovrano con 3 dispositivi e Syncthing","tags":["Backup","SovranitàDigitale","Syncthing","ReteMesh","SelfHosting","Sicurezza","Offline"]}
+{"dg-publish":true,"permalink":"/ortix/storage/backup-sovrano-con-3-dispositivi-e-syncthing/","title":"🛡️ Backup sovrano con 3 dispositivi e Syncthing","tags":["Backup","SovranitàDigitale","Syncthing","ReteMesh","SelfHosting","Sicurezza","Offline"],"dg-note-properties":{"title":"🛡️ Backup sovrano con 3 dispositivi e Syncthing","tags":["Backup","SovranitàDigitale","Syncthing","ReteMesh","SelfHosting","Sicurezza","Offline"],"date":"2025-07-10"}}
 ---
 
 

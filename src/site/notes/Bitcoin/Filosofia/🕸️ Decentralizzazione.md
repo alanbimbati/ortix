@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/filosofia/decentralizzazione/","title":"🕸️ Decentralizzazione: perché conta davvero","tags":["Bitcoin","Decentralizzazione","Libertà","Sicurezza","Potere","Reti"]}
+{"dg-publish":true,"permalink":"/bitcoin/filosofia/decentralizzazione/","title":"🕸️ Decentralizzazione: perché conta davvero","tags":["Bitcoin","Decentralizzazione","Libertà","Sicurezza","Potere","Reti"],"dg-note-properties":{"title":"🕸️ Decentralizzazione: perché conta davvero","tags":["Bitcoin","Decentralizzazione","Libertà","Sicurezza","Potere","Reti"],"date":"2025-07-09"}}
 ---
 
 

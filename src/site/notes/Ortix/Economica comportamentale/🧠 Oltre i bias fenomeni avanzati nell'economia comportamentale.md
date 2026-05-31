@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ortix/economica-comportamentale/oltre-i-bias-fenomeni-avanzati-nell-economia-comportamentale/","title":"🧠 Espansione avanzata di economia comportamentale","tags":["economia_comportamentale","bias","framing","default","sunk_cost","pianificazione","scelte","libertà","placebo","social_network","peer_effects"]}
+{"dg-publish":true,"permalink":"/ortix/economica-comportamentale/oltre-i-bias-fenomeni-avanzati-nell-economia-comportamentale/","title":"🧠 Espansione avanzata di economia comportamentale","tags":["economia_comportamentale","bias","framing","default","sunk_cost","pianificazione","scelte","libertà","placebo","social_network","peer_effects"],"dg-note-properties":{"title":"🧠 Espansione avanzata di economia comportamentale","tags":["economia_comportamentale","bias","framing","default","sunk_cost","pianificazione","scelte","libertà","placebo","social_network","peer_effects"],"date":"2025-08-15"}}
 ---
 
 

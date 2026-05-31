@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/nostr/","title":"📡 Nostr: il protocollo per la libertà d’espressione","tags":["Nostr","Decentralizzazione","Libertà","Social","Bitcoin","Censura"]}
+{"dg-publish":true,"permalink":"/bitcoin/nostr/","title":"📡 Nostr: il protocollo per la libertà d’espressione","tags":["Nostr","Decentralizzazione","Libertà","Social","Bitcoin","Censura"],"dg-note-properties":{"title":"📡 Nostr: il protocollo per la libertà d’espressione","tags":["Nostr","Decentralizzazione","Libertà","Social","Bitcoin","Censura"],"date":"2025-07-09"}}
 ---
 
 ---

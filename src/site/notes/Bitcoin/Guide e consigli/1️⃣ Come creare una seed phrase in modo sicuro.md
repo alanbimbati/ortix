@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/guide-e-consigli/1-come-creare-una-seed-phrase-in-modo-sicuro/","title":"Come creare una seed phrase in modo sicuro","tags":["Bitcoin","Sicurezza","SeedPhrase","Guide","SelfCustody"]}
+{"dg-publish":true,"permalink":"/bitcoin/guide-e-consigli/1-come-creare-una-seed-phrase-in-modo-sicuro/","title":"Come creare una seed phrase in modo sicuro","tags":["Bitcoin","Sicurezza","SeedPhrase","Guide","SelfCustody"],"dg-note-properties":{"title":"Come creare una seed phrase in modo sicuro","tags":["Bitcoin","Sicurezza","SeedPhrase","Guide","SelfCustody"],"date":"2024-08-09","aliases":["Creare Seed Phrase","Generazione Seed"]}}
 ---
 
 

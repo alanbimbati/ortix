@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/libertarismo/la-morte-della-proprieta/","title":"La morte della proprietà: affitti, debiti e abbonamenti","tags":["Libertarismo","ProprietàPrivata","Società","Ortix","SovranitàDigitale"]}
+{"dg-publish":true,"permalink":"/bitcoin/libertarismo/la-morte-della-proprieta/","title":"La morte della proprietà: affitti, debiti e abbonamenti","tags":["Libertarismo","ProprietàPrivata","Società","Ortix","SovranitàDigitale"],"dg-note-properties":{"title":"La morte della proprietà: affitti, debiti e abbonamenti","tags":["Libertarismo","ProprietàPrivata","Società","Ortix","SovranitàDigitale"],"date":"2025-12-26","aliases":["La morte della proprietà","You will own nothing"]}}
 ---
 
 

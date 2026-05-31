@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/politica/tragedia-dei-beni-comuni/","title":"🌾 Tragedia dei Beni Comuni","tags":["filosofia-politica","economia","incentivi","proprietà","digital-garden"]}
+{"dg-publish":true,"permalink":"/politica/tragedia-dei-beni-comuni/","title":"🌾 Tragedia dei Beni Comuni","tags":["filosofia-politica","economia","incentivi","proprietà","digital-garden"],"dg-note-properties":{"title":"🌾 Tragedia dei Beni Comuni","tags":["filosofia-politica","economia","incentivi","proprietà","digital-garden"],"aliases":["Tragedia dei beni comuni","Tragedy of the commons"]}}
 ---
 
 

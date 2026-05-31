@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ortix/storage/perche-non-dovresti-usare-un-cloud-centralizzato/","title":"☁️ Perché non dovresti usare un cloud centralizzato","tags":["Cloud","SovranitàDigitale","Privacy","Indipendenza","Offline","Syncthing"]}
+{"dg-publish":true,"permalink":"/ortix/storage/perche-non-dovresti-usare-un-cloud-centralizzato/","title":"☁️ Perché non dovresti usare un cloud centralizzato","tags":["Cloud","SovranitàDigitale","Privacy","Indipendenza","Offline","Syncthing"],"dg-note-properties":{"title":"☁️ Perché non dovresti usare un cloud centralizzato","tags":["Cloud","SovranitàDigitale","Privacy","Indipendenza","Offline","Syncthing"],"date":"2025-07-10"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/come-non-acquistare-bitcoin/","title":"Come non acquistare Bitcoin","tags":["Bitcoin","Guide","Sicurezza","Errori"]}
+{"dg-publish":true,"permalink":"/bitcoin/come-non-acquistare-bitcoin/","title":"Come non acquistare Bitcoin","tags":["Bitcoin","Guide","Sicurezza","Errori"],"dg-note-properties":{"title":"Come non acquistare Bitcoin","tags":["Bitcoin","Guide","Sicurezza","Errori"],"date":"2023-11-29"}}
 ---
 
 

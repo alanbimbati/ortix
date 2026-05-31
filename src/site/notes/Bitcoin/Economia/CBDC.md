@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/economia/cbdc/","title":"CBDC: la moneta programmabile","tags":["cbdc","sorveglianza","moneta-digitale","sovranità","bitcoin"]}
+{"dg-publish":true,"permalink":"/bitcoin/economia/cbdc/","title":"CBDC: la moneta programmabile","tags":["cbdc","sorveglianza","moneta-digitale","sovranità","bitcoin"],"dg-note-properties":{"title":"CBDC: la moneta programmabile","date":"2025-07-15","tags":["cbdc","sorveglianza","moneta-digitale","sovranità","bitcoin"],"aliases":["Central Bank Digital Currency","Moneta Digitale di Stato"]}}
 ---
 
 

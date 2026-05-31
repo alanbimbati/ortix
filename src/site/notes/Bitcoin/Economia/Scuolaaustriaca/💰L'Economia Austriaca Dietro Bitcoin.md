@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/economia/scuolaaustriaca/l-economia-austriaca-dietro-bitcoin/","title":"L'Economia Austriaca Dietro Bitcoin","tags":["Bitcoin","Economia","ScuolaAustriaca"]}
+{"dg-publish":true,"permalink":"/bitcoin/economia/scuolaaustriaca/l-economia-austriaca-dietro-bitcoin/","title":"L'Economia Austriaca Dietro Bitcoin","tags":["Bitcoin","Economia","ScuolaAustriaca"],"dg-note-properties":{"title":"L'Economia Austriaca Dietro Bitcoin","tags":["Bitcoin","Economia","ScuolaAustriaca"],"date":"2024-07-14"}}
 ---
 
 

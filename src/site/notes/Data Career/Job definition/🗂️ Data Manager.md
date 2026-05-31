@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data-career/job-definition/data-manager/","title":"Chi è il Data Manager","tags":["data-management","data-modeling","governance","SME","data-career"]}
+{"dg-publish":true,"permalink":"/data-career/job-definition/data-manager/","title":"Chi è il Data Manager","tags":["data-management","data-modeling","governance","SME","data-career"],"dg-note-properties":{"title":"Chi è il Data Manager","tags":["data-management","data-modeling","governance","SME","data-career"],"aliases":["Data Manager"],"date":"2025-08-01","summary":"Il Data Manager è la figura ponte tra business e IT. Gestisce la semantica e il significato dei dati, modella il patrimonio informativo aziendale e garantisce qualità, coerenza e governance dei dati."}}
 ---
 
 

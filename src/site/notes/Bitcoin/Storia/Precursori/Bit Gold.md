@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/storia/precursori/bit-gold/","title":"Bit Gold: l'oro digitale di Nick Szabo","tags":["Bitcoin","Precursori","Storia","Cypherpunk"]}
+{"dg-publish":true,"permalink":"/bitcoin/storia/precursori/bit-gold/","title":"Bit Gold: l'oro digitale di Nick Szabo","tags":["Bitcoin","Precursori","Storia","Cypherpunk"],"dg-note-properties":{"title":"Bit Gold: l'oro digitale di Nick Szabo","tags":["Bitcoin","Precursori","Storia","Cypherpunk"],"date":"2025-12-26","aliases":["Bit Gold"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/guide-e-consigli/gestire-i-bitcoin-in-modo-intelligente/","title":"💰 La piramide dei fondi – Gestire i Bitcoin in modo intelligente","tags":["bitcoin","self-custody","coldwallet","hotwallet","lightning","gestione_fondi"]}
+{"dg-publish":true,"permalink":"/bitcoin/guide-e-consigli/gestire-i-bitcoin-in-modo-intelligente/","title":"💰 La piramide dei fondi – Gestire i Bitcoin in modo intelligente","tags":["bitcoin","self-custody","coldwallet","hotwallet","lightning","gestione_fondi"],"dg-note-properties":{"title":"💰 La piramide dei fondi – Gestire i Bitcoin in modo intelligente","description":"Una strategia pratica per la gestione dei Bitcoin basata sulla piramide dei fondi: cold wallet, hot wallet e Lightning per spese quotidiane.","tags":["bitcoin","self-custody","coldwallet","hotwallet","lightning","gestione_fondi"],"date":"2025-12-16","author":"Alan Bimbati"}}
 ---
 
 

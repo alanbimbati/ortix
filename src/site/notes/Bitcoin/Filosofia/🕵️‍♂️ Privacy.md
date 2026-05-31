@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/filosofia/privacy/","title":"🕵️‍♂️ Privacy: la libertà di restare umano","tags":["Privacy","Libertà","Bitcoin","Sorveglianza","SelfCustody","Decentralizzazione"]}
+{"dg-publish":true,"permalink":"/bitcoin/filosofia/privacy/","title":"🕵️‍♂️ Privacy: la libertà di restare umano","tags":["Privacy","Libertà","Bitcoin","Sorveglianza","SelfCustody","Decentralizzazione"],"dg-note-properties":{"title":"🕵️‍♂️ Privacy: la libertà di restare umano","tags":["Privacy","Libertà","Bitcoin","Sorveglianza","SelfCustody","Decentralizzazione"],"date":"2025-07-09"}}
 ---
 
 

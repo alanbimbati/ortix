@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/economia/subscription-economy/","title":"Subscription Economy: l'illusione del possesso","tags":["Economia","Società","Ortix","SovranitàDigitale","IngegneriaDelPensiero"]}
+{"dg-publish":true,"permalink":"/bitcoin/economia/subscription-economy/","title":"Subscription Economy: l'illusione del possesso","tags":["Economia","Società","Ortix","SovranitàDigitale","IngegneriaDelPensiero"],"dg-note-properties":{"title":"Subscription Economy: l'illusione del possesso","tags":["Economia","Società","Ortix","SovranitàDigitale","IngegneriaDelPensiero"],"date":"2025-12-26","aliases":["Subscription Economy","Economia dell'abbonamento"]}}
 ---
 
 

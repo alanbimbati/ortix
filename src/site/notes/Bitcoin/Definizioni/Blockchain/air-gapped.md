@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/definizioni/blockchain/air-gapped/","title":"🛡️ Air-gapped – Separare custodia e uso in Bitcoin","tags":["bitcoin","self-custody","airgap","sicurezza","coldwallet"]}
+{"dg-publish":true,"permalink":"/bitcoin/definizioni/blockchain/air-gapped/","title":"🛡️ Air-gapped – Separare custodia e uso in Bitcoin","tags":["bitcoin","self-custody","airgap","sicurezza","coldwallet"],"dg-note-properties":{"title":"🛡️ Air-gapped – Separare custodia e uso in Bitcoin","description":"Concetto di air-gapped in Bitcoin: cos’è, perché è fondamentale e come protegge le chiavi private.","tags":["bitcoin","self-custody","airgap","sicurezza","coldwallet"],"date":"2025-12-16","author":"Alan Bimbati"}}
 ---
 
 

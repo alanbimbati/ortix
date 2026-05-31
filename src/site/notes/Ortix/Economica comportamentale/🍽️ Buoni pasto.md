@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ortix/economica-comportamentale/buoni-pasto/","title":"🍽️ Buoni pasto, denaro vincolato e l’illusione dell’incentivo","tags":["economia","economia-austriaca","buoni-pasto","incentivi","denaro","CBDC","Bitcoin","sovranità-individuale"]}
+{"dg-publish":true,"permalink":"/ortix/economica-comportamentale/buoni-pasto/","title":"🍽️ Buoni pasto, denaro vincolato e l’illusione dell’incentivo","tags":["economia","economia-austriaca","buoni-pasto","incentivi","denaro","CBDC","Bitcoin","sovranità-individuale"],"dg-note-properties":{"title":"🍽️ Buoni pasto, denaro vincolato e l’illusione dell’incentivo","description":"Un’analisi oggettiva dei buoni pasto come fallimento dell’economia comportamentale, alla luce dell’economia austriaca, del denaro programmabile e delle alternative libere come Bitcoin.","tags":["economia","economia-austriaca","buoni-pasto","incentivi","denaro","CBDC","Bitcoin","sovranità-individuale"],"date":"2025-12-13","author":"Alan Bimbati"}}
 ---
 
 

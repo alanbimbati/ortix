@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data-career/definizioni/etl/","title":"🔧 ETL, ELT e il Data Engineer: l'idraulico dei dati","tags":["DataEngineering","ETL","ELT","DataPipeline","Metafora","SovranitàDigitale"]}
+{"dg-publish":true,"permalink":"/data-career/definizioni/etl/","title":"🔧 ETL, ELT e il Data Engineer: l'idraulico dei dati","tags":["DataEngineering","ETL","ELT","DataPipeline","Metafora","SovranitàDigitale"],"dg-note-properties":{"title":"🔧 ETL, ELT e il Data Engineer: l'idraulico dei dati","tags":["DataEngineering","ETL","ELT","DataPipeline","Metafora","SovranitàDigitale"],"aliases":["ETL"],"date":"2025-07-15"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/wallet/software-wallet/sparrow-wallet/","title":"🐦 Sparrow Wallet: il nido sicuro per i tuoi sats","tags":["Bitcoin","Wallet","Desktop","SelfCustody","Privacy","CoinJoin"]}
+{"dg-publish":true,"permalink":"/bitcoin/wallet/software-wallet/sparrow-wallet/","title":"🐦 Sparrow Wallet: il nido sicuro per i tuoi sats","tags":["Bitcoin","Wallet","Desktop","SelfCustody","Privacy","CoinJoin"],"dg-note-properties":{"title":"🐦 Sparrow Wallet: il nido sicuro per i tuoi sats","tags":["Bitcoin","Wallet","Desktop","SelfCustody","Privacy","CoinJoin"],"aliases":["Sparrow Wallet"],"date":"2025-07-09"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/economia/effetto-cantillon/","title":"💸 L'effetto Cantillon: il denaro non è neutrale","tags":["Economia","Inflazione","Bitcoin","Cantillon","Moneta","Disuguaglianza"]}
+{"dg-publish":true,"permalink":"/bitcoin/economia/effetto-cantillon/","title":"💸 L'effetto Cantillon: il denaro non è neutrale","tags":["Economia","Inflazione","Bitcoin","Cantillon","Moneta","Disuguaglianza"],"dg-note-properties":{"title":"💸 L'effetto Cantillon: il denaro non è neutrale","tags":["Economia","Inflazione","Bitcoin","Cantillon","Moneta","Disuguaglianza"],"date":"2025-07-10"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/wallet/hardware-wallet/hardware-wallet/","title":"🔐 Hardware Wallet: la cassaforte fisica per i tuoi bitcoin","tags":["Bitcoin","Wallet","Hardware","ColdStorage","SelfCustody","Sicurezza"]}
+{"dg-publish":true,"permalink":"/bitcoin/wallet/hardware-wallet/hardware-wallet/","title":"🔐 Hardware Wallet: la cassaforte fisica per i tuoi bitcoin","tags":["Bitcoin","Wallet","Hardware","ColdStorage","SelfCustody","Sicurezza"],"dg-note-properties":{"title":"🔐 Hardware Wallet: la cassaforte fisica per i tuoi bitcoin","tags":["Bitcoin","Wallet","Hardware","ColdStorage","SelfCustody","Sicurezza"],"date":"2025-12-02"}}
 ---
 
 

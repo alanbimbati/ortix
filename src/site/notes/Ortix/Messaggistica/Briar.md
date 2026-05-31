@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ortix/messaggistica/briar/"}
+{"dg-publish":true,"permalink":"/ortix/messaggistica/briar/","dg-note-properties":{}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/lightning-network/layer-2/","title":"🧱 Layer 2: la seconda corsia del protocollo Bitcoin","tags":["Bitcoin","Layer2","Lightning","Scalabilità","Sicurezza","Trilemma"]}
+{"dg-publish":true,"permalink":"/bitcoin/lightning-network/layer-2/","title":"🧱 Layer 2: la seconda corsia del protocollo Bitcoin","tags":["Bitcoin","Layer2","Lightning","Scalabilità","Sicurezza","Trilemma"],"dg-note-properties":{"title":"🧱 Layer 2: la seconda corsia del protocollo Bitcoin","tags":["Bitcoin","Layer2","Lightning","Scalabilità","Sicurezza","Trilemma"],"date":"2025-07-09"}}
 ---
 
 

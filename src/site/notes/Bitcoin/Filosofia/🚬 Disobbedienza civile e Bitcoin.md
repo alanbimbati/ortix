@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/filosofia/disobbedienza-civile-e-bitcoin/","title":"Disobbedienza civile e Bitcoin","tags":["Bitcoin","Filosofia","DisobbedienzaCivile"]}
+{"dg-publish":true,"permalink":"/bitcoin/filosofia/disobbedienza-civile-e-bitcoin/","title":"Disobbedienza civile e Bitcoin","tags":["Bitcoin","Filosofia","DisobbedienzaCivile"],"dg-note-properties":{"title":"Disobbedienza civile e Bitcoin","tags":["Bitcoin","Filosofia","DisobbedienzaCivile"],"date":"2025-12-26"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/politica/comunismo/","title":"🔴 Comunismo: quando nessuno è responsabile","tags":["filosofia-politica","economia","comunismo","proprietà","incentivi","digital-garden"]}
+{"dg-publish":true,"permalink":"/politica/comunismo/","title":"🔴 Comunismo: quando nessuno è responsabile","tags":["filosofia-politica","economia","comunismo","proprietà","incentivi","digital-garden"],"dg-note-properties":{"title":"🔴 Comunismo: quando nessuno è responsabile","tags":["filosofia-politica","economia","comunismo","proprietà","incentivi","digital-garden"],"aliases":["Comunismo","Socialismo","Collettivismo"]}}
 ---
 
 

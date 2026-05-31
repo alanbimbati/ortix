@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data-career/job-definition/data-entry/","title":"Il paradosso del Data Entry","tags":["data-career","data-entry","etica-dati","big-tech","AI"]}
+{"dg-publish":true,"permalink":"/data-career/job-definition/data-entry/","title":"Il paradosso del Data Entry","tags":["data-career","data-entry","etica-dati","big-tech","AI"],"dg-note-properties":{"title":"Il paradosso del Data Entry","tags":["data-career","data-entry","etica-dati","big-tech","AI"],"date":"2025-08-01","summary":"Tutti vogliono fare gli analisti, ma i dati non si creano da soli. Il lavoro di data entry è la base di tutto, spesso svolto gratis da milioni di persone ignare. È ora di riconoscerne il valore."}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/guide-e-consigli/come-creare-un-wallet-non-custodial/","title":"Come creare un Wallet (non custodial)","tags":["Bitcoin","Wallet","SelfCustody","Guide"]}
+{"dg-publish":true,"permalink":"/bitcoin/guide-e-consigli/come-creare-un-wallet-non-custodial/","title":"Come creare un Wallet (non custodial)","tags":["Bitcoin","Wallet","SelfCustody","Guide"],"dg-note-properties":{"title":"Come creare un Wallet (non custodial)","tags":["Bitcoin","Wallet","SelfCustody","Guide"],"date":"2023-12-13"}}
 ---
 
 

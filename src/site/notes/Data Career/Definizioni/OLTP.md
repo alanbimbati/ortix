@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data-career/definizioni/oltp/","title":"OLTP vs OLAP","tags":["OLTP","OLAP","Database","Architettura","Definizioni"]}
+{"dg-publish":true,"permalink":"/data-career/definizioni/oltp/","title":"OLTP vs OLAP","tags":["OLTP","OLAP","Database","Architettura","Definizioni"],"dg-note-properties":{"title":"OLTP vs OLAP","tags":["OLTP","OLAP","Database","Architettura","Definizioni"],"date":"2025-08-01","summary":"Differenza tra sistemi transazionali (OLTP) progettati per l'operatività quotidiana e sistemi analitici (OLAP) progettati per l'analisi dei dati e il reporting."}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data-career/job-definition/data-scientist/","title":"Chi è il Data Scientist","tags":["data-science","machine-learning","statistica","AI","data-career"]}
+{"dg-publish":true,"permalink":"/data-career/job-definition/data-scientist/","title":"Chi è il Data Scientist","tags":["data-science","machine-learning","statistica","AI","data-career"],"dg-note-properties":{"title":"Chi è il Data Scientist","tags":["data-science","machine-learning","statistica","AI","data-career"],"date":"2025-08-01","summary":"Il Data Scientist analizza i dati e costruisce modelli predittivi. È il professionista che trasforma dati grezzi in conoscenza utile per il business, attraverso statistica e machine learning."}}
 ---
 
 

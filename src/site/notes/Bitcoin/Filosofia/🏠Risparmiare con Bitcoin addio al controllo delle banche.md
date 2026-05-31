@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/filosofia/risparmiare-con-bitcoin-addio-al-controllo-delle-banche/","title":"🏠 Risparmiare con Bitcoin: addio al controllo delle banche","tags":["Bitcoin","Risparmio","Debito","Banche","Inflazione","Sovranità"]}
+{"dg-publish":true,"permalink":"/bitcoin/filosofia/risparmiare-con-bitcoin-addio-al-controllo-delle-banche/","title":"🏠 Risparmiare con Bitcoin: addio al controllo delle banche","tags":["Bitcoin","Risparmio","Debito","Banche","Inflazione","Sovranità"],"dg-note-properties":{"title":"🏠 Risparmiare con Bitcoin: addio al controllo delle banche","tags":["Bitcoin","Risparmio","Debito","Banche","Inflazione","Sovranità"],"date":"2024-12-26"}}
 ---
 
 

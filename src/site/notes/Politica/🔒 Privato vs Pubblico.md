@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/politica/privato-vs-pubblico/","title":"🔒 Privato vs Pubblico: chi decide, incentivi e responsabilità","tags":["filosofia-politica","economia","libertà","proprietà","incentivi","digital-garden"]}
+{"dg-publish":true,"permalink":"/politica/privato-vs-pubblico/","title":"🔒 Privato vs Pubblico: chi decide, incentivi e responsabilità","tags":["filosofia-politica","economia","libertà","proprietà","incentivi","digital-garden"],"dg-note-properties":{"title":"🔒 Privato vs Pubblico: chi decide, incentivi e responsabilità","tags":["filosofia-politica","economia","libertà","proprietà","incentivi","digital-garden"],"aliases":["Privato vs Pubblico","Proprietà e incentivi"]}}
 ---
 
 

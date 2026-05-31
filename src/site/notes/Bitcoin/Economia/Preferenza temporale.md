@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/economia/preferenza-temporale/","title":"📅 Preferenza temporale: uovo oggi o gallina domani?","tags":["economia","preferenza-temporale","bitcoin","fiat","tempo","capitale"]}
+{"dg-publish":true,"permalink":"/bitcoin/economia/preferenza-temporale/","title":"📅 Preferenza temporale: uovo oggi o gallina domani?","tags":["economia","preferenza-temporale","bitcoin","fiat","tempo","capitale"],"dg-note-properties":{"title":"📅 Preferenza temporale: uovo oggi o gallina domani?","date":"2025-07-15","tags":["economia","preferenza-temporale","bitcoin","fiat","tempo","capitale"],"aliases":["Low time preference","High time preference","Orizzonte temporale"]}}
 ---
 
 

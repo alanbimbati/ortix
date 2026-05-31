@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/definizioni/blockchain/mempool/","title":"Mempool: la sala d'attesa di Bitcoin","tags":["Bitcoin","Tecnologia","Blockchain","Transazioni"]}
+{"dg-publish":true,"permalink":"/bitcoin/definizioni/blockchain/mempool/","title":"Mempool: la sala d'attesa di Bitcoin","tags":["Bitcoin","Tecnologia","Blockchain","Transazioni"],"dg-note-properties":{"title":"Mempool: la sala d'attesa di Bitcoin","tags":["Bitcoin","Tecnologia","Blockchain","Transazioni"],"date":"2025-12-26","aliases":["Mempool"]}}
 ---
 
 

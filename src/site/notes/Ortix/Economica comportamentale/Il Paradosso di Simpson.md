@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ortix/economica-comportamentale/il-paradosso-di-simpson/","title":"📊 Il Paradosso di Simpson: quando i dati mentono","tags":["Statistica","PensieroCritico","Dati","SimpsonParadox","Manipolazione"]}
+{"dg-publish":true,"permalink":"/ortix/economica-comportamentale/il-paradosso-di-simpson/","title":"📊 Il Paradosso di Simpson: quando i dati mentono","tags":["Statistica","PensieroCritico","Dati","SimpsonParadox","Manipolazione"],"dg-note-properties":{"title":"📊 Il Paradosso di Simpson: quando i dati mentono","tags":["Statistica","PensieroCritico","Dati","SimpsonParadox","Manipolazione"],"date":"2025-07-15"}}
 ---
 
 

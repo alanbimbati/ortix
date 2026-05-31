@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/economia/gli-effetti-perversi-degli-incentivi/"}
+{"dg-publish":true,"permalink":"/bitcoin/economia/gli-effetti-perversi-degli-incentivi/","dg-note-properties":{"date":"2025-08-02"}}
 ---
 
 

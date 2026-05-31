@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/guide-e-consigli/3-come-scegliere-il-wallet-giusto-per-te/","title":"Come scegliere il wallet giusto per te","tags":["Bitcoin","Wallet","Guide"]}
+{"dg-publish":true,"permalink":"/bitcoin/guide-e-consigli/3-come-scegliere-il-wallet-giusto-per-te/","title":"Come scegliere il wallet giusto per te","tags":["Bitcoin","Wallet","Guide"],"dg-note-properties":{"title":"Come scegliere il wallet giusto per te","tags":["Bitcoin","Wallet","Guide"],"date":"2024-08-23"}}
 ---
 
 

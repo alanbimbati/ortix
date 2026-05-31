@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/definizioni/blockchain/seed-phrase/","title":"🧠 Seed Phrase: 12 parole per tutta la tua libertà","tags":["Bitcoin","Wallet","SeedPhrase","SelfCustody","Sicurezza","ColdStorage"]}
+{"dg-publish":true,"permalink":"/bitcoin/definizioni/blockchain/seed-phrase/","title":"🧠 Seed Phrase: 12 parole per tutta la tua libertà","tags":["Bitcoin","Wallet","SeedPhrase","SelfCustody","Sicurezza","ColdStorage"],"dg-note-properties":{"title":"🧠 Seed Phrase: 12 parole per tutta la tua libertà","tags":["Bitcoin","Wallet","SeedPhrase","SelfCustody","Sicurezza","ColdStorage"],"date":"2025-07-09"}}
 ---
 
 

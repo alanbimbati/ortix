@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ortix/office/libre-office/","tags":["libreoffice","sovranità-digitale","open-source","software-libero","alternativa-office"]}
+{"dg-publish":true,"permalink":"/ortix/office/libre-office/","tags":["libreoffice","sovranità-digitale","open-source","software-libero","alternativa-office"],"dg-note-properties":{"tags":["libreoffice","sovranità-digitale","open-source","software-libero","alternativa-office"]}}
 ---
 
 

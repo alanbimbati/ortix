@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/p2-p/strumenti/bitcoin-voucher-bot/","title":"🤖 BitcoinVoucherBot","tags":["Bitcoin","P2P","Telegram","Voucher","No-KYC"]}
+{"dg-publish":true,"permalink":"/bitcoin/p2-p/strumenti/bitcoin-voucher-bot/","title":"🤖 BitcoinVoucherBot","tags":["Bitcoin","P2P","Telegram","Voucher","No-KYC"],"dg-note-properties":{"title":"🤖 BitcoinVoucherBot","tags":["Bitcoin","P2P","Telegram","Voucher","No-KYC"],"date":"2026-01-26"}}
 ---
 
 

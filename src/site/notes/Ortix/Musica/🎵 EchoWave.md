@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ortix/musica/echo-wave/","title":"🎵 EchoWave: musica da YouTube, senza pubblicità né abbonamenti","tags":["EchoWave","Musica","SovranitàDigitale","OpenSource","Android","Offline","YouTube"]}
+{"dg-publish":true,"permalink":"/ortix/musica/echo-wave/","title":"🎵 EchoWave: musica da YouTube, senza pubblicità né abbonamenti","tags":["EchoWave","Musica","SovranitàDigitale","OpenSource","Android","Offline","YouTube"],"dg-note-properties":{"title":"🎵 EchoWave: musica da YouTube, senza pubblicità né abbonamenti","tags":["EchoWave","Musica","SovranitàDigitale","OpenSource","Android","Offline","YouTube"],"date":"2025-07-10"}}
 ---
 
 

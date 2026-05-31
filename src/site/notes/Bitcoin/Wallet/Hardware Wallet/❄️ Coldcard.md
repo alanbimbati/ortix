@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/wallet/hardware-wallet/coldcard/","title":"❄️ Coldcard: la cassaforte digitale per Bitcoiner seri","tags":["Bitcoin","Wallet","Hardware","ColdStorage","SelfCustody","PSBT"]}
+{"dg-publish":true,"permalink":"/bitcoin/wallet/hardware-wallet/coldcard/","title":"❄️ Coldcard: la cassaforte digitale per Bitcoiner seri","tags":["Bitcoin","Wallet","Hardware","ColdStorage","SelfCustody","PSBT"],"dg-note-properties":{"title":"❄️ Coldcard: la cassaforte digitale per Bitcoiner seri","tags":["Bitcoin","Wallet","Hardware","ColdStorage","SelfCustody","PSBT"],"date":"2025-07-09"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/filosofia/evita-gli-exchange/","title":"🚫 Evita gli exchange: custodisci tu i tuoi Bitcoin","tags":["Bitcoin","Exchange","SelfCustody","Sicurezza","FTX","ChiaviPrivate"]}
+{"dg-publish":true,"permalink":"/bitcoin/filosofia/evita-gli-exchange/","title":"🚫 Evita gli exchange: custodisci tu i tuoi Bitcoin","tags":["Bitcoin","Exchange","SelfCustody","Sicurezza","FTX","ChiaviPrivate"],"dg-note-properties":{"title":"🚫 Evita gli exchange: custodisci tu i tuoi Bitcoin","tags":["Bitcoin","Exchange","SelfCustody","Sicurezza","FTX","ChiaviPrivate"],"date":"2023-12-06"}}
 ---
 
 

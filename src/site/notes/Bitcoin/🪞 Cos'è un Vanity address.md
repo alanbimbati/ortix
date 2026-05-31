@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/cos-e-un-vanity-address/","title":"Cos'è un Vanity address","tags":["Bitcoin","Curiosità","Indirizzi"]}
+{"dg-publish":true,"permalink":"/bitcoin/cos-e-un-vanity-address/","title":"Cos'è un Vanity address","tags":["Bitcoin","Curiosità","Indirizzi"],"dg-note-properties":{"title":"Cos'è un Vanity address","tags":["Bitcoin","Curiosità","Indirizzi"],"date":"2025-12-26"}}
 ---
 
 

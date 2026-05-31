@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/economia/il-sistema-pensionistico/","title":"🎰 Il sistema pensionistico, uno schema ponzi legalizzato?","tags":["Bitcoin","Pensioni","Ponzi","Inflazione","Sicurezza","Sovranità"]}
+{"dg-publish":true,"permalink":"/bitcoin/economia/il-sistema-pensionistico/","title":"🎰 Il sistema pensionistico, uno schema ponzi legalizzato?","tags":["Bitcoin","Pensioni","Ponzi","Inflazione","Sicurezza","Sovranità"],"dg-note-properties":{"title":"🎰 Il sistema pensionistico, uno schema ponzi legalizzato?","tags":["Bitcoin","Pensioni","Ponzi","Inflazione","Sicurezza","Sovranità"],"date":"2025-02-06"}}
 ---
 
 

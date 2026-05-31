@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/libertarismo/libertarismo/","title":"Libertarismo: la filosofia della libertà assoluta","tags":["Libertarismo","Filosofia","Bitcoin","NAP","ProprietàPrivata"]}
+{"dg-publish":true,"permalink":"/bitcoin/libertarismo/libertarismo/","title":"Libertarismo: la filosofia della libertà assoluta","tags":["Libertarismo","Filosofia","Bitcoin","NAP","ProprietàPrivata"],"dg-note-properties":{"title":"Libertarismo: la filosofia della libertà assoluta","tags":["Libertarismo","Filosofia","Bitcoin","NAP","ProprietàPrivata"],"date":"2025-12-26","aliases":["Libertarismo","Anarco-Capitalismo"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/filosofia/quis-custodiet-ipsos-custodes/","title":"Quis custodiet ipsos custodes?","tags":["filosofia","politica","sovranità","bitcoin","citazioni"]}
+{"dg-publish":true,"permalink":"/bitcoin/filosofia/quis-custodiet-ipsos-custodes/","title":"Quis custodiet ipsos custodes?","tags":["filosofia","politica","sovranità","bitcoin","citazioni"],"dg-note-properties":{"title":"Quis custodiet ipsos custodes?","aliases":["chi sorveglia i sorveglianti","giovenale","potere incontrollato"],"tags":["filosofia","politica","sovranità","bitcoin","citazioni"],"date":"2025-07-29"}}
 ---
 
 

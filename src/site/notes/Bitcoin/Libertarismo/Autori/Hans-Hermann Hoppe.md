@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/libertarismo/autori/hans-hermann-hoppe/","title":"Hans-Hermann Hoppe: la democrazia ha fallito","tags":["Libertarismo","Filosofia","Hoppe","Democrazia","EticaArgomentativa"]}
+{"dg-publish":true,"permalink":"/bitcoin/libertarismo/autori/hans-hermann-hoppe/","title":"Hans-Hermann Hoppe: la democrazia ha fallito","tags":["Libertarismo","Filosofia","Hoppe","Democrazia","EticaArgomentativa"],"dg-note-properties":{"title":"Hans-Hermann Hoppe: la democrazia ha fallito","tags":["Libertarismo","Filosofia","Hoppe","Democrazia","EticaArgomentativa"],"date":"2025-12-26","aliases":["Hans-Hermann Hoppe","Hoppe"]}}
 ---
 
 

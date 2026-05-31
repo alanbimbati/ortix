@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/bitcoin-dal-punto-di-vista-tecnologico/","title":"🔧 Bitcoin dal punto di vista tecnologico","tags":["Bitcoin","Tecnologia","Blockchain","Crittografia","ProofOfWork","Nodi"]}
+{"dg-publish":true,"permalink":"/bitcoin/bitcoin-dal-punto-di-vista-tecnologico/","title":"🔧 Bitcoin dal punto di vista tecnologico","tags":["Bitcoin","Tecnologia","Blockchain","Crittografia","ProofOfWork","Nodi"],"dg-note-properties":{"title":"🔧 Bitcoin dal punto di vista tecnologico","tags":["Bitcoin","Tecnologia","Blockchain","Crittografia","ProofOfWork","Nodi"],"date":"2025-12-24"}}
 ---
 
 

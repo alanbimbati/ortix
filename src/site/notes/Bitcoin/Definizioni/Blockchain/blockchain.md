@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/definizioni/blockchain/blockchain/","title":"Blockchain","tags":["bitcoin","blockchain","decentralizzazione","tecnologia","sovranità-digitale"]}
+{"dg-publish":true,"permalink":"/bitcoin/definizioni/blockchain/blockchain/","title":"Blockchain","tags":["bitcoin","blockchain","decentralizzazione","tecnologia","sovranità-digitale"],"dg-note-properties":{"title":"Blockchain","date":"2025-07-15","tags":["bitcoin","blockchain","decentralizzazione","tecnologia","sovranità-digitale"],"aliases":["Catena di blocchi","Tecnologia Blockchain"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ortix/economica-comportamentale/percezioni-indotte-tra-scaffali-e-frequenze-radio/","title":"Percezioni indotte tra scaffali e frequenze radio","tags":["media","propaganda","bias-cognitivi","ingegneria-del-pensiero","consapevolezza","sovranità-mentale"]}
+{"dg-publish":true,"permalink":"/ortix/economica-comportamentale/percezioni-indotte-tra-scaffali-e-frequenze-radio/","title":"Percezioni indotte tra scaffali e frequenze radio","tags":["media","propaganda","bias-cognitivi","ingegneria-del-pensiero","consapevolezza","sovranità-mentale"],"dg-note-properties":{"title":"Percezioni indotte tra scaffali e frequenze radio","date":"2025-12-13","tags":["media","propaganda","bias-cognitivi","ingegneria-del-pensiero","consapevolezza","sovranità-mentale"],"description":"Due notizie apparentemente scollegate ascoltate al supermercato diventano un esempio concreto di come i media influenzino percezioni, emozioni e senso di impotenza."}}
 ---
 
 

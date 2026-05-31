@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/economia/stato-e-moneta/","title":"🏛️ Stato e Moneta: un matrimonio forzato che paghiamo noi","tags":["Bitcoin","Stato","Moneta","Inflazione","Potere","Economia"]}
+{"dg-publish":true,"permalink":"/bitcoin/economia/stato-e-moneta/","title":"🏛️ Stato e Moneta: un matrimonio forzato che paghiamo noi","tags":["Bitcoin","Stato","Moneta","Inflazione","Potere","Economia"],"dg-note-properties":{"title":"🏛️ Stato e Moneta: un matrimonio forzato che paghiamo noi","tags":["Bitcoin","Stato","Moneta","Inflazione","Potere","Economia"],"date":"2025-07-09"}}
 ---
 
 

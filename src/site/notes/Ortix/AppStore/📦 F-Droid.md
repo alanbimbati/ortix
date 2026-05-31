@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ortix/app-store/f-droid/","title":"📦 F-Droid: lo store alternativo per app open source","tags":["F-Droid","Android","OpenSource","Privacy","SovranitàDigitale","App"]}
+{"dg-publish":true,"permalink":"/ortix/app-store/f-droid/","title":"📦 F-Droid: lo store alternativo per app open source","tags":["F-Droid","Android","OpenSource","Privacy","SovranitàDigitale","App"],"dg-note-properties":{"title":"📦 F-Droid: lo store alternativo per app open source","tags":["F-Droid","Android","OpenSource","Privacy","SovranitàDigitale","App"],"date":"2025-07-10"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/wallet/hardware-wallet/passport/","title":"🔶 Passport: eleganza airgapped per Bitcoiner esigenti","tags":["Bitcoin","Wallet","Hardware","ColdStorage","SelfCustody","Airgap","BitcoinOnly","OpenSource"]}
+{"dg-publish":true,"permalink":"/bitcoin/wallet/hardware-wallet/passport/","title":"🔶 Passport: eleganza airgapped per Bitcoiner esigenti","tags":["Bitcoin","Wallet","Hardware","ColdStorage","SelfCustody","Airgap","BitcoinOnly","OpenSource"],"dg-note-properties":{"title":"🔶 Passport: eleganza airgapped per Bitcoiner esigenti","tags":["Bitcoin","Wallet","Hardware","ColdStorage","SelfCustody","Airgap","BitcoinOnly","OpenSource"],"date":"2025-12-02"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/satoshi-nakamoto/","title":"👤 Satoshi Nakamoto: il creatore anonimo di Bitcoin","tags":["Bitcoin","SatoshiNakamoto","Storia","Decentralizzazione","Anonimato","Filosofia"]}
+{"dg-publish":true,"permalink":"/bitcoin/satoshi-nakamoto/","title":"👤 Satoshi Nakamoto: il creatore anonimo di Bitcoin","tags":["Bitcoin","SatoshiNakamoto","Storia","Decentralizzazione","Anonimato","Filosofia"],"dg-note-properties":{"title":"👤 Satoshi Nakamoto: il creatore anonimo di Bitcoin","tags":["Bitcoin","SatoshiNakamoto","Storia","Decentralizzazione","Anonimato","Filosofia"],"date":"2025-12-25"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/come-creare-un-wallet/metodo-3-crazione-di-un-wallet-livello-difficile/","title":"🥇 Metodo 3 — Crazione di un wallet Livello Difficile","tags":["bitcoin","wallet","onchain","seed","entropia","sicurezza","autonomia"]}
+{"dg-publish":true,"permalink":"/bitcoin/come-creare-un-wallet/metodo-3-crazione-di-un-wallet-livello-difficile/","title":"🥇 Metodo 3 — Crazione di un wallet Livello Difficile","tags":["bitcoin","wallet","onchain","seed","entropia","sicurezza","autonomia"],"dg-note-properties":{"title":"🥇 Metodo 3 — Crazione di un wallet Livello Difficile","tags":["bitcoin","wallet","onchain","seed","entropia","sicurezza","autonomia"],"status":"evergreen"}}
 ---
 
 

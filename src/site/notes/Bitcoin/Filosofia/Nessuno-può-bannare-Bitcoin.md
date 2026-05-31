@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/filosofia/nessuno-puo-bannare-bitcoin/","title":"Nessuno può bannare Bitcoin","tags":["Bitcoin","ResistenzaCensura","Decentralizzazione"]}
+{"dg-publish":true,"permalink":"/bitcoin/filosofia/nessuno-puo-bannare-bitcoin/","title":"Nessuno può bannare Bitcoin","tags":["Bitcoin","ResistenzaCensura","Decentralizzazione"],"dg-note-properties":{"title":"Nessuno può bannare Bitcoin","tags":["Bitcoin","ResistenzaCensura","Decentralizzazione"],"date":"2024-03-04"}}
 ---
 
 

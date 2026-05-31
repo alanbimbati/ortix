@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/definizioni/mining/il-mining-di-bitcoin-riduce-l-inquinamento/","title":"Il mining di Bitcoin riduce l'inquinamento","tags":["Bitcoin","Mining","Ambiente","ESG"]}
+{"dg-publish":true,"permalink":"/bitcoin/definizioni/mining/il-mining-di-bitcoin-riduce-l-inquinamento/","title":"Il mining di Bitcoin riduce l'inquinamento","tags":["Bitcoin","Mining","Ambiente","ESG"],"dg-note-properties":{"title":"Il mining di Bitcoin riduce l'inquinamento","tags":["Bitcoin","Mining","Ambiente","ESG"],"date":"2024-07-04"}}
 ---
 
 

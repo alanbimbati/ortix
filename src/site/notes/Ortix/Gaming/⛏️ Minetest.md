@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ortix/gaming/minetest/","tags":["gaming","open source","minetest","minecraft","sovranità digitale"]}
+{"dg-publish":true,"permalink":"/ortix/gaming/minetest/","tags":["gaming","open source","minetest","minecraft","sovranità digitale"],"dg-note-properties":{"tags":["gaming","open source","minetest","minecraft","sovranità digitale"],"alias":["minecraft open source","alternativa a minecraft","gioco libero"]}}
 ---
 
 

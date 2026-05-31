@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/wallet/software-wallet/wallet-of-satoshi/","title":"🟠 Wallet of Satoshi: Lightning per tutti (ma a che prezzo?)","tags":["Bitcoin","Lightning","Wallet","Custodial","Pagamenti","Privacy"]}
+{"dg-publish":true,"permalink":"/bitcoin/wallet/software-wallet/wallet-of-satoshi/","title":"🟠 Wallet of Satoshi: Lightning per tutti (ma a che prezzo?)","tags":["Bitcoin","Lightning","Wallet","Custodial","Pagamenti","Privacy"],"dg-note-properties":{"title":"🟠 Wallet of Satoshi: Lightning per tutti (ma a che prezzo?)","tags":["Bitcoin","Lightning","Wallet","Custodial","Pagamenti","Privacy"],"date":"2025-07-09"}}
 ---
 
 

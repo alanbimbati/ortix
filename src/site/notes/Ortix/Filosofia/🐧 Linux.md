@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ortix/filosofia/linux/","title":"Linux","tags":["linux","open-source","sovranità-digitale","windows","crowdstrike","sicurezza","privacy"]}
+{"dg-publish":true,"permalink":"/ortix/filosofia/linux/","title":"Linux","tags":["linux","open-source","sovranità-digitale","windows","crowdstrike","sicurezza","privacy"],"dg-note-properties":{"title":"Linux","tags":["linux","open-source","sovranità-digitale","windows","crowdstrike","sicurezza","privacy"],"aliases":["linux vs windows","passare a linux","microsoft problemi"]}}
 ---
 
 

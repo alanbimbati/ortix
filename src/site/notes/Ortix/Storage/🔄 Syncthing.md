@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ortix/storage/syncthing/","title":"🔄 Syncthing: sincronizza i tuoi dati senza server centrali","tags":["Syncthing","Privacy","Decentralizzazione","Backup","SelfCustody","OpenSource"]}
+{"dg-publish":true,"permalink":"/ortix/storage/syncthing/","title":"🔄 Syncthing: sincronizza i tuoi dati senza server centrali","tags":["Syncthing","Privacy","Decentralizzazione","Backup","SelfCustody","OpenSource"],"dg-note-properties":{"title":"🔄 Syncthing: sincronizza i tuoi dati senza server centrali","tags":["Syncthing","Privacy","Decentralizzazione","Backup","SelfCustody","OpenSource"],"date":"2025-07-09"}}
 ---
 
 

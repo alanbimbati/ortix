@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/economia/la-droga-monetaria/","title":"💉 La droga monetaria: il debito che distrugge l’economia","tags":["Bitcoin","Inflazione","Fiat","Debito","Economia","Sovranità"]}
+{"dg-publish":true,"permalink":"/bitcoin/economia/la-droga-monetaria/","title":"💉 La droga monetaria: il debito che distrugge l’economia","tags":["Bitcoin","Inflazione","Fiat","Debito","Economia","Sovranità"],"dg-note-properties":{"title":"💉 La droga monetaria: il debito che distrugge l’economia","tags":["Bitcoin","Inflazione","Fiat","Debito","Economia","Sovranità"],"date":"2024-11-26"}}
 ---
 
 

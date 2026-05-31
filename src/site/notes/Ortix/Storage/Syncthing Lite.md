@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ortix/storage/syncthing-lite/","title":"☁️ Il tuo cloud privato: sincronizzazione decentralizzata con Syncthing Lite","tags":["SovranitàDigitale","Syncthing","Sync","CloudPersonale","Privacy"]}
+{"dg-publish":true,"permalink":"/ortix/storage/syncthing-lite/","title":"☁️ Il tuo cloud privato: sincronizzazione decentralizzata con Syncthing Lite","tags":["SovranitàDigitale","Syncthing","Sync","CloudPersonale","Privacy"],"dg-note-properties":{"title":"☁️ Il tuo cloud privato: sincronizzazione decentralizzata con Syncthing Lite","tags":["SovranitàDigitale","Syncthing","Sync","CloudPersonale","Privacy"],"date":"2025-08-16"}}
 ---
 
 

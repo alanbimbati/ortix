@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/filosofia/bitcoin-non-e-possessibile/","title":"Bitcoin e il mito dell'accentramento impossibile","tags":["bitcoin","decentralizzazione","economia","filosofia-monetaria"]}
+{"dg-publish":true,"permalink":"/bitcoin/filosofia/bitcoin-non-e-possessibile/","title":"Bitcoin e il mito dell'accentramento impossibile","tags":["bitcoin","decentralizzazione","economia","filosofia-monetaria"],"dg-note-properties":{"title":"Bitcoin e il mito dell'accentramento impossibile","tags":["bitcoin","decentralizzazione","economia","filosofia-monetaria"],"author":"Obsidian Garden","created":"2025-12-10"}}
 ---
 
 

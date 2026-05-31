@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/wallet/hardware-wallet/trezor/","title":"🔴 Trezor: il pioniere open source","tags":["Bitcoin","Wallet","Hardware","ColdStorage","SelfCustody","OpenSource","Trezor"]}
+{"dg-publish":true,"permalink":"/bitcoin/wallet/hardware-wallet/trezor/","title":"🔴 Trezor: il pioniere open source","tags":["Bitcoin","Wallet","Hardware","ColdStorage","SelfCustody","OpenSource","Trezor"],"dg-note-properties":{"title":"🔴 Trezor: il pioniere open source","tags":["Bitcoin","Wallet","Hardware","ColdStorage","SelfCustody","OpenSource","Trezor"],"date":"2025-12-02"}}
 ---
 
 

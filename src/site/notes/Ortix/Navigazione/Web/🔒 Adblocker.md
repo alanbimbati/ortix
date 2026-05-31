@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ortix/navigazione/web/adblocker/","title":"🔒 Adblocker e Sovranità Digitale","tags":["privacy","sicurezza","foss","sovranità-digitale","strumenti"]}
+{"dg-publish":true,"permalink":"/ortix/navigazione/web/adblocker/","title":"🔒 Adblocker e Sovranità Digitale","tags":["privacy","sicurezza","foss","sovranità-digitale","strumenti"],"dg-note-properties":{"title":"🔒 Adblocker e Sovranità Digitale","tags":["privacy","sicurezza","foss","sovranità-digitale","strumenti"],"date":"2025-08-15","author":"Alan Bimbati","aliases":["adblock","adblocker","navigazione sicura"]}}
 ---
 
 

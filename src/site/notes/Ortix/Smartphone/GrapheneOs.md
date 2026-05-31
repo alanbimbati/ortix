@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ortix/smartphone/graphene-os/","title":"GrapheneOS","tags":["sovranità digitale","privacy","android","degoogling","sicurezza","software libero"]}
+{"dg-publish":true,"permalink":"/ortix/smartphone/graphene-os/","title":"GrapheneOS","tags":["sovranità digitale","privacy","android","degoogling","sicurezza","software libero"],"dg-note-properties":{"title":"GrapheneOS","aliases":["graphene","graphene os","sistema operativo sicuro android","android degooglizzato"],"tags":["sovranità digitale","privacy","android","degoogling","sicurezza","software libero"],"date":"2025-07-29"}}
 ---
 
 

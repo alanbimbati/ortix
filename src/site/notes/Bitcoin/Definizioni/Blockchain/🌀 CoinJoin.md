@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/definizioni/blockchain/coin-join/","title":"🌀 CoinJoin: la privacy è un diritto, non un sospetto","tags":["Bitcoin","Privacy","CoinJoin","SelfCustody","SparrowWallet"]}
+{"dg-publish":true,"permalink":"/bitcoin/definizioni/blockchain/coin-join/","title":"🌀 CoinJoin: la privacy è un diritto, non un sospetto","tags":["Bitcoin","Privacy","CoinJoin","SelfCustody","SparrowWallet"],"dg-note-properties":{"title":"🌀 CoinJoin: la privacy è un diritto, non un sospetto","tags":["Bitcoin","Privacy","CoinJoin","SelfCustody","SparrowWallet"],"aliases":["CoinJoin"],"date":"2025-07-09"}}
 ---
 
 

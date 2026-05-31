@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data-career/definizioni/data-loss-prevention-and-detection/"}
+{"dg-publish":true,"permalink":"/data-career/definizioni/data-loss-prevention-and-detection/","dg-note-properties":{}}
 ---
 
 

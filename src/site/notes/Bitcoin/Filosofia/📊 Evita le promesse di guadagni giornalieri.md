@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/filosofia/evita-le-promesse-di-guadagni-giornalieri/","title":"📊 Evita le promesse di guadagni giornalieri","tags":["Bitcoin","Truffe","Staking","EducazioneFinanziaria","Inflazione","RiservaDiValore"]}
+{"dg-publish":true,"permalink":"/bitcoin/filosofia/evita-le-promesse-di-guadagni-giornalieri/","title":"📊 Evita le promesse di guadagni giornalieri","tags":["Bitcoin","Truffe","Staking","EducazioneFinanziaria","Inflazione","RiservaDiValore"],"dg-note-properties":{"title":"📊 Evita le promesse di guadagni giornalieri","tags":["Bitcoin","Truffe","Staking","EducazioneFinanziaria","Inflazione","RiservaDiValore"],"date":"2023-12-20"}}
 ---
 
 

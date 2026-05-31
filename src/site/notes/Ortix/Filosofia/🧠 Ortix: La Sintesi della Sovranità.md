@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/ortix/filosofia/ortix-la-sintesi-della-sovranita/","title":"🧠 Ortix: La Sintesi della Sovranità","tags":["Filosofia","Sovranità","Libertarismo","Bitcoin","CBT","Ortix"]}
+{"dg-publish":true,"permalink":"/ortix/filosofia/ortix-la-sintesi-della-sovranita/","title":"🧠 Ortix: La Sintesi della Sovranità","tags":["Filosofia","Sovranità","Libertarismo","Bitcoin","CBT","Ortix"],"dg-note-properties":{"title":"🧠 Ortix: La Sintesi della Sovranità","tags":["Filosofia","Sovranità","Libertarismo","Bitcoin","CBT","Ortix"],"date":"2026-01-26"}}
 ---
 
 
 # 🧠 Ortix: La Sintesi della Sovranità
+
 
 La filosofia di **Ortix** non è un insieme di strumenti isolati, ma un percorso coerente verso la **Sovranità Individuale**. 
 

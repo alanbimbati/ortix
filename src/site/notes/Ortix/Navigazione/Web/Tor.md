@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ortix/navigazione/web/tor/","title":"🌐 Tor navigare liberi e anonimi","tags":["privacy","tor","sovranità-digitale","darknet","sicurezza"]}
+{"dg-publish":true,"permalink":"/ortix/navigazione/web/tor/","title":"🌐 Tor navigare liberi e anonimi","tags":["privacy","tor","sovranità-digitale","darknet","sicurezza"],"dg-note-properties":{"title":"🌐 Tor navigare liberi e anonimi","tags":["privacy","tor","sovranità-digitale","darknet","sicurezza"],"date":"2025-08-15","aliases":["The Onion Router","Tor Browser"]}}
 ---
 
 

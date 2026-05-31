@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/guide-e-consigli/acquistare-bitcoin/","title":"Acquistare Bitcoin: KYC vs No-KYC","tags":["bitcoin","privacy","finanza","sicurezza-digitale"]}
+{"dg-publish":true,"permalink":"/bitcoin/guide-e-consigli/acquistare-bitcoin/","title":"Acquistare Bitcoin: KYC vs No-KYC","tags":["bitcoin","privacy","finanza","sicurezza-digitale"],"dg-note-properties":{"title":"Acquistare Bitcoin: KYC vs No-KYC","tags":["bitcoin","privacy","finanza","sicurezza-digitale"],"created":"2025-12-07","publish":true,"description":"Una guida elegante e approfondita su come acquistare Bitcoin, distinguendo tra metodi KYC e no-KYC, inclusi P2P centralizzati e decentralizzati."}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/economia/inflazione/","title":"📉 Inflazione: la tassa nascosta che ci impoverisce tutti","tags":["Bitcoin","Inflazione","Economia","Fiat","Risparmio","Libertà"]}
+{"dg-publish":true,"permalink":"/bitcoin/economia/inflazione/","title":"📉 Inflazione: la tassa nascosta che ci impoverisce tutti","tags":["Bitcoin","Inflazione","Economia","Fiat","Risparmio","Libertà"],"dg-note-properties":{"title":"📉 Inflazione: la tassa nascosta che ci impoverisce tutti","tags":["Bitcoin","Inflazione","Economia","Fiat","Risparmio","Libertà"],"date":"2025-07-09"}}
 ---
 
 

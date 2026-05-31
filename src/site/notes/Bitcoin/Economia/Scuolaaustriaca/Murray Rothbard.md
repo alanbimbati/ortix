@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/economia/scuolaaustriaca/murray-rothbard/","title":"Murray Rothbard: il padre dell'Anarco-Capitalismo","tags":["ScuolaAustriaca","Libertarismo","AnarcoCapitalismo","Economia","Storia"]}
+{"dg-publish":true,"permalink":"/bitcoin/economia/scuolaaustriaca/murray-rothbard/","title":"Murray Rothbard: il padre dell'Anarco-Capitalismo","tags":["ScuolaAustriaca","Libertarismo","AnarcoCapitalismo","Economia","Storia"],"dg-note-properties":{"title":"Murray Rothbard: il padre dell'Anarco-Capitalismo","tags":["ScuolaAustriaca","Libertarismo","AnarcoCapitalismo","Economia","Storia"],"date":"2024-07-12","aliases":["Murray Rothbard","Rothbard"]}}
 ---
 
 

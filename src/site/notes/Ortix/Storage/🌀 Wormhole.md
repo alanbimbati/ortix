@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ortix/storage/wormhole/","title":"Wormhole – Invio di file e cartelle, una volta sola","tags":["privacy","file-sharing","decentralizzazione","alternative","sicurezza","digital-garden"]}
+{"dg-publish":true,"permalink":"/ortix/storage/wormhole/","title":"Wormhole – Invio di file e cartelle, una volta sola","tags":["privacy","file-sharing","decentralizzazione","alternative","sicurezza","digital-garden"],"dg-note-properties":{"title":"Wormhole – Invio di file e cartelle, una volta sola","description":"Condividere file e cartelle in modo effimero, privato e senza intermediari permanenti grazie a Wormhole.","tags":["privacy","file-sharing","decentralizzazione","alternative","sicurezza","digital-garden"],"created":"2025-12-17","updated":"2025-12-17"}}
 ---
 
 	

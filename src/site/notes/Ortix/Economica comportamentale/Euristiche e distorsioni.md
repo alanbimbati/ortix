@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ortix/economica-comportamentale/euristiche-e-distorsioni/","title":"Euristiche e distorsioni nell'economia comportamentale","tags":["psicologia","economia","bias","decisioni","comportamento","libertà individuale"]}
+{"dg-publish":true,"permalink":"/ortix/economica-comportamentale/euristiche-e-distorsioni/","title":"Euristiche e distorsioni nell'economia comportamentale","tags":["psicologia","economia","bias","decisioni","comportamento","libertà individuale"],"dg-note-properties":{"title":"Euristiche e distorsioni nell'economia comportamentale","aliases":["economia comportamentale","heuristics","bias cognitivi","Kahneman","Tversky"],"tags":["psicologia","economia","bias","decisioni","comportamento","libertà individuale"],"date":"2025-07-29"}}
 ---
 
 

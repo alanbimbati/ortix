@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ortix/filosofia/fecondazione-artificiale/"}
+{"dg-publish":true,"permalink":"/ortix/filosofia/fecondazione-artificiale/","dg-note-properties":{}}
 ---
 
 

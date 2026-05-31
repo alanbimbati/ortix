@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/cronologia-di-bitcoin/","title":"📜 Cronologia essenziale: dal Gold Standard a Bitcoin","tags":["Moneta","Bitcoin","Decentralizzazione","EconomiaAustriaca","Cypherpunk","Storia"]}
+{"dg-publish":true,"permalink":"/bitcoin/cronologia-di-bitcoin/","title":"📜 Cronologia essenziale: dal Gold Standard a Bitcoin","tags":["Moneta","Bitcoin","Decentralizzazione","EconomiaAustriaca","Cypherpunk","Storia"],"dg-note-properties":{"title":"📜 Cronologia essenziale: dal Gold Standard a Bitcoin","date":"2025-08-09","tags":["Moneta","Bitcoin","Decentralizzazione","EconomiaAustriaca","Cypherpunk","Storia"],"aliases":["Timeline moneta e Bitcoin","Storia della moneta e decentralizzazione"]}}
 ---
 
 

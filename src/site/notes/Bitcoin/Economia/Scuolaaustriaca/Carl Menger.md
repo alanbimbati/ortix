@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/economia/scuolaaustriaca/carl-menger/","title":"Carl Menger: il fondatore della Scuola Austriaca","tags":["Bitcoin","Economia","ScuolaAustriaca","CarlMenger","Valore","Marginalismo"]}
+{"dg-publish":true,"permalink":"/bitcoin/economia/scuolaaustriaca/carl-menger/","title":"Carl Menger: il fondatore della Scuola Austriaca","tags":["Bitcoin","Economia","ScuolaAustriaca","CarlMenger","Valore","Marginalismo"],"dg-note-properties":{"title":"Carl Menger: il fondatore della Scuola Austriaca","tags":["Bitcoin","Economia","ScuolaAustriaca","CarlMenger","Valore","Marginalismo"],"date":"2025-12-25"}}
 ---
 
 

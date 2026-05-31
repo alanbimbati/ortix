@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/definizioni/blockchain/multisig/","title":"🔐 Multisig: la forza del gruppo nella custodia Bitcoin","tags":["Bitcoin","Multisig","Sicurezza","SelfCustody","Wallet"]}
+{"dg-publish":true,"permalink":"/bitcoin/definizioni/blockchain/multisig/","title":"🔐 Multisig: la forza del gruppo nella custodia Bitcoin","tags":["Bitcoin","Multisig","Sicurezza","SelfCustody","Wallet"],"dg-note-properties":{"title":"🔐 Multisig: la forza del gruppo nella custodia Bitcoin","tags":["Bitcoin","Multisig","Sicurezza","SelfCustody","Wallet"],"date":"2025-07-09"}}
 ---
 
 

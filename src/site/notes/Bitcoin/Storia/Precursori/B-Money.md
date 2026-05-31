@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/storia/precursori/b-money/","title":"B-Money: la visione di Wei Dai","tags":["Bitcoin","Precursori","Storia","Cypherpunk"]}
+{"dg-publish":true,"permalink":"/bitcoin/storia/precursori/b-money/","title":"B-Money: la visione di Wei Dai","tags":["Bitcoin","Precursori","Storia","Cypherpunk"],"dg-note-properties":{"title":"B-Money: la visione di Wei Dai","tags":["Bitcoin","Precursori","Storia","Cypherpunk"],"date":"2025-12-26","aliases":["B-Money"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ortix/filosofia/keep-android-open-difendere-la-sovranita-del-dispositivo/","title":"📱 Keep Android Open — Difendere la Sovranità del Dispositivo","tags":["Android","SovranitàDigitale","OpenSource","LibertàDigitale","Google","FOSS"]}
+{"dg-publish":true,"permalink":"/ortix/filosofia/keep-android-open-difendere-la-sovranita-del-dispositivo/","title":"📱 Keep Android Open — Difendere la Sovranità del Dispositivo","tags":["Android","SovranitàDigitale","OpenSource","LibertàDigitale","Google","FOSS"],"dg-note-properties":{"title":"📱 Keep Android Open — Difendere la Sovranità del Dispositivo","description":"Un’analisi critica e culturale del movimento Keep Android Open e delle implicazioni per la libertà digitale, il software libero e la sovranità tecnologica.","tags":["Android","SovranitàDigitale","OpenSource","LibertàDigitale","Google","FOSS"],"date":"2026-02-21","author":"Alan Bimbati"}}
 ---
 
 lutar

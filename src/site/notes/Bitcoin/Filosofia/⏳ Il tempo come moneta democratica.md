@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/filosofia/il-tempo-come-moneta-democratica/"}
+{"dg-publish":true,"permalink":"/bitcoin/filosofia/il-tempo-come-moneta-democratica/","dg-note-properties":{}}
 ---
 
 

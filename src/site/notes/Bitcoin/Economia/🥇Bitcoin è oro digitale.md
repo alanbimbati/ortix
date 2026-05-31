@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/economia/bitcoin-e-oro-digitale/","title":"Bitcoin è oro digitale","tags":["Bitcoin","Economia","OroDigitale","RiservaDiValore"]}
+{"dg-publish":true,"permalink":"/bitcoin/economia/bitcoin-e-oro-digitale/","title":"Bitcoin è oro digitale","tags":["Bitcoin","Economia","OroDigitale","RiservaDiValore"],"dg-note-properties":{"title":"Bitcoin è oro digitale","tags":["Bitcoin","Economia","OroDigitale","RiservaDiValore"],"date":"2024-01-03"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ortix/storage/infrastruttura-personale/"}
+{"dg-publish":true,"permalink":"/ortix/storage/infrastruttura-personale/","dg-note-properties":{}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ortix/social/nostr-la-rivoluzione-dei-social/","title":"Nostr — Il web diventa tuo","tags":["nostr","social","decentralizzazione","dati","libertà"]}
+{"dg-publish":true,"permalink":"/ortix/social/nostr-la-rivoluzione-dei-social/","title":"Nostr — Il web diventa tuo","tags":["nostr","social","decentralizzazione","dati","libertà"],"dg-note-properties":{"title":"Nostr — Il web diventa tuo","tags":["nostr","social","decentralizzazione","dati","libertà"],"date":"2025-07-15","from":"Ortix","summary":"Nostr è un protocollo decentralizzato che permette di pubblicare contenuti interoperabili, incensurabili e davvero tuoi. Una rivoluzione nel modo di vivere il web."}}
 ---
 
 

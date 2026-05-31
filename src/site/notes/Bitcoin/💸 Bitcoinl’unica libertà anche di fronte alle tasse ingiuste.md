@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/bitcoinl-unica-liberta-anche-di-fronte-alle-tasse-ingiuste/","title":"💸 Bitcoin: l’unica libertà anche di fronte alle tasse ingiuste","tags":["Bitcoin","Tasse","Libertà","Sovranità","Stato","Inflazione"]}
+{"dg-publish":true,"permalink":"/bitcoin/bitcoinl-unica-liberta-anche-di-fronte-alle-tasse-ingiuste/","title":"💸 Bitcoin: l’unica libertà anche di fronte alle tasse ingiuste","tags":["Bitcoin","Tasse","Libertà","Sovranità","Stato","Inflazione"],"dg-note-properties":{"title":"💸 Bitcoin: l’unica libertà anche di fronte alle tasse ingiuste","tags":["Bitcoin","Tasse","Libertà","Sovranità","Stato","Inflazione"],"date":"2025-03-16"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ortix/filosofia/sovranita-digitale/","title":"🧭 Sovranità Digitale: il controllo inizia da te","tags":["SovranitàDigitale","Libertà","OpenSource","Privacy","Bitcoin","SelfCustody"]}
+{"dg-publish":true,"permalink":"/ortix/filosofia/sovranita-digitale/","title":"🧭 Sovranità Digitale: il controllo inizia da te","tags":["SovranitàDigitale","Libertà","OpenSource","Privacy","Bitcoin","SelfCustody"],"dg-note-properties":{"title":"🧭 Sovranità Digitale: il controllo inizia da te","tags":["SovranitàDigitale","Libertà","OpenSource","Privacy","Bitcoin","SelfCustody"],"date":"2025-07-09"}}
 ---
 
 
@@ -73,7 +73,7 @@ Abbiamo creato una **roadmap completa** per emanciparsi dai giganti del web, pas
 La sovranità digitale è l'unica difesa contro la tendenza moderna che vuole trasformare tutto in un servizio in affitto.
 Come spiegato in [[Bitcoin/Libertarismo/📉 La morte della proprietà\|📉 La morte della proprietà]], stiamo perdendo il possesso delle nostre case, delle nostre auto e dei nostri strumenti creativi.
 
-**Ortix** si oppone a questo modello applicando i principi della [[🧠 Ortix: La Sintesi della Sovranità\|Sintesi della Sovranità]]:
+**Ortix** si oppone a questo modello applicando i principi della [[Ortix/Filosofia/🧠 Ortix: La Sintesi della Sovranità\|Sintesi della Sovranità]]:
 - Rifiuta la "Subscription Economy" per i dati personali: i tuoi dati sono la tua **proprietà privata**.
 - Promuove il possesso fisico e crittografico dei propri asset (denaro e informazioni).
 - Sostiene che senza proprietà non c'è libertà ([[Politica/🗽 Libertarismo\|🗽 Libertarismo]]).

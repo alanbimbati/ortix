@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data-career/definizioni/data-lake/","title":"Cos'è un Data Lake","tags":["DataLake","BigData","Storage","Architettura","Definizioni"]}
+{"dg-publish":true,"permalink":"/data-career/definizioni/data-lake/","title":"Cos'è un Data Lake","tags":["DataLake","BigData","Storage","Architettura","Definizioni"],"dg-note-properties":{"title":"Cos'è un Data Lake","tags":["DataLake","BigData","Storage","Architettura","Definizioni"],"date":"2025-08-01","summary":"Un Data Lake è un repository centralizzato che permette di archiviare tutti i dati strutturati e non strutturati su qualsiasi scala. I dati vengono salvati nel formato grezzo originale."}}
 ---
 
 

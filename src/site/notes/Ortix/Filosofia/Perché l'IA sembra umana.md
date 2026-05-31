@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ortix/filosofia/perche-l-ia-sembra-umana/","title":"Perché l’IA sembra umana (e noi sembriamo robot)","tags":["riflessioni","tecnologia","psicologia","società"]}
+{"dg-publish":true,"permalink":"/ortix/filosofia/perche-l-ia-sembra-umana/","title":"Perché l’IA sembra umana (e noi sembriamo robot)","tags":["riflessioni","tecnologia","psicologia","società"],"dg-note-properties":{"title":"Perché l’IA sembra umana (e noi sembriamo robot)","slug":"ia-umanità-npc","tags":["riflessioni","tecnologia","psicologia","società"],"created":"2025-11-29"}}
 ---
 
 ---

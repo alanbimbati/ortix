@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/definizioni/blockchain/utxo/","title":"UTXO: il modello delle banconote digitali","tags":["Bitcoin","UTXO","Tecnologia","Blockchain","Transazioni","Privacy"]}
+{"dg-publish":true,"permalink":"/bitcoin/definizioni/blockchain/utxo/","title":"UTXO: il modello delle banconote digitali","tags":["Bitcoin","UTXO","Tecnologia","Blockchain","Transazioni","Privacy"],"dg-note-properties":{"title":"UTXO: il modello delle banconote digitali","tags":["Bitcoin","UTXO","Tecnologia","Blockchain","Transazioni","Privacy"],"date":"2025-12-25","aliases":["Unspent Transaction Output","Output non speso"]}}
 ---
 
 # 🧾 UTXO: il modello delle banconote digitali

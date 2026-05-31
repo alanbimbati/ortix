@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/politica/libertarismo/","title":"🗽 Libertarismo: la filosofia della proprietà","tags":["filosofia-politica","libertà","proprietà","NAP","digital-garden"]}
+{"dg-publish":true,"permalink":"/politica/libertarismo/","title":"🗽 Libertarismo: la filosofia della proprietà","tags":["filosofia-politica","libertà","proprietà","NAP","digital-garden"],"dg-note-properties":{"title":"🗽 Libertarismo: la filosofia della proprietà","tags":["filosofia-politica","libertà","proprietà","NAP","digital-garden"],"aliases":["Libertarismo","Anarco-Capitalismo","Libertarian"]}}
 ---
 
 

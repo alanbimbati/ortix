@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ortix/diario-dei-sogni-con-ia/","title":"Usare Obsidian come diario dei sogni","tags":["sogni","diario","obsidian","intelligenza-artificiale","chatgpt","introspezione","salute-mentale","consapevolezza"]}
+{"dg-publish":true,"permalink":"/ortix/diario-dei-sogni-con-ia/","title":"Usare Obsidian come diario dei sogni","tags":["sogni","diario","obsidian","intelligenza-artificiale","chatgpt","introspezione","salute-mentale","consapevolezza"],"dg-note-properties":{"title":"Usare Obsidian come diario dei sogni","tags":["sogni","diario","obsidian","intelligenza-artificiale","chatgpt","introspezione","salute-mentale","consapevolezza"],"aliases":["diario sogni","sogni chatgpt","sogni IA","journaling sogni","sogni e emozioni"]}}
 ---
 
 

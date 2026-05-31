@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/filosofia/i-soldi-in-banca-non-sono-tuoi/","title":"🙅‍♂️ I soldi in banca non sono tuoi 📜","tags":["Bitcoin","Banche","Sovranità","Denaro","CodiceCivile"]}
+{"dg-publish":true,"permalink":"/bitcoin/filosofia/i-soldi-in-banca-non-sono-tuoi/","title":"🙅‍♂️ I soldi in banca non sono tuoi 📜","tags":["Bitcoin","Banche","Sovranità","Denaro","CodiceCivile"],"dg-note-properties":{"title":"🙅‍♂️ I soldi in banca non sono tuoi 📜","tags":["Bitcoin","Banche","Sovranità","Denaro","CodiceCivile"],"date":"2025-06-04"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/open-source/","title":"🧬 Open Source: il codice è legge, e la legge è leggibile","tags":["OpenSource","Libertà","Sovranità","Tecnologia","Bitcoin","Sicurezza","Trasparenza"]}
+{"dg-publish":true,"permalink":"/bitcoin/open-source/","title":"🧬 Open Source: il codice è legge, e la legge è leggibile","tags":["OpenSource","Libertà","Sovranità","Tecnologia","Bitcoin","Sicurezza","Trasparenza"],"dg-note-properties":{"title":"🧬 Open Source: il codice è legge, e la legge è leggibile","tags":["OpenSource","Libertà","Sovranità","Tecnologia","Bitcoin","Sicurezza","Trasparenza"],"date":"2025-07-09"}}
 ---
 
 

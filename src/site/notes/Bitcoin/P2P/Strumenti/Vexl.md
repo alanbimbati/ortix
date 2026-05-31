@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/p2-p/strumenti/vexl/","title":"👥 Vexl","tags":["Bitcoin","P2P","Vexl","Social","No-KYC"]}
+{"dg-publish":true,"permalink":"/bitcoin/p2-p/strumenti/vexl/","title":"👥 Vexl","tags":["Bitcoin","P2P","Vexl","Social","No-KYC"],"dg-note-properties":{"title":"👥 Vexl","tags":["Bitcoin","P2P","Vexl","Social","No-KYC"],"date":"2026-01-26"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data-career/data-driven-o-data-manipulated/","title":"Data Driven o Data Manipulated?","tags":["DataCulture","Filosofia","SovranitàDigitale","DataDriven"]}
+{"dg-publish":true,"permalink":"/data-career/data-driven-o-data-manipulated/","title":"Data Driven o Data Manipulated?","tags":["DataCulture","Filosofia","SovranitàDigitale","DataDriven"],"dg-note-properties":{"title":"Data Driven o Data Manipulated?","tags":["DataCulture","Filosofia","SovranitàDigitale","DataDriven"],"date":"2025-08-01"}}
 ---
 
 

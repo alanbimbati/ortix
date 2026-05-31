@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/libertarismo/autori/lysander-spooner/","title":"Lysander Spooner: la Costituzione non vale nulla","tags":["Libertarismo","Filosofia","DirittoNaturale","Anarchismo"]}
+{"dg-publish":true,"permalink":"/bitcoin/libertarismo/autori/lysander-spooner/","title":"Lysander Spooner: la Costituzione non vale nulla","tags":["Libertarismo","Filosofia","DirittoNaturale","Anarchismo"],"dg-note-properties":{"title":"Lysander Spooner: la Costituzione non vale nulla","tags":["Libertarismo","Filosofia","DirittoNaturale","Anarchismo"],"date":"2025-12-26","aliases":["Lysander Spooner","Spooner"]}}
 ---
 
 

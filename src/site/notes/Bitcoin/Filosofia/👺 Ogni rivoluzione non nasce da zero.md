@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/filosofia/ogni-rivoluzione-non-nasce-da-zero/","title":"Ogni rivoluzione non nasce da zero","tags":["Bitcoin","Storia","Cypherpunk","Rivoluzione"]}
+{"dg-publish":true,"permalink":"/bitcoin/filosofia/ogni-rivoluzione-non-nasce-da-zero/","title":"Ogni rivoluzione non nasce da zero","tags":["Bitcoin","Storia","Cypherpunk","Rivoluzione"],"dg-note-properties":{"title":"Ogni rivoluzione non nasce da zero","tags":["Bitcoin","Storia","Cypherpunk","Rivoluzione"],"date":"2023-11-01"}}
 ---
 
 

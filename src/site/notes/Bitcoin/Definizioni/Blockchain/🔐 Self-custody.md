@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/definizioni/blockchain/self-custody/","title":"🔐 La Self-Custody: il tuo denaro, le tue regole","tags":["Bitcoin","Custody","Sovranità","Libertà","Wallet"]}
+{"dg-publish":true,"permalink":"/bitcoin/definizioni/blockchain/self-custody/","title":"🔐 La Self-Custody: il tuo denaro, le tue regole","tags":["Bitcoin","Custody","Sovranità","Libertà","Wallet"],"dg-note-properties":{"title":"🔐 La Self-Custody: il tuo denaro, le tue regole","tags":["Bitcoin","Custody","Sovranità","Libertà","Wallet"],"date":"2025-07-09"}}
 ---
 
 # 🔐 La Self-Custody: il tuo denaro, le tue regole

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/definizioni/mining/mining-green/","title":"🌱 Mining Green: Bitcoin come alleato dell’energia rinnovabile","tags":["Bitcoin","Mining","Energia","Ambiente","Sostenibilità","ProofOfWork"]}
+{"dg-publish":true,"permalink":"/bitcoin/definizioni/mining/mining-green/","title":"🌱 Mining Green: Bitcoin come alleato dell’energia rinnovabile","tags":["Bitcoin","Mining","Energia","Ambiente","Sostenibilità","ProofOfWork"],"dg-note-properties":{"title":"🌱 Mining Green: Bitcoin come alleato dell’energia rinnovabile","tags":["Bitcoin","Mining","Energia","Ambiente","Sostenibilità","ProofOfWork"],"date":"2025-07-09"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/benvenuto-in-ortix/","title":"🏠 Home – Bitcoin & Sovranità Digitale","tags":["Indice","Home","Bitcoin","Sovranità","Educazione","Obsidian","gardenEntry"]}
+{"dg-publish":true,"permalink":"/bitcoin/benvenuto-in-ortix/","title":"🏠 Home – Bitcoin & Sovranità Digitale","tags":["Indice","Home","Bitcoin","Sovranità","Educazione","Obsidian","gardenEntry"],"dg-note-properties":{"title":"🏠 Home – Bitcoin & Sovranità Digitale","tags":["Indice","Home","Bitcoin","Sovranità","Educazione","Obsidian","gardenEntry"],"date":"2025-07-09"}}
 ---
 
 # 🏠 Benvenuto in Ortix
@@ -23,7 +23,7 @@ Ortix è una pianta digitale, il seme da cui tutto il giardino creativo può ger
 ## 🧠 **La Filosofia di Ortix**
 
 Scopri come collegare mente, tecnologia e libertà:
-[[🧠 Ortix: La Sintesi della Sovranità\|🧠 Ortix: La Sintesi della Sovranità]]
+[[Ortix/Filosofia/🧠 Ortix: La Sintesi della Sovranità\|🧠 Ortix: La Sintesi della Sovranità]]
 
 ---
 

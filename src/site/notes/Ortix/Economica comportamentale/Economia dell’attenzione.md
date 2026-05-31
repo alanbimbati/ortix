@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ortix/economica-comportamentale/economia-dell-attenzione/","title":"👁️ L’economia dell’attenzione: la valuta più preziosa del mondo digitale","tags":["EconomiaDigitale","Attenzione","SovranitàDigitale","MinimalismoDigitale","Consapevolezza"]}
+{"dg-publish":true,"permalink":"/ortix/economica-comportamentale/economia-dell-attenzione/","title":"👁️ L’economia dell’attenzione: la valuta più preziosa del mondo digitale","tags":["EconomiaDigitale","Attenzione","SovranitàDigitale","MinimalismoDigitale","Consapevolezza"],"dg-note-properties":{"title":"👁️ L’economia dell’attenzione: la valuta più preziosa del mondo digitale","tags":["EconomiaDigitale","Attenzione","SovranitàDigitale","MinimalismoDigitale","Consapevolezza"]}}
 ---
 
 

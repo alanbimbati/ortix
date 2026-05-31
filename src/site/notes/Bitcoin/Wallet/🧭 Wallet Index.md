@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/wallet/wallet-index/","title":"🧭 Wallet Index: tutti i portafogli Bitcoin a confronto","tags":["Bitcoin","Wallet","SelfCustody","Lightning","Sicurezza","Confronto"]}
+{"dg-publish":true,"permalink":"/bitcoin/wallet/wallet-index/","title":"🧭 Wallet Index: tutti i portafogli Bitcoin a confronto","tags":["Bitcoin","Wallet","SelfCustody","Lightning","Sicurezza","Confronto"],"dg-note-properties":{"title":"🧭 Wallet Index: tutti i portafogli Bitcoin a confronto","tags":["Bitcoin","Wallet","SelfCustody","Lightning","Sicurezza","Confronto"],"date":"2025-07-09"}}
 ---
 
 

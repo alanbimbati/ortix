@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/lightning-network/lightning-network/","title":"⚡ Lightning Network: Bitcoin alla velocità della luce","tags":["Bitcoin","Lightning","Scalabilità","Pagamenti","SelfCustody"]}
+{"dg-publish":true,"permalink":"/bitcoin/lightning-network/lightning-network/","title":"⚡ Lightning Network: Bitcoin alla velocità della luce","tags":["Bitcoin","Lightning","Scalabilità","Pagamenti","SelfCustody"],"dg-note-properties":{"title":"⚡ Lightning Network: Bitcoin alla velocità della luce","tags":["Bitcoin","Lightning","Scalabilità","Pagamenti","SelfCustody"],"date":"2025-07-09"}}
 ---
 
 

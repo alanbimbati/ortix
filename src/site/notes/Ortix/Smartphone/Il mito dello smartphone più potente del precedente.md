@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ortix/smartphone/il-mito-dello-smartphone-piu-potente-del-precedente/","title":"📱 RAM, ROM e il mito del nuovo smartphone","tags":["sovranità-digitale","smartphone","foss","consumismo","open-source"]}
+{"dg-publish":true,"permalink":"/ortix/smartphone/il-mito-dello-smartphone-piu-potente-del-precedente/","title":"📱 RAM, ROM e il mito del nuovo smartphone","tags":["sovranità-digitale","smartphone","foss","consumismo","open-source"],"dg-note-properties":{"title":"📱 RAM, ROM e il mito del nuovo smartphone","tags":["sovranità-digitale","smartphone","foss","consumismo","open-source"],"date":"2025-08-15"}}
 ---
 
 

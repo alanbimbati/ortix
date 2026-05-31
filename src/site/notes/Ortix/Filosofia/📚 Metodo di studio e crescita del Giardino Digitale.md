@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ortix/filosofia/metodo-di-studio-e-crescita-del-giardino-digitale/","title":"📚 Metodo di studio e crescita del Giardino Digitale","tags":["MetodoStudio","Obsidian","SecondoCervello","Studio","Connessioni","SovranitàDigitale"]}
+{"dg-publish":true,"permalink":"/ortix/filosofia/metodo-di-studio-e-crescita-del-giardino-digitale/","title":"📚 Metodo di studio e crescita del Giardino Digitale","tags":["MetodoStudio","Obsidian","SecondoCervello","Studio","Connessioni","SovranitàDigitale"],"dg-note-properties":{"title":"📚 Metodo di studio e crescita del Giardino Digitale","tags":["MetodoStudio","Obsidian","SecondoCervello","Studio","Connessioni","SovranitàDigitale"],"date":"2025-07-10"}}
 ---
 
 

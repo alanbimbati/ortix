@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/come-creare-un-wallet/metodo-2-crazione-di-un-wallet-livello-medio/","title":"🥈 Metodo 2 — Crazione di un wallet Livello Medio","tags":["bitcoin","wallet","onchain","seed","entropia","sicurezza","autonomia"]}
+{"dg-publish":true,"permalink":"/bitcoin/come-creare-un-wallet/metodo-2-crazione-di-un-wallet-livello-medio/","title":"🥈 Metodo 2 — Crazione di un wallet Livello Medio","tags":["bitcoin","wallet","onchain","seed","entropia","sicurezza","autonomia"],"dg-note-properties":{"title":"🥈 Metodo 2 — Crazione di un wallet Livello Medio","tags":["bitcoin","wallet","onchain","seed","entropia","sicurezza","autonomia"],"status":"evergreen"}}
 ---
 
 

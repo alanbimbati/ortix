@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ortix/navigazione/google-maps-ti-guida-dove-conviene-loro/","title":"Google Maps ti guida... dove conviene a *loro*","tags":["comaps","googlemaps","privacy","open-source","mappe","esperienze"]}
+{"dg-publish":true,"permalink":"/ortix/navigazione/google-maps-ti-guida-dove-conviene-loro/","title":"Google Maps ti guida... dove conviene a *loro*","tags":["comaps","googlemaps","privacy","open-source","mappe","esperienze"],"dg-note-properties":{"title":"Google Maps ti guida... dove conviene a *loro*","tags":["comaps","googlemaps","privacy","open-source","mappe","esperienze"],"created":"2025-07-15"}}
 ---
 
 

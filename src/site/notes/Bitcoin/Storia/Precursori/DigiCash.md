@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/storia/precursori/digi-cash/","title":"DigiCash: il sogno centralizzato di David Chaum","tags":["Bitcoin","Precursori","Storia","Privacy"]}
+{"dg-publish":true,"permalink":"/bitcoin/storia/precursori/digi-cash/","title":"DigiCash: il sogno centralizzato di David Chaum","tags":["Bitcoin","Precursori","Storia","Privacy"],"dg-note-properties":{"title":"DigiCash: il sogno centralizzato di David Chaum","tags":["Bitcoin","Precursori","Storia","Privacy"],"date":"2025-12-26","aliases":["DigiCash"]}}
 ---
 
 

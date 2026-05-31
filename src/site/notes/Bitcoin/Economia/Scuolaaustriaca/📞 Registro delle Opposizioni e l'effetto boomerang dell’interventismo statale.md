@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/economia/scuolaaustriaca/registro-delle-opposizioni-e-l-effetto-boomerang-dell-interventismo-statale/"}
+{"dg-publish":true,"permalink":"/bitcoin/economia/scuolaaustriaca/registro-delle-opposizioni-e-l-effetto-boomerang-dell-interventismo-statale/","dg-note-properties":{"date":"2025-08-02"}}
 ---
 
 # 📞 Registro delle Opposizioni e l'effetto boomerang dell’interventismo statale

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/filosofia/bitcoin-e-per-tutti/","title":"Bitcoin è per tutti","tags":["bitcoin","libertà","custodia","sovranità-digitale","educazione-finanziaria"]}
+{"dg-publish":true,"permalink":"/bitcoin/filosofia/bitcoin-e-per-tutti/","title":"Bitcoin è per tutti","tags":["bitcoin","libertà","custodia","sovranità-digitale","educazione-finanziaria"],"dg-note-properties":{"title":"Bitcoin è per tutti","date":"2025-07-15","tags":["bitcoin","libertà","custodia","sovranità-digitale","educazione-finanziaria"],"aliases":["Bitcoin per tutti","Bitcoin libertà"]}}
 ---
 
 

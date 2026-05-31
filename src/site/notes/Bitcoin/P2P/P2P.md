@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/p2-p/p2-p/","title":"👥 P2P: Peer-to-Peer in Bitcoin","tags":["Bitcoin","P2P","Privacy","Sovranità","No-KYC"]}
+{"dg-publish":true,"permalink":"/bitcoin/p2-p/p2-p/","title":"👥 P2P: Peer-to-Peer in Bitcoin","tags":["Bitcoin","P2P","Privacy","Sovranità","No-KYC"],"dg-note-properties":{"title":"👥 P2P: Peer-to-Peer in Bitcoin","tags":["Bitcoin","P2P","Privacy","Sovranità","No-KYC"],"date":"2026-01-26"}}
 ---
 
 

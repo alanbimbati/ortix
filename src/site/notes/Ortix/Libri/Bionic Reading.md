@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ortix/libri/bionic-reading/","title":"Bionic Reading – leggere più velocemente senza leggere di più","tags":["lettura","cognizione","attenzione","bionic-reading","produttività","digital-garden"]}
+{"dg-publish":true,"permalink":"/ortix/libri/bionic-reading/","title":"Bionic Reading – leggere più velocemente senza leggere di più","tags":["lettura","cognizione","attenzione","bionic-reading","produttività","digital-garden"],"dg-note-properties":{"title":"Bionic Reading – leggere più velocemente senza leggere di più","tags":["lettura","cognizione","attenzione","bionic-reading","produttività","digital-garden"],"date":"2025-12-17","status":"evergreen"}}
 ---
 
 

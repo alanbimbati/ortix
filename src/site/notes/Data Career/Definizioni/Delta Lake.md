@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data-career/definizioni/delta-lake/","title":"Cos'è Delta Lake","tags":["DeltaLake","DataEngineering","ACID","BigData","Architettura"]}
+{"dg-publish":true,"permalink":"/data-career/definizioni/delta-lake/","title":"Cos'è Delta Lake","tags":["DeltaLake","DataEngineering","ACID","BigData","Architettura"],"dg-note-properties":{"title":"Cos'è Delta Lake","tags":["DeltaLake","DataEngineering","ACID","BigData","Architettura"],"date":"2025-08-01","summary":"Delta Lake è un layer di storage open-source che porta affidabilità ai Data Lake. Aggiunge transazioni ACID, gestione dei metadati scalabile e unifica streaming e batch."}}
 ---
 
 

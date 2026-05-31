@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/filosofia/nassim-nicholas-taleb/","title":"Nassim Nicholas Taleb: il filosofo del rischio","tags":["Filosofia","Economia","Rischio","Probabilità","Bitcoin"]}
+{"dg-publish":true,"permalink":"/bitcoin/filosofia/nassim-nicholas-taleb/","title":"Nassim Nicholas Taleb: il filosofo del rischio","tags":["Filosofia","Economia","Rischio","Probabilità","Bitcoin"],"dg-note-properties":{"title":"Nassim Nicholas Taleb: il filosofo del rischio","tags":["Filosofia","Economia","Rischio","Probabilità","Bitcoin"],"date":"2025-12-27","aliases":["Nassim Nicholas Taleb","Taleb","NNT"]}}
 ---
 
 

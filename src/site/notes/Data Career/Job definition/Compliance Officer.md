@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data-career/job-definition/compliance-officer/","title":"Chi è il Compliance Officer","tags":["Compliance","GDPR","DataPrivacy","DataGovernance","Ruoli","DataCareer"]}
+{"dg-publish":true,"permalink":"/data-career/job-definition/compliance-officer/","title":"Chi è il Compliance Officer","tags":["Compliance","GDPR","DataPrivacy","DataGovernance","Ruoli","DataCareer"],"dg-note-properties":{"title":"Chi è il Compliance Officer","tags":["Compliance","GDPR","DataPrivacy","DataGovernance","Ruoli","DataCareer"],"date":"2025-08-01","summary":"Il Compliance Officer vigila sul rispetto delle normative (come il GDPR) e delle policy interne. È il garante etico e legale del trattamento dei dati."}}
 ---
 
 

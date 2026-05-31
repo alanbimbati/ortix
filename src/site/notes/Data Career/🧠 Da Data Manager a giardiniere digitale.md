@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data-career/da-data-manager-a-giardiniere-digitale/","title":"🧠 Da Data Manager a giardiniere digitale: l’ETL del sapere","tags":["MetodoStudio","Obsidian","ETL","DataManager","SecondoCervello","Blogging","GiardinoDigitale"]}
+{"dg-publish":true,"permalink":"/data-career/da-data-manager-a-giardiniere-digitale/","title":"🧠 Da Data Manager a giardiniere digitale: l’ETL del sapere","tags":["MetodoStudio","Obsidian","ETL","DataManager","SecondoCervello","Blogging","GiardinoDigitale"],"dg-note-properties":{"title":"🧠 Da Data Manager a giardiniere digitale: l’ETL del sapere","tags":["MetodoStudio","Obsidian","ETL","DataManager","SecondoCervello","Blogging","GiardinoDigitale"],"date":"2025-07-10"}}
 ---
 
 

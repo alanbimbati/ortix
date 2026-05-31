@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/economia/scuolaaustriaca/friedrich-von-hayek/","title":"Friedrich von Hayek: l'ordine spontaneo","tags":["ScuolaAustriaca","Economia","OrdineSpontaneo","Conoscenza","Nobel"]}
+{"dg-publish":true,"permalink":"/bitcoin/economia/scuolaaustriaca/friedrich-von-hayek/","title":"Friedrich von Hayek: l'ordine spontaneo","tags":["ScuolaAustriaca","Economia","OrdineSpontaneo","Conoscenza","Nobel"],"dg-note-properties":{"title":"Friedrich von Hayek: l'ordine spontaneo","tags":["ScuolaAustriaca","Economia","OrdineSpontaneo","Conoscenza","Nobel"],"date":"2024-07-02","aliases":["Friedrich Von Hayek","Hayek"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/eredita-in-bitcoin/","title":"Eredità in Bitcoin","tags":["bitcoin","eredità","sovranità-digitale","sicurezza","custodia","educazione-finanziaria"]}
+{"dg-publish":true,"permalink":"/bitcoin/eredita-in-bitcoin/","title":"Eredità in Bitcoin","tags":["bitcoin","eredità","sovranità-digitale","sicurezza","custodia","educazione-finanziaria"],"dg-note-properties":{"title":"Eredità in Bitcoin","date":"2025-07-15","tags":["bitcoin","eredità","sovranità-digitale","sicurezza","custodia","educazione-finanziaria"],"aliases":["Bitcoin eredità","Come lasciare Bitcoin in eredità"]}}
 ---
 
 

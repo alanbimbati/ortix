@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/filosofia/kyc-e-sorveglianza-finanziaria/","title":"🕵️‍♂️ KYC e Sorveglianza Finanziaria","tags":["Bitcoin","Privacy","KYC","Finanza","Controllo"]}
+{"dg-publish":true,"permalink":"/bitcoin/filosofia/kyc-e-sorveglianza-finanziaria/","title":"🕵️‍♂️ KYC e Sorveglianza Finanziaria","tags":["Bitcoin","Privacy","KYC","Finanza","Controllo"],"dg-note-properties":{"title":"🕵️‍♂️ KYC e Sorveglianza Finanziaria","tags":["Bitcoin","Privacy","KYC","Finanza","Controllo"],"date":"2025-07-09"}}
 ---
 
 

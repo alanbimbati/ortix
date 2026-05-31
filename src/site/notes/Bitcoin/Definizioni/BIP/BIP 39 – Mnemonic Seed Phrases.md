@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/definizioni/bip/bip-39-mnemonic-seed-phrases/","title":"BIP 39: Le parole che valgono tutto","tags":["Bitcoin","Sicurezza","Wallet","Standard"]}
+{"dg-publish":true,"permalink":"/bitcoin/definizioni/bip/bip-39-mnemonic-seed-phrases/","title":"BIP 39: Le parole che valgono tutto","tags":["Bitcoin","Sicurezza","Wallet","Standard"],"dg-note-properties":{"title":"BIP 39: Le parole che valgono tutto","tags":["Bitcoin","Sicurezza","Wallet","Standard"],"date":"2025-12-26","aliases":["BIP 39","BIP 39 – Mnemonic Seed Phrases"]}}
 ---
 
 

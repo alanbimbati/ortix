@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/definizioni/blockchain/cold-wallet/","title":"❄️ Cold Storage: quando i tuoi sats vanno in letargo","tags":["Bitcoin","ColdStorage","Sicurezza","Wallet","SelfCustody"]}
+{"dg-publish":true,"permalink":"/bitcoin/definizioni/blockchain/cold-wallet/","title":"❄️ Cold Storage: quando i tuoi sats vanno in letargo","tags":["Bitcoin","ColdStorage","Sicurezza","Wallet","SelfCustody"],"dg-note-properties":{"title":"❄️ Cold Storage: quando i tuoi sats vanno in letargo","tags":["Bitcoin","ColdStorage","Sicurezza","Wallet","SelfCustody"],"date":"2025-07-09"}}
 ---
 
 

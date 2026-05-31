@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ortix/informazione/feeder/","title":"📰 Feeder: leggi le notizie senza censura né tracciamento","tags":["Feeder","RSS","SovranitàDigitale","Notizie","OpenSource","Privacy"]}
+{"dg-publish":true,"permalink":"/ortix/informazione/feeder/","title":"📰 Feeder: leggi le notizie senza censura né tracciamento","tags":["Feeder","RSS","SovranitàDigitale","Notizie","OpenSource","Privacy"],"dg-note-properties":{"title":"📰 Feeder: leggi le notizie senza censura né tracciamento","tags":["Feeder","RSS","SovranitàDigitale","Notizie","OpenSource","Privacy"],"date":"2025-07-10"}}
 ---
 
 

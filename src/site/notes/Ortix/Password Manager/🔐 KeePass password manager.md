@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ortix/password-manager/kee-pass-password-manager/","title":"🔐 KeePass: password manager per la tua sovranità digitale","tags":["Password","Sicurezza","SovranitàDigitale","KeePass","Syncthing","Offline","Backup"]}
+{"dg-publish":true,"permalink":"/ortix/password-manager/kee-pass-password-manager/","title":"🔐 KeePass: password manager per la tua sovranità digitale","tags":["Password","Sicurezza","SovranitàDigitale","KeePass","Syncthing","Offline","Backup"],"dg-note-properties":{"title":"🔐 KeePass: password manager per la tua sovranità digitale","tags":["Password","Sicurezza","SovranitàDigitale","KeePass","Syncthing","Offline","Backup"],"date":"2025-07-10"}}
 ---
 
 

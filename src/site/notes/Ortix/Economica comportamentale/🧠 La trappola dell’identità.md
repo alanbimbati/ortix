@@ -1,11 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/ortix/economica-comportamentale/la-trappola-dell-identita/","title":"🧠 La trappola dell’identità: quando il pubblico irrigidisce le convinzioni","tags":["psicologia","identità-digitale","bias-di-conferma","bolle-informative","social-network","Bitcoin","digital-garden"]}
+{"dg-publish":true,"permalink":"/ortix/economica-comportamentale/la-trappola-dell-identita/","title":"🧠 La trappola dell’identità: quando il pubblico irrigidisce le convinzioni","tags":["psicologia","identità-digitale","bias-di-conferma","bolle-informative","social-network","Bitcoin","digital-garden"],"dg-note-properties":{"title":"🧠 La trappola dell’identità: quando il pubblico irrigidisce le convinzioni","tags":["psicologia","identità-digitale","bias-di-conferma","bolle-informative","social-network","Bitcoin","digital-garden"],"status":"evergreen","author":"Alan Bimbati"}}
 ---
 
 
 # 🧠 La trappola dell’identità  
 
-![[IMG_20251221_224907_083 1.jpg\|IMG_20251221_224907_083 1.jpg]]
+![Ortix_TrappolaIdentita.png](/img/user/Immagini/Ortix_TrappolaIdentita.png)
+
 ## Quando rendere pubblico blocca la possibilità di cambiare
 
 Esiste un punto sottile ma decisivo:  

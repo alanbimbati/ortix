@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/definizioni/mining/mining/","title":"⛏️ Mining: il cuore che tiene in vita Bitcoin","tags":["Bitcoin","Mining","ProofOfWork","Sicurezza","Energia","Decentralizzazione"]}
+{"dg-publish":true,"permalink":"/bitcoin/definizioni/mining/mining/","title":"⛏️ Mining: il cuore che tiene in vita Bitcoin","tags":["Bitcoin","Mining","ProofOfWork","Sicurezza","Energia","Decentralizzazione"],"dg-note-properties":{"title":"⛏️ Mining: il cuore che tiene in vita Bitcoin","tags":["Bitcoin","Mining","ProofOfWork","Sicurezza","Energia","Decentralizzazione"],"date":"2025-07-09"}}
 ---
 
 

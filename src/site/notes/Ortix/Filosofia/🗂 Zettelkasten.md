@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ortix/filosofia/zettelkasten/","title":"🗂 Zettelkasten: il metodo tedesco per pensare meglio","tags":["MetodoStudio","Zettelkasten","Obsidian","SecondoCervello","Connessioni"]}
+{"dg-publish":true,"permalink":"/ortix/filosofia/zettelkasten/","title":"🗂 Zettelkasten: il metodo tedesco per pensare meglio","tags":["MetodoStudio","Zettelkasten","Obsidian","SecondoCervello","Connessioni"],"dg-note-properties":{"title":"🗂 Zettelkasten: il metodo tedesco per pensare meglio","tags":["MetodoStudio","Zettelkasten","Obsidian","SecondoCervello","Connessioni"],"date":"2025-07-10"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/definizioni/blockchain/hash/","title":"Hash","tags":["bitcoin","crittografia","sicurezza","hash","blockchain"]}
+{"dg-publish":true,"permalink":"/bitcoin/definizioni/blockchain/hash/","title":"Hash","tags":["bitcoin","crittografia","sicurezza","hash","blockchain"],"dg-note-properties":{"title":"Hash","date":"2025-07-15","tags":["bitcoin","crittografia","sicurezza","hash","blockchain"],"aliases":["Funzione di hash","Hashing","SHA256"]}}
 ---
 
 

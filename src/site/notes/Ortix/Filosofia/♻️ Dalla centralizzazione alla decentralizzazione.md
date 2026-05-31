@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ortix/filosofia/dalla-centralizzazione-alla-decentralizzazione/","title":"♻️ Dalla centralizzazione alla decentralizzazione… e ritorno (e ancora)","tags":["decentralizzazione","centralizzazione","AI","Bitcoin","sovranità-digitale","mining","privacy"]}
+{"dg-publish":true,"permalink":"/ortix/filosofia/dalla-centralizzazione-alla-decentralizzazione/","title":"♻️ Dalla centralizzazione alla decentralizzazione… e ritorno (e ancora)","tags":["decentralizzazione","centralizzazione","AI","Bitcoin","sovranità-digitale","mining","privacy"],"dg-note-properties":{"title":"♻️ Dalla centralizzazione alla decentralizzazione… e ritorno (e ancora)","date":"2025-08-05","tags":["decentralizzazione","centralizzazione","AI","Bitcoin","sovranità-digitale","mining","privacy"],"summary:La storia della tecnologia è un continuo ciclo tra centralizzazione e decentralizzazione":"dall’informatica, alla moneta, fino all’AI. Oggi siamo di nuovo in un momento di rottura."}}
 ---
 
 

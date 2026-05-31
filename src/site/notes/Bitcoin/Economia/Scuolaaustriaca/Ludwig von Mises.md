@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/economia/scuolaaustriaca/ludwig-von-mises/","title":"Ludwig von Mises: l'ultimo cavaliere del liberalismo","tags":["ScuolaAustriaca","Economia","Praxeologia","AzioneUmana","Socialismo"]}
+{"dg-publish":true,"permalink":"/bitcoin/economia/scuolaaustriaca/ludwig-von-mises/","title":"Ludwig von Mises: l'ultimo cavaliere del liberalismo","tags":["ScuolaAustriaca","Economia","Praxeologia","AzioneUmana","Socialismo"],"dg-note-properties":{"title":"Ludwig von Mises: l'ultimo cavaliere del liberalismo","tags":["ScuolaAustriaca","Economia","Praxeologia","AzioneUmana","Socialismo"],"date":"2024-06-25","aliases":["Ludwig von Mises","Mises"]}}
 ---
 
 

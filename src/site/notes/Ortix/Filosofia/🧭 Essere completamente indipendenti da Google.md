@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ortix/filosofia/essere-completamente-indipendenti-da-google/","title":"Indipendenza Digitale Totale","tags":["digital-garden","degoogle","privacy","sovranità-digitale","foss","decentralizzazione"]}
+{"dg-publish":true,"permalink":"/ortix/filosofia/essere-completamente-indipendenti-da-google/","title":"Indipendenza Digitale Totale","tags":["digital-garden","degoogle","privacy","sovranità-digitale","foss","decentralizzazione"],"dg-note-properties":{"title":"Indipendenza Digitale Totale","description":"Guida filosofica e pratica per emanciparsi da Google e dalle grandi piattaforme centralizzate","tags":["digital-garden","degoogle","privacy","sovranità-digitale","foss","decentralizzazione"],"date":"2025-12-29"}}
 ---
 
 

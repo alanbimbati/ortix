@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/wallet/hardware-wallet/key-stone/","title":"🔸 KeyStone: il gigante gentile degli hardware wallet","tags":["Bitcoin","Wallet","Hardware","ColdStorage","SelfCustody","Airgap","OpenSource"]}
+{"dg-publish":true,"permalink":"/bitcoin/wallet/hardware-wallet/key-stone/","title":"🔸 KeyStone: il gigante gentile degli hardware wallet","tags":["Bitcoin","Wallet","Hardware","ColdStorage","SelfCustody","Airgap","OpenSource"],"dg-note-properties":{"title":"🔸 KeyStone: il gigante gentile degli hardware wallet","tags":["Bitcoin","Wallet","Hardware","ColdStorage","SelfCustody","Airgap","OpenSource"],"date":"2025-12-02"}}
 ---
 
 

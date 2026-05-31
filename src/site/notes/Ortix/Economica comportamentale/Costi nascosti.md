@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ortix/economica-comportamentale/costi-nascosti/","title":"🕵️‍♂️ Shrouded Attributes — I costi nascosti","tags":["SovranitàDigitale","Economia","Consapevolezza","PsicologiaConsumi"]}
+{"dg-publish":true,"permalink":"/ortix/economica-comportamentale/costi-nascosti/","title":"🕵️‍♂️ Shrouded Attributes — I costi nascosti","tags":["SovranitàDigitale","Economia","Consapevolezza","PsicologiaConsumi"],"dg-note-properties":{"title":"🕵️‍♂️ Shrouded Attributes — I costi nascosti","tags":["SovranitàDigitale","Economia","Consapevolezza","PsicologiaConsumi"],"date":"12/08/2025"}}
 ---
 
 

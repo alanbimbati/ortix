@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/wallet/wallet-gerarchico/","title":"🌳 Wallet gerarchico con BIP85: una sola radice, infiniti rami","tags":["Wallet","BIP85","SelfCustody","Sicurezza","Seed","ColdStorage"]}
+{"dg-publish":true,"permalink":"/bitcoin/wallet/wallet-gerarchico/","title":"🌳 Wallet gerarchico con BIP85: una sola radice, infiniti rami","tags":["Wallet","BIP85","SelfCustody","Sicurezza","Seed","ColdStorage"],"dg-note-properties":{"title":"🌳 Wallet gerarchico con BIP85: una sola radice, infiniti rami","tags":["Wallet","BIP85","SelfCustody","Sicurezza","Seed","ColdStorage"],"date":"2025-07-09"}}
 ---
 
 

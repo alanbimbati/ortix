@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ortix/tastiere/tastiere-software/","title":"⌨️ Tastiere Software e Privacy: Perché HeliBoard (e alternative a Gboard) Sono Importanti","tags":["privacy","software","tastiere","open-source","sicurezza","HeliBoard","Gboard"]}
+{"dg-publish":true,"permalink":"/ortix/tastiere/tastiere-software/","title":"⌨️ Tastiere Software e Privacy: Perché HeliBoard (e alternative a Gboard) Sono Importanti","tags":["privacy","software","tastiere","open-source","sicurezza","HeliBoard","Gboard"],"dg-note-properties":{"title":"⌨️ Tastiere Software e Privacy: Perché HeliBoard (e alternative a Gboard) Sono Importanti","date":"2025-12-26","tags":["privacy","software","tastiere","open-source","sicurezza","HeliBoard","Gboard"],"description":"Una riflessione approfondita sul ruolo delle tastiere software nel nostro flusso digitale quotidiano e su perché molte soluzioni mainstream siano invasive per la nostra privacy."}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/definizioni/blockchain/xpub/","title":"🔗 Cos’è l’XPUB – Il cuore dei wallet watch-only","tags":["bitcoin","xpub","wallet","self-custody","airgap","educazione"]}
+{"dg-publish":true,"permalink":"/bitcoin/definizioni/blockchain/xpub/","title":"🔗 Cos’è l’XPUB – Il cuore dei wallet watch-only","tags":["bitcoin","xpub","wallet","self-custody","airgap","educazione"],"dg-note-properties":{"title":"🔗 Cos’è l’XPUB – Il cuore dei wallet watch-only","description":"Spiegazione chiara e approfondita dell’XPUB in Bitcoin: cos’è, a cosa serve e perché è centrale per i wallet watch-only.","tags":["bitcoin","xpub","wallet","self-custody","airgap","educazione"],"date":"2025-12-16","author":"Alan Bimbati"}}
 ---
 
 

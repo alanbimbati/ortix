@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ortix/filosofia/secondo-cervello/","title":"🌱 Il mio giardino digitale: il secondo cervello","tags":["Obsidian","Secondo Cervello","Digital Garden","Conoscenza","Organizzazione"]}
+{"dg-publish":true,"permalink":"/ortix/filosofia/secondo-cervello/","title":"🌱 Il mio giardino digitale: il secondo cervello","tags":["Obsidian","Secondo Cervello","Digital Garden","Conoscenza","Organizzazione"],"dg-note-properties":{"title":"🌱 Il mio giardino digitale: il secondo cervello","tags":["Obsidian","Secondo Cervello","Digital Garden","Conoscenza","Organizzazione"],"date":"2025-07-10"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ortix/economica-comportamentale/ingegneria-del-pensiero/","title":"🧠 Perché disconnettersi conviene davvero","tags":["privacy","economia comportamentale","attenzione","manipolazione","psicologia","bias cognitivi"]}
+{"dg-publish":true,"permalink":"/ortix/economica-comportamentale/ingegneria-del-pensiero/","title":"🧠 Perché disconnettersi conviene davvero","tags":["privacy","economia comportamentale","attenzione","manipolazione","psicologia","bias cognitivi"],"dg-note-properties":{"title":"🧠 Perché disconnettersi conviene davvero","date":"2025-07-29","tags":["privacy","economia comportamentale","attenzione","manipolazione","psicologia","bias cognitivi"]}}
 ---
 
 

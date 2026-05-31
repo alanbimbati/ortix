@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/economia/bitcoin-e-piu-veloce-della-moneta-fiat/","title":"⚡ Bitcoin è più veloce della moneta FIAT","tags":["Bitcoin","Lightning","Transazioni","Velocità","Censura","Fiat"]}
+{"dg-publish":true,"permalink":"/bitcoin/economia/bitcoin-e-piu-veloce-della-moneta-fiat/","title":"⚡ Bitcoin è più veloce della moneta FIAT","tags":["Bitcoin","Lightning","Transazioni","Velocità","Censura","Fiat"],"dg-note-properties":{"title":"⚡ Bitcoin è più veloce della moneta FIAT","tags":["Bitcoin","Lightning","Transazioni","Velocità","Censura","Fiat"],"date":"2025-07-09"}}
 ---
 
 

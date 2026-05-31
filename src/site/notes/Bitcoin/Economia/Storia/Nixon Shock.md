@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/economia/storia/nixon-shock/","title":"Nixon Shock: il giorno in cui il denaro è morto","tags":["Bitcoin","Economia","Storia","Fiat"]}
+{"dg-publish":true,"permalink":"/bitcoin/economia/storia/nixon-shock/","title":"Nixon Shock: il giorno in cui il denaro è morto","tags":["Bitcoin","Economia","Storia","Fiat"],"dg-note-properties":{"title":"Nixon Shock: il giorno in cui il denaro è morto","tags":["Bitcoin","Economia","Storia","Fiat"],"date":"2025-12-26","aliases":["Nixon Shock"]}}
 ---
 
 

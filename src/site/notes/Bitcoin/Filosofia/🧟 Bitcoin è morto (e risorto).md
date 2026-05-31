@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/filosofia/bitcoin-e-morto-e-risorto/","title":"Bitcoin è morto (e risorto 400 volte)","tags":["Bitcoin","Filosofia","EffettoLindy","Resilienza","FUD"]}
+{"dg-publish":true,"permalink":"/bitcoin/filosofia/bitcoin-e-morto-e-risorto/","title":"Bitcoin è morto (e risorto 400 volte)","tags":["Bitcoin","Filosofia","EffettoLindy","Resilienza","FUD"],"dg-note-properties":{"title":"Bitcoin è morto (e risorto 400 volte)","tags":["Bitcoin","Filosofia","EffettoLindy","Resilienza","FUD"],"date":"2025-12-27","aliases":["Bitcoin Obituaries","Bitcoin è morto"]}}
 ---
 
 

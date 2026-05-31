@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/evoluzione-della-moneta/","title":"📜 L’evoluzione della moneta: dalla conchiglia a Bitcoin","tags":["Educazione","Economia","Bitcoin","Storia","Moneta","Sovranità"]}
+{"dg-publish":true,"permalink":"/bitcoin/evoluzione-della-moneta/","title":"📜 L’evoluzione della moneta: dalla conchiglia a Bitcoin","tags":["Educazione","Economia","Bitcoin","Storia","Moneta","Sovranità"],"dg-note-properties":{"title":"📜 L’evoluzione della moneta: dalla conchiglia a Bitcoin","tags":["Educazione","Economia","Bitcoin","Storia","Moneta","Sovranità"],"date":"2025-07-10"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/filosofia/tasse-ingiuste/","title":"Tasse ingiuste","tags":["Bitcoin","Filosofia","Tasse","Libertà"]}
+{"dg-publish":true,"permalink":"/bitcoin/filosofia/tasse-ingiuste/","title":"Tasse ingiuste","tags":["Bitcoin","Filosofia","Tasse","Libertà"],"dg-note-properties":{"title":"Tasse ingiuste","tags":["Bitcoin","Filosofia","Tasse","Libertà"],"date":"2025-12-26"}}
 ---
 
 

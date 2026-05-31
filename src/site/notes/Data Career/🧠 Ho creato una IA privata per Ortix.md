@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data-career/ho-creato-una-ia-privata-per-ortix/","title":"🤖 Progetto AI Vault Ortix - Resoconto","tags":["AI","LLM","Obsidian","llama_index","localAI","embedding","ETL","Sovranità Digitale"]}
+{"dg-publish":true,"permalink":"/data-career/ho-creato-una-ia-privata-per-ortix/","title":"🤖 Progetto AI Vault Ortix - Resoconto","tags":["AI","LLM","Obsidian","llama_index","localAI","embedding","ETL","Sovranità Digitale"],"dg-note-properties":{"title":"🤖 Progetto AI Vault Ortix - Resoconto","date":"2025-08-01","tags":["AI","LLM","Obsidian","llama_index","localAI","embedding","ETL","Sovranità Digitale"]}}
 ---
 
 # 🧠 Ho creato una IA privata per Ortix

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ortix/informazione/wikipedia/","title":"🌍 Una Wikipedia tutta tua:sapere libero in tasca","tags":["SovranitàDigitale","Offline","Kiwix","Backup","Conoscenza"]}
+{"dg-publish":true,"permalink":"/ortix/informazione/wikipedia/","title":"🌍 Una Wikipedia tutta tua:sapere libero in tasca","tags":["SovranitàDigitale","Offline","Kiwix","Backup","Conoscenza"],"dg-note-properties":{"title":"🌍 Una Wikipedia tutta tua:sapere libero in tasca","tags":["SovranitàDigitale","Offline","Kiwix","Backup","Conoscenza"],"date":"2025-10-02"}}
 ---
 
  

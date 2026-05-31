@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ortix/filosofia/apnea-digitale/","title":"Apnea digitale","tags":["sovranità-digitale","minimalismo-digitale","attenzione","salute-mentale","strumenti-pratici"]}
+{"dg-publish":true,"permalink":"/ortix/filosofia/apnea-digitale/","title":"Apnea digitale","tags":["sovranità-digitale","minimalismo-digitale","attenzione","salute-mentale","strumenti-pratici"],"dg-note-properties":{"title":"Apnea digitale","tags":["sovranità-digitale","minimalismo-digitale","attenzione","salute-mentale","strumenti-pratici"],"date":"2025-08-15","aliases":["Digital apnea","iperconnessione","detox digitale"]}}
 ---
 
 

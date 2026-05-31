@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/guide-e-consigli/come-scegliere-il-wallet-giusto-flow-chart/","title":"📊 Come scegliere il wallet giusto - Flow Chart","tags":["Bitcoin","SelfCustody","Wallet","ColdWallet","HotWallet","Lightning","Guida"]}
+{"dg-publish":true,"permalink":"/bitcoin/guide-e-consigli/come-scegliere-il-wallet-giusto-flow-chart/","title":"📊 Come scegliere il wallet giusto - Flow Chart","tags":["Bitcoin","SelfCustody","Wallet","ColdWallet","HotWallet","Lightning","Guida"],"dg-note-properties":{"title":"📊 Come scegliere il wallet giusto - Flow Chart","description":"Diagramma decisionale per organizzare i wallet in base a ruolo, custodia e livello di rischio.","tags":["Bitcoin","SelfCustody","Wallet","ColdWallet","HotWallet","Lightning","Guida"],"date":"2025-12-25"}}
 ---
 
 

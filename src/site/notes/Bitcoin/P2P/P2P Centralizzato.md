@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/p2-p/p2-p-centralizzato/","title":"👥 P2P Centralizzato: Comodità e Privacy","tags":["Bitcoin","P2P","Escrow","PeachBitcoin","Vexl","No-KYC"]}
+{"dg-publish":true,"permalink":"/bitcoin/p2-p/p2-p-centralizzato/","title":"👥 P2P Centralizzato: Comodità e Privacy","tags":["Bitcoin","P2P","Escrow","PeachBitcoin","Vexl","No-KYC"],"dg-note-properties":{"title":"👥 P2P Centralizzato: Comodità e Privacy","tags":["Bitcoin","P2P","Escrow","PeachBitcoin","Vexl","No-KYC"],"date":"2026-01-26"}}
 ---
 
 

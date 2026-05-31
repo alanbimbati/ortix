@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/filosofia/bitcoin-il-biliardo-della-galassia/","title":"Bitcoin: il biliardo della galassia","tags":["Bitcoin","Filosofia","TeoriaDeiGiochi"]}
+{"dg-publish":true,"permalink":"/bitcoin/filosofia/bitcoin-il-biliardo-della-galassia/","title":"Bitcoin: il biliardo della galassia","tags":["Bitcoin","Filosofia","TeoriaDeiGiochi"],"dg-note-properties":{"title":"Bitcoin: il biliardo della galassia","tags":["Bitcoin","Filosofia","TeoriaDeiGiochi"],"date":"2025-01-26"}}
 ---
 
 

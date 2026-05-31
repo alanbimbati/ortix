@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ortix/libri/kindle-il-pompiere-silenzioso-del-xxi-secolo/","title":"📚 Kindle: Il Pompiere di Fahrenheit 451","tags":["digital-garden","libertà-digitale","ebook","kindle","censura","privacy","cultura","ortix","degooglizzazione"]}
+{"dg-publish":true,"permalink":"/ortix/libri/kindle-il-pompiere-silenzioso-del-xxi-secolo/","title":"📚 Kindle: Il Pompiere di Fahrenheit 451","tags":["digital-garden","libertà-digitale","ebook","kindle","censura","privacy","cultura","ortix","degooglizzazione"],"dg-note-properties":{"title":"📚 Kindle: Il Pompiere di Fahrenheit 451","description":"Kindle come rogo digitale silenzioso: licenze revocabili, censura invisibile e perdita di permanenza culturale.","tags":["digital-garden","libertà-digitale","ebook","kindle","censura","privacy","cultura","ortix","degooglizzazione"],"date":"2026-01-02","status":"seed"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/wallet/steelwallet/","title":"🪨 Steelwallet: incidi la tua libertà nel metallo","tags":["Bitcoin","Seed","Backup","Sicurezza","ColdStorage","SelfCustody"]}
+{"dg-publish":true,"permalink":"/bitcoin/wallet/steelwallet/","title":"🪨 Steelwallet: incidi la tua libertà nel metallo","tags":["Bitcoin","Seed","Backup","Sicurezza","ColdStorage","SelfCustody"],"dg-note-properties":{"title":"🪨 Steelwallet: incidi la tua libertà nel metallo","tags":["Bitcoin","Seed","Backup","Sicurezza","ColdStorage","SelfCustody"],"date":"2025-07-09"}}
 ---
 
 
