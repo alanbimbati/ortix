@@ -74,4 +74,4 @@ Ma costruendo **strati sopra**, con intelligenza e coerenza.
 
 ---
 
-🔗 _Approfondisci con [[Bitcoin/Lightning Network/⚡ Lightning Network\|⚡ Lightning Network]], [[Bitcoin/Wallet/Software Wallet/🕊 Phoenix Wallet\|🕊 Phoenix Wallet]], [[Routing\|Routing]], [[Bitcoin/Definizioni/Blockchain/🔐 Self-custody\|🔐 Self-custody]], [[Bitcoin/Wallet/🧭 Wallet Index\|🧭 Wallet Index]]
+🔗 _Approfondisci con [[Bitcoin/Lightning Network/⚡ Lightning Network\|⚡ Lightning Network]], [[Bitcoin/Wallet/Software Wallet/🕊 Phoenix Wallet\|🕊 Phoenix Wallet]], [[Bitcoin/Definizioni/Lightning/Routing\|Routing]], [[Bitcoin/Definizioni/Blockchain/🔐 Self-custody\|🔐 Self-custody]], [[Bitcoin/Wallet/🧭 Wallet Index\|🧭 Wallet Index]]

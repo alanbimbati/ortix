@@ -84,7 +84,7 @@ Ogni bivio rappresenta **una scelta di responsabilità e fiducia**. Non esiste u
 
 ⚠️ Qui Bitcoin cambia davvero: **Chi controlla le chiavi controlla i bitcoin.**
 
-- **Wallet Custodial**: Stai usando un servizio (come Wallet of Satoshi). È utile per imparare, ma tecnicamente sono "bitcoin di qualcun altro". Se il servizio chiude, perdi tutto.
+- **Wallet [[Bitcoin/Definizioni/Lightning/Custodial\|Custodial]]**: Stai usando un servizio (come [[Bitcoin/Lightning Network/Wallet of Satoshi\|Wallet of Satoshi]]). È utile per imparare, ma tecnicamente sono "bitcoin di qualcun altro". Se il servizio chiude, perdi tutto.
 - **Self‑custody**: Sei tu l'unico proprietario. Senza [[Bitcoin/Definizioni/Blockchain/🔐 Self-custody\|🔐 Self-custody]], non hai proprietà privata, hai solo un credito verso un terzo.
 
 ---
@@ -114,7 +114,7 @@ Bitcoin è un sistema, non un singolo wallet. Devi dividere i tuoi fondi in base
 
 - **❄️ Cold Wallet (HODL)**: Risparmio a lungo termine. Usi dispositivi **Air-gapped** come [[Bitcoin/Wallet/Hardware Wallet/✍️ SeedSigner\|✍️ SeedSigner]] o [[Bitcoin/Wallet/Hardware Wallet/❄️ Coldcard\|❄️ Coldcard]] che non toccano mai internet. È il tuo caveau personale.
 - **🔥 Hot Wallet (Spending)**: Somme per acquisti importanti o ricariche. Comodo, veloce, ma on-chain.
-- **⚡ Lightning Network**: Per i micro-pagamenti quotidiani (caffè, mance). È istantaneo e quasi gratuito. Puoi usare app come [[Bitcoin/Wallet/Software Wallet/🕊 Phoenix Wallet\|🕊 Phoenix Wallet]] o [[Bitcoin/Wallet/Software Wallet/Breeze\|Breeze]] per mantenere la sovranità anche sul Layer 2. Vedi [[Bitcoin/Lightning Network/⚡ Lightning Network\|⚡ Lightning Network]] per approfondire.
+- **⚡ Lightning Network**: Per i micro-pagamenti quotidiani (caffè, mance). È istantaneo e quasi gratuito. Puoi usare app come [[Bitcoin/Lightning Network/Phoenix\|Phoenix]] o [[Bitcoin/Wallet/Software Wallet/Breeze\|Breeze]] per mantenere la sovranità anche sul Layer 2. Vedi [[Bitcoin/Lightning Network/⚡ Lightning Network\|⚡ Lightning Network]] per approfondire.
 
 ---
 
@@ -172,4 +172,4 @@ graph TD
 
 > 🧡 *"La tua sovranità è proporzionale alla tua responsabilità."*
 
-[[Ortix/Filosofia/🧠 Ortix: La Sintesi della Sovranità\|🧠 Ortix: La Sintesi della Sovranità]] | [[Bitcoin/Bitcoin\|Bitcoin]] | [[Bitcoin/Definizioni/Blockchain/🔐 Self-custody\|🔐 Self-custody]]
+[[🧠 Ortix: La Sintesi della Sovranità\|🧠 Ortix: La Sintesi della Sovranità]] | [[Bitcoin/Bitcoin\|Bitcoin]] | [[Bitcoin/Definizioni/Blockchain/🔐 Self-custody\|🔐 Self-custody]]

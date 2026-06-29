@@ -42,7 +42,7 @@ Il danno più profondo del sistema FIAT è psicologico e morale:
 
 ## 🔗 FIAT & Ortix: Il Problema e la Soluzione
 
-Nella [[Ortix/Filosofia/🧠 Ortix: La Sintesi della Sovranità\|Sintesi della Sovranità]], la moneta FIAT rappresenta l'**Anti-Asset**:
+Nella [[🧠 Ortix: La Sintesi della Sovranità\|Sintesi della Sovranità]], la moneta FIAT rappresenta l'**Anti-Asset**:
 
 - **Mente**: Genera ansia e spinge verso l'[[Ortix/Economica comportamentale/Ingegneria del pensiero\|Ingegneria del pensiero]] consumistica.
 - **Azione**: Ti costringe a interagire con sistemi bancari centralizzati che violano la tua [[Bitcoin/Filosofia/🕵️‍♂️ Privacy\|🕵️‍♂️ Privacy]].
