@@ -25,3 +25,7 @@ Con LNbits puoi:
 1. **Chi decide?** L'amministratore del server (che installa LNbits sul proprio [[Bitcoin/Definizioni/Blockchain/Full Node\|Full Node]]) decide a quali utenti dare accesso alla piattaforma, quali estensioni attivare e in che misura limitare le capacità dei vari wallet dipendenti.
 2. **Quali incentivi ha?** Ha l'incentivo a fornire un'interfaccia ricca di strumenti e automazioni senza forzare gli utenti secondari a gestire un intero nodo.
 3. **Chi è responsabile?** L'amministratore del nodo di finanziamento sottostante è responsabile dell'uptime e della liquidità on-chain/off-chain. Gli utenti dei sub-wallet di LNbits si fidano dell'amministratore (relazione [[Bitcoin/Definizioni/Lightning/Custodial\|Custodial]] interna).
+
+---
+
+🔗 _Vedi anche: [[Bitcoin/Lightning Network/00 - Come Essere Sovrano su LN (Step-by-Step)\|00 - Come Essere Sovrano su LN (Step-by-Step)]], [[Bitcoin/Lightning Network/Zeus\|Zeus]], [[Bitcoin/Definizioni/Lightning/LND\|LND]], [[Bitcoin/Definizioni/Lightning/Routing\|Routing]], [[Bitcoin/Lightning Network/⚡ Lightning Network\|⚡ Lightning Network]]_

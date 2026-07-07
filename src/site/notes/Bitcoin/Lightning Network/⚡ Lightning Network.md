@@ -36,7 +36,7 @@ La Lightning Network è una rete di secondo livello costruita sopra Bitcoin, che
 
 🧠 **Come funziona?**
 
-1. Apri un canale Lightning (es. con [[Bitcoin/Wallet/Software Wallet/🕊 Phoenix Wallet\|🕊 Phoenix Wallet]] o nodo tuo)  
+1. Apri un [[Bitcoin/Definizioni/Lightning/Canale di Pagamento\|Canale di Pagamento]] Lightning (es. con [[Bitcoin/Lightning Network/Phoenix\|Phoenix]] o il tuo nodo)  
 2. Invia e ricevi BTC in modo rapido  
 3. Quando vuoi, chiudi il canale e torna on-chain
 
@@ -46,10 +46,11 @@ La Lightning Network è una rete di secondo livello costruita sopra Bitcoin, che
 
 🛠️ **Wallet che supportano Lightning**
 
-- [[Bitcoin/Wallet/Software Wallet/🕊 Phoenix Wallet\|🕊 Phoenix Wallet]] → non-custodial, automatizzato  
-- [[Bitcoin/Wallet/Software Wallet/🟠 Wallet of Satoshi\|🟠 Wallet of Satoshi]]-> custodial, semplice
-- [[Bitcoin/Wallet/Software Wallet/Breeze\|Breeze]], [[Bitcoin/Lightning Network/Zeus\|Zeus]], [[Mutiny\|Mutiny]], SatsMobiBot→ più tecnici  
-- E i tuoi **nodi personali** con LND, Core Lightning o eclair
+- [[Bitcoin/Lightning Network/Phoenix\|Phoenix]] → Self-custodial, automatizzato (Livello 2)  
+- [[Bitcoin/Lightning Network/Wallet of Satoshi\|Wallet of Satoshi]] → [[Bitcoin/Definizioni/Lightning/Custodial\|Custodial]], semplicissimo (Livello 1)  
+- [[Bitcoin/Lightning Network/Blixt\|Blixt]] → multi-canale, potente (Livello 3)  
+- [[Bitcoin/Lightning Network/Zeus\|Zeus]] → accoppiato al tuo nodo domestico (Livello 4)  
+- E i tuoi **nodi personali** con [[Bitcoin/Definizioni/Lightning/LND\|LND]], Core Lightning o eclair
 
 ---
 
@@ -84,3 +85,4 @@ Con Lightning diventa **il contante digitale.**
 
 ---
 
+🔗 _Vedi anche: [[Bitcoin/Lightning Network/00 - Come Essere Sovrano su LN (Step-by-Step)\|00 - Come Essere Sovrano su LN (Step-by-Step)]], [[Bitcoin/Lightning Network/🧱 Layer 2\|🧱 Layer 2]], [[Bitcoin/Lightning Network/⚡ Scalabilità di Lightning Network\|⚡ Scalabilità di Lightning Network]], [[Bitcoin/Definizioni/Lightning/Canale di Pagamento\|Canale di Pagamento]], [[Bitcoin/Definizioni/Lightning/Routing\|Routing]], [[Bitcoin/Definizioni/Blockchain/🔐 Self-custody\|🔐 Self-custody]]_

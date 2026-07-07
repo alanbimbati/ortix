@@ -62,4 +62,6 @@ Capire il sistema FIAT è il primo passo per uscirne.
 
 > 🧡 *"Non puoi aggiustare il mondo se non aggiusti prima il denaro."*
 
-[[Ortix/Filosofia/🌍 FIAT la redistribuzione al contrario\|🌍 FIAT la redistribuzione al contrario]] | [[Bitcoin/Evoluzione della Moneta\|Evoluzione della Moneta]] | [[Bitcoin/Bitcoin\|Bitcoin]]
+---
+
+🔗 _Vedi anche: [[Ortix/Filosofia/🌍 FIAT la redistribuzione al contrario\|🌍 FIAT la redistribuzione al contrario]], [[Bitcoin/Evoluzione della Moneta\|Evoluzione della Moneta]], [[Bitcoin/Bitcoin\|Bitcoin]], [[Bitcoin/Economia/Effetto Cantillon\|Effetto Cantillon]], [[Bitcoin/Definizioni/Blockchain/🔐 Self-custody\|🔐 Self-custody]], [[Politica/⚖️ NAP\|⚖️ NAP]], [[Politica/🗽 Libertarismo\|🗽 Libertarismo]], [[Bitcoin/Economia/🏛️ Stato e Moneta\|🏛️ Stato e Moneta]]_

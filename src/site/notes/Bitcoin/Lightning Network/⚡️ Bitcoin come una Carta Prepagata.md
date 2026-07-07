@@ -14,9 +14,9 @@
 
 Hai due strade principali:
 
-**Wallet of Satoshi**: custodial, facile da usare come una app qualsiasi. Perfetto per iniziare in pochi tocchi, ma ricorda: i fondi li custodisce il provider.
+**[[Bitcoin/Lightning Network/Wallet of Satoshi\|Wallet of Satoshi]]**: [[Bitcoin/Definizioni/Lightning/Custodial\|Custodial]], facile da usare come una app qualsiasi. Perfetto per iniziare in pochi tocchi, ma ricorda: i fondi li custodisce il provider.
 
-**Phoenix Wallet**: self custodial, pieno controllo sui tuoi satoshi. Ha qualche costo in più, ma la libertà è tutta tua.
+**[[Bitcoin/Lightning Network/Phoenix\|Phoenix]]**: [[Bitcoin/Definizioni/Blockchain/🔐 Self-custody\|Self-custodial]], pieno controllo sui tuoi satoshi. Ha qualche costo in più, ma la libertà è tutta tua.
 
 ⚡️ Velocità fulminea, costi ridicoli
 
@@ -44,8 +44,6 @@ Esperienza familiare, come una carta.
 Se vuoi davvero “spendere Bitcoin”, Lightning è la corsia preferenziale.
 Scarica un wallet, carica qualche satoshi e… buon viaggio sulla rete più veloce di sempre! ⚡️
 
-#Bitcoin
-{ #tr-4jx9rz9u2}
-
-
 ---
+
+🔗 _Vedi anche: [[Bitcoin/Lightning Network/⚡ Lightning Network\|⚡ Lightning Network]], [[Bitcoin/Lightning Network/00 - Come Essere Sovrano su LN (Step-by-Step)\|00 - Come Essere Sovrano su LN (Step-by-Step)]], [[Bitcoin/Lightning Network/Wallet of Satoshi\|Wallet of Satoshi]], [[Bitcoin/Lightning Network/Phoenix\|Phoenix]], [[Bitcoin/Lightning Network/Blixt\|Blixt]], [[Bitcoin/Lightning Network/Zeus\|Zeus]]_

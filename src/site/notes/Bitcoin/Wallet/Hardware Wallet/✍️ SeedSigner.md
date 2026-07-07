@@ -3,7 +3,9 @@
 ---
 
 
-# ✍️ SeedSigner: la chiave è nella tua testa
+# ✍️ SeedSigner
+
+![IMG_20260707_103859_957.jpg](/img/user/IMG_20260707_103859_957.jpg)
 
 🧠 **E se potessi custodire i tuoi bitcoin… senza custodire nulla?**  
 SeedSigner è il wallet hardware *senza memoria*. Un dispositivo che ti permette di firmare transazioni **senza mai salvare la tua seed**.  
@@ -65,5 +67,9 @@ La tua mente + un foglio = una cold wallet invisibile.
 ---
 
 🔗 _Sito ufficiale: [seedsigner.com](https://seedsigner.com)_
+
+---
+
+Non ho alcun tipo di affiliazione e non guadagno in nessun modo nel dirlo, ma vi consiglio la community di [BitVero](http://Bitvero.it) per poter acquistare un gioiellino di questo tipo
 
 📎 _Vedi anche: [[Bitcoin/Wallet/Hardware Wallet/❄️ Coldcard\|❄️ Coldcard]], [[Bitcoin/Wallet/Software Wallet/🐦 Sparrow Wallet\|🐦 Sparrow Wallet]], [[Bitcoin/Definizioni/Blockchain/🔐 Self-custody\|🔐 Self-custody]], [[Bitcoin/Definizioni/Blockchain/🔐 Multisig\|🔐 Multisig]]_

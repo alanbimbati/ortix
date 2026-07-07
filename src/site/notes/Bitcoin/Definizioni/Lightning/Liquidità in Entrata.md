@@ -30,3 +30,7 @@ Immagina un canale Lightning come una clessidra:
 ## 🚀 La soluzione di Blixt e dei wallet moderni
 
 La "figata" di wallet come [[Bitcoin/Lightning Network/Blixt\|Blixt]] è che gestiscono la liquidità in entrata in modo semiautomatico. Se stai provando a ricevere sats e non hai abbastanza spazio sul canale, il wallet richiede a un nodo partner (LSP) di aprirti al volo un canale verso di te, prelevando una piccola fee per coprire il costo on-chain. In questo modo ricevi subito senza configurazioni tecniche complesse.
+
+---
+
+🔗 _Vedi anche: [[Bitcoin/Lightning Network/00 - Come Essere Sovrano su LN (Step-by-Step)\|00 - Come Essere Sovrano su LN (Step-by-Step)]], [[Bitcoin/Definizioni/Lightning/Canale di Pagamento\|Canale di Pagamento]], [[Bitcoin/Definizioni/Lightning/Routing\|Routing]], [[Bitcoin/Lightning Network/Blixt\|Blixt]], [[Bitcoin/Lightning Network/Zeus\|Zeus]]_

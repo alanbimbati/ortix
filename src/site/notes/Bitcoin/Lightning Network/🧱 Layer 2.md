@@ -38,7 +38,7 @@ ma si basano **sulla fiducia matematica di Bitcoin**.
 
 📡 È come aprire un tab al bar: paghi solo all’inizio e alla fine.
 
-👉 Vedi: [[Bitcoin/Lightning Network/⚡ Lightning Network\|⚡ Lightning Network]]
+👉 Vedi: [[Bitcoin/Lightning Network/⚡ Lightning Network\|⚡ Lightning Network]] — e il percorso completo in [[Bitcoin/Lightning Network/00 - Come Essere Sovrano su LN (Step-by-Step)\|00 - Come Essere Sovrano su LN (Step-by-Step)]]
 
 ---
 
@@ -80,4 +80,4 @@ Costruiamo sopra un fondamento solido.
 
 ---
 
-🔗 _Approfondisci con [[Bitcoin/Lightning Network/⚡ Lightning Network\|⚡ Lightning Network]], [[Bitcoin/Lightning Network/⚡ Scalabilità di Lightning Network\|⚡ Scalabilità di Lightning Network]], [[Bitcoin/Filosofia/🔺 Il Trilemma\|🔺 Il Trilemma]], [[Bitcoin/Definizioni/Mining/⚙️  Proof of Work\|⚙️  Proof of Work]], [[Bitcoin/Filosofia/🕸️ Decentralizzazione\|🕸️ Decentralizzazione]], [[Bitcoin/Definizioni/Blockchain/🔐 Self-custody\|🔐 Self-custody]]_
+🔗 _Approfondisci con [[Bitcoin/Lightning Network/⚡ Lightning Network\|⚡ Lightning Network]], [[Bitcoin/Lightning Network/⚡ Scalabilità di Lightning Network\|⚡ Scalabilità di Lightning Network]], [[Bitcoin/Filosofia/🔺 Il Trilemma\|🔺 Il Trilemma]], [[⚡️  Proof of Work\|⚡️  Proof of Work]], [[Bitcoin/Filosofia/🕸️ Decentralizzazione\|🕸️ Decentralizzazione]], [[Bitcoin/Definizioni/Blockchain/🔐 Self-custody\|🔐 Self-custody]], [[Bitcoin/Lightning Network/Phoenix\|Phoenix]], [[Bitcoin/Lightning Network/Blixt\|Blixt]], [[Bitcoin/Lightning Network/Zeus\|Zeus]], [[Bitcoin/Lightning Network/Wallet of Satoshi\|Wallet of Satoshi]]_

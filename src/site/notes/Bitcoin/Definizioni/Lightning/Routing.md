@@ -35,3 +35,7 @@ Il routing utilizza la **crittografia onion** (simile a [[Ortix/Navigazione/Web/
 L'instradamento non costa uguale dappertutto. Durante i test reali:
 * Una transazione da [[Bitcoin/Lightning Network/Blixt\|Blixt]] a [[Bitcoin/Lightning Network/Phoenix\|Phoenix]] è costata solo **21 sats** di routing fee.
 * Il percorso inverso, da [[Bitcoin/Lightning Network/Phoenix\|Phoenix]] a [[Bitcoin/Lightning Network/Blixt\|Blixt]], è costato ben **71 sats** (il triplo!), poiché Phoenix instrada forzatamente tramite il nodo di ACINQ applicando tariffe extra.
+
+---
+
+🔗 _Vedi anche: [[Bitcoin/Lightning Network/00 - Come Essere Sovrano su LN (Step-by-Step)\|00 - Come Essere Sovrano su LN (Step-by-Step)]], [[Bitcoin/Definizioni/Lightning/Canale di Pagamento\|Canale di Pagamento]], [[Bitcoin/Definizioni/Lightning/Stato dei Canali\|Stato dei Canali]], [[Bitcoin/Lightning Network/Zeus\|Zeus]], [[Bitcoin/Lightning Network/Blixt\|Blixt]], [[Bitcoin/Lightning Network/⚡ Lightning Network\|⚡ Lightning Network]]_

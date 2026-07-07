@@ -105,7 +105,7 @@ Il libertarismo moderno affonda le radici nella **[[Bitcoin/Economia/Scuolaaustr
 
 E i filosofi radicali:
 - **[[Bitcoin/Libertarismo/Autori/Hans-Hermann Hoppe\|Hans-Hermann Hoppe]]**: Ha criticato la democrazia come sistema di "decivilizzazione"
-- **[[Bitcoin/Libertarismo/Autori/Lysander Spooner 1\|Lysander Spooner 1]]**: Ha argomentato che lo Stato non ha validità legale
+- **[[Lysander Spooner 1\|Lysander Spooner 1]]**: Ha argomentato che lo Stato non ha validità legale
 - **[[Bitcoin/Libertarismo/Autori/Robert Nozick\|Robert Nozick]]**: Ha difeso lo "Stato minimo" contro le teorie redistributive
 
 ---
@@ -116,8 +116,8 @@ Il libertarismo non è un'utopia futura.
 È qualcosa che puoi praticare **oggi**:
 
 1. **Riprendi la proprietà dei tuoi dati** → [[Ortix/Filosofia/🛡️ Sovranità digitale\|🛡️ Sovranità digitale]]
-2. **Riprendi la proprietà del tuo denaro** → [[Bitcoin/Bitcoin\|Bitcoin]] in self-custody
-3. **Riprendi la proprietà delle tue comunicazioni** → [[Bitcoin/📡 Nostr\|📡 Nostr]], [[Signal\|Signal]]
+2. **Riprendi la proprietà del tuo denaro** → [[Bitcoin/Bitcoin\|Bitcoin]] in [[Bitcoin/Definizioni/Blockchain/🔐 Self-custody\|self-custody]]
+3. **Riprendi la proprietà delle tue comunicazioni** → [[Bitcoin/📡 Nostr\|📡 Nostr]], Signal
 4. **Riprendi la proprietà dei tuoi strumenti** → [[Bitcoin/🧬 Open Source\|🧬 Open Source]]
 
 Ogni scelta è un voto.

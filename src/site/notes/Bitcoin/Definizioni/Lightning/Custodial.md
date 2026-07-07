@@ -38,3 +38,7 @@ Per capire a fondo il modello custodial, applichiamo le tre domande chiave di Or
 ## 🧭 Dove si colloca nel percorso?
 
 Un wallet custodial come [[Bitcoin/Lightning Network/Wallet of Satoshi\|Wallet of Satoshi]] è un ottimo punto di partenza per testare la tecnologia con pochi euro. Ma per importi significativi, la sovranità impone il passaggio alla [[Bitcoin/Definizioni/Blockchain/🔐 Self-custody\|Self-Custody]].
+
+---
+
+🔗 _Vedi anche: [[Bitcoin/Lightning Network/00 - Come Essere Sovrano su LN (Step-by-Step)\|00 - Come Essere Sovrano su LN (Step-by-Step)]], [[Bitcoin/Lightning Network/Wallet of Satoshi\|Wallet of Satoshi]], [[Bitcoin/Lightning Network/Phoenix\|Phoenix]], [[Bitcoin/Lightning Network/⚡ Lightning Network\|⚡ Lightning Network]]_

@@ -29,3 +29,7 @@
 
 * **Canale Singolo (es. [[Bitcoin/Lightning Network/Phoenix\|Phoenix]])**: Il wallet si connette a un solo nodo centrale (ACINQ). È molto facile da usare perché la complessità è delegata, ma sei dipendente dalle condizioni economiche e dall'uptime di quel singolo operatore.
 * **Multi-Canale (es. [[Bitcoin/Lightning Network/Blixt\|Blixt]] o [[Bitcoin/Lightning Network/Zeus\|Zeus]])**: Gestisci autonomamente canali con nodi diversi del network. Questo offre maggiore stabilità (ridondanza se un nodo va offline), commissioni inferiori e privacy più elevata.
+
+---
+
+🔗 _Vedi anche: [[Bitcoin/Lightning Network/00 - Come Essere Sovrano su LN (Step-by-Step)\|00 - Come Essere Sovrano su LN (Step-by-Step)]], [[Bitcoin/Definizioni/Lightning/Routing\|Routing]], [[Bitcoin/Definizioni/Lightning/Stato dei Canali\|Stato dei Canali]], [[Bitcoin/Definizioni/Lightning/Liquidità in Entrata\|Liquidità in Entrata]], [[Bitcoin/Lightning Network/⚡ Lightning Network\|⚡ Lightning Network]]_

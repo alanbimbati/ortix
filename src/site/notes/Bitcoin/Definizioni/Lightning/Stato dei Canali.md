@@ -34,3 +34,7 @@ Poiché le transazioni si muovono fuori dalla blockchain principale, se perdi il
 Sì. Una delle domande più frequenti è se salvare lo Stato dei Canali su cloud esterni metta a rischio i propri fondi.
 > [!NOTE]
 > Il backup dello stato dei canali **non contiene le tue chiavi private**. Si tratta solo di una mappa contabile cifrata che dice dove si trovano i tuoi canali e qual è il saldo. Senza la tua [[Bitcoin/Definizioni/Blockchain/🧠 Seed Phrase\|Seed Phrase]], nessuno può rubare un singolo satoshi da quel file di backup. Serve unicamente a ripristinare la comunicazione e forzare la chiusura unilaterale dei canali per rimetterti i bitcoin on-chain.
+
+---
+
+🔗 _Vedi anche: [[Bitcoin/Lightning Network/00 - Come Essere Sovrano su LN (Step-by-Step)\|00 - Come Essere Sovrano su LN (Step-by-Step)]], [[Bitcoin/Definizioni/Lightning/Canale di Pagamento\|Canale di Pagamento]], [[Bitcoin/Definizioni/Blockchain/🧠 Seed Phrase\|🧠 Seed Phrase]], [[Bitcoin/Lightning Network/Blixt\|Blixt]], [[Bitcoin/Lightning Network/Phoenix\|Phoenix]], [[Bitcoin/Lightning Network/Zeus\|Zeus]]_
