@@ -3,7 +3,7 @@
 ---
 
 
-# 🌍 Il tuo pezzo di Bitcoin: afferralo finché puoi
+# 🌍 Il tuo pezzo di Bitcoin: un esercizio sulla scarsità
 
 🧮 **Una divisione che fa riflettere**  
 Oggi siamo circa **8 miliardi** di persone. I Bitcoin in circolazione saranno **al massimo 21 milioni**.  
@@ -17,10 +17,10 @@ Se li dividessimo in modo equo:
 
 ---
 
-💸 **Il vero valore di Bitcoin non è ancora visibile**  
+💸 **Rovesciamo il conto, solo per vedere le proporzioni**  
 Facciamo un esperimento mentale:
 
-👉 Immagina che, un giorno, servano **100.000€ per acquistare solo 0,002625 BTC**.  
+👉 Mettiamo che una quota da 0,002625 BTC costi **100.000€**, più o meno quanto una casa. È un numero scelto a caso, serve solo per fare il conto.  
 Questo significa che:
 
 ```
@@ -28,30 +28,32 @@ Questo significa che:
 → 1 BTC = 38.095.238€
 ```
 
-🚨 In quel momento, **Bitcoin sarà diventato talmente riconosciuto**, desiderato e usato a livello globale, che anche ottenere **la tua minuscola quota personale** costerà quanto **una casa intera oggi**.
+⚠️ **Non è una previsione.** È la stessa divisione fatta al contrario: mostra quanto è piccola la fetta di ciascuno, non quanto varrà. Per questo conviene ragionare in sats e non in bitcoin interi.
 
 ---
 
-🎯 **Finché non siamo lì, Bitcoin è in sconto**  
-Se oggi riesci a ottenere 0,002625 BTC con **meno di 100.000€**, allora:
+🎯 **Cosa ci dice davvero questo numero**  
+Ci dice che i bitcoin sono pochi: un bitcoin intero a testa non esiste, nemmeno lontanamente. È la scarsità di cui parlo in [Le caratteristiche del vero denaro](https://ortix.vercel.app/bitcoin/economia/le-caratteristiche-del-vero-denaro/) e in [Bitcoin è oro digitale](https://ortix.vercel.app/bitcoin/economia/bitcoin-e-oro-digitale/), ridotta a un numero solo.
 
-✅ Non stai pagando troppo  
-✅ Non è troppo tardi  
-✅ **Stai comprando a sconto**
+Sul prezzo invece non ci dice nulla. Ecco i limiti dell'esercizio:
+
+⚠️ **Molti bitcoin sono persi per sempre**: seed dimenticate, chiavi buttate, wallet mai recuperati. Quelli che si possono davvero spendere sono meno del totale.  
+⚠️ **La distribuzione non è equa**: c'è chi ne ha tanti e chi nessuno. La quota uguale per tutti è un'astrazione, non qualcosa che qualcuno ti consegna.  
+⚠️ **Il prezzo lo fa il mercato**, giorno per giorno: nessuna divisione ti dice se oggi è caro o economico.
 
 La vera domanda è:  
-**Quanto sei disposto a pagare per far parte del prossimo sistema monetario globale?**
+**Quanti di quei sats vuoi custodire tu, con le tue chiavi?** 🔑
 
 ---
 
 🚀 **Conclusione**  
-Se per te oggi 100.000€ sono una cifra enorme da raggiungere, allora **è proprio quella la soglia che rende Bitcoin “irraggiungibile” per i più**.
+Questa divisione non serve a farti comprare in fretta. Serve a capire che 21 milioni, divisi per il mondo intero, sono pochissimi: è un seme da piantare, non una corsa da vincere. 🌱
 
-📉 Ma se oggi bastano pochi euro per ottenere quella cifra (0,002625 BTC), significa che:
+Se decidi di accumulare, il metodo che suggerisco è sempre lo stesso:
 
-⚡ **Bitcoin è ancora sottovalutato**  
-⚡ **Hai ancora una finestra aperta**  
-⚡ **Stai pagando meno del suo valore futuro**
+⚡ **PAC**: una cifra piccola e regolare, che puoi permetterti di non toccare per anni  
+⚡ **Niente trading** e niente promesse di rendimento: leggi [Come non acquistare Bitcoin](https://ortix.vercel.app/bitcoin/come-non-acquistare-bitcoin/) e [Evita le promesse di guadagni giornalieri](https://ortix.vercel.app/bitcoin/filosofia/evita-le-promesse-di-guadagni-giornalieri/)  
+⚡ **Self-custody**: sposta i sats su un wallet di cui possiedi la seed, partendo da [Bitcoin Dove iniziare](https://ortix.vercel.app/bitcoin/bitcoin-dove-iniziare/)
 
 ---
 
