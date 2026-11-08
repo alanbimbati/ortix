@@ -37,14 +37,19 @@ Se non hai un hardware wallet, puoi usare un vecchio smartphone **resettato e se
 2. Metti il telefono in **Modalità Aereo** (o meglio, rimuovi fisicamente i moduli se sei paranoico).
 3. Genera il wallet.
 4. Copia la seed phrase su carta.
-5. Cancella l'app o il telefono se non lo usi come cold storage dedicato.
+5. **Verifica il backup prima di tutto** ✅: cancella il wallet dall'app, reimportalo usando solo le parole scritte su carta e controlla che il primo indirizzo di ricezione sia identico a quello di prima. Se qualcosa non torna, hai sbagliato a trascrivere: meglio scoprirlo adesso, a wallet vuoto.
+6. Solo dopo il test, cancella l'app o il telefono se non lo usi come cold storage dedicato.
 
 ### Metodo 3: Dadi (Entropia Fisica)
 Per i veri cypherpunk. Non ti fidi del software? Usa la fisica.
 1. Prendi un dado da 6 facce.
-2. Lancialo 100 volte (per 256 bit di entropia).
-3. Converti i risultati in parole usando la lista BIP39.
+2. Lancialo circa 100 volte. Ogni lancio di un D6 vale circa 2,58 bit di entropia, quindi per arrivare a 256 bit (una seed da 24 parole) servono circa 99-100 lanci. Annota ogni risultato nell'ordine, senza saltarne né ripeterne.
+3. **Non** convertire i lanci in parole scegliendole a mano dalla [lista BIP39](https://ortix.vercel.app/bitcoin/definizioni/bip/bip-39-mnemonic-seed-phrases/). L'ultima parola contiene un **checksum** calcolato a partire dall'entropia: se lo sbagli, la seed non è valida oppure non è quella che credi. Il calcolo va fatto da un dispositivo offline.
 4. Molti hardware wallet (es. Coldcard, Jade) permettono di inserire i lanci di dadi per calcolare la seed phrase.
+
+⚠️ La procedura passo passo è nel [🥇 Metodo 3 — Creazione di un wallet Livello Difficile](https://ortix.vercel.app/bitcoin/come-creare-un-wallet/metodo-3-crazione-di-un-wallet-livello-difficile/). Lì trovi la funzione «Fornisci entropia» di BlueWallet, che calcola checksum e parole, e il numero di lanci necessari.
+
+Con i dadi l'errore umano è il rischio principale: un lancio annotato male o una parola trascritta storta e la seed non è più quella giusta. Prima di ricevere anche un solo sat fai lo **stress test di ripristino**: cancella il wallet, reimportalo dalle parole su carta e controlla che gli indirizzi coincidano. Senza questo test non hai un backup, hai solo un foglio con delle parole sopra.
 
 ---
 
