@@ -28,7 +28,7 @@ La base della piramide rappresenta il **tuo patrimonio principale**.
 
 ---
 
-## ⚖️ L’intermedio – [[Hot Wallet\|Hot Wallet]]
+## ⚖️ L’intermedio – [[Bitcoin/Definizioni/Blockchain/Hot Wallet\|Hot Wallet]]
 
 Il livello intermedio è pensato per **fondi di medio termine**: soldi che vuoi avere pronti all’uso senza sacrificare troppa sicurezza.  
 
@@ -74,3 +74,4 @@ La piramide è quindi un **modello pratico e scalabile**, applicabile sia ai pri
 
 ---
 
+🔗 _Approfondisci con [[Bitcoin/Guide e consigli/🧭 I profili della piramide dei fondi\|🧭 I profili della piramide dei fondi]], [[Bitcoin/Guide e consigli/🛟 Il cuscinetto in euro\|🛟 Il cuscinetto in euro]], [[Bitcoin/Guide e consigli/🟠 Vivere in Bitcoin\|🟠 Vivere in Bitcoin]], [[Bitcoin/Definizioni/Blockchain/Hot Wallet\|Hot Wallet]], [[Bitcoin/Definizioni/Blockchain/Cold Wallet\|Cold Wallet]]_
