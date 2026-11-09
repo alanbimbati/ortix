@@ -83,3 +83,4 @@ Tutto il resto in [[Bitcoin/Guide e consigli/🟠 Vivere in Bitcoin\|🟠 Vivere
 ---
 
 🔗 _Approfondisci con [[Bitcoin/Guide e consigli/Gestire i Bitcoin in modo intelligente\|Gestire i Bitcoin in modo intelligente]], [[Bitcoin/Guide e consigli/🛟 Il cuscinetto in euro\|🛟 Il cuscinetto in euro]], [[Bitcoin/Guide e consigli/🟠 Vivere in Bitcoin\|🟠 Vivere in Bitcoin]], [[Bitcoin/Definizioni/Blockchain/Hot Wallet\|Hot Wallet]], [[Bitcoin/Definizioni/Blockchain/Cold Wallet\|Cold Wallet]]_
+
