@@ -53,7 +53,7 @@ Molti altri progetti usano blockchain per scopi diversi, ma **senza una vera dec
 
 ---
 
-🔗 _Approfondisci con [[Bitcoin/🔧 Bitcoin dal punto di vista tecnologico\|🔧 Bitcoin dal punto di vista tecnologico]], [[Bitcoin/Definizioni/Blockchain/Full Node\|Full Node]], [[Bitcoin/Definizioni/Blockchain/hash\|hash]], [[Bitcoin/Definizioni/Blockchain/UTXO\|UTXO]], [[⚙️ Proof of Work\|⚙️ Proof of Work]], [[Bitcoin/Definizioni/Mining/⛏️ Mining\|⛏️ Mining]], [[Bitcoin/Filosofia/🕸️ Decentralizzazione\|🕸️ Decentralizzazione]], [[Bitcoin/Bitcoin\|Bitcoin]]_
+🔗 _Approfondisci con [[Bitcoin/🔧 Bitcoin dal punto di vista tecnologico\|🔧 Bitcoin dal punto di vista tecnologico]], [[Bitcoin/Definizioni/Blockchain/Full Node\|Full Node]], [[Bitcoin/Definizioni/Blockchain/hash\|hash]], [[Bitcoin/Definizioni/Blockchain/UTXO\|UTXO]], [[Bitcoin/Definizioni/Mining/⚙️  Proof of Work\|⚙️ Proof of Work]], [[Bitcoin/Definizioni/Mining/⛏️ Mining\|⛏️ Mining]], [[Bitcoin/Filosofia/🕸️ Decentralizzazione\|🕸️ Decentralizzazione]], [[Bitcoin/Bitcoin\|Bitcoin]]_
 
 ---
 

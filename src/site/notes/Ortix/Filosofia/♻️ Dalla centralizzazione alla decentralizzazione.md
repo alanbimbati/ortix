@@ -22,7 +22,7 @@ Alterna fasi di **centralizzazione** (tutto sotto pochi nodi di controllo) a fas
 
 ## 💰 Moneta: il ciclo si ripete
 - **Oro e monete fisiche:** decentralizzate, possedute direttamente.  
-- **[[FIAT\|FIAT]]:** centralizzata, controllata da banche centrali e governi.  
+- **[[Ortix/Filosofia/🌍 FIAT\|FIAT]]:** centralizzata, controllata da banche centrali e governi.  
 - **[[Bitcoin/Bitcoin\|Bitcoin]]:** decentralizza di nuovo la moneta, restituendo la proprietà e il controllo agli individui.
 
 ---
@@ -30,13 +30,13 @@ Alterna fasi di **centralizzazione** (tutto sotto pochi nodi di controllo) a fas
 ## ⛏ Mining: dalla camera del nerd al data center… e di nuovo al nerd
 - **Primi anni di [[Bitcoin/Definizioni/Mining/⛏️ Mining\|⛏️ Mining]]:** decentralizzato, chiunque poteva minare da casa.  
 - **Mining industriale:** mega data center centralizzano la potenza di calcolo.  
-- **Oggi:** progetti come [[Lottery Mining\|Lottery Mining]] e [[Nerd Miner\|Nerd Miner]] riportano il mining alla portata di tutti, anche con hardware economico.
+- **Oggi:** progetti come Lottery Mining e Nerd Miner riportano il mining alla portata di tutti, anche con hardware economico.
 
 ---
 
 ## 🤖 L’AI: il cambio di paradigma è già iniziato
 Fino a ieri: pochi modelli centralizzati (ChatGPT, Gemini, Claude) = dati e potere nelle mani di pochi.  
-Oggi: **gpt‑oss‑20B** e altri modelli [[open weight\|open weight]] permettono a chiunque di avere un assistente AI **privato, locale e personalizzabile**.  
+Oggi: **gpt‑oss‑20B** e altri modelli open weight permettono a chiunque di avere un assistente AI **privato, locale e personalizzabile**.  
 
 ---
 

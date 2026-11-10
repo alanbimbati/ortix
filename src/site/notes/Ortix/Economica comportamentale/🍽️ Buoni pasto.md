@@ -58,7 +58,7 @@ La scadenza dei buoni è un elemento chiave e non accidentale. Dal punto di vist
 - incentiva il consumo immediato,
 - riduce la libertà intertemporale dell’individuo.
 
-In termini austriaci, questo equivale a **forzare una [[Bitcoin/Economia/Preferenza temporale\|Preferenza temporale]] più alta**, indipendentemente dalle reali necessità del soggetto. Un incentivo che funziona solo se impedisce di scegliere liberamente **non è un beneficio**, ma una forma di paternalismo economico (un [[Ortix/Economica comportamentale/Nudge\|Nudge]]).
+In termini austriaci, questo equivale a **forzare una [[Bitcoin/Economia/Preferenza temporale\|Preferenza temporale]] più alta**, indipendentemente dalle reali necessità del soggetto. Un incentivo che funziona solo se impedisce di scegliere liberamente **non è un beneficio**, ma una forma di paternalismo economico (un Nudge).
 
 ---
 

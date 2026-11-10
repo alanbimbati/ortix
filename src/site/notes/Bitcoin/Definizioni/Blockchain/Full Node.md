@@ -21,7 +21,7 @@
    Aiuta altri nodi a sincronizzarsi e supporta la rete.
 
 3. 🔐 **Ti permette di usare Bitcoin senza fidarti di nessuno**:  
-   Se usi un wallet come [[Electrum\|Electrum]] ma non hai un tuo nodo, ti fidi di quello di qualcun altro.
+   Se usi un wallet come [[Bitcoin/Wallet/Software Wallet/⚡ Electrum\|Electrum]] ma non hai un tuo nodo, ti fidi di quello di qualcun altro.
 
 ---
 
@@ -38,8 +38,8 @@
 
 Puoi installarlo su:
 - 💻 Un PC (Linux consigliato)  
-- 🧱 Un mini computer come [[Raspberry Pi\|Raspberry Pi]]  
-- 🧰 Una macchina dedicata con progetti come [[Umbrel\|Umbrel]], [[RaspiBlitz\|RaspiBlitz]], [[Start9\|Start9]], [[RoninDojo\|RoninDojo]], [[NixBitcoin\|NixBitcoin]]
+- 🧱 Un mini computer come Raspberry Pi  
+- 🧰 Una macchina dedicata con progetti come Umbrel, RaspiBlitz, Start9, RoninDojo, NixBitcoin
 
 👉 Richiede circa **700+ GB di spazio** (in crescita), buona connessione e **un po’ di pazienza** per la prima sincronizzazione.
 
@@ -48,10 +48,10 @@ Puoi installarlo su:
 ## 🕹️ E poi?
 
 Puoi usarlo per:
-- Fare [[routing Lightning\|routing Lightning]] con un nodo [[Bitcoin/Definizioni/Lightning/LND\|LND]] o [[Core Lightning\|Core Lightning]]  
-- Collegarci un wallet come [[Sparrow Wallet\|Sparrow Wallet]]  
+- Fare [[Bitcoin/Definizioni/Lightning/Routing\|routing Lightning]] con un nodo [[Bitcoin/Definizioni/Lightning/LND\|LND]] o Core Lightning  
+- Collegarci un wallet come [[Bitcoin/Wallet/Software Wallet/🐦 Sparrow Wallet\|Sparrow Wallet]]  
 - Avere [[Ortix/Navigazione/Web/Tor\|Tor]] integrato per la privacy  
-- Hostare [[BTCPay Server\|BTCPay Server]] e accettare pagamenti in Bitcoin
+- Hostare BTCPay Server e accettare pagamenti in Bitcoin
 
 ---
 

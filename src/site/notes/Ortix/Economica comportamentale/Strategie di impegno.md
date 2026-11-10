@@ -5,7 +5,7 @@
 
 🔒 **Cos’è una strategia di impegno?**
 
-È una decisione che **prendi oggi** per **difenderti dalle tue debolezze di domani**.  Un [[Ortix/Economica comportamentale/Nudge\|Nudge]] per difendere te stesso.
+È una decisione che **prendi oggi** per **difenderti dalle tue debolezze di domani**.  Un Nudge per difendere te stesso.
 Un modo intelligente di aggirare la tua *futura irrazionalità*.
 
 > È la versione mentale del mettere il lucchetto al frigo… con la combinazione che solo domani saprai.

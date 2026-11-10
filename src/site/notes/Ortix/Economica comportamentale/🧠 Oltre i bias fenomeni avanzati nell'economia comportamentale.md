@@ -59,7 +59,7 @@ Ecco alcuni dei “bug” più potenti che guidano le nostre decisioni senza che
 
 👉 La vera libertà non è scegliere *tutto*, ma scegliere *bene* tra poche cose essenziali.  
 
-[[Rasoio di Occam\|Rasoio di Occam]] [[Ortix/Filosofia/🥬 Dieta digitale\|🥬 Dieta digitale]]
+Rasoio di Occam [[Ortix/Filosofia/🧘‍♀️ Detox Digitale\|🥬 Dieta digitale]]
 
 ---
 

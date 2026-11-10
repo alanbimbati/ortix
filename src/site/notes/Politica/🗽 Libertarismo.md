@@ -105,7 +105,7 @@ Il libertarismo moderno affonda le radici nella **[[Bitcoin/Economia/Scuolaaustr
 
 E i filosofi radicali:
 - **[[Bitcoin/Libertarismo/Autori/Hans-Hermann Hoppe\|Hans-Hermann Hoppe]]**: Ha criticato la democrazia come sistema di "decivilizzazione"
-- **[[Lysander Spooner 1\|Lysander Spooner 1]]**: Ha argomentato che lo Stato non ha validità legale
+- **[[Bitcoin/Libertarismo/Autori/Lysander Spooner\|Lysander Spooner 1]]**: Ha argomentato che lo Stato non ha validità legale
 - **[[Bitcoin/Libertarismo/Autori/Robert Nozick\|Robert Nozick]]**: Ha difeso lo "Stato minimo" contro le teorie redistributive
 
 ---

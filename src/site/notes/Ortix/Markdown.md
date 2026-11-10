@@ -26,7 +26,7 @@ E il bello? Il file si apre **ovunque**, anche con un editor di testo minimale.
 ## 🤖 **Perfetto anche per le macchine**
 
 🧠 Markdown è strutturato in modo che i **programmi possano interpretarlo facilmente**, renderizzandolo in bellissime interfacce grafiche.  
-[[Ortix/Appunti/Obsidian\|Obsidian]], Hugo, Jekyll, [[Ortix/Appunti/LogSeq\|LogSeq]], Zettlr, GitHub, Notion… tutti lo supportano!
+Obsidian, Hugo, Jekyll, [[Ortix/Appunti/LogSeq\|LogSeq]], Zettlr, GitHub, Notion… tutti lo supportano!
 
 ---
 
@@ -54,5 +54,5 @@ Quando scrivi in Markdown, stai **creando contenuti davvero tuoi**, che potrai *
 ✊ È uno strumento fondamentale per la **sovranità digitale**.
 
 #Markdown
-[[Ortix/Filosofia/Giardino digitale\|Giardino digitale]]
+[[Ortix/Filosofia/🌱 Come lavora Ortix\|Giardino digitale]]
 [[Ortix/Filosofia/🛡️ Sovranità digitale\|🛡️ Sovranità digitale]]

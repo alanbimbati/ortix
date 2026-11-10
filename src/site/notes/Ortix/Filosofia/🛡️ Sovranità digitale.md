@@ -29,16 +29,16 @@ Senza filtri invisibili. Senza permessi da chiedere. In totale [[Bitcoin/Filosof
 | Pilastro             | Strumento consigliato                  |
 | -------------------- | -------------------------------------- |
 | Proprietà del denaro | [[Bitcoin/Definizioni/Blockchain/🔐 Self-custody\|🔐 Self-custody]]                    |
-| Comunicazione        | [[Bitcoin/📡 Nostr\|📡 Nostr]], [[SimpleX\|SimpleX]], [[Session\|Session]] |
+| Comunicazione        | [[Bitcoin/📡 Nostr\|📡 Nostr]], SimpleX, Session |
 | File personali       | [[Ortix/Storage/🔄 Syncthing\|🔄 Syncthing]], [[Ortix/Foto/🖼️ Aves\|🖼️ Aves]]         |
-| Appunti/idee         | [[Ortix/Appunti/Obsidian\|Obsidian]]                        |
+| Appunti/idee         | Obsidian                        |
 | Codice/controllo     | [[Bitcoin/🧬 Open Source\|🧬 Open Source]]                     |
-| Privacy nel web      | [[Brave\|Brave]], [[Ortix/Navigazione/Web/Tor\|Tor]], [[Ortix/Navigazione/Web/VPN\|VPN]]            |
+| Privacy nel web      | Brave, [[Ortix/Navigazione/Web/Tor\|Tor]], [[Ortix/Navigazione/Web/VPN\|VPN]]            |
 | Informazione         | [[Ortix/Informazione/📰 Feeder\|📰 Feeder]]                          |
 | Navigazione          | [[Ortix/Navigazione/CoMaps\|CoMaps]]                             |
 | Video                | [[Ortix/Video/📺 NewPipe\|📺 NewPipe]]                         |
 | Musica               | [[Ortix/Musica/🎶 BoomingMusic\|🎶 BoomingMusic]], [[Ortix/Musica/🎵 EchoWave\|🎵 EchoWave]]        |
-| Audiolibri           | [[Ortix/Libri/🗣️ SherpaTTS\|🗣️ SherpaTTS]]                      |
+| Audiolibri           | 🗣️ SherpaTTS                      |
 | AppStore             | [[Ortix/AppStore/📦 F-Droid\|📦 F-Droid]]                         |
 
 🛠️ Ogni scelta tecnica è una **dichiarazione politica**.  
@@ -73,7 +73,7 @@ Abbiamo creato una **roadmap completa** per emanciparsi dai giganti del web, pas
 La sovranità digitale è l'unica difesa contro la tendenza moderna che vuole trasformare tutto in un servizio in affitto.
 Come spiegato in [[Bitcoin/Libertarismo/📉 La morte della proprietà\|📉 La morte della proprietà]], stiamo perdendo il possesso delle nostre case, delle nostre auto e dei nostri strumenti creativi.
 
-**Ortix** si oppone a questo modello applicando i principi della [[🧠 Ortix: La Sintesi della Sovranità\|Sintesi della Sovranità]]:
+**Ortix** si oppone a questo modello applicando i principi della [[Ortix/Filosofia/🧠 Ortix: La Sintesi della Sovranità\|Sintesi della Sovranità]]:
 - Rifiuta la "Subscription Economy" per i dati personali: i tuoi dati sono la tua **proprietà privata**.
 - Promuove il possesso fisico e crittografico dei propri asset (denaro e informazioni).
 - Sostiene che senza proprietà non c'è libertà ([[Politica/🗽 Libertarismo\|🗽 Libertarismo]]).
@@ -83,7 +83,7 @@ Come spiegato in [[Bitcoin/Libertarismo/📉 La morte della proprietà\|📉 La 
 
 ## 🔗 Collegamenti Filosofici
 
-- **Mente:** La sovranità digitale protegge la tua [[🧠 Terapia Cognitivo-Comportamentale (CBT)\|salute mentale]] dal rumore algoritmico.
+- **Mente:** La sovranità digitale protegge la tua salute mentale dal rumore algoritmico.
 - **Economia:** Senza sovranità sui dati, non puoi avere vera sovranità su [[Bitcoin/Bitcoin\|Bitcoin]].
 - **Etica:** Ogni strumento open source è un mattone nel castello del [[Politica/⚖️ NAP\|⚖️ NAP]].
 

@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/come-creare-un-wallet/metodo-1-crazione-di-un-wallet-livello-facile/","title":"🥉 Metodo 1 — Crazione di un wallet Livello Facile","tags":["bitcoin","wallet","onchain","seed","entropia","sicurezza","autonomia"],"dg-note-properties":{"title":"🥉 Metodo 1 — Crazione di un wallet Livello Facile","tags":["bitcoin","wallet","onchain","seed","entropia","sicurezza","autonomia"],"status":"evergreen"}}
+{"dg-publish":true,"permalink":"/bitcoin/come-creare-un-wallet/metodo-1-crazione-di-un-wallet-livello-facile/","title":"🥉 Metodo 1 — Creazione di un wallet Livello Facile","tags":["bitcoin","wallet","onchain","seed","entropia","sicurezza","autonomia"],"dg-note-properties":{"title":"🥉 Metodo 1 — Creazione di un wallet Livello Facile","tags":["bitcoin","wallet","onchain","seed","entropia","sicurezza","autonomia"],"status":"evergreen"}}
 ---
 
 
-# 🥉 Metodo 1 — Crazione di un wallet Livello Facile
+# 🥉 Metodo 1 — Creazione di un wallet Livello Facile
 
 ### 🔧 Strumenti
 - Smartphone personale

@@ -33,7 +33,7 @@ graph TD
 
 ### 1. 🧠 Sovranità della Mente (Il Fondamento)
 Senza il controllo dei propri pensieri, ogni altra libertà è un'illusione.
-- **Strumento:** [[🧠 Terapia Cognitivo-Comportamentale (CBT)\|🧠 Terapia Cognitivo-Comportamentale (CBT)]]
+- **Strumento:** 🧠 Terapia Cognitivo-Comportamentale (CBT)
 - **Concetto:** Riconoscere le distorsioni cognitive e l'[[Ortix/Economica comportamentale/Ingegneria del pensiero\|Ingegneria del pensiero]] per evitare di essere manipolati da algoritmi e propaganda.
 - **Pratica:** [[Ortix/Filosofia/🧘‍♀️ Detox Digitale\|🧘‍♀️ Detox Digitale]] e [[Ortix/Filosofia/🌐 Apnea Digitale\|🌐 Apnea Digitale]] per riprendere il controllo dell'attenzione.
 
@@ -47,7 +47,7 @@ Come interagisci con il mondo senza chiedere permessi.
 La capacità di conservare il frutto del proprio lavoro nel tempo e nello spazio.
 - **Strumento:** [[Bitcoin/Bitcoin\|Bitcoin]]
 - **Concetto:** La [[Politica/🔒 Privato vs Pubblico\|Proprietà Privata]] è l'unica difesa contro la coercizione. Il problema centrale è il sistema [[Ortix/Filosofia/🌍 FIAT\|🌍 FIAT]], che agisce come un "Anti-Asset" svalutando il tuo tempo.
-- **Pratica:** [[Bitcoin/Definizioni/Blockchain/🔐 Self-custody\|🔐 Self-custody]] e rifiuto del sistema [[FIAT\|FIAT]].
+- **Pratica:** [[Bitcoin/Definizioni/Blockchain/🔐 Self-custody\|🔐 Self-custody]] e rifiuto del sistema [[Ortix/Filosofia/🌍 FIAT\|FIAT]].
 
 ---
 
@@ -66,7 +66,7 @@ Il giardino di Ortix cresce un seme alla volta. Non serve cambiare tutto oggi, s
 
 - 📖 Leggi il [[Politica/📜 Manifesto Libertario\|📜 Manifesto Libertario]] per capire l'etica.
 - 🛠️ Segui la guida [[Bitcoin/🧭 Bitcoin Dove iniziare\|🧭 Bitcoin Dove iniziare]] per l'azione.
-- 🧘‍♂️ Pratica la [[Ortix/Filosofia/🥬 Dieta digitale\|🥬 Dieta digitale]] per la mente.
+- 🧘‍♂️ Pratica la [[Ortix/Filosofia/🧘‍♀️ Detox Digitale\|🥬 Dieta digitale]] per la mente.
 
 ---
 

@@ -7,7 +7,7 @@
 
 
 ![Ortix_Struttura.jpg](/img/user/Immagini/Ortix_Struttura.jpg)
-## Strato 1 – Le radici: [[Ortix/Appunti/Obsidian\|Obsidian]]  
+## Strato 1 – Le radici: Obsidian  
 Qui Ortix pianta i semi. È il cuore del giardino digitale: un luogo dove i pensieri si intrecciano come radici, creando collegamenti naturali e duraturi.  
 Ogni nota è un seme che cresce, ogni link una nuova ramificazione che rende il tuo archivio sempre più vivo e organico.  
 

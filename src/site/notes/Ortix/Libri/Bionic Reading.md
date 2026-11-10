@@ -87,6 +87,6 @@ Il punto chiave è questo:
 
 Il Bionic Reading è interessante non solo come tecnica,  
 ma come segnale culturale.
-È un pungolo tecnologico ([[Ortix/Economica comportamentale/Nudge\|Nudge]]) per leggere di più.
+È un pungolo tecnologico (Nudge) per leggere di più.
 
 ---

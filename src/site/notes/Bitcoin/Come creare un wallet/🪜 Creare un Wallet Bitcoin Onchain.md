@@ -29,19 +29,19 @@ Bitcoin è sicuro per design, ma la robustezza del tuo capitale dipende esclusiv
 
 ## 🧭 Scegli il tuo livello di consapevolezza
 
-### [[Bitcoin/Come creare un wallet/🥉 Metodo 1 — Crazione di un wallet Livello Facile\|🥉 Metodo 1 — Crazione di un wallet Livello Facile]]
+### [[Bitcoin/Come creare un wallet/🥉 Metodo 1 — Crazione di un wallet Livello Facile\|🥉 Metodo 1 — Creazione di un wallet Livello Facile]]
 
 Ideale per: Piccole somme, test o nuovi utenti.
 
 Si affida agli algoritmi standard del sistema operativo e dell'app (es. BlueWallet) per generare le 12 parole.
 
-### [[Bitcoin/Come creare un wallet/🥈 Metodo 2 — Crazione di un wallet Livello Medio\|🥈 Metodo 2 — Crazione di un wallet Livello Medio]]*
+### [[Bitcoin/Come creare un wallet/🥈 Metodo 2 — Crazione di un wallet Livello Medio\|🥈 Metodo 2 — Creazione di un wallet Livello Medio]]*
 
 Ideale per: Chi vuole proteggere risparmi significativi.
 
 Utilizza una Passphrase (25ª parola) per creare wallet nascosti e proteggersi dal furto fisico della seed phrase.
 
-### [[Bitcoin/Come creare un wallet/🥇 Metodo 3 — Crazione di un wallet Livello Difficile\|🥇 Metodo 3 — Crazione di un wallet Livello Difficile]]
+### [[Bitcoin/Come creare un wallet/🥇 Metodo 3 — Crazione di un wallet Livello Difficile\|🥇 Metodo 3 — Creazione di un wallet Livello Difficile]]
 
 Ideale per: Massimalisti della sicurezza e grandi patrimoni.
 

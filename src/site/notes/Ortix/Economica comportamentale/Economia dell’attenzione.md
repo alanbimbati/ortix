@@ -36,7 +36,7 @@ Lo smartphone diventa così un **dispositivo chimico**, capace di **hackerare le
 ---
 
 🌱 Ma l’alternativa esiste.  
-Puoi **riconquistare la tua attenzione**: respira e non affogare nell'[[Ortix/Filosofia/🌐 Apnea Digitale\|🌐 Apnea Digitale]], lavora su una [[Ortix/Filosofia/🥬 Dieta digitale\|🥬 Dieta digitale]] così da ripulirti ([[Ortix/Filosofia/🧘‍♀️ Detox Digitale\|🧘‍♀️ Detox Digitale]])
+Puoi **riconquistare la tua attenzione**: respira e non affogare nell'[[Ortix/Filosofia/🌐 Apnea Digitale\|🌐 Apnea Digitale]], lavora su una [[Ortix/Filosofia/🧘‍♀️ Detox Digitale\|🥬 Dieta digitale]] così da ripulirti ([[Ortix/Filosofia/🧘‍♀️ Detox Digitale\|🧘‍♀️ Detox Digitale]])
 
 ⚡ Il primo passo verso la [[Ortix/Filosofia/🛡️ Sovranità digitale\|🛡️ Sovranità digitale]] è riprendere possesso della propria attenzione.  
 Non si tratta solo di “staccare dal telefono”, ma di **decidere chi controlla la tua mente**.

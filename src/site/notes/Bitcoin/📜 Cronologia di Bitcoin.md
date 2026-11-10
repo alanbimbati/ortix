@@ -26,7 +26,7 @@ L’ancoraggio all’oro fornisce disciplina monetaria: meno [[Bitcoin/Economia/
 
 ## 🏛 1944 — Bretton Woods: il dollaro come ancora mondiale
 Dopo la guerra si costruisce un ordine monetario: il dollaro è convertibile in oro, gli altri paesi agganciano le loro valute al dollaro. Centralizzazione: il potere monetario si concentra intorno agli USA e alle istituzioni internazionali (FMI, Banca Mondiale).  
-Link: https://it.wikipedia.org/wiki/Accordi_di_Bretton_Woods • [[Bretton Woods\|Bretton Woods]]
+Link: https://it.wikipedia.org/wiki/Accordi_di_Bretton_Woods • Bretton Woods
 
 ---
 
@@ -39,7 +39,7 @@ Leggi: https://it.wikipedia.org/wiki/Nixon_Shock • [[Bitcoin/Economia/Storia/N
 
 ## 📚 La reazione intellettuale — Scuola Austriaca (Menger, Mises, Hayek, Rothbard)
 Dalla fine dell’Ottocento a tutto il Novecento: pensatori che insistono su proprietà privata, denazionalizzazione della moneta, conoscenza decentralizzata e limiti al potere statale. Quando la moneta diventa strumento politico, la libertà economica è in pericolo.  
-Vedi: [[Economia Austriaca\|Economia Austriaca]] • pagine: [[Bitcoin/Economia/Scuolaaustriaca/Carl Menger\|Carl Menger]], [[Bitcoin/Economia/Scuolaaustriaca/Ludwig von Mises\|Ludwig von Mises]], [[Bitcoin/Economia/Scuolaaustriaca/Friedrich Von Hayek\|Friedrich Von Hayek]], [[Bitcoin/Economia/Scuolaaustriaca/Murray Rothbard\|Murray Rothbard]]
+Vedi: [[Bitcoin/Economia/Scuolaaustriaca/💰L'Economia Austriaca Dietro Bitcoin\|Economia Austriaca]] • pagine: [[Bitcoin/Economia/Scuolaaustriaca/Carl Menger\|Carl Menger]], [[Bitcoin/Economia/Scuolaaustriaca/Ludwig von Mises\|Ludwig von Mises]], [[Bitcoin/Economia/Scuolaaustriaca/Friedrich Von Hayek\|Friedrich Von Hayek]], [[Bitcoin/Economia/Scuolaaustriaca/Murray Rothbard\|Murray Rothbard]]
 
 ---
 
@@ -51,13 +51,13 @@ Approfondimenti: https://en.wikipedia.org/wiki/Cypherpunk • Wei Dai (b-money):
 
 ## 🔐 1990s–2000s — esperimenti di valuta elettronica
 - [[Bitcoin/Storia/Precursori/DigiCash\|DigiCash]] (David Chaum) — privacy digitale, ma modello centralizzato.  
-- [[e-gold\|e-gold]]e altri esperimenti.  
+- e-golde altri esperimenti.  
 - [[Bitcoin/Storia/Precursori/Bit Gold\|Bit Gold]] (Nick Szabo) e [[Bitcoin/Storia/Precursori/B-Money\|B-Money]](Wei Dai) gettano idee fondamentali (scarcity, proof-of-work-like mechanisms, consenso distribuito).  
 
 ---
 
 ## 🧮 2004–2008 — Hashcash, proof-of-work, e i pezzi che mancano  
-Adam Back sviluppa [[Hashcash\|Hashcash]] (anti-spam proof-of-work). Hal Finney è tra i primi sperimentatori. Queste tecnologie sono i mattoni tecnici che, combinati in modo giusto, permetteranno la prima moneta digitale in conpleta [[Bitcoin/Filosofia/🕸️ Decentralizzazione\|🕸️ Decentralizzazione]].  
+Adam Back sviluppa Hashcash (anti-spam proof-of-work). Hal Finney è tra i primi sperimentatori. Queste tecnologie sono i mattoni tecnici che, combinati in modo giusto, permetteranno la prima moneta digitale in conpleta [[Bitcoin/Filosofia/🕸️ Decentralizzazione\|🕸️ Decentralizzazione]].  
 
 
 ---
@@ -76,7 +76,7 @@ Approfondisci: [[Bitcoin/Storia/Genesis Block\|Genesis Block]] • https://en.bi
 
 ## 🍕 2010 — Le prime transazioni reali (Bitcoin Pizza Day)
 10.000 BTC per due pizze: prima dimostrazione che il nuovo denaro ha valore pratico — e che la scala cambia la percezione.  
-Evento emblematico: [[Bitcoin Pizza Day\|Bitcoin Pizza Day]]
+Evento emblematico: Bitcoin Pizza Day
 
 ---
 
@@ -88,14 +88,14 @@ Bitcoin entra nei radar globali: scambi, exchange (MtGox e le sue lezioni), prim
 
 ## 2021 — adozioni e sperimentazioni statali
 Esempi come **El Salvador** portano Bitcoin su un piano politico e nazionale: primo tentativo di adozione ufficiale (leggi locali e discussioni internazionali). Dibattito globale su regolamentazione, uso e libertà.  
-Approfondimenti: [[Bitcoin e stato\|Bitcoin e stato]] • (vedi notizie e analisi geopolitiche)
+Approfondimenti: Bitcoin e stato • (vedi notizie e analisi geopolitiche)
 
 
 ## 📚 Per approfondire (link esterni e interni)
-- [[Gold Standard\|Gold Standard]] — https://it.wikipedia.org/wiki/Gold_standard  
-- [[Bretton Woods\|Bretton Woods]] — https://it.wikipedia.org/wiki/Accordi_di_Bretton_Woods  
+- Gold Standard — https://it.wikipedia.org/wiki/Gold_standard  
+- Bretton Woods — https://it.wikipedia.org/wiki/Accordi_di_Bretton_Woods  
 - [[Bitcoin/Economia/Storia/Nixon Shock\|Nixon Shock]] — https://it.wikipedia.org/wiki/Nixon_Shock  
-- [[Economia Austriaca\|Economia Austriaca]] — pagine su [[Menger\|Menger]], [[Mises\|Mises]], [[Hayek\|Hayek]], [[Rothbard\|Rothbard]]  
+- [[Bitcoin/Economia/Scuolaaustriaca/💰L'Economia Austriaca Dietro Bitcoin\|Economia Austriaca]] — pagine su [[Bitcoin/Economia/Scuolaaustriaca/Carl Menger\|Menger]], [[Bitcoin/Economia/Scuolaaustriaca/Ludwig von Mises\|Mises]], [[Bitcoin/Economia/Scuolaaustriaca/Friedrich Von Hayek\|Hayek]], [[Bitcoin/Economia/Scuolaaustriaca/Murray Rothbard\|Rothbard]]  
 - Cypherpunk movement — https://en.wikipedia.org/wiki/Cypherpunk  
 - B-money (Wei Dai) — https://en.wikipedia.org/wiki/B-money  
 - Bit Gold (Nick Szabo) — https://en.wikipedia.org/wiki/Bit_Gold  

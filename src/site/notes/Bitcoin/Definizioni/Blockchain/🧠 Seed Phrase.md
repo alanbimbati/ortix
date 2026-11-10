@@ -30,7 +30,7 @@ museum sand fabric token window label raccoon ball wealth picnic rubber drive
 - Per accedere al tuo wallet su qualsiasi dispositivo compatibile  
 - Per **ripristinare fondi** anche dopo un incidente, furto, smarrimento  
 - Per derivare tutte le chiavi e indirizzi futuri e passati del tuo wallet  
-- Con [[BIP85\|BIP85]] puoi usare una sola seed per crearne tante altre
+- Con BIP85 puoi usare una sola seed per crearne tante altre
 
 🎯 È **l’essenza della tua sovranità digitale.**
 
@@ -63,7 +63,7 @@ museum sand fabric token window label raccoon ball wealth picnic rubber drive
 - **Seed phrase** → le 12/24 parole  
 - **Mnemonic** → sinonimo tecnico di seed phrase  
 - **Key derivation path** → l’albero da cui derivano indirizzi (es. `m/84'/0'/0'/0/0`)  
-- **Passphrase opzionale** → una password extra che **cambia totalmente** il wallet derivato (→ [[25ª parola\|25ª parola]])
+- **Passphrase opzionale** → una password extra che **cambia totalmente** il wallet derivato (→ 25ª parola)
 
 ---
 
@@ -78,5 +78,5 @@ Chi la protegge, protegge la propria libertà.
 
 ---
 
-🔗 _Approfondisci con [[Bitcoin/Definizioni/Blockchain/Cold Wallet\|Cold Wallet]], [[Bitcoin/Definizioni/Blockchain/🔐 Multisig\|🔐 Multisig]], [[BIP85\|BIP85]], [[25ª parola\|25ª parola]], [[Bitcoin/Definizioni/Blockchain/🔐 Self-custody\|🔐 Self-custody]], [[Bitcoin/Wallet/🧭 Wallet Index\|🧭 Wallet Index]], [[Bitcoin/Wallet/🪨 Steelwallet\|Bitcoin/Wallet/🪨 Steelwallet]]_
+🔗 _Approfondisci con [[Bitcoin/Definizioni/Blockchain/Cold Wallet\|Cold Wallet]], [[Bitcoin/Definizioni/Blockchain/🔐 Multisig\|🔐 Multisig]], BIP85, 25ª parola, [[Bitcoin/Definizioni/Blockchain/🔐 Self-custody\|🔐 Self-custody]], [[Bitcoin/Wallet/🧭 Wallet Index\|🧭 Wallet Index]], [[Bitcoin/Wallet/🪨 Steelwallet\|Bitcoin/Wallet/🪨 Steelwallet]]_
 

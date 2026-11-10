@@ -71,7 +71,7 @@ Questo modello ricorda il [[Politica/🔴 Comunismo\|🔴 Comunismo]]: *"Non pos
 **Ortix** nasce proprio per opporsi a questa tendenza.
 La filosofia di Ortix è il recupero della **[[Ortix/Filosofia/🛡️ Sovranità digitale\|🛡️ Sovranità digitale]]** e fisica.
 
-- **Possesso dei dati:** I tuoi appunti, le tue idee e i tuoi file devono stare sul *tuo* dispositivo ([[Ortix/Appunti/Obsidian\|Obsidian]], [[Ortix/Storage/🔄 Syncthing\|🔄 Syncthing]]), non nel cloud di qualcun altro.
+- **Possesso dei dati:** I tuoi appunti, le tue idee e i tuoi file devono stare sul *tuo* dispositivo (Obsidian, [[Ortix/Storage/🔄 Syncthing\|🔄 Syncthing]]), non nel cloud di qualcun altro.
 - [[Bitcoin/Bitcoin\|Bitcoin]]:** È l'unica forma di denaro che puoi possedere veramente, senza intermediari
 - **Self-hosting:** Gestire i propri servizi invece di affittarli.
 

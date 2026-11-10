@@ -41,7 +41,7 @@ Il data entry è:
 - la base della qualità e coerenza del dato,
 - lo strato fondamentale per qualsiasi analisi.
 
-Chi lo sa fare bene, e capisce **cosa inserisce, perché lo inserisce e per chi**, ha già una marcia in più in una carriera [[data driven\|data driven]].
+Chi lo sa fare bene, e capisce **cosa inserisce, perché lo inserisce e per chi**, ha già una marcia in più in una carriera [[Data Career/📊 Data Driven o Data Manipulated\|data driven]].
 
 ---
 

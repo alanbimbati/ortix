@@ -12,7 +12,7 @@ Un’architettura a tre strati che tiene insieme **privacy, ridondanza e accessi
 
 ---
 
-🧠 **Strato 1 — Le idee: [[Ortix/Appunti/Obsidian\|Obsidian]] come cervello connesso**  
+🧠 **Strato 1 — Le idee: Obsidian come cervello connesso**  
 Alla base c’è il mio [[Ortix/Filosofia/Secondo cervello\|Secondo cervello]]: una rete logica e interconnessa di note e pensieri, costruita con **Obsidian**.  
 📎 Ogni appunto è un nodo, ogni collegamento è un ponte. Le idee si intrecciano e si espandono come un grafo neurale.  
 🔒 Rimane tutto **locale**, leggibile offline, esportabile in qualsiasi momento: nessun lock-in, nessun rischio di censura o perdita.

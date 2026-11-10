@@ -22,7 +22,7 @@ In origine si riferiva al tema della **fedeltà coniugale** e alla **vigilanza s
 🎯 La frase è oggi interpretata come una domanda fondamentale in ambito:
 
 - **Politico**: Chi controlla il governo, i giudici, le forze dell’ordine?
-- **Tecnologico**: Chi vigila sulle [[Big Tech\|Big Tech]] e i loro algoritmi?
+- **Tecnologico**: Chi vigila sulle Big Tech e i loro algoritmi?
 - **Etico**: Chi protegge i cittadini dagli abusi delle stesse entità che dovrebbero tutelarli?
 
 > Se il **sorvegliante è corrotto**, **chi lo sorveglia?**

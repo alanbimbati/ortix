@@ -150,6 +150,6 @@ E il posto migliore per le tue chiavi? Un hardware wallet.
 - [[Bitcoin/Wallet/Hardware Wallet/🟢 Jade\|🟢 Jade]] → Open source, economico, Bitcoin-focused
 - [[Bitcoin/Wallet/Hardware Wallet/🔷 BitBox02\|🔷 BitBox02]] → Svizzero, open source, minimalista
 - [[Bitcoin/Wallet/Hardware Wallet/🔶 Passport\|🔶 Passport]] → Elegante, airgapped, privacy-focused
-- [[🔵 Foundation Devices\|🔵 Foundation Devices]] → Design premium, open source
+- 🔵 Foundation Devices → Design premium, open source
 
 ---

@@ -38,7 +38,7 @@ Questo approccio è più veloce e scala meglio con i moderni sistemi cloud, adat
 
 ## 👨‍🔧 Il Data Engineer come idraulico dei dati
 
-Il [[Data Engineer\|Data Engineer]] è un **ingegnere del software specializzato nel flusso dei dati**: costruisce pipeline ETL/ELT, garantisce formato, resilienza, sicurezza e scalabilità dei dati aziendali 6.
+Il [[Data Career/Job definition/🧱 Data Engineer\|Data Engineer]] è un **ingegnere del software specializzato nel flusso dei dati**: costruisce pipeline ETL/ELT, garantisce formato, resilienza, sicurezza e scalabilità dei dati aziendali 6.
 
 Una definizione efficace (anche su Reddit) recita:  
 > “Sono come un idraulico: metto i tubi per il flusso dei dati, pulisco e porto i dati dove servono” 🔧💧 7.

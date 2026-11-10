@@ -8,7 +8,7 @@
 🛡️ **Il guardiano delle regole**
 
 Nel mondo dei dati, il **Compliance Officer** (o Data Protection Officer - DPO, in contesti specifici) è la figura che assicura che l'azienda rispetti le leggi e l'etica nel trattamento delle informazioni.  
-In un'era di [[Data Driven o Data Manipulated\|Data Driven o Data Manipulated]], questo ruolo è fondamentale per proteggere sia l'azienda (da multe) che gli utenti (da abusi).
+In un'era di [[Data Career/📊 Data Driven o Data Manipulated\|Data Driven o Data Manipulated]], questo ruolo è fondamentale per proteggere sia l'azienda (da multe) che gli utenti (da abusi).
 
 ---
 

@@ -48,7 +48,7 @@ Invece, Bitcoin **migliora** dopo ogni attacco.
 
 Non cercare di essere una roccia. Cerca di essere un fuoco.
 - **Errori:** Usali per imparare, non per abbatterti.
-- **Volatilità:** Non temerla, sfruttala (es. [[DCA - Dollar Cost Average\|DCA - Dollar Cost Average]]).
+- **Volatilità:** Non temerla, sfruttala (es. DCA - Dollar Cost Average).
 - **Decentralizzazione:** Non dipendere da un unico punto di fallimento (un solo stipendio, una sola banca).
 
-🔗 _Approfondisci con [[Bitcoin/Economia/Effetto Lindy\|Effetto Lindy]], [[Cigno Nero\|Cigno Nero]], [[Bitcoin/Filosofia/Nassim Nicholas Taleb\|Nassim Nicholas Taleb]], [[Bitcoin/Filosofia/🧟 Bitcoin è morto (e risorto)\|🧟 Bitcoin è morto (e risorto)]]_
+🔗 _Approfondisci con [[Bitcoin/Economia/Effetto Lindy\|Effetto Lindy]], Cigno Nero, [[Bitcoin/Filosofia/Nassim Nicholas Taleb\|Nassim Nicholas Taleb]], [[Bitcoin/Filosofia/🧟 Bitcoin è morto (e risorto)\|🧟 Bitcoin è morto (e risorto)]]_

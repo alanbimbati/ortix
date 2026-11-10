@@ -49,4 +49,4 @@ Una grande rivoluzione interiore in un singolo individuo contribuirà a cambiare
 *Ricorda che la polarizzazione è normale, ma cercare attivamente di superarla può arricchire la tua comprensione del mondo. 🌐🤔*
 
 ---
-[[Ortix/Filosofia/🥬 Dieta digitale\|🥬 Dieta digitale]]
+[[Ortix/Filosofia/🧘‍♀️ Detox Digitale\|🥬 Dieta digitale]]

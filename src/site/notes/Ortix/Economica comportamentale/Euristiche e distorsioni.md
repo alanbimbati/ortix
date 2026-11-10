@@ -79,7 +79,7 @@ Ha mostrato che **le nostre scelte sono prevedibilmente irrazionali**, e che **l
 📚 Ha ispirato opere fondamentali come:
 - *Thinking, Fast and Slow* di Daniel Kahneman
 - *Nudge* di Richard Thaler e Cass Sunstein
-- Le ricerche sul [[Ortix/Economica comportamentale/Priming\|Priming]], sul [[Ortix/Economica comportamentale/Nudge\|Nudge]] e sull’architettura delle scelte
+- Le ricerche sul [[Ortix/Economica comportamentale/Priming\|Priming]], sul Nudge e sull’architettura delle scelte
 
 
 ---

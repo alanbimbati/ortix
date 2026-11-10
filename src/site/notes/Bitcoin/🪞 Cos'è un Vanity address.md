@@ -37,7 +37,7 @@ In questo caso, il prefisso “bitcoinstart” è stato scelto per scopi estetic
 
 L’attacco al wallet iraniano **Nobitex** ha usato indirizzi vanity come mezzo di **distruzione simbolica**:
 
-[[Bitcoin/Filosofia/🧨 Bitcoin in Guerra\|🧨 Bitcoin in Guerra]]
+🧨 Bitcoin in Guerra
 
 👉 Questi indirizzi sono **irrecuperabili**: sono stati generati **senza memorizzare le chiavi private**, con l’obiettivo di **rendere i fondi inviati inutilizzabili per sempre**.
 

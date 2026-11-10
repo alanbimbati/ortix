@@ -52,7 +52,7 @@ Non usare denaro che ti serve nel breve termine.
 È una strategia che dà il meglio **sopra i 4 anni**.
 
 🔧 <u>Scegliere con cura come acquistare</u>  
-Valuta le opzioni in base a commissioni, privacy, e tipo di [[Wallet non custodial\|Wallet non custodial]].
+Valuta le opzioni in base a commissioni, privacy, e tipo di [[Bitcoin/Guide e consigli/🔑 Come creare un Wallet (non custodial)\|Wallet non custodial]].
 
 ---
 

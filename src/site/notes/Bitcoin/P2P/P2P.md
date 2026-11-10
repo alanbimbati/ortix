@@ -9,7 +9,7 @@
 
 Il **Peer-to-Peer (P2P)** è l'essenza stessa di Bitcoin. Come scritto nel whitepaper di Satoshi Nakamoto: *"A Purely Peer-to-Peer Electronic Cash"*. 
 
-In un contesto di acquisto e vendita, P2P significa scambiare valore direttamente con un altro individuo, senza passare per un'istituzione finanziaria centralizzata che richieda i tuoi dati ([[KYC\|KYC]]).
+In un contesto di acquisto e vendita, P2P significa scambiare valore direttamente con un altro individuo, senza passare per un'istituzione finanziaria centralizzata che richieda i tuoi dati ([[Bitcoin/Filosofia/🕵️‍♂️  KYC e sorveglianza finanziaria\|KYC]]).
 
 ---
 

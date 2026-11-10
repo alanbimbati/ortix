@@ -44,7 +44,7 @@ con un'interfaccia semplice, elegante e moderna, **senza pubblicità e senza con
 
 - [[Ortix/Storage/🔄 Syncthing\|🔄 Syncthing]] → per sincronizzare musica da PC o altro telefono  
 - [[Ortix/Musica/🎵 EchoWave\|🎵 EchoWave]] → per lo streaming da YouTube  
-- [[MicroSD\|MicroSD]] → per espandere la memoria su telefoni più vecchi  
+- MicroSD → per espandere la memoria su telefoni più vecchi  
 
 ---
 

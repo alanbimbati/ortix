@@ -5,7 +5,7 @@
 
 # 👥 P2P Centralizzato
 
-Il **P2P Centralizzato** (o con Escrow centralizzato) è il punto d'incontro perfetto per chi vuole evitare il [[KYC\|KYC]] senza affrontare la complessità tecnica dei protocolli totalmente decentralizzati.
+Il **P2P Centralizzato** (o con Escrow centralizzato) è il punto d'incontro perfetto per chi vuole evitare il [[Bitcoin/Filosofia/🕵️‍♂️  KYC e sorveglianza finanziaria\|KYC]] senza affrontare la complessità tecnica dei protocolli totalmente decentralizzati.
 
 In questo modello, un'entità terza (un'app, un sito o un bot) gestisce un servizio di **Escrow**: trattiene i Bitcoin del venditore finché il compratore non conferma l'invio del pagamento (solitamente tramite bonifico, Revolut o Satispay).
 

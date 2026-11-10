@@ -45,9 +45,9 @@ Proprio come funziona il nostro cervello:
 
 ## 🧠 Zettelkasten oggi: Obsidian + Markdown
 
-Con [[Ortix/Appunti/Obsidian\|Obsidian]], [[Ortix/Appunti/LogSeq\|LogSeq]] o qualsiasi app di note con backlink, puoi replicare perfettamente questo metodo.
+Con Obsidian, [[Ortix/Appunti/LogSeq\|LogSeq]] o qualsiasi app di note con backlink, puoi replicare perfettamente questo metodo.
 
-> Io stesso lo uso per costruire il mio [[Ortix/Filosofia/Giardino digitale\|Giardino digitale]], un luogo dove coltivo idee, le collego e poi… alcune finiscono sul mio Blog
+> Io stesso lo uso per costruire il mio [[Ortix/Filosofia/🌱 Come lavora Ortix\|Giardino digitale]], un luogo dove coltivo idee, le collego e poi… alcune finiscono sul mio Blog
 
 ---
 

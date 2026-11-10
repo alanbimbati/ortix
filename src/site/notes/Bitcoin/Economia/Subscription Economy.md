@@ -52,7 +52,7 @@ Questo trasforma la proprietà privata in un **noleggio perpetuo**.
 
 L'unico antidoto è la [[Ortix/Filosofia/🛡️ Sovranità digitale\|🛡️ Sovranità digitale]] e il ritorno alla proprietà reale.
 - Compra software con licenza a vita (o usa [[Bitcoin/🧬 Open Source\|🧬 Open Source]]).
-- Archivia i tuoi file in locale ([[Ortix/Appunti/Obsidian\|Obsidian]], [[Data Career/Definizioni/Data Lake\|Data Lake]] personali).
+- Archivia i tuoi file in locale (Obsidian, [[Data Career/Definizioni/Data Lake\|Data Lake]] personali).
 - Supporta aziende che vendono prodotti, non servizi.
 
 🔗 _Approfondisci con [[Bitcoin/Libertarismo/📉 La morte della proprietà\|📉 La morte della proprietà]], [[Politica/🗽 Libertarismo\|🗽 Libertarismo]], [[Ortix/Filosofia/🛡️ Sovranità digitale\|🛡️ Sovranità digitale]]_

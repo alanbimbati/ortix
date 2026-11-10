@@ -5,7 +5,7 @@
 
 # 🍑 PeachBitcoin
 
-**PeachBitcoin** è un'app mobile che semplifica l'acquisto e la vendita di Bitcoin in modalità P2P senza [[KYC\|KYC]].
+**PeachBitcoin** è un'app mobile che semplifica l'acquisto e la vendita di Bitcoin in modalità P2P senza [[Bitcoin/Filosofia/🕵️‍♂️  KYC e sorveglianza finanziaria\|KYC]].
 
 - **Sito Ufficiale**: [peachbitcoin.com](https://peachbitcoin.com)
 - **Caratteristiche**: Interfaccia intuitiva, escrow centralizzato, molti metodi di pagamento europei.

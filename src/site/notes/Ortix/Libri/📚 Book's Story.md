@@ -28,12 +28,12 @@ L’interfaccia non invade mai l’attenzione, ma accompagna la lettura con disc
 Book’s Story integra una funzione ispirata al **Bionic Reading**, ovvero una modalità che enfatizza l’inizio delle parole per facilitare la scansione visiva del testo.
 
 📌 Questo tema è sufficientemente rilevante da meritare **una pagina Obsidian dedicata**, dove approfondire:
-- cos’è davvero il [[Bionic Reading  \|Bionic Reading  ]]
+- cos’è davvero il Bionic Reading  
 - perché funziona a livello cognitivo  
 - quando aiuta e quando no  
 
 👉 *Pagina collegata:*  
-`[[Bionic Reading – leggere più velocemente senza leggere di più]]`
+`[[Ortix/Libri/Bionic Reading|Bionic Reading – leggere più velocemente senza leggere di più]]`
 
 ---
 

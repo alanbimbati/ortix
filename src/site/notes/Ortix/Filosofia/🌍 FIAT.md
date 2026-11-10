@@ -42,7 +42,7 @@ Il danno più profondo del sistema FIAT è psicologico e morale:
 
 ## 🔗 FIAT & Ortix: Il Problema e la Soluzione
 
-Nella [[🧠 Ortix: La Sintesi della Sovranità\|Sintesi della Sovranità]], la moneta FIAT rappresenta l'**Anti-Asset**:
+Nella [[Ortix/Filosofia/🧠 Ortix: La Sintesi della Sovranità\|Sintesi della Sovranità]], la moneta FIAT rappresenta l'**Anti-Asset**:
 
 - **Mente**: Genera ansia e spinge verso l'[[Ortix/Economica comportamentale/Ingegneria del pensiero\|Ingegneria del pensiero]] consumistica.
 - **Azione**: Ti costringe a interagire con sistemi bancari centralizzati che violano la tua [[Bitcoin/Filosofia/🕵️‍♂️ Privacy\|🕵️‍♂️ Privacy]].
@@ -64,4 +64,4 @@ Capire il sistema FIAT è il primo passo per uscirne.
 
 ---
 
-🔗 _Vedi anche: [[Ortix/Filosofia/🌍 FIAT la redistribuzione al contrario\|🌍 FIAT la redistribuzione al contrario]], [[Bitcoin/Evoluzione della Moneta\|Evoluzione della Moneta]], [[Bitcoin/Bitcoin\|Bitcoin]], [[Bitcoin/Economia/Effetto Cantillon\|Effetto Cantillon]], [[Bitcoin/Definizioni/Blockchain/🔐 Self-custody\|🔐 Self-custody]], [[Politica/⚖️ NAP\|⚖️ NAP]], [[Politica/🗽 Libertarismo\|🗽 Libertarismo]], [[Bitcoin/Economia/🏛️ Stato e Moneta\|🏛️ Stato e Moneta]]_
+🔗 _Vedi anche: [[Ortix/Filosofia/🌍 FIAT\|🌍 FIAT la redistribuzione al contrario]], [[Bitcoin/Evoluzione della Moneta\|Evoluzione della Moneta]], [[Bitcoin/Bitcoin\|Bitcoin]], [[Bitcoin/Economia/Effetto Cantillon\|Effetto Cantillon]], [[Bitcoin/Definizioni/Blockchain/🔐 Self-custody\|🔐 Self-custody]], [[Politica/⚖️ NAP\|⚖️ NAP]], [[Politica/🗽 Libertarismo\|🗽 Libertarismo]], [[Bitcoin/Economia/🏛️ Stato e Moneta\|🏛️ Stato e Moneta]]_

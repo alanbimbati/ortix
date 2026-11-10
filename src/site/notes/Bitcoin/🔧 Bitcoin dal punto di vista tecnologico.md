@@ -66,11 +66,11 @@ Bitcoin usa crittografia asimmetrica per garantire proprietà e sicurezza:
 
 - **Chiave privata**: il segreto che ti permette di spendere i tuoi bitcoin
 - **Chiave pubblica**: derivata dalla privata, usata per generare indirizzi
-- **[[Firme digitali\|Firme digitali]]**: provano che sei il proprietario senza rivelare la chiave privata
+- **Firme digitali**: provano che sei il proprietario senza rivelare la chiave privata
 
 **Componenti crittografici:**
-- [[Hash crittografici\|Hash crittografici]]: SHA-256, RIPEMD-160
-- [[Firme digitali\|Firme digitali]]: ECDSA, Schnorr
+- Hash crittografici: SHA-256, RIPEMD-160
+- Firme digitali: ECDSA, Schnorr
 - Curve ellittica: secp256k1
 
 ---
@@ -84,7 +84,7 @@ I wallet moderni usano lo standard **BIP39** per generare chiavi:
 3. Ogni chiave può ricevere bitcoin in modo indipendente
 
 **Standard importanti:**
-- [[Bitcoin/Definizioni/BIP/BIP\|BIP]]: Bitcoin Improvement Proposals
+- BIP: Bitcoin Improvement Proposals
 - [[Bitcoin/Wallet/🌳 Wallet gerarchico\|🌳 Wallet gerarchico]]: HD Wallets (BIP32, BIP44)
 - [[Bitcoin/Definizioni/Blockchain/xpub\|xpub]]: chiave pubblica estesa per generare indirizzi
 
@@ -182,7 +182,7 @@ Bitcoin non usa "saldi" ma **output non spesi**.
 
 ## 🛠️ Strumenti e standard
 
-### [[Bitcoin/Definizioni/BIP/BIP\|Bitcoin Improvement Proposals]]
+### Bitcoin Improvement Proposals
 Proposte per migliorare il protocollo Bitcoin.
 
 **Esempi importanti:**

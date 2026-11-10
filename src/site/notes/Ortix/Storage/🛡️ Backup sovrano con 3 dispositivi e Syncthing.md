@@ -10,7 +10,7 @@ Non fidarti dei backup su servizi centralizzati.
 👁️‍🗨️ Qualsiasi piattaforma può chiudere, censurarti o perdere i tuoi dati.
 
 La soluzione?  
-📡 Un backup **autonomo e replicato** con 3 dispositivi e [[Ortix/Storage/🔄 Syncthing\|🔄 Syncthing]] in **[[rete mesh\|rete mesh]]**.
+📡 Un backup **autonomo e replicato** con 3 dispositivi e [[Ortix/Storage/🔄 Syncthing\|🔄 Syncthing]] in **rete mesh**.
 
 ---
 
@@ -93,7 +93,7 @@ Tutto gratuito e open source. Paghi solo una tantum per i telefoni (e, se serve,
 
 ## ✅ Alternativa più robusta
 
-🖥️ Sostituisci uno dei dispositivi con un [[Raspberry Pi\|Raspberry Pi]]  
+🖥️ Sostituisci uno dei dispositivi con un Raspberry Pi  
 → piccolo server casalingo, acceso sempre, con backup automatico.
 
 ---

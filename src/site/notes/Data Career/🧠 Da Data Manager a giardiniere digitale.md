@@ -7,22 +7,22 @@
 
 ![Ortix_DataManager_Giardiniere.jpg](/img/user/Immagini/Ortix_DataManager_Giardiniere.jpg)
 
-📊 Fare il [[Data Manager\|Data Manager]] mi ha cambiato anche nel modo di studiare.  
+📊 Fare il [[Data Career/Job definition/🗂️ Data Manager\|Data Manager]] mi ha cambiato anche nel modo di studiare.  
 Lavorare ogni giorno con [[Data Career/Definizioni/ETL\|ETL]] (estrazione, trasformazione, caricamento) mi ha influenzato profondamente anche nel mio rapporto con la conoscenza.
 
 ---
 
 ## 🔄 **Fase 1 – Dal blog al giardino**
 
-🧩 All’inizio ho esportato il mio blog da [[Telegram\|Telegram]] in JSON.  
+🧩 All’inizio ho esportato il mio blog da Telegram in JSON.  
 Ho poi trasformato quei dati testuali in articoli **markdown strutturati per Obsidian**.
 
-Con l’aiuto di [[ChatGPT\|ChatGPT]], ogni post è diventato:
+Con l’aiuto di ChatGPT, ogni post è diventato:
 - ✅ Formattato correttamente
 - ✅ Con link interni ad altri concetti
 - ✅ Con tag, proprietà e titoli coerenti
 
-Ho costruito un vero [[Ortix/Filosofia/Giardino digitale\|Giardino digitale]].
+Ho costruito un vero [[Ortix/Filosofia/🌱 Come lavora Ortix\|Giardino digitale]].
 
 ---
 
@@ -55,11 +55,11 @@ E non il contrario.
 
 ## 🧰 **Tecnologie usate**
 
-- 🧠 [[Ortix/Appunti/Obsidian\|Obsidian]] come sistema di pensiero
-- 🤖 [[ChatGPT\|ChatGPT]] come assistente di scrittura
+- 🧠 Obsidian come sistema di pensiero
+- 🤖 ChatGPT come assistente di scrittura
 - 📡 [[Ortix/Storage/🔄 Syncthing\|🔄 Syncthing]] per la sincronizzazione
 - [[Ortix/Appunti/LogSeq\|LogSeq]] e altre app markdown per l’editing parallelo
-- 🌐 [[GitHub Pages\|GitHub Pages]] per la pubblicazione
+- 🌐 GitHub Pages per la pubblicazione
 
 ---
 

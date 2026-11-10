@@ -14,7 +14,7 @@ Questo post trae ispirazione da un [passaggio illuminante](https://t.me/BitcoinP
 ---
 
 # 🔥 L’ascesa del prezzo: un boomerang prevedibile  
-Qualora Stati, fondi sovrani o giganti macro-finanziari tentassero l’assalto alla liquidità, il primo effetto sarebbe **un incremento parossistico del [[prezzo\|prezzo]]**.  
+Qualora Stati, fondi sovrani o giganti macro-finanziari tentassero l’assalto alla liquidità, il primo effetto sarebbe **un incremento parossistico del prezzo**.  
 Chi già detiene Bitcoin, ossia l’utente comune previdente, verrebbe premiato; chi prova a “comprare tutto” scoprirebbe presto che “tutto” non è in vendita — e soprattutto non a un prezzo compatibile con la razionalità economica.
 
 Bitcoin, infatti, non è un mercato centralizzato: è **un arcipelago globale di venditori sovrani**, ciascuno libero di rifiutare qualsiasi offerta.

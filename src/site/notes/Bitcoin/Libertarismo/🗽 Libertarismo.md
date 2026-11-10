@@ -63,4 +63,4 @@ Al contrario, è il riconoscimento che gli uomini **non sono perfetti**, e quind
 
 Bitcoin è lo strumento tecnologico che rende questa filosofia, per la prima volta, **praticabile**.
 
-🔗 _Approfondisci con [[Bitcoin/Economia/Scuolaaustriaca/💰L'Economia Austriaca Dietro Bitcoin\|💰L'Economia Austriaca Dietro Bitcoin]], [[Cypherpunk\|Cypherpunk]], [[Ortix/Filosofia/🛡️ Sovranità digitale\|🛡️ Sovranità digitale]]_
+🔗 _Approfondisci con [[Bitcoin/Economia/Scuolaaustriaca/💰L'Economia Austriaca Dietro Bitcoin\|💰L'Economia Austriaca Dietro Bitcoin]], Cypherpunk, [[Ortix/Filosofia/🛡️ Sovranità digitale\|🛡️ Sovranità digitale]]_

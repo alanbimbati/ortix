@@ -156,7 +156,7 @@ graph TD
 
 ## 🔗 Integrazione con la Filosofia Ortix
 
-- **Mente ([[🧠 Terapia Cognitivo-Comportamentale (CBT)\|CBT]])**: Scegliere il livello di sicurezza adatto riduce l'ansia da perdita e la paranoia. La consapevolezza dei rischi è la base della calma finanziaria.
+- **Mente (CBT)**: Scegliere il livello di sicurezza adatto riduce l'ansia da perdita e la paranoia. La consapevolezza dei rischi è la base della calma finanziaria.
 - **Azione ([[Ortix/Filosofia/🛡️ Sovranità digitale\|Sovranità Digitale]])**: Usare strumenti come Robosats o Bisq protegge la tua identità dall'[[Ortix/Economica comportamentale/Ingegneria del pensiero\|Ingegneria del pensiero]] e dalla sorveglianza statale.
 - **Asset ([[Politica/⚖️ NAP\|NAP]])**: La self-custody è l'unica difesa contro l'aggressione economica del sistema [[Ortix/Filosofia/🌍 FIAT\|🌍 FIAT]]. Possedere le chiavi significa che nessuno può violare la tua proprietà privata senza il tuo consenso.
 
@@ -164,7 +164,7 @@ graph TD
 
 ## 🚀 Prossimi Passi
 
-1. **Inizia dal basso**: Crea un wallet con il [[Bitcoin/Come creare un wallet/🥉 Metodo 1 — Crazione di un wallet Livello Facile\|🥉 Metodo 1 — Crazione di un wallet Livello Facile]].
+1. **Inizia dal basso**: Crea un wallet con il [[Bitcoin/Come creare un wallet/🥉 Metodo 1 — Crazione di un wallet Livello Facile\|🥉 Metodo 1 — Creazione di un wallet Livello Facile]].
 2. **Sali di livello**: Sperimenta con la [[Bitcoin/Come creare un wallet/🥈 Metodo 2 — Crazione di un wallet Livello Medio\|Passphrase]] per creare wallet civetta.
 3. **Diventa Sovrano**: Prova la generazione con i [[Bitcoin/Come creare un wallet/🥇 Metodo 3 — Crazione di un wallet Livello Difficile\|Dadi]] per eliminare ogni fiducia nel software.
 
@@ -172,4 +172,4 @@ graph TD
 
 > 🧡 *"La tua sovranità è proporzionale alla tua responsabilità."*
 
-[[🧠 Ortix: La Sintesi della Sovranità\|🧠 Ortix: La Sintesi della Sovranità]] | [[Bitcoin/Bitcoin\|Bitcoin]] | [[Bitcoin/Definizioni/Blockchain/🔐 Self-custody\|🔐 Self-custody]]
+[[Ortix/Filosofia/🧠 Ortix: La Sintesi della Sovranità\|🧠 Ortix: La Sintesi della Sovranità]] | [[Bitcoin/Bitcoin\|Bitcoin]] | [[Bitcoin/Definizioni/Blockchain/🔐 Self-custody\|🔐 Self-custody]]

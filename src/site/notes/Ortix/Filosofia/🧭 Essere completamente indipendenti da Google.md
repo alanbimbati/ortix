@@ -45,9 +45,9 @@ Non devi fare tutto subito. La libertà si conquista a strati.
 *Sposta i tuoi dati dove solo tu puoi toccarli.*
 
 1.  **Cloud**: Sostituisci Google Drive con [[Ortix/Storage/🔄 Syncthing\|🔄 Syncthing]] (sincronizzazione pura) o [[Ortix/Storage/☁️ Perché non dovresti usare un cloud centralizzato\|Nextcloud]].
-2.  **Note**: Sposta i tuoi pensieri da Keep/Docs a [[Ortix/Appunti/Obsidian\|Obsidian]]. I file sono tuoi, locali, per sempre.
+2.  **Note**: Sposta i tuoi pensieri da Keep/Docs a Obsidian. I file sono tuoi, locali, per sempre.
 3.  **Password**: Usa **KeePassDX** o **Bitwarden** (self-hosted). Non salvare mai le password nel browser.
-4.  **Video**: Guarda YouTube senza pubblicità e tracciamento tramite [[Ortix/Video/📺 NewPipe\|📺 NewPipe]] o [[LibreTube\|LibreTube]].
+4.  **Video**: Guarda YouTube senza pubblicità e tracciamento tramite [[Ortix/Video/📺 NewPipe\|📺 NewPipe]] o LibreTube.
 
 ### Livello 3: Indipendenza Strutturale (Avanzato)
 *Cambia le fondamenta del tuo ecosistema.*
@@ -91,7 +91,7 @@ Così **cambi provider senza cambiare identità**.
 ## 🗂️ File, note e memoria personale
 
 ### Il cuore della libertà
-- **[[Ortix/Appunti/Obsidian\|Obsidian]]** → conoscenza locale, linkata, tua
+- **Obsidian** → conoscenza locale, linkata, tua
 - **[[Ortix/Storage/🔄 Syncthing\|🔄 Syncthing]]** → sincronizzazione peer-to-peer
 - **Nextcloud (opzionale)** → cloud *tuo*, non *loro*
 

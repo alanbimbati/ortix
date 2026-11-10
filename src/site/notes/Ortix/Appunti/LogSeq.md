@@ -45,8 +45,8 @@ Una delle migliori è **Logseq**: un diario, una wiki e una mappa mentale in un�
 ## 🔗 Lo abbino con…
 
 - [[Ortix/Storage/🔄 Syncthing\|🔄 Syncthing]] → per sincronizzarlo su più dispositivi  
-- [[MicroSD\|MicroSD]] → se usi un vecchio telefono  
-- [[Ortix/Filosofia/Giardino digitale\|Giardino digitale]]→ come concetto di archivio personale
+- MicroSD → se usi un vecchio telefono  
+- [[Ortix/Filosofia/🌱 Come lavora Ortix\|Giardino digitale]]→ come concetto di archivio personale
 
 ---
 

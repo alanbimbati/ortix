@@ -43,8 +43,8 @@ Bitcoin vive su basi matematiche solide: crittografia, hash, probabilità, incen
 Non serve fidarsi di qualcuno, ma **verificare**.
 
 🔗 Esplora:
-- [[Hash crittografici\|Hash crittografici]] - La funzione che rende Bitcoin immutabile
-- [[Firme digitali\|Firme digitali]] - Come provi di possedere bitcoin senza rivelare le chiavi
+- Hash crittografici - La funzione che rende Bitcoin immutabile
+- Firme digitali - Come provi di possedere bitcoin senza rivelare le chiavi
 - [[Bitcoin/Definizioni/Mining/⚙️  Proof of Work\|⚙️  Proof of Work]] - Il meccanismo che protegge la rete
 - [[Bitcoin/Definizioni/Blockchain/UTXO\|UTXO]] - Come Bitcoin traccia i saldi
 
@@ -64,7 +64,7 @@ Bitcoin non è un'app: è un'**infrastruttura pubblica** che nessuno può spegne
 - [[Bitcoin/Definizioni/Blockchain/🔐 Multisig\|🔐 Multisig]] - Sicurezza con più firme
 - [[Bitcoin/Definizioni/Blockchain/🌀 CoinJoin\|🌀 CoinJoin]] - Privacy attraverso il mixing
 - [[Bitcoin/Definizioni/Blockchain/✍️ PSBT\|✍️ PSBT]] - Transazioni parzialmente firmate
-- [[Bitcoin/Definizioni/BIP/BIP\|BIP]] - Le proposte di miglioramento del protocollo
+- BIP - Le proposte di miglioramento del protocollo
 - [[Bitcoin/Definizioni/Blockchain/xpub\|xpub]] - Chiavi pubbliche estese
 - [[Bitcoin/Definizioni/Blockchain/air-gapped\|air-gapped]] - Sicurezza offline massima
 
@@ -106,7 +106,7 @@ Separazione tra Stato e moneta, resistenza alla censura, abolizione dei confini 
 - [[Bitcoin/Filosofia/☮️ Bitcoin disincentiva le guerre\|☮️ Bitcoin disincentiva le guerre]] - Denaro sano = meno conflitti
 - [[Bitcoin/Filosofia/💸 Tasse ingiuste\|💸 Tasse ingiuste]] - Quando la tassazione diventa confisca
 - [[Bitcoin/Filosofia/Nessuno-può-bannare-Bitcoin\|Nessuno-può-bannare-Bitcoin]] - Resistenza alla censura
-- [[Bitcoin/Filosofia/🧨 Bitcoin in Guerra\|🧨 Bitcoin in Guerra]] - Bitcoin in zone di conflitto
+- 🧨 Bitcoin in Guerra - Bitcoin in zone di conflitto
 - [[Bitcoin/Filosofia/✊ Lo sciopero più potente è con Bitcoin\|✊ Lo sciopero più potente è con Bitcoin]] - Exit dalla moneta fiat
 
 ---
@@ -135,7 +135,7 @@ Nessun conto bloccato "per errore", nessuna corsia preferenziale.
 - [[Bitcoin/Filosofia/🗽Bitcoin è per tutti\|🗽Bitcoin è per tutti]] - Accesso globale senza permessi
 - [[Bitcoin/Filosofia/🌍 Il tuo pezzo di Bitcoin\|🌍 Il tuo pezzo di Bitcoin]] - Anche un satoshi conta
 - [[Bitcoin/Filosofia/🕸️ Decentralizzazione\|🕸️ Decentralizzazione]] - Potere distribuito, non centralizzato
-- [[Bitcoin/Filosofia/⚡ La rivoluzione dal basso\|⚡ La rivoluzione dal basso]] - Cambiamento bottom-up
+- ⚡ La rivoluzione dal basso - Cambiamento bottom-up
 
 ---
 
@@ -146,7 +146,7 @@ Che cos'è il valore? Che cos'è la fiducia?
 Bitcoin ti costringe a riflettere su **responsabilità individuale e libertà**.
 
 🔗 Esplora:
-- [[🟠 Bitcoin ha molte porte\|🟠 Bitcoin ha molte porte]] - Le diverse prospettive su Bitcoin
+- 🟠 Bitcoin ha molte porte - Le diverse prospettive su Bitcoin
 - [[Bitcoin/Filosofia/Bitcoin non è possessibile\|Bitcoin non è possessibile]] - Possiedi chiavi, non monete
 - [[Bitcoin/Filosofia/🔮 Perché Bitcoin sarà la nuova moneta\|🔮 Perché Bitcoin sarà la nuova moneta]] - Il futuro del denaro
 - [[Bitcoin/Filosofia/⏳ Il tempo come moneta democratica\|⏳ Il tempo come moneta democratica]] - Tempo = denaro
@@ -214,7 +214,7 @@ Bitcoin come alternativa, come possibilità, come via d'uscita.
 🔗 **Strumenti:**
 - [[Bitcoin/Wallet/🧭 Wallet Index\|🧭 Wallet Index]] - Panoramica dei wallet
 - [[Bitcoin/Wallet/Hardware Wallet/Hardware Wallet\|Hardware Wallet]] - Wallet fisici per massima sicurezza
-- [[Software Wallet\|Software Wallet]] - Wallet software per uso quotidiano
+- Software Wallet - Wallet software per uso quotidiano
 
 ---
 

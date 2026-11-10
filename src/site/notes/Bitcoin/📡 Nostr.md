@@ -25,10 +25,10 @@ Non esiste un server centrale, né un’azienda proprietaria.
 ## 💬 È già usabile?
 
 Sì! Ecco alcune app Nostr:
-- 📱 [[Amethyst\|Amethyst]] (Android)
-- 🍎 [[Damus\|Damus]] (iOS)
-- 💻 [[Iris\|Iris]] (web)
-- ⚡ [[Snort\|Snort]] (web)
+- 📱 Amethyst (Android)
+- 🍎 Damus (iOS)
+- 💻 Iris (web)
+- ⚡ Snort (web)
 
 Puoi usarle per:
 - Scrivere post (tipo Twitter)

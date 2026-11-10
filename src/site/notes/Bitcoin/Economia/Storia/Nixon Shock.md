@@ -14,7 +14,7 @@ Quella "temporaneità" dura ancora oggi.
 
 ## 📉 Cosa è successo?
 
-Prima del 1971, il sistema monetario globale ([[Bretton Woods\|Bretton Woods]]) legava le valute al dollaro, e il dollaro all'oro ($35 l'oncia).  
+Prima del 1971, il sistema monetario globale (Bretton Woods) legava le valute al dollaro, e il dollaro all'oro ($35 l'oncia).  
 Gli USA non potevano stampare dollari all'infinito senza perdere le riserve auree.
 
 Con il Nixon Shock, **il legame con l'oro è stato reciso**.  
@@ -39,4 +39,4 @@ Bitcoin è stato creato per **risolvere il problema creato nel 1971**.
 - Non può essere inflazionato da nessun politico.
 - È un "Gold Standard digitale" per l'era di internet.
 
-🔗 _Approfondisci con [[Gold Standard\|Gold Standard]], [[FIAT\|FIAT]], [[Bitcoin/Economia/📉 Inflazione\|📉 Inflazione]], [[Bitcoin/Economia/Effetto Cantillon\|Effetto Cantillon]], [[Bitcoin/Bitcoin\|Bitcoin]]_
+🔗 _Approfondisci con Gold Standard, [[Ortix/Filosofia/🌍 FIAT\|FIAT]], [[Bitcoin/Economia/📉 Inflazione\|📉 Inflazione]], [[Bitcoin/Economia/Effetto Cantillon\|Effetto Cantillon]], [[Bitcoin/Bitcoin\|Bitcoin]]_

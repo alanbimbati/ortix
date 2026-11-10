@@ -40,7 +40,7 @@ Se usato in locale o con **Libre.fm auto-hostato**, **Pano Scrobbler** ti permet
 ---
 
 💡 
-> Se vuoi una libreria musicale **privata**, **distribuita** e sotto il tuo controllo, abbina Pano Scrobbler a [[[Navidrome\|[Navidrome]]] come server musicale personale, avrai la tua app privata per ascoltare musica in streaming.
+> Se vuoi una libreria musicale **privata**, **distribuita** e sotto il tuo controllo, abbina Pano Scrobbler a [Navidrome] come server musicale personale, avrai la tua app privata per ascoltare musica in streaming.
 
 ---
 

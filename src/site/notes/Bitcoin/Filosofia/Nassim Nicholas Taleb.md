@@ -12,7 +12,7 @@
 
 ## 🧠 I Concetti Fondamentali
 
-### 1. Il Cigno Nero ([[Cigno Nero\|Cigno Nero]])
+### 1. Il Cigno Nero (Cigno Nero)
 Un evento **imprevedibile**, di **impatto estremo**, che dopo essere accaduto viene razionalizzato come se fosse stato prevedibile.
 - *Esempi:* L'11 settembre, l'avvento di Internet, la crisi del 2008.
 - *Lezione:* Non cercare di prevedere il futuro (è impossibile). Costruisci sistemi che resistano all'imprevisto.
@@ -53,4 +53,4 @@ Tuttavia, i concetti di Taleb sono fondamentali per capire Bitcoin:
 
 ---
 
-🔗 _Approfondisci con [[Bitcoin/Filosofia/Antifragilità\|Antifragilità]], [[Cigno Nero\|Cigno Nero]], [[Bitcoin/Economia/Effetto Lindy\|Effetto Lindy]], [[Bitcoin/Filosofia/🧟 Bitcoin è morto (e risorto)\|🧟 Bitcoin è morto (e risorto)]]_
+🔗 _Approfondisci con [[Bitcoin/Filosofia/Antifragilità\|Antifragilità]], Cigno Nero, [[Bitcoin/Economia/Effetto Lindy\|Effetto Lindy]], [[Bitcoin/Filosofia/🧟 Bitcoin è morto (e risorto)\|🧟 Bitcoin è morto (e risorto)]]_

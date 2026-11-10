@@ -17,7 +17,7 @@ Le custodisce l’exchange… che ti promette di “prestarti” i tuoi fondi qu
 - 🛑 Possono essere **bloccati dai governi**  
 - 🧨 Possono **fallire**, portando con sé i fondi degli utenti
 
-📉 Ricordi [[FTX\|FTX]]?  
+📉 Ricordi FTX?  
 Era uno degli exchange più grandi al mondo.  
 Investiva **i Bitcoin degli utenti senza consenso**.  
 Quando il valore delle crypto è crollato…  
@@ -31,7 +31,7 @@ Quando il valore delle crypto è crollato…
 Chi **detiene le chiavi private**, **detiene i Bitcoin**.  
 E viceversa: **chi non ha le chiavi, non possiede nulla.**
 
-Chiunque può creare un [[Wallet non custodial\|Wallet non custodial]] in pochi minuti:  
+Chiunque può creare un [[Bitcoin/Guide e consigli/🔑 Come creare un Wallet (non custodial)\|Wallet non custodial]] in pochi minuti:  
 - Nessun KYC  
 - Nessuna approvazione  
 - Nessuna banca  
@@ -47,8 +47,8 @@ nessun hacker, azienda o stato potrà mai sottrarti i tuoi Bitcoin.
 → [[Bitcoin/Definizioni/Blockchain/🧠 Seed Phrase\|🧠 Seed Phrase]]  
 → [[Bitcoin/Definizioni/Blockchain/🔐 Self-custody\|🔐 Self-custody]]  
 → [[Bitcoin/Definizioni/Blockchain/Cold Wallet\|Cold Wallet]]  
-→ [[Multisig\|Multisig]]  
-→ [[Steelwallet\|Steelwallet]]
+→ [[Bitcoin/Definizioni/Blockchain/🔐 Multisig\|Multisig]]  
+→ [[Bitcoin/Wallet/🪨 Steelwallet\|Steelwallet]]
 
 ---
 

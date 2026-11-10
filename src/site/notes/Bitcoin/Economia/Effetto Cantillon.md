@@ -48,7 +48,7 @@ Ma non ti accorgi che mentre quel minuscolo rivolo di miele freddo raggiungeva l
 I tuoi 50 euro non comprano più quello che compravano ieri. Ti hanno dato un cucchiaino di miele svalutato dopo aver rubato il valore dell'intero piatto.
 
 > [!NOTE]
-> Questa potente metafora visiva del miele e del piatto di distribuzione economica è stata concepita originariamente da [[AccaSats\|AccaSats]], che ha saputo tradurre un concetto economico complesso (l'effetto Cantillon) in un'immagine immediata e indimenticabile.
+> Questa potente metafora visiva del miele e del piatto di distribuzione economica è stata concepita originariamente da AccaSats, che ha saputo tradurre un concetto economico complesso (l'effetto Cantillon) in un'immagine immediata e indimenticabile.
 
 ---
 
@@ -79,7 +79,7 @@ In un mondo Bitcoin, il denaro non cola: si diffonde in modo orizzontale e trasp
 ## 🔗 Collegamenti
 
 - [[Ortix/Filosofia/🌍 FIAT\|🌍 FIAT]]
-- [[Ortix/Filosofia/🌍 FIAT la redistribuzione al contrario\|🌍 FIAT la redistribuzione al contrario]]
+- [[Ortix/Filosofia/🌍 FIAT\|🌍 FIAT la redistribuzione al contrario]]
 - [[Bitcoin/Economia/📉 Inflazione\|📉 Inflazione]]
 - [[Bitcoin/Economia/💉 La droga monetaria\|💉 La droga monetaria]]
 - [[Bitcoin/Economia/🏛️ Stato e Moneta\|🏛️ Stato e Moneta]]

@@ -10,7 +10,7 @@ Annotarli in Obsidian può diventare una pratica potente per capire **chi sei, d
 
 ---
 
-### ✍️ Perché usare [[Ortix/Appunti/Obsidian\|Obsidian]] per i sogni?
+### ✍️ Perché usare Obsidian per i sogni?
 
 - **Tutto resta offline**: privacy e controllo totale sui tuoi dati.
 - Ogni sogno diventa una nota **interconnessa** che puoi collegare ad altri eventi, emozioni o simboli.

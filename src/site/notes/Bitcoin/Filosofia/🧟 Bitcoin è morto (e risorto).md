@@ -46,7 +46,7 @@ Allora la gente inizia a capire che **Bitcoin è inattaccabile**. È un sistema 
 
 1. **Decentralizzazione:** Non c'è un CEO da arrestare o una sede da chiudere. Bitcoin è ovunque e in nessun luogo.
 2. **Incentivi Economici:** I miner e i nodi hanno tutto l'interesse a difendere la rete.
-3. **Legge di Thiers ([[Legge di Gresham\|Legge di Gresham]]):** Mentre le valute fiat muoiono lentamente per [[Bitcoin/Economia/📉 Inflazione\|📉 Inflazione]], Bitcoin (moneta buona) viene accumulato come riserva di valore indistruttibile.
+3. **Legge di Thiers ([[Bitcoin/Economia/⚖️ Legge di Gresham\|Legge di Gresham]]):** Mentre le valute fiat muoiono lentamente per [[Bitcoin/Economia/📉 Inflazione\|📉 Inflazione]], Bitcoin (moneta buona) viene accumulato come riserva di valore indistruttibile.
 
 	> [[Bitcoin/Bitcoin\|Bitcoin]] non è sopravvissuto *nonostante* i crash. È sopravvissuto *grazie* ai crash, che hanno dimostrato la sua indistruttibilità.
 

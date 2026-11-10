@@ -60,4 +60,4 @@ Bitcoin non è nato dal nulla. Ha messo insieme i pezzi di chi aveva provato pri
 
 La cronologia completa è in [Ogni rivoluzione non nasce da zero](https://ortix.vercel.app/bitcoin/filosofia/ogni-rivoluzione-non-nasce-da-zero/) e in [Cronologia di Bitcoin](https://ortix.vercel.app/bitcoin/cronologia-di-bitcoin/).
 
-🔗 _Approfondisci con [[Bitcoin/Satoshi Nakamoto\|Satoshi Nakamoto]], [[Bitcoin/Definizioni/Mining/⚙️  Proof of Work\|⚙️  Proof of Work]], [[Bitcoin/Storia/Precursori/B-Money\|B-Money]], [[Hashcash\|Hashcash]]_
+🔗 _Approfondisci con [[Bitcoin/Satoshi Nakamoto\|Satoshi Nakamoto]], [[Bitcoin/Definizioni/Mining/⚙️  Proof of Work\|⚙️  Proof of Work]], [[Bitcoin/Storia/Precursori/B-Money\|B-Money]], Hashcash_

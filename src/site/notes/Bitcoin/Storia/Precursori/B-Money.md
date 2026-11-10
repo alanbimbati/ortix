@@ -28,4 +28,4 @@ Satoshi ha contattato Wei Dai prima di pubblicare Bitcoin, e ha citato b-money c
 
 L'unità minima di Ethereum, il **Wei**, è chiamata così in suo onore.
 
-🔗 _Approfondisci con [[Bitcoin/Satoshi Nakamoto\|Satoshi Nakamoto]], [[Bitcoin/Storia/Precursori/Bit Gold\|Bit Gold]], [[Bitcoin/Storia/Precursori/DigiCash\|DigiCash]], [[Cypherpunk\|Cypherpunk]]_
+🔗 _Approfondisci con [[Bitcoin/Satoshi Nakamoto\|Satoshi Nakamoto]], [[Bitcoin/Storia/Precursori/Bit Gold\|Bit Gold]], [[Bitcoin/Storia/Precursori/DigiCash\|DigiCash]], Cypherpunk_

@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/bitcoin/come-creare-un-wallet/metodo-3-crazione-di-un-wallet-livello-difficile/","title":"🥇 Metodo 3 — Crazione di un wallet Livello Difficile","tags":["bitcoin","wallet","onchain","seed","entropia","sicurezza","autonomia"],"dg-note-properties":{"title":"🥇 Metodo 3 — Crazione di un wallet Livello Difficile","tags":["bitcoin","wallet","onchain","seed","entropia","sicurezza","autonomia"],"status":"evergreen"}}
+{"dg-publish":true,"permalink":"/bitcoin/come-creare-un-wallet/metodo-3-crazione-di-un-wallet-livello-difficile/","title":"🥇 Metodo 3 — Creazione di un wallet Livello Difficile","tags":["bitcoin","wallet","onchain","seed","entropia","sicurezza","autonomia"],"dg-note-properties":{"title":"🥇 Metodo 3 — Creazione di un wallet Livello Difficile","tags":["bitcoin","wallet","onchain","seed","entropia","sicurezza","autonomia"],"status":"evergreen"}}
 ---
 
 
-# 🥇 Metodo 3 — Crazione di un wallet Livello Difficile
+# 🥇 Metodo 3 — Creazione di un wallet Livello Difficile
 ## 🎲 Perché usare i dadi? (Massima Entropia)
 
 Il vantaggio principale di questo metodo è la **Massima Entropia** e l'assenza di fiducia verso terzi.

@@ -36,7 +36,7 @@ Spoiler: non puoi.
 
 ⚡ **Cosa serve per minare?**
 
-- Un ASIC miner (es. [[Avalon Nano 3S\|Avalon Nano 3S]])  
+- Un ASIC miner (es. Avalon Nano 3S)  
 - Elettricità economica  
 - Connessione a internet  
 - Un mining pool (opzionale, ma consigliato)

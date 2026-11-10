@@ -45,7 +45,7 @@ Se li tieni, nel tempo diventeranno sempre più rari e preziosi 📈
 - [[Bitcoin/Definizioni/Blockchain/🔐 Self-custody\|🔐 Self-custody]]  
 - [[Bitcoin/Economia/⚡️ Bitcoin è più veloce della moneta FIAT\|⚡️ Bitcoin è più veloce della moneta FIAT]]  
 - [[Bitcoin/Filosofia/📊 Evita le promesse di guadagni giornalieri\|📊 Evita le promesse di guadagni giornalieri]]  
-- [[Risparmiare con Bitcoin: addio al controllodelle banche\|Risparmiare con Bitcoin: addio al controllodelle banche]]
+- [[Bitcoin/Filosofia/🏠Risparmiare con Bitcoin addio al controllo delle banche\|Risparmiare con Bitcoin: addio al controllodelle banche]]
 
 ---
 

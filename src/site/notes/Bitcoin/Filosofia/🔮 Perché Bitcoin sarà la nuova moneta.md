@@ -60,4 +60,4 @@ Poi, quando la sua capitalizzazione sarà sufficiente a stabilizzarne il prezzo,
 
 È un processo inevitabile guidato dalla teoria dei giochi: chi lo ignora, rimane indietro.
 
-🔗 _Approfondisci con [[Legge di Gresham\|Legge di Gresham]], [[Bitcoin/Economia/Effetto Lindy\|Effetto Lindy]], [[Bitcoin/Economia/Scuolaaustriaca/💰L'Economia Austriaca Dietro Bitcoin\|💰L'Economia Austriaca Dietro Bitcoin]], [[Bitcoin/Economia/Preferenza temporale\|Preferenza temporale]]_
+🔗 _Approfondisci con [[Bitcoin/Economia/⚖️ Legge di Gresham\|Legge di Gresham]], [[Bitcoin/Economia/Effetto Lindy\|Effetto Lindy]], [[Bitcoin/Economia/Scuolaaustriaca/💰L'Economia Austriaca Dietro Bitcoin\|💰L'Economia Austriaca Dietro Bitcoin]], [[Bitcoin/Economia/Preferenza temporale\|Preferenza temporale]]_

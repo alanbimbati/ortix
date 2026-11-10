@@ -10,7 +10,7 @@
 Il 22 settembre si parla di **[sciopero per la Palestina](https://www.today.it/attualita/sciopero-generale-22-settembre.html)**.  
 👉 Non voglio entrare nel tema politico: il punto è più ampio e riguarda tutti noi.  
 
-💶 Quando usiamo la **moneta [[FIAT\|FIAT]]**, dobbiamo ricordare che non è neutrale. Ogni euro o dollaro che circola può finire a finanziare guerre, armi e decisioni prese da governi che non abbiamo autorizzato direttamente.  
+💶 Quando usiamo la **moneta [[Ortix/Filosofia/🌍 FIAT\|FIAT]]**, dobbiamo ricordare che non è neutrale. Ogni euro o dollaro che circola può finire a finanziare guerre, armi e decisioni prese da governi che non abbiamo autorizzato direttamente.  
 
 ⚡ Ecco perché [[Bitcoin/Bitcoin\|Bitcoin]] è diverso: è il tuo **sciopero quotidiano**.  
 Non serve aspettare un corteo o una data simbolica: ogni volta che scegli Bitcoin, ti rifiuti di sostenere un sistema che vive di debito, [[Bitcoin/Economia/📉 Inflazione\|📉 Inflazione]] e spese imposte.  

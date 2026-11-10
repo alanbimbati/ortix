@@ -49,7 +49,7 @@ Con [[Ortix/Storage/🔄 Syncthing\|🔄 Syncthing]] puoi creare un cloud person
 - ✅ Gratis  
 - ✅ Offline o in LAN  
 - ✅ Nessun account  
-- ✅ Più spazio: basta una [[MicroSD\|MicroSD]]  
+- ✅ Più spazio: basta una MicroSD  
 - ✅ Nessuna azienda tra te e i tuoi file
 
  [[Ortix/Storage/🛡️ Backup sovrano con 3 dispositivi e Syncthing\|🛡️ Backup sovrano con 3 dispositivi e Syncthing]] 

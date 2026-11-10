@@ -37,4 +37,4 @@ Satoshi ha imparato dal fallimento di DigiCash:
 
 Bitcoin ha sacrificato un po' di privacy (ledger pubblico) per ottenere la **decentralizzazione totale** e l'incensurabilità.
 
-🔗 _Approfondisci con [[Bitcoin/Satoshi Nakamoto\|Satoshi Nakamoto]], [[Bitcoin/Storia/Precursori/Bit Gold\|Bit Gold]], [[Bitcoin/Storia/Precursori/B-Money\|B-Money]], [[Decentralizzazione\|Decentralizzazione]]_
+🔗 _Approfondisci con [[Bitcoin/Satoshi Nakamoto\|Satoshi Nakamoto]], [[Bitcoin/Storia/Precursori/Bit Gold\|Bit Gold]], [[Bitcoin/Storia/Precursori/B-Money\|B-Money]], [[Bitcoin/Filosofia/🕸️ Decentralizzazione\|Decentralizzazione]]_

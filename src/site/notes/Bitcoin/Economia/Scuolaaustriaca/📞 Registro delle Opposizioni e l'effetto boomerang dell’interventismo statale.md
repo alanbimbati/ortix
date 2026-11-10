@@ -32,7 +32,7 @@ Questa è una forma di **perverse incentives**, in cui le regole creano **incent
 
 ## 🛡️ La vera alternativa? Sovranità personale
 
-La [[Scuola Austriaca\|Scuola Austriaca]], da [[Bitcoin/Economia/Scuolaaustriaca/Ludwig von Mises\|Ludwig von Mises]] a [[Bitcoin/Economia/Scuolaaustriaca/Murray Rothbard\|Murray Rothbard]], ha sempre sostenuto che:
+La [[Bitcoin/Economia/Scuolaaustriaca/💰L'Economia Austriaca Dietro Bitcoin\|Scuola Austriaca]], da [[Bitcoin/Economia/Scuolaaustriaca/Ludwig von Mises\|Ludwig von Mises]] a [[Bitcoin/Economia/Scuolaaustriaca/Murray Rothbard\|Murray Rothbard]], ha sempre sostenuto che:
 > "Solo le scelte individuali in un contesto libero possono produrre ordine e progresso."
 
 In pratica:

@@ -11,7 +11,7 @@
 
 ## 🛡️ Cos'è GrapheneOS?
 
-GrapheneOS è un **sistema operativo mobile** basato su [[Android AOSP\|Android AOSP]], progettato per **massimizzare sicurezza e privacy**, **senza Google**.
+GrapheneOS è un **sistema operativo mobile** basato su Android AOSP, progettato per **massimizzare sicurezza e privacy**, **senza Google**.
 
 📱 Supporta ufficialmente solo i **Google Pixel**… ma non farti ingannare:  
 una volta installato, **Google sparisce del tutto**. Niente Play Services, niente tracciamenti.
@@ -51,7 +51,7 @@ Quindi, per **massima sicurezza verificabile**, GrapheneOS **sceglie i Pixel**: 
 - Nessuna **backdoor statale o aziendale**
 - Tutto è **open source**, verificabile, replicabile
 
-👉 È il sistema consigliato anche da Edward Snowden, e viene spesso affiancato a pratiche come usare un [[Bitcoin/Definizioni/Blockchain/Full Node\|Full Node]], [[Ortix/Navigazione/Web/Tor\|Tor]] e [[Signal\|Signal]].
+👉 È il sistema consigliato anche da Edward Snowden, e viene spesso affiancato a pratiche come usare un [[Bitcoin/Definizioni/Blockchain/Full Node\|Full Node]], [[Ortix/Navigazione/Web/Tor\|Tor]] e Signal.
 
 ---
 
@@ -74,7 +74,7 @@ L'installazione è guidata via web: **nessuna riga di comando** necessaria.
 
 Con GrapheneOS puoi:
 
-- Usare app [[FOSS\|FOSS]] da [[Ortix/AppStore/📦 F-Droid\|📦 F-Droid]] o simili
+- Usare app FOSS da [[Ortix/AppStore/📦 F-Droid\|📦 F-Droid]] o simili
 - Isolare app Google in una sandbox, se proprio servono
 - Vivere senza pubblicità, tracking e bloatware
 

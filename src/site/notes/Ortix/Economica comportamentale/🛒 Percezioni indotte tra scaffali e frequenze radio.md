@@ -73,7 +73,7 @@ Per questo ho deciso, da tempo, di:
 Non per ignoranza, ma per **igiene mentale**. 
 [[Ortix/Filosofia/🌐 Apnea Digitale\|🌐 Apnea Digitale]]
 [[Ortix/Filosofia/🧘‍♀️ Detox Digitale\|🧘‍♀️ Detox Digitale]]
-[[Ortix/Filosofia/🥬 Dieta digitale\|🥬 Dieta digitale]]
+[[Ortix/Filosofia/🧘‍♀️ Detox Digitale\|🥬 Dieta digitale]]
 
 La vera sovranità oggi non è solo economica o digitale.  
 È **cognitiva**.

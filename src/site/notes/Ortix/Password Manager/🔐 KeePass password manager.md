@@ -83,7 +83,7 @@ Con KeePass:
 - [[Ortix/Storage/🛡️ Backup sovrano con 3 dispositivi e Syncthing\|🛡️ Backup sovrano con 3 dispositivi e Syncthing]]  
 - [[Ortix/Storage/🔄 Syncthing\|🔄 Syncthing]]
 - [[Ortix/Filosofia/🛡️ Sovranità digitale\|🛡️ Sovranità digitale]]
-- [[Self-hosting con Raspberry Pi\|Self-hosting con Raspberry Pi]]
+- Self-hosting con Raspberry Pi
 
 ---
 
