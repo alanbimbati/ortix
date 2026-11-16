@@ -22,6 +22,8 @@ Versioni disponibili:
 
 🔷 È uno dei pochi hardware wallet a offrire una versione **Bitcoin-only dedicata**.
 
+⚠️ I prezzi sono indicativi e risalgono a dicembre 2025, la data di questa nota. Cambiano spesso: prima di comprare, controllali sul [sito ufficiale](https://bitbox.swiss).
+
 ---
 
 ## 📱 Caratteristiche
@@ -34,7 +36,7 @@ Versioni disponibili:
 - **Secure Element** → chip certificato EAL6+ (massima sicurezza)
 - **Touch sensor gestures** → scorri per navigare, tap per confermare
 - **Backup su microSD** → opzionale, cifrato
-- **Made in Switzerland** → prodotto in Svizzera, privacy garantita
+- **Made in Switzerland** → progettato da un'azienda svizzera. La privacy però non dipende dal Paese ma da ciò che puoi verificare: nessun account, supporto Tor, codice aperto
 - **BitBoxApp** → software pulito, intuitivo, open source
 - **Supporto Tor** → privacy integrata nell'app
 
@@ -42,7 +44,7 @@ Versioni disponibili:
 
 - **Non airgapped** → si collega via USB-C
 - **Display piccolo** → schermo OLED minimale (ma sufficiente)
-- **Prezzo medio-alto** → ~140€ (non economico ma giustificato)
+- **Prezzo medio-alto** → ~140€ a dicembre 2025 (non economico ma giustificato)
 - **Community più piccola** → meno popolare di Ledger/Trezor
 
 ---
@@ -61,6 +63,19 @@ Versioni disponibili:
 
 ---
 
+## 🧪 Prima di caricarlo: testa il recovery
+
+Un backup mai provato è solo una speranza. Prima di spostare somme importanti sul BitBox02:
+
+1. Scrivi le 24 parole a mano, su carta e poi su acciaio (vedi [🪨 Steelwallet](https://ortix.vercel.app/bitcoin/wallet/steelwallet/)).
+2. Ricevi una piccola somma di prova e annota il primo indirizzo.
+3. Resetta il dispositivo e ripristinalo dalle 24 parole.
+4. ✅ Controlla che gli indirizzi coincidano e che il saldo ci sia.
+
+Il backup su microSD è comodo, ma resta un supporto elettronico: non sostituisce le parole su carta o acciaio. Le altre buone pratiche di backup e verifica sono nella nota [Hardware Wallet](https://ortix.vercel.app/bitcoin/wallet/hardware-wallet/hardware-wallet/).
+
+---
+
 ## 🇨🇭 Il Vantaggio Svizzero
 
 BitBox02 è progettato e prodotto in **Svizzera**, paese con:
@@ -68,7 +83,12 @@ BitBox02 è progettato e prodotto in **Svizzera**, paese con:
 - **Leggi favorevoli alla crittografia**
 - **Alta qualità manifatturiera**
 
-🔐 Shift Crypto non raccoglie dati personali, non ha server centrali per account, **massima privacy.**
+🔐 La sede svizzera è un contesto, non una garanzia: le leggi cambiano e un'azienda può essere obbligata a collaborare. Contano le cose che puoi verificare tu:
+- **nessun account** richiesto per usare BitBoxApp
+- **supporto Tor** per non esporre il tuo IP
+- **firmware e app open source**, leggibili da chiunque
+
+⚠️ L'acquisto online lascia comunque nome e indirizzo di spedizione. Don't trust, verify: la privacy la costruisci tu, anche collegando l'app a un tuo nodo quando puoi.
 
 ---
 
@@ -96,7 +116,7 @@ BitBox02 Bitcoin-only è un **gioiello nascosto**.
 
 ⚙️ L'interfaccia è **semplice senza essere semplicistica**: fa tutto ciò che serve, senza fronzoli inutili.
 
-🇨🇭 Il fatto che sia **prodotto in Svizzera** è un plus enorme per la privacy.
+🇨🇭 La produzione svizzera fa ben sperare sulla qualità. La privacy però la danno i fatti verificabili: niente account, Tor e codice aperto.
 
 💡 Se cerchi un wallet **elegante, sicuro, open source e Bitcoin-focused**, BitBox02 è una scelta eccellente.
 
